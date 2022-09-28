@@ -1,0 +1,25 @@
+name: hackernews-daily
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 7 * * *"
+
+jobs:
+  fetch-top-posts:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - name: npm install
+      run: npm install --only=prod
+      working-directory: .
+    - name: fetch
+      run: node index.js
+      working-directory: .
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        

@@ -1,0 +1,27 @@
+{
+  "name": "hackernews-daily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meixger/hackernews-daily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meixger/hackernews-daily/issues"
+  },
+  "homepage": "https://github.com/meixger/hackernews-daily#readme",
+  "dependencies": {
+    "@octokit/auth-action": "^2.0.1",
+    "@octokit/auth-app": "^4.0.5",
+    "@octokit/core": "^4.0.5",
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.5",
+    "timeago.js": "^4.0.2"
+  }
+}
