@@ -12,10 +12,12 @@ const getHeadlines = async (date, take) => {
         const contents = headlines
             .map((obj, i) => {
                 let { title, url, points, objectID, num_comments } = obj;
-                if (!url) url = `https://news.ycombinator.com/item?id=${objectID}`;
-                const domain = url ? `<code>${new URL(url).hostname}</code> ` : '';
-                const commentsAndPoints = `<code>[${num_comments} comments ${points} points](https://news.ycombinator.com/item?id=${objectID})</code>`;
-                return `${i + 1}. **[${title}](${url})** ${domain} ${commentsAndPoints}`;
+                const ycombinatorUrl = `https://news.ycombinator.com/item?id=${objectID}`;
+                if (!url) url = ycombinatorUrl;
+                const domain = url ? `<code>${new URL(url).hostname}</code>` : '';
+                const titleAndDomain = `[**${title}** ${domain}](${url})`;
+                const commentsAndPoints = `[${num_comments} comments ${points} points](${ycombinatorUrl})`;
+                return `${i + 1}. ${titleAndDomain} - ${commentsAndPoints}`;
             })
             .join(EOL);
 
