@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/meixger/hackernews-daily#readme",
   "dependencies": {
-    "@octokit/auth-action": "^2.0.1",
-    "@octokit/auth-app": "^4.0.5",
-    "@octokit/core": "^4.0.5",
-    "axios": "^0.27.2",
-    "dayjs": "^1.11.5",
+    "@octokit/auth-action": "^2.0.2",
+    "@octokit/auth-app": "^4.0.7",
+    "@octokit/core": "^4.1.0",
+    "axios": "^1.2.0",
+    "dayjs": "^1.11.6",
     "timeago.js": "^4.0.2"
   }
 }
