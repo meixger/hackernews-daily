@@ -1,3 +1,4 @@
+const core = require('@actions/core');
 const getHeadlines = require('./utils/getHeadlines');
 const issue = require('./utils/issue');
 const takeHeadlines = 30;
@@ -5,7 +6,11 @@ const takeHeadlines = 30;
 // run every day at 00:01 UTC
 const run = async (date) => {
     const contents = await getHeadlines(date, takeHeadlines);
-    console.log(contents)
+    if (!contents) {
+        core.warning("no content - skip issue creation")
+        return;
+    }
+    core.info(contents);
     const res = await issue.open({
         owner: 'meixger',
         repo: 'hackernews-daily',
