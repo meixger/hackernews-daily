@@ -1,8 +1,8 @@
-const core = require('@actions/core');
-const axios = require('axios');
-const { EOL } = require('os');
-const { exit } = require('process');
-const { Z_NO_COMPRESSION } = require('zlib');
+import core from "@actions/core";
+import axios from "axios";
+import { EOL } from "os";
+import { exit } from "process";
+// import { Z_NO_COMPRESSION } from "zlib";
 
 function githubReplaceRenovatebotRedirector(value) {
     // avoid creating a GitHub issue reference by using renovatebot redirector
@@ -10,7 +10,7 @@ function githubReplaceRenovatebotRedirector(value) {
     return value.replace(/https?:\/\/(www\.)?github.com\//g, 'https://togithub.com/');
 }
 
-const getHeadlines = async (date, take) => {
+export const getHeadlines = async (date, take) => {
     try {
         // end of the date
         const endTime = Math.round(new Date(date).getTime() / 1000);
@@ -55,5 +55,3 @@ const getHeadlines = async (date, take) => {
     }
 
 }
-
-module.exports = getHeadlines;

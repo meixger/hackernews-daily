@@ -1,6 +1,6 @@
-const core = require('@actions/core');
-const getHeadlines = require('./utils/getHeadlines');
-const issue = require('./utils/issue');
+import * as core from '@actions/core';
+import { getHeadlines } from './utils/getHeadlines.js';
+import { openIssue } from './utils/issue.js';
 const takeHeadlines = 30;
 
 // run every day at 00:01 UTC
@@ -11,7 +11,7 @@ const run = async (date) => {
         return;
     }
     core.info(contents);
-    const res = await issue.open({
+    const res = await openIssue({
         owner: 'meixger',
         repo: 'hackernews-daily',
         title: `Hacker News Daily Top ${takeHeadlines} @${new Date(date).toISOString().slice(0, 10)}`,

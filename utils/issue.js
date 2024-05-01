@@ -1,13 +1,11 @@
-const { Octokit } = require("@octokit/core");
-// const { createAppAuth } = require("@octokit/auth-app");
-const { createActionAuth } = require("@octokit/auth-action");
+import { Octokit } from "@octokit/core";
+import { createActionAuth } from "@octokit/auth-action";
 
-const octokit = new Octokit({
-  authStrategy: createActionAuth
-});
-
-const open = async ({owner, repo, title, body}) => {
-  try {    
+export const openIssue = async ({ owner, repo, title, body }) => {
+  const octokit = new Octokit({
+    authStrategy: createActionAuth
+  });
+  try {
     console.log('opening issue');
     const res = await octokit.request('POST /repos/{owner}/{repo}/issues', {
       owner,
@@ -23,6 +21,17 @@ const open = async ({owner, repo, title, body}) => {
   }
 }
 
+export const GetIssues = async ({ owner, repo }) => {
+  const octokit = new Octokit();
+  console.log('getting issue');
+  const res = await octokit.request('GET /repos/{owner}/{repo}/issues', {
+    owner,
+    repo,
+    per_page: 1
+  });
+  console.log('got issue', res);
+}
+
 // const lock = async ({owner, repo, issueNumber}) => {
 //   console.log('locking issue');
 //   await octokit.request('PUT /repos/{owner}/{repo}/issues/{issue_number}/lock', {
@@ -33,11 +42,6 @@ const open = async ({owner, repo, title, body}) => {
 //   });
 //   console.log('locked');
 // }
-
-module.exports = {
-  open,
-//   lock,
-}
 
 // lock({
 //   owner: 'headllines',
