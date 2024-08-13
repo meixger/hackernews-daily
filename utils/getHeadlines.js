@@ -1,5 +1,4 @@
 import core from "@actions/core";
-import axios from "axios";
 import { EOL } from "os";
 import { exit } from "process";
 // import { Z_NO_COMPRESSION } from "zlib";
@@ -18,23 +17,23 @@ export const getHeadlines = async (date, take) => {
         const startTime = endTime - (25 * 60 * 60);
         core.notice(`date range from ${new Date(startTime * 1000)} to ${new Date(endTime * 1000)}`);
         const url = `https://hn.algolia.com/api/v1/search?hitsPerPage=${take}&numericFilters=created_at_i>${startTime},created_at_i<${endTime}`;
-        let res;
+        let data;
         try {
-            res = await axios.get(url)
+            data = await fetch(url).then(res => res.json());
         } catch (error) {
             core.info(url);
             core.error(`request failed: ${error.message}`);
             exit(1);
         }
 
-        const count = res.data?.hits?.length;
+        const count = data?.hits?.length;
         if (!(count > 0)) {
             core.info(url);
             core.error('no results from api');
             exit(1);
         }
 
-        const headlines = res.data.hits.slice(0, take);
+        const headlines = data.hits.slice(0, take);
         const contents = headlines
             .map((obj, i) => {
                 let { title, url, points, objectID, num_comments } = obj;
