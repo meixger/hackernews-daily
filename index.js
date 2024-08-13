@@ -11,6 +11,9 @@ const run = async (date) => {
         return;
     }
     core.info(contents);
+
+    if (process.env.BRANCH_NAME !== 'main') return;
+
     const res = await openIssue({
         owner: 'meixger',
         repo: 'hackernews-daily',

@@ -5,6 +5,9 @@ on:
   schedule:
   - cron: "0 6 * * *"
 
+env:
+ BRANCH_NAME: ${{ github.head_ref || github.ref_name }} 
+
 jobs:
   fetch-top-posts:
     runs-on: ubuntu-latest
