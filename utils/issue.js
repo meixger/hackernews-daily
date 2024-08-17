@@ -21,15 +21,15 @@ export const openIssue = async ({ owner, repo, title, body }) => {
   }
 }
 
-export const GetIssues = async ({ owner, repo }) => {
+export const getIssues = async ({ owner, repo, take }) => {
   const octokit = new Octokit();
-  console.log('getting issue');
   const res = await octokit.request('GET /repos/{owner}/{repo}/issues', {
     owner,
     repo,
-    per_page: 1
+    per_page: take
   });
-  console.log('got issue', res);
+  const issues = res.data;
+  return issues
 }
 
 // const lock = async ({owner, repo, issueNumber}) => {
@@ -42,9 +42,3 @@ export const GetIssues = async ({ owner, repo }) => {
 //   });
 //   console.log('locked');
 // }
-
-// lock({
-//   owner: 'headllines',
-//   repo: 'hackernews-daily',
-//   issueNumber: 39,
-// });

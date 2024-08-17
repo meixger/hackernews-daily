@@ -1,7 +1,6 @@
 import core from "@actions/core";
 import { EOL } from "os";
 import { exit } from "process";
-// import { Z_NO_COMPRESSION } from "zlib";
 
 function githubReplaceRenovatebotRedirector(value) {
     // avoid creating a GitHub issue reference by using renovatebot redirector
@@ -12,7 +11,7 @@ function githubReplaceRenovatebotRedirector(value) {
 export const getHeadlines = async (date, take) => {
     try {
         // end of the date
-        const endTime = Math.round(new Date(date).getTime() / 1000);
+        const endTime = Math.round(date.getTime() / 1000);
         // 1 hour before start of the date (save missed posts)
         const startTime = endTime - (25 * 60 * 60);
         core.notice(`date range from ${new Date(startTime * 1000)} to ${new Date(endTime * 1000)}`);

@@ -25,4 +25,12 @@ jobs:
       working-directory: .
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: commit
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "feed: update"
+        git push
+
         

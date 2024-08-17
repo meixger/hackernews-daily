@@ -4,9 +4,6 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "node ./tests/test.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/meixger/hackernews-daily.git"
@@ -23,6 +20,8 @@
     "@octokit/auth-app": "^7.1.0",
     "@octokit/core": "^6.1.2",
     "dayjs": "^1.11.12",
+    "feed": "^4.2.2",
+    "showdown": "^2.1.0",
     "timeago.js": "^4.0.2"
   }
 }
