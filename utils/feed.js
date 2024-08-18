@@ -2,7 +2,7 @@ import * as core from '@actions/core';
 import * as fs from 'fs';
 import { Feed } from "feed";
 import { getIssues } from "../utils/issue.js";
-import showdown from 'showdown'
+import { marked } from "marked";
 
 export const updateFeed = async () => {
   const issues = await getIssues({
@@ -33,14 +33,13 @@ export const updateFeed = async () => {
     // }
   });
 
-  const converter = new showdown.Converter();
   issues.forEach(i => {
     feed.addItem({
       title: i.title,
       id: i.number.toString(),
       link: i.html_url,
       // description: post.description,
-      content: converter.makeHtml(i.body),
+      content: marked.parse(i.body),
       // author: [
       //   {
       //     name: "Jane Doe",

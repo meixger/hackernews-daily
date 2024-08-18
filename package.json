@@ -21,7 +21,7 @@
     "@octokit/core": "^6.1.2",
     "dayjs": "^1.11.12",
     "feed": "^4.2.2",
-    "showdown": "^2.1.0",
+    "marked": "^14.0.0",
     "timeago.js": "^4.0.2"
   }
 }
