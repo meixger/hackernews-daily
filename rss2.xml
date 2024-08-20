@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 19 Aug 2024 06:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 06:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-08-20]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/704</link>
+            <guid>704</guid>
+            <pubDate>Tue, 20 Aug 2024 06:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://togithub.com/wasi-master/13ft"><strong>13ft – A site similar to 12ft.io but self-hosted</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41294067">168 comments 395 points</a></li>
+<li><a href="https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/"><strong>The gigantic and unregulated power plants in the cloud</strong> <code>berthub.eu</code></a> - <a href="https://news.ycombinator.com/item?id=41292018">172 comments 352 points</a></li>
+<li><a href="https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html"><strong>Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)</strong> <code>blog.reverberate.org</code></a> - <a href="https://news.ycombinator.com/item?id=41289114">142 comments 339 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=41291219"><strong>Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41291219">125 comments 291 points</a></li>
+<li><a href="https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html"><strong>Classifying all of the pdfs on the internet</strong> <code>snats.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=41290409">99 comments 270 points</a></li>
+<li><a href="https://netboot.xyz/"><strong>Netboot.xyz: your favorite operating systems in one place</strong> <code>netboot.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=41293850">45 comments 224 points</a></li>
+<li><a href="http://www.righto.com/2024/08/minuteman-guidance-computer.html"><strong>The guidance system and computer of the Minuteman III nuclear missile</strong> <code>www.righto.com</code></a> - <a href="https://news.ycombinator.com/item?id=41293767">99 comments 154 points</a></li>
+<li><a href="https://sociologicalscience.com/articles-v11-20-553/"><strong>Homebound: The Long-Term Rise in Time Spent at Home Among U.S. Adults</strong> <code>sociologicalscience.com</code></a> - <a href="https://news.ycombinator.com/item?id=41292827">177 comments 145 points</a></li>
+<li><a href="https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating"><strong>AI companies are pivoting from creating gods to building products</strong> <code>www.aisnakeoil.com</code></a> - <a href="https://news.ycombinator.com/item?id=41294764">147 comments 113 points</a></li>
+<li><a href="http://ascii.textfiles.com/archives/5672"><strong>The Dying Computer Museum</strong> <code>ascii.textfiles.com</code></a> - <a href="https://news.ycombinator.com/item?id=41288051">21 comments 112 points</a></li>
+<li><a href="https://thingswemake.com/bit-banging-a-basic-birthday/"><strong>Bit-banging a BASIC Birthday</strong> <code>thingswemake.com</code></a> - <a href="https://news.ycombinator.com/item?id=41290237">15 comments 112 points</a></li>
+<li><a href="https://andadinosaur.com/launch-imgpls"><strong>Imgpls – An extension to load Imgur images directly</strong> <code>andadinosaur.com</code></a> - <a href="https://news.ycombinator.com/item?id=41293381">44 comments 108 points</a></li>
+<li><a href="https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/"><strong>Migrating Mess with DNS to Use PowerDNS</strong> <code>jvns.ca</code></a> - <a href="https://news.ycombinator.com/item?id=41292784">26 comments 106 points</a></li>
+<li><a href="https://www.instructables.com/Lenticular-Clock/"><strong>Lenticular Clock</strong> <code>www.instructables.com</code></a> - <a href="https://news.ycombinator.com/item?id=41293929">22 comments 106 points</a></li>
+<li><a href="https://research.google/blog/transformers-in-music-recommendation/"><strong>Music recommendation system using transformer models</strong> <code>research.google</code></a> - <a href="https://news.ycombinator.com/item?id=41293901">43 comments 101 points</a></li>
+<li><a href="https://www.techdirt.com/2024/08/19/court-sees-through-californias-protect-the-children-ruse-strikes-down-kids-code/"><strong>Appeals court finds California’s “Age Appropriate Design Code” unconstitutional</strong> <code>www.techdirt.com</code></a> - <a href="https://news.ycombinator.com/item?id=41294354">55 comments 100 points</a></li>
+<li><a href="https://arjunbansal.substack.com/p/llms-know-more-than-what-they-say"><strong>LLMs know more than what they say</strong> <code>arjunbansal.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41292633">12 comments 95 points</a></li>
+<li><a href="https://phys.org/news/2024-08-rare-species-area-years-arizona.html"><strong>&#39;Rare species&#39; not seen in the area for 50 years spotted on Arizona trail camera</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=41294202">23 comments 92 points</a></li>
+<li><a href="https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives"><strong>Procreate&#39;s anti-AI pledge attracts praise from digital creatives</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=41295957">40 comments 86 points</a></li>
+<li><a href="https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype"><strong>Artificial intelligence is losing hype</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=41295923">95 comments 84 points</a></li>
+<li><a href="https://ollama.com/blog/tool-support"><strong>Ollama now supports tool calling with popular models in local LLM</strong> <code>ollama.com</code></a> - <a href="https://news.ycombinator.com/item?id=41291425">24 comments 79 points</a></li>
+<li><a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html"><strong>On the cruelty of really teaching computing science (1988)</strong> <code>www.cs.utexas.edu</code></a> - <a href="https://news.ycombinator.com/item?id=41295433">44 comments 78 points</a></li>
+<li><a href="https://cardinal.kx.studio/"><strong>Cardinal – Virtual modular synthesizer plugin</strong> <code>cardinal.kx.studio</code></a> - <a href="https://news.ycombinator.com/item?id=41294332">21 comments 77 points</a></li>
+<li><a href="https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/"><strong>$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=41296421">33 comments 75 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=41292674"><strong>Ask HN: How do you work as a tech lead?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41292674">51 comments 72 points</a></li>
+<li><a href="https://www.epicgames.com/site/en-US/news/the-epic-games-store-launches-on-mobile"><strong>The Epic Games Store Launches on iOS and Android</strong> <code>www.epicgames.com</code></a> - <a href="https://news.ycombinator.com/item?id=41289557">48 comments 66 points</a></li>
+<li><a href="https://ably.com/blog/optimizing-global-message-transit-latency-a-journey-through-tcp-configuration"><strong>Optimizing global message transit latency: a journey through TCP configuration</strong> <code>ably.com</code></a> - <a href="https://news.ycombinator.com/item?id=41291470">13 comments 65 points</a></li>
+<li><a href="https://noahkagan.com/what-i-learned-working-for-mark-zuckerberg/"><strong>What I Learned Working for Mark Zuckerberg</strong> <code>noahkagan.com</code></a> - <a href="https://news.ycombinator.com/item?id=41295519">88 comments 64 points</a></li>
+<li><a href="https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation"><strong>The bizarre siege behind Stockholm Syndrome</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=41290890">41 comments 63 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=41289087"><strong>Ask HN: Determine sound quality of a file, objectively?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41289087">43 comments 61 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-08-19]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/703</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://news.ycombinator.com/item?id=41027265"><strong>Ask HN: What resources do you recommend for learning Haskell?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41027265">54 comments 73 points</a></li>
 <li><a href="https://www.robkhenderson.com/p/friendship-and-social-fitness"><strong>Friendship and Social Fitness</strong> <code>www.robkhenderson.com</code></a> - <a href="https://news.ycombinator.com/item?id=41026594">20 comments 71 points</a></li>
 <li><a href="https://fakemail.stream"><strong>Show HN: A fake SMTP server for software integration testing</strong> <code>fakemail.stream</code></a> - <a href="https://news.ycombinator.com/item?id=41024358">29 comments 67 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-07-21]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/673</link>
-            <guid>673</guid>
-            <pubDate>Sun, 21 Jul 2024 06:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.kibty.town/blog/a16z/"><strong>Researcher finds flaw in a16z website that exposed some company data</strong> <code>www.kibty.town</code></a> - <a href="https://news.ycombinator.com/item?id=41016768">197 comments 522 points</a></li>
-<li><a href="https://togithub.com/typst/typst"><strong>Typst: An easy to learn alternative for LaTex</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41014941">128 comments 482 points</a></li>
-<li><a href="https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html"><strong>10% of Cubans left Cuba between 2022 and 2023</strong> <code>www.miamiherald.com</code></a> - <a href="https://news.ycombinator.com/item?id=41016441">601 comments 309 points</a></li>
-<li><a href="https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/"><strong>CrowdStrike broke Debian and Rocky Linux months ago</strong> <code>www.neowin.net</code></a> - <a href="https://news.ycombinator.com/item?id=41018029">130 comments 263 points</a></li>
-<li><a href="https://syscalls.mebeim.net/?table=x86/64/x64/latest"><strong>A Linux kernel syscall implementation tracker</strong> <code>syscalls.mebeim.net</code></a> - <a href="https://news.ycombinator.com/item?id=41018135">43 comments 255 points</a></li>
-<li><a href="https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html"><strong>CrowdStrike debacle provides road map of American vulnerabilities to adversaries</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=41017077">342 comments 250 points</a></li>
-<li><a href="https://nouptime.com/"><strong>No Uptime Hosting (2006)</strong> <code>nouptime.com</code></a> - <a href="https://news.ycombinator.com/item?id=41016290">71 comments 245 points</a></li>
-<li><a href="https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe"><strong>Public toilets are vanishing and that&#39;s a civic catastrophe</strong> <code>psyche.co</code></a> - <a href="https://news.ycombinator.com/item?id=41015731">268 comments 212 points</a></li>
-<li><a href="https://computer.rip/2024-07-20-minuteman-missile-communications.html"><strong>Minuteman missile communications</strong> <code>computer.rip</code></a> - <a href="https://news.ycombinator.com/item?id=41019604">25 comments 209 points</a></li>
-<li><a href="https://twitter.com/patrickwardle/status/1814343502886477857"><strong>Initial details about why CrowdStrike&#39;s CSAgent.sys crashed</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41021366">155 comments 195 points</a></li>
-<li><a href="https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/"><strong>Empathy for the user having sex with your software</strong> <code>docs.buttplug.io</code></a> - <a href="https://news.ycombinator.com/item?id=41021029">40 comments 191 points</a></li>
-<li><a href="https://matheducators.stackexchange.com/questions/27964/how-to-choose-a-textbook-that-is-pedagogically-optimal-for-oneself"><strong>How to choose a textbook that is optimal for oneself?</strong> <code>matheducators.stackexchange.com</code></a> - <a href="https://news.ycombinator.com/item?id=41016650">93 comments 188 points</a></li>
-<li><a href="https://togithub.com/Vexu/arocc"><strong>Aro – Zig&#39;s new C compiler</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41015588">77 comments 157 points</a></li>
-<li><a href="https://www.theguardian.com/technology/article/2024/jul/20/cash-global-it-outage-cashless-society-dangers-payment-choice-alliance"><strong>Global IT outage shows dangers of cashless society, campaigners say</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41018726">112 comments 146 points</a></li>
-<li><a href="https://www.kiro7.com/news/local/siblings-miss-crucial-life-extending-treatment-seattle-childrens-because-crowdstrike-outage/Y5EMEXGGQJE7PHDEAEKCWG6U4M/"><strong>Siblings miss crucial life-extending treatment because of CrowdStrike outage</strong> <code>www.kiro7.com</code></a> - <a href="https://news.ycombinator.com/item?id=41016987">149 comments 135 points</a></li>
-<li><a href="https://pldb.io/blog/JohnOusterhout.html"><strong>A brief interview with Tcl creator John Ousterhout (2023)</strong> <code>pldb.io</code></a> - <a href="https://news.ycombinator.com/item?id=41017367">56 comments 135 points</a></li>
-<li><a href="http://www.os2museum.com/wp/1989-networking-netware-386/"><strong>1989 Networking: NetWare 386</strong> <code>www.os2museum.com</code></a> - <a href="https://news.ycombinator.com/item?id=41016104">52 comments 119 points</a></li>
-<li><a href="https://spectrum.ieee.org/robot-dog-vacuum"><strong>Robot dog cleans up beaches with foot-mounted vacuums</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=41015945">88 comments 110 points</a></li>
-<li><a href="https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga"><strong>Google Distributed Cloud air-gapped appliance</strong> <code>cloud.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=41019777">69 comments 106 points</a></li>
-<li><a href="https://semiengineering.com/intel-vs-samsung-vs-tsmc/"><strong>Intel vs. Samsung vs. TSMC</strong> <code>semiengineering.com</code></a> - <a href="https://news.ycombinator.com/item?id=41019561">12 comments 97 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41016373"><strong>Ask HN: Can anyone from Crowdstrike explain the back story?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41016373">135 comments 94 points</a></li>
-<li><a href="https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B"><strong>Human parasites in the Roman World: health consequences of conquering an empire</strong> <code>www.cambridge.org</code></a> - <a href="https://news.ycombinator.com/item?id=41017286">32 comments 86 points</a></li>
-<li><a href="https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/"><strong>Microsoft says 8.5M Windows devices were affected by CrowdStrike outage</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=41020655">113 comments 78 points</a></li>
-<li><a href="https://lapcatsoftware.com/articles/2024/7/1.html"><strong>Deluge of Fake Mac App Store Reviews</strong> <code>lapcatsoftware.com</code></a> - <a href="https://news.ycombinator.com/item?id=41021472">15 comments 78 points</a></li>
-<li><a href="https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken"><strong>&#39;Google says I&#39;m a dead physicist&#39;: is the biggest search engine broken?</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41020638">56 comments 74 points</a></li>
-<li><a href="https://x.com/"><strong>X.com refuses to open with Firefox strict tracking protection enabled</strong> <code>x.com</code></a> - <a href="https://news.ycombinator.com/item?id=41022408">60 comments 73 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41014806"><strong>Ask HN: What is the best way to author blogs in 2024?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41014806">72 comments 65 points</a></li>
-<li><a href="https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/"><strong>Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V</strong> <code>wccftech.com</code></a> - <a href="https://news.ycombinator.com/item?id=41019091">33 comments 63 points</a></li>
-<li><a href="https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/"><strong>Managing Classic Mac OS Resources in ResEdit</strong> <code>eclecticlight.co</code></a> - <a href="https://news.ycombinator.com/item?id=41019829">25 comments 62 points</a></li>
-<li><a href="https://www.androidauthority.com/google-apps-play-store-3462390/"><strong>Google set to purge the Play Store of low-quality apps</strong> <code>www.androidauthority.com</code></a> - <a href="https://news.ycombinator.com/item?id=41018292">59 comments 61 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
