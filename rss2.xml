@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 20 Aug 2024 06:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 06:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-08-21]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/705</link>
+            <guid>705</guid>
+            <pubDate>Wed, 21 Aug 2024 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://maxschmitt.me/posts/toasts-bad-ux"><strong>Toasts are bad UX</strong> <code>maxschmitt.me</code></a> - <a href="https://news.ycombinator.com/item?id=41298794">314 comments 520 points</a></li>
+<li><a href="https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via"><strong>Data Exfiltration from Slack AI via indirect prompt injection</strong> <code>promptarmor.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41302597">114 comments 455 points</a></li>
+<li><a href="https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/"><strong>MIT leaders describe the experience of not renewing Elsevier contract</strong> <code>sparcopen.org</code></a> - <a href="https://news.ycombinator.com/item?id=41303159">136 comments 421 points</a></li>
+<li><a href="https://zarar.dev/anatomy-of-a-mental-breakdown/"><strong>The anatomy of a 2AM mental breakdown</strong> <code>zarar.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41300368">241 comments 390 points</a></li>
+<li><a href="https://zed.dev/blog/zed-ai"><strong>Zed AI</strong> <code>zed.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41302782">224 comments 336 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=gwf5mAlI7Ug"><strong>Basic Mechanisms In Fire Control Computers (1953) [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=41299211">106 comments 309 points</a></li>
+<li><a href="https://togithub.com/ankane/transformers-ruby"><strong>Transformers for Ruby</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41299148">37 comments 300 points</a></li>
+<li><a href="https://www.ft.com/content/56770a82-3c3f-4739-9895-e2f97b6202b4"><strong>US judge throws out FTC&#39;s ban on non-compete agreements</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41305591">255 comments 268 points</a></li>
+<li><a href="https://pragtical.dev/"><strong>Pragtical: Practical and pragmatic code editor</strong> <code>pragtical.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41297609">100 comments 239 points</a></li>
+<li><a href="https://openai.com/index/gpt-4o-fine-tuning/"><strong>Fine-tuning now available for GPT-4o</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=41301673">85 comments 203 points</a></li>
+<li><a href="https://digipres.club/@foone/112990331505043510"><strong>I picked up a shitty NUC from ewaste and it had a label on it for an AI company</strong> <code>digipres.club</code></a> - <a href="https://news.ycombinator.com/item?id=41298430">64 comments 197 points</a></li>
+<li><a href="https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/"><strong>The waiting time paradox: why is my bus always late? (2018)</strong> <code>jakevdp.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41300111">162 comments 184 points</a></li>
+<li><a href="https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall"><strong>Why are Texas interchanges so tall?</strong> <code>practical.engineering</code></a> - <a href="https://news.ycombinator.com/item?id=41302944">244 comments 171 points</a></li>
+<li><a href="https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php"><strong>The U.S. Navy&#39;s $100M checkbox (2019)</strong> <code>adrian3.com</code></a> - <a href="https://news.ycombinator.com/item?id=41297563">123 comments 169 points</a></li>
+<li><a href="https://www.economist.com/science-and-technology/2024/08/12/exposure-to-the-suns-uv-radiation-may-be-good-for-you"><strong>Exposure to the Sun&#39;s UV radiation may be good for you</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=41301447">166 comments 151 points</a></li>
+<li><a href="https://spectrum.ieee.org/compression-algorithms"><strong>Nasir Ahmed&#39;s digital-compression breakthrough helped make JPEGs/MPEGs possible</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=41300071">39 comments 151 points</a></li>
+<li><a href="https://www.zen-browser.app/"><strong>Zen, a Arc-like open-source browser based on the Firefox engine</strong> <code>www.zen-browser.app</code></a> - <a href="https://news.ycombinator.com/item?id=41303974">41 comments 138 points</a></li>
+<li><a href="https://www.reuters.com/legal/us-judge-strikes-down-biden-administration-ban-worker-noncompete-agreements-2024-08-20/"><strong>US Judge Strikes Down Ban on Worker &#39;Noncompete&#39; Agreements</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41304695">113 comments 123 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=obX2WdINsZo"><strong>The YouTube like button glows when you say &quot;smash that like button&quot; [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=41301572">110 comments 110 points</a></li>
+<li><a href="http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html"><strong>Making database systems usable</strong> <code>muratbuffalo.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=41302453">73 comments 97 points</a></li>
+<li><a href="https://astral.sh/blog/uv-unified-python-packaging"><strong>Uv 0.3 – Unified Python packaging</strong> <code>astral.sh</code></a> - <a href="https://news.ycombinator.com/item?id=41302475">36 comments 90 points</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1353829224001564"><strong>Higher ultraviolet light exposure is associated with lower mortality</strong> <code>www.sciencedirect.com</code></a> - <a href="https://news.ycombinator.com/item?id=41302103">42 comments 80 points</a></li>
+<li><a href="https://www.wired.com/story/conde-nast-openai-deal/"><strong>Condé Nast Signs Deal with OpenAI</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=41302493">56 comments 78 points</a></li>
+<li><a href="https://togithub.com/PlasmoHQ/plasmo"><strong>Plasmo – a framework for building modern Chrome extensions</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41304508">10 comments 76 points</a></li>
+<li><a href="https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles"><strong>Ares Industries – Building low-cost cruise missiles</strong> <code>www.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41305736">81 comments 75 points</a></li>
+<li><a href="https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html"><strong>What&#39;s the big deal about Deterministic Simulation Testing?</strong> <code>notes.eatonphil.com</code></a> - <a href="https://news.ycombinator.com/item?id=41298899">12 comments 73 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=41301448"><strong>Launch HN: MinusX (YC S24) – AI assistant for data tools like Jupyter/Metabase</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41301448">25 comments 72 points</a></li>
+<li><a href="https://www.theguardian.com/uk-news/article/2024/aug/19/mike-lynchs-co-defendant-in-us-trial-fatally-struck-by-car-while-jogging"><strong>Mike Lynch&#39;s co-defendant in fraud trial &#39;fatally struck&#39; by car while jogging</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41297709">78 comments 69 points</a></li>
+<li><a href="https://www.asomo.co/p/lego-capitalist-central-planning"><strong>A Lego Model of Capitalist Central Planning</strong> <code>www.asomo.co</code></a> - <a href="https://news.ycombinator.com/item?id=41298766">39 comments 68 points</a></li>
+<li><a href="https://www.thatgeoguy.ca/blog/2023/01/04/reflections-on-transducers/"><strong>Reflecting on transducers in Scheme (2023)</strong> <code>www.thatgeoguy.ca</code></a> - <a href="https://news.ycombinator.com/item?id=41302150">25 comments 68 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-08-20]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/704</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/"><strong>Microsoft: Linux Is the Top Operating System on Azure Today</strong> <code>thenewstack.io</code></a> - <a href="https://news.ycombinator.com/item?id=41037380">105 comments 118 points</a></li>
 <li><a href="https://brr.fyi/posts/brr-wants-a-job"><strong>Brr Wants a Job</strong> <code>brr.fyi</code></a> - <a href="https://news.ycombinator.com/item?id=41035281">26 comments 114 points</a></li>
 <li><a href="https://www.theatlantic.com/ideas/archive/2024/07/crowdstrike-failure-warning-solutions/679174/"><strong>The CrowdStrike Failure Was a Warning</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=41031219">122 comments 100 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-07-22]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/674</link>
-            <guid>674</guid>
-            <pubDate>Mon, 22 Jul 2024 06:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://twitter.com/JoeBiden/status/1815087772216303933"><strong>Joe Biden stands down as Democratic candidate</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41026741">1365 comments 843 points</a></li>
-<li><a href="https://dgerrells.com/blog/how-not-to-use-box-shadows"><strong>So you think you know box shadows?</strong> <code>dgerrells.com</code></a> - <a href="https://news.ycombinator.com/item?id=41024664">86 comments 576 points</a></li>
-<li><a href="https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral"><strong>What is the significance of the character &quot;j&quot; at the end of a Roman Numeral? (2013)</strong> <code>genealogy.stackexchange.com</code></a> - <a href="https://news.ycombinator.com/item?id=41022653">164 comments 427 points</a></li>
-<li><a href="https://rr-project.org/"><strong>rr – record and replay debugger for C/C++</strong> <code>rr-project.org</code></a> - <a href="https://news.ycombinator.com/item?id=41023547">120 comments 352 points</a></li>
-<li><a href="https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/"><strong>User returns after 100k-hours ban to continue conversation that got them banned</strong> <code>www.pcgamer.com</code></a> - <a href="https://news.ycombinator.com/item?id=41024633">130 comments 261 points</a></li>
-<li><a href="https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/"><strong>When ChatGPT summarises, it does nothing of the kind</strong> <code>ea.rna.nl</code></a> - <a href="https://news.ycombinator.com/item?id=41027658">151 comments 225 points</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/intel-says-13th-and-14th-gen-mobile-cpus-are-crashing-but-not-due-to-the-same-bug-as-desktop-chips-chipmaker-blames-common-software-and-hardware-issues"><strong>Intel says 13th and 14th Gen mobile CPUs are crashing</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=41026123">125 comments 219 points</a></li>
-<li><a href="https://twitter.com/leighhoneywell/status/1814278230704111792"><strong>&quot;Any sufficiently bad software update is indistinguishable from a cyberattack&quot;</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41023086">116 comments 174 points</a></li>
-<li><a href="https://without.boats/blog/pin/"><strong>Pin</strong> <code>without.boats</code></a> - <a href="https://news.ycombinator.com/item?id=41029287">24 comments 152 points</a></li>
-<li><a href="https://neuml.github.io/txtai/"><strong>txtai: Open-source vector search and RAG for minimalists</strong> <code>neuml.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41024362">24 comments 149 points</a></li>
-<li><a href="https://nitter.poast.org/GerardoMunck/status/1815059432382067053"><strong>James C. Scott, author of Seeing Like a State, has died</strong> <code>nitter.poast.org</code></a> - <a href="https://news.ycombinator.com/item?id=41028887">25 comments 145 points</a></li>
-<li><a href="https://glisp.app/commit:e7fbaae/"><strong>Glisp: Graphical Lisp</strong> <code>glisp.app</code></a> - <a href="https://news.ycombinator.com/item?id=41026214">9 comments 145 points</a></li>
-<li><a href="https://text.npr.org/g-s1-9028"><strong>Trench collapses have killed hundreds of workers in the US over the last decade</strong> <code>text.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=41024559">144 comments 126 points</a></li>
-<li><a href="https://togithub.com/commandprompt/pgmanage"><strong>PgManage: Modern, cross platform graphical database client</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41024576">43 comments 122 points</a></li>
-<li><a href="https://www.zettlr.com"><strong>Zettlr: One-Stop Publication Workbench</strong> <code>www.zettlr.com</code></a> - <a href="https://news.ycombinator.com/item?id=41023319">20 comments 113 points</a></li>
-<li><a href="https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/"><strong>A brief history of Dell Unix (2008)</strong> <code>notes.technologists.com</code></a> - <a href="https://news.ycombinator.com/item?id=41025450">10 comments 101 points</a></li>
-<li><a href="https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html"><strong>The data that powers AI is disappearing fast</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=41027320">155 comments 100 points</a></li>
-<li><a href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusHostMetricsSaveUs"><strong>Prometheus metrics saves us from painful kernel debugging (2022)</strong> <code>utcc.utoronto.ca</code></a> - <a href="https://news.ycombinator.com/item?id=41024005">15 comments 90 points</a></li>
-<li><a href="https://moocable.com/"><strong>Show HN: Moocable – find people studying the same online course/book</strong> <code>moocable.com</code></a> - <a href="https://news.ycombinator.com/item?id=41024964">20 comments 87 points</a></li>
-<li><a href="https://togithub.com/BurntSushi/jiff"><strong>Jiff: A brand new Datetime library for Rust, from the author of ripgrep</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41031037">16 comments 87 points</a></li>
-<li><a href="https://textbooks.aimath.org/textbooks/approved-textbooks/"><strong>American Institute of Mathematics: Approved Open Textbooks</strong> <code>textbooks.aimath.org</code></a> - <a href="https://news.ycombinator.com/item?id=41023979">14 comments 84 points</a></li>
-<li><a href="https://fogknife.com/2024-07-21-why-i-left-google.html"><strong>Why I left Google</strong> <code>fogknife.com</code></a> - <a href="https://news.ycombinator.com/item?id=41028407">56 comments 83 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41026096"><strong>Tell HN: Educative.io auto-renews without warning, refuses to provide refunds</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41026096">29 comments 82 points</a></li>
-<li><a href="https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf"><strong>Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]</strong> <code>jim.rees.org</code></a> - <a href="https://news.ycombinator.com/item?id=41029987">46 comments 80 points</a></li>
-<li><a href="https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention"><strong>French Acrobatic Artist’s Low-Gravity Invention</strong> <code>www.core77.com</code></a> - <a href="https://news.ycombinator.com/item?id=41028190">15 comments 80 points</a></li>
-<li><a href="https://yieldcode.blog/post/lets-blame-the-dev-who-pressed-deploy/"><strong>Let&#39;s blame the dev who pressed &quot;Deploy&quot;</strong> <code>yieldcode.blog</code></a> - <a href="https://news.ycombinator.com/item?id=41023801">98 comments 78 points</a></li>
-<li><a href="https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959"><strong>New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints</strong> <code>techcommunity.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41024408">56 comments 74 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41027265"><strong>Ask HN: What resources do you recommend for learning Haskell?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41027265">54 comments 73 points</a></li>
-<li><a href="https://www.robkhenderson.com/p/friendship-and-social-fitness"><strong>Friendship and Social Fitness</strong> <code>www.robkhenderson.com</code></a> - <a href="https://news.ycombinator.com/item?id=41026594">20 comments 71 points</a></li>
-<li><a href="https://fakemail.stream"><strong>Show HN: A fake SMTP server for software integration testing</strong> <code>fakemail.stream</code></a> - <a href="https://news.ycombinator.com/item?id=41024358">29 comments 67 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
