@@ -32,13 +32,14 @@ export const getIssues = async ({ owner, repo, take }) => {
   return issues
 }
 
-// const lock = async ({owner, repo, issueNumber}) => {
-//   console.log('locking issue');
-//   await octokit.request('PUT /repos/{owner}/{repo}/issues/{issue_number}/lock', {
-//     owner: owner,
-//     repo: repo,
-//     issue_number: issueNumber,
-//     lock_reason: 'resolved'
-//   });
-//   console.log('locked');
-// }
+export const lockIssue = async ({owner, repo, issueNumber}) => {
+  const octokit = new Octokit({
+    authStrategy: createActionAuth
+  });
+  await octokit.request('PUT /repos/{owner}/{repo}/issues/{issue_number}/lock', {
+    owner: owner,
+    repo: repo,
+    issue_number: issueNumber,
+    lock_reason: 'resolved'
+  });
+}

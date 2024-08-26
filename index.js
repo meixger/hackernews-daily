@@ -1,6 +1,6 @@
 import * as core from '@actions/core';
 import { getHeadlines } from './utils/getHeadlines.js';
-import { openIssue } from './utils/issue.js';
+import { lockIssue, openIssue } from './utils/issue.js';
 import { updateFeed } from './utils/feed.js';
 
 const date = new Date();
@@ -23,12 +23,13 @@ if (process.env.BRANCH_NAME === 'main') {
 
     const issueNumber = res.data.number;
     core.info(`created issue ${issueNumber}`);
+
+    await lockIssue({
+        owner: 'meixger',
+        repo: 'hackernews-daily', 
+        issueNumber,
+    });
 }
 
 await updateFeed();
 
-//   await issue.lock({
-//     owner: 'headllines',
-//     repo: 'hackernews-daily', 
-//     issueNumber,
-//   });
