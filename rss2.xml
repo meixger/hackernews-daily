@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 08 Sep 2024 06:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 06:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-09-09]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/724</link>
+            <guid>724</guid>
+            <pubDate>Mon, 09 Sep 2024 06:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.alphaxiv.org/"><strong>alphaXiv: Open research discussion on top of arXiv</strong> <code>www.alphaxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41478690">167 comments 488 points</a></li>
+<li><a href="https://newatlas.com/marine/how-to-stretch-cruise-ship/"><strong>Cruise ships chopped in half are a license to print money</strong> <code>newatlas.com</code></a> - <a href="https://news.ycombinator.com/item?id=41479035">283 comments 302 points</a></li>
+<li><a href="https://reclaim-the-stack.com"><strong>Reclaim the Stack</strong> <code>reclaim-the-stack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41483675">130 comments 267 points</a></li>
+<li><a href="https://www.ic3.gov/Media/Y2022/PSA221221"><strong>FBI recommends using an ad blocker (2022)</strong> <code>www.ic3.gov</code></a> - <a href="https://news.ycombinator.com/item?id=41483581">176 comments 259 points</a></li>
+<li><a href="https://ahmadosman.com/blog/serving-ai-from-basement/"><strong>Serving AI from the Basement – 192GB of VRAM Setup</strong> <code>ahmadosman.com</code></a> - <a href="https://news.ycombinator.com/item?id=41481852">214 comments 255 points</a></li>
+<li><a href="https://togithub.com/damn/core"><strong>Core: an experimental new way to write videogames</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41482060">140 comments 219 points</a></li>
+<li><a href="https://www.robinsloan.com/moonbound/muscular-imagination/"><strong>The muscular imagination of Iain M. Banks: a future you might want</strong> <code>www.robinsloan.com</code></a> - <a href="https://news.ycombinator.com/item?id=41481821">228 comments 203 points</a></li>
+<li><a href="https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks"><strong>Have ‘hobby’ apps become the new social networks?</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41479785">216 comments 194 points</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3589334.3645323"><strong>QUIC Is Not Quick Enough over Fast Internet</strong> <code>dl.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=41484991">82 comments 176 points</a></li>
+<li><a href="https://www.eurekalert.org/news-releases/1056171"><strong>Charging lithium-ion batteries at high currents first increases lifespan by 50%</strong> <code>www.eurekalert.org</code></a> - <a href="https://news.ycombinator.com/item?id=41483654">64 comments 135 points</a></li>
+<li><a href="https://www.new-east-archive.org/articles/show/7269/spomenik-yugoslav-monument-owen-hatherley"><strong>Concrete clickbait: next time you share a spomenik photo (2016)</strong> <code>www.new-east-archive.org</code></a> - <a href="https://news.ycombinator.com/item?id=41479266">76 comments 125 points</a></li>
+<li><a href="https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/"><strong>&quot;Unstripping&quot; binaries: Restoring debugging information in GDB with Pwndbg</strong> <code>blog.trailofbits.com</code></a> - <a href="https://news.ycombinator.com/item?id=41481682">17 comments 125 points</a></li>
+<li><a href="https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors"><strong>Companies need junior devs</strong> <code>softwaredoug.com</code></a> - <a href="https://news.ycombinator.com/item?id=41481279">101 comments 121 points</a></li>
+<li><a href="https://fennel-lang.org/"><strong>The Fennel Programming Language</strong> <code>fennel-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=41483216">24 comments 117 points</a></li>
+<li><a href="https://togithub.com/LuaJIT/LuaJIT/pull/1267"><strong>LuaJIT PR: Add Support for RISC-V 64</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41479637">44 comments 116 points</a></li>
+<li><a href="https://atproto.com/articles/atproto-for-distsys-engineers"><strong>ATProto for Distributed System Engineers</strong> <code>atproto.com</code></a> - <a href="https://news.ycombinator.com/item?id=41484337">4 comments 116 points</a></li>
+<li><a href="https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/"><strong>White House asks agencies to step up internet routing security efforts</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41482087">42 comments 113 points</a></li>
+<li><a href="https://arnaud-carre.github.io/2024-09-08-4ktribute/"><strong>Graphics Tricks from Boomers</strong> <code>arnaud-carre.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41481323">18 comments 110 points</a></li>
+<li><a href="https://lunduke.locals.com/post/6079435/the-internet-archive-loses-appeal-as-expected"><strong>With more legal action on the horizon, how long before Archive.org closes?</strong> <code>lunduke.locals.com</code></a> - <a href="https://news.ycombinator.com/item?id=41482620">88 comments 106 points</a></li>
+<li><a href="https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/"><strong>Htmx, Raku and Pico CSS</strong> <code>rakujourney.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=41482679">52 comments 101 points</a></li>
+<li><a href="http://www.midwinter.com/lurk/"><strong>The Lurker&#39;s Guide to Babylon5</strong> <code>www.midwinter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41480145">68 comments 99 points</a></li>
+<li><a href="https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/"><strong>The worsening Raspberry Pi RP2350 E9 erratum situation</strong> <code>hackaday.com</code></a> - <a href="https://news.ycombinator.com/item?id=41479261">17 comments 91 points</a></li>
+<li><a href="https://bmjpublichealth.bmj.com/content/bmjph/2/1/e001000.full.pdf"><strong>Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]</strong> <code>bmjpublichealth.bmj.com</code></a> - <a href="https://news.ycombinator.com/item?id=41483434">26 comments 88 points</a></li>
+<li><a href="https://mnmlist.com/w/"><strong>Minimal Web</strong> <code>mnmlist.com</code></a> - <a href="https://news.ycombinator.com/item?id=41478363">55 comments 84 points</a></li>
+<li><a href="https://tookmund.com/2024/09/hibernation-preparation"><strong>Linux&#39;s Bedtime Routine</strong> <code>tookmund.com</code></a> - <a href="https://news.ycombinator.com/item?id=41483789">9 comments 83 points</a></li>
+<li><a href="https://thesun.my/local-news/mcmc-asked-not-to-proceed-with-dns-redirection-method-fahmi-LN12977194"><strong>Malaysia backtracks on DNS redirection decision</strong> <code>thesun.my</code></a> - <a href="https://news.ycombinator.com/item?id=41478664">43 comments 82 points</a></li>
+<li><a href="https://www.propublica.org/article/ambetter-ghost-network-consequences"><strong>How a Customer Got Trapped in Ambetter&#39;s Ghost Network</strong> <code>www.propublica.org</code></a> - <a href="https://news.ycombinator.com/item?id=41482715">34 comments 82 points</a></li>
+<li><a href="https://togithub.com/josephburnett/jd"><strong>Jd – JSON Diff and Patch</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41482661">4 comments 78 points</a></li>
+<li><a href="https://htmx.org/essays/web-security-basics-with-htmx/"><strong>htmx Web Security Basics</strong> <code>htmx.org</code></a> - <a href="https://news.ycombinator.com/item?id=41480675">20 comments 75 points</a></li>
+<li><a href="https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM"><strong>Confirmed: Reflection 70B&#39;s official API is a wrapper for Sonnet 3.5</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=41484981">15 comments 73 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-09-08]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/723</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.workingtheorys.com/p/pursuits-that-cant-scale"><strong>Pursuits That Can&#39;t Scale</strong> <code>www.workingtheorys.com</code></a> - <a href="https://news.ycombinator.com/item?id=41208148">17 comments 65 points</a></li>
 <li><a href="https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/"><strong>Algorithmic price-fixing of rents is here</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=41212616">42 comments 62 points</a></li>
 <li><a href="https://markjgillespie.com/Research/harnack-tracing/index.html"><strong>Ray Tracing Harmonic Functions</strong> <code>markjgillespie.com</code></a> - <a href="https://news.ycombinator.com/item?id=41209452">8 comments 57 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-08-10]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/693</link>
-            <guid>693</guid>
-            <pubDate>Sat, 10 Aug 2024 06:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html"><strong>Jake Seliger has died</strong> <code>marginalrevolution.com</code></a> - <a href="https://news.ycombinator.com/item?id=41201555">163 comments 797 points</a></li>
-<li><a href="https://otranscribe.com/"><strong>OTranscribe: A free and open tool for transcribing audio interviews</strong> <code>otranscribe.com</code></a> - <a href="https://news.ycombinator.com/item?id=41199567">93 comments 416 points</a></li>
-<li><a href="https://togithub.com/Dicklesworthstone/llm_aided_ocr"><strong>Show HN: LLM-aided OCR – Correcting Tesseract OCR errors with LLMs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41203306">134 comments 334 points</a></li>
-<li><a href="https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a"><strong>.INTERNAL is now reserved for private-use applications</strong> <code>www.icann.org</code></a> - <a href="https://news.ycombinator.com/item?id=41203368">122 comments 248 points</a></li>
-<li><a href="https://www.thundercompute.com/"><strong>Show HN: Attaching to a virtual GPU over TCP</strong> <code>www.thundercompute.com</code></a> - <a href="https://news.ycombinator.com/item?id=41203475">85 comments 203 points</a></li>
-<li><a href="https://twitter.com/mightymogomra/status/1822119942281650278"><strong>Defcon stiffs badge HW vendor, drags FW author offstage during talk</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41207221">36 comments 165 points</a></li>
-<li><a href="https://urchin.biz/urchin-software-corp-89a1f5292999"><strong>Urchin Software Corp: The unlikely origin story of Google Analytics (2016)</strong> <code>urchin.biz</code></a> - <a href="https://news.ycombinator.com/item?id=41205176">36 comments 153 points</a></li>
-<li><a href="https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/"><strong>DARPA wants to bypass the thermal middleman in nuclear power systems</strong> <code>www.ans.org</code></a> - <a href="https://news.ycombinator.com/item?id=41205439">92 comments 147 points</a></li>
-<li><a href="https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/"><strong>Base 3 Computing Beats Binary</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=41201922">149 comments 144 points</a></li>
-<li><a href="https://www.facebook.com/share/p/qe2ZMcs9Bz4K1SPt/"><strong>Susan Wojcicki has died</strong> <code>www.facebook.com</code></a> - <a href="https://news.ycombinator.com/item?id=41207446">24 comments 117 points</a></li>
-<li><a href="https://togithub.com/TrafficGuard/nous"><strong>Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41202064">26 comments 98 points</a></li>
-<li><a href="https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html"><strong>Researchers discover potentially catastrophic exploit present in AMD chips</strong> <code>www.engadget.com</code></a> - <a href="https://news.ycombinator.com/item?id=41204160">89 comments 94 points</a></li>
-<li><a href="https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/"><strong>Building a highly-available web service without a database</strong> <code>blog.screenshotbot.io</code></a> - <a href="https://news.ycombinator.com/item?id=41206908">40 comments 87 points</a></li>
-<li><a href="https://www.nbcnews.com/science/space/nasa-report-boeing-damning-assessments-rcna165813"><strong>NASA inspector general gives damning assessment of Boeing&#39;s quality control</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=41201373">51 comments 86 points</a></li>
-<li><a href="https://www.mailhub.sh/"><strong>Show HN: I built Mailhub – A scalable API for sending emails with ease not tears</strong> <code>www.mailhub.sh</code></a> - <a href="https://news.ycombinator.com/item?id=41200605">41 comments 83 points</a></li>
-<li><a href="https://www.reuters.com/technology/signal-messenger-blocked-russia-says-roskomnadzor-ifax-2024-08-09/"><strong>Signal messenger blocked in Russia, says Roskomnadzor</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41203353">77 comments 77 points</a></li>
-<li><a href="https://www.cnn.com/2024/08/08/health/marijuana-head-and-neck-cancer-wellness/index.html"><strong>Daily marijuana use linked to increased risk of deadly head and neck cancers</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=41206718">84 comments 75 points</a></li>
-<li><a href="https://developer.apple.com/support/alternative-browser-engines/"><strong>Using alternative browser engines in the European Union</strong> <code>developer.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=41199627">146 comments 72 points</a></li>
-<li><a href="https://suryad.com/blog/percieved-age/"><strong>Perceived Age</strong> <code>suryad.com</code></a> - <a href="https://news.ycombinator.com/item?id=41203909">23 comments 71 points</a></li>
-<li><a href="https://www.theregister.com/2024/08/08/copilot_black_hat_vulns/"><strong>If you give Copilot the reins, don&#39;t be surprised when it spills your secrets</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=41199515">26 comments 70 points</a></li>
-<li><a href="https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/"><strong>Infinite Proofs: The Effects of Mathematics on David Foster Wallace (2012)</strong> <code>lareviewofbooks.org</code></a> - <a href="https://news.ycombinator.com/item?id=41203509">26 comments 69 points</a></li>
-<li><a href="https://jalopnik.com/boeing-starliner-could-brick-iss-docking-port-if-crew-a-1851615463"><strong>Boeing Starliner could brick ISS docking port if crew abandons it</strong> <code>jalopnik.com</code></a> - <a href="https://news.ycombinator.com/item?id=41201562">94 comments 60 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41200028"><strong>XMPP vs. Matrix</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41200028">79 comments 59 points</a></li>
-<li><a href="https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/"><strong>Grace Hopper, Nvidia&#39;s Halfway APU</strong> <code>chipsandcheese.com</code></a> - <a href="https://news.ycombinator.com/item?id=41206025">13 comments 58 points</a></li>
-<li><a href="https://endler.dev/2024/the-dying-web/"><strong>The Dying Web</strong> <code>endler.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41200914">39 comments 57 points</a></li>
-<li><a href="https://www.ox.ac.uk/news/2024-08-09-solar-energy-breakthrough-could-reduce-need-solar-farms"><strong>Solar energy breakthrough could reduce need for solar farms</strong> <code>www.ox.ac.uk</code></a> - <a href="https://news.ycombinator.com/item?id=41200142">37 comments 54 points</a></li>
-<li><a href="https://togithub.com/hwchase17/langgraph-engineer"><strong>LangGraph Engineer</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41203307">30 comments 54 points</a></li>
-<li><a href="https://www.theguardian.com/global-development/article/2024/jul/23/hiv-aids-prevention-vaccine-lenacapavir-sunlenca-pharmaceuticals-gilead-generic-licensing"><strong>HIV drug could be made for just $40 a year for every patient</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41206667">64 comments 53 points</a></li>
-<li><a href="https://extkits.co.uk/what-the-hell-is-a-luminiferous-theremin/"><strong>What the hell is a luminiferous theremin?</strong> <code>extkits.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=41204378">32 comments 53 points</a></li>
-<li><a href="https://www.popsci.com/technology/rivian-zonal-electrical-architecture/"><strong>Rivian reduced electrical wiring by 1.6 miles and 44 pounds</strong> <code>www.popsci.com</code></a> - <a href="https://news.ycombinator.com/item?id=41206443">13 comments 53 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
