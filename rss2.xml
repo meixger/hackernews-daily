@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 10 Sep 2024 06:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 06:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-09-11]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/726</link>
+            <guid>726</guid>
+            <pubDate>Wed, 11 Sep 2024 06:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html"><strong>Apple must pay 13B euros in back taxes, EU&#39;s top court rules</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=41498358">566 comments 520 points</a></li>
+<li><a href="https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/"><strong>A good day to trie-hard: saving compute 1% at a time</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=41501496">142 comments 482 points</a></li>
+<li><a href="https://illuminate.google.com/home"><strong>Google Illuminate: Books and papers turned into audio</strong> <code>illuminate.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=41502510">171 comments 418 points</a></li>
+<li><a href="https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533"><strong>Another police raid in Germany</strong> <code>forum.torproject.org</code></a> - <a href="https://news.ycombinator.com/item?id=41505009">215 comments 392 points</a></li>
+<li><a href="https://sinja.io/blog/get-maximum-out-of-your-font"><strong>What you can get out of a high-quality font</strong> <code>sinja.io</code></a> - <a href="https://news.ycombinator.com/item?id=41502721">80 comments 274 points</a></li>
+<li><a href="https://togithub.com/yournextstore/yournextstore"><strong>Show HN: YourNextStore – an open-source Shopify with Stripe as the back end</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41500938">62 comments 215 points</a></li>
+<li><a href="https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote"><strong>New York Times tech workers union votes to authorize a strike</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=41504026">226 comments 206 points</a></li>
+<li><a href="https://www.chaidiscovery.com/blog/introducing-chai-1"><strong>Chai-1: Decoding the molecular interactions of life</strong> <code>www.chaidiscovery.com</code></a> - <a href="https://news.ycombinator.com/item?id=41506157">54 comments 190 points</a></li>
+<li><a href="https://antithesis.com/blog/multiverse_debugging/"><strong>Debugging in the Multiverse</strong> <code>antithesis.com</code></a> - <a href="https://news.ycombinator.com/item?id=41500405">55 comments 179 points</a></li>
+<li><a href="https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update"><strong>Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies</strong> <code>www.pcmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=41505670">36 comments 178 points</a></li>
+<li><a href="https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/"><strong>Google loses EU court battle over €2.4B antitrust fine</strong> <code>www.politico.eu</code></a> - <a href="https://news.ycombinator.com/item?id=41502822">110 comments 165 points</a></li>
+<li><a href="https://www.ii.com/git-bash-is-my-preferred-windows-shell/"><strong>Git Bash is my preferred Windows shell</strong> <code>www.ii.com</code></a> - <a href="https://news.ycombinator.com/item?id=41504832">122 comments 156 points</a></li>
+<li><a href="https://therecord.media/ford-patent-application-in-vehicle-listening-advertising"><strong>Ford seeks patent for tech that listens to driver conversations to serve ads</strong> <code>therecord.media</code></a> - <a href="https://news.ycombinator.com/item?id=41501630">123 comments 144 points</a></li>
+<li><a href="https://arxiv.org/abs/2403.18103"><strong>Tutorial on diffusion models for imaging and vision</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41504885">11 comments 144 points</a></li>
+<li><a href="https://tmendez.dev/posts/rng-git-hash-bug/"><strong>Our Git Hash Bug</strong> <code>tmendez.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41498264">76 comments 143 points</a></li>
+<li><a href="https://perthirtysix.com/tool/lottery-simulator"><strong>Lottery Simulator (2023)</strong> <code>perthirtysix.com</code></a> - <a href="https://news.ycombinator.com/item?id=41505593">55 comments 143 points</a></li>
+<li><a href="https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/"><strong>We&#39;re in the brute force phase of AI – once it ends, demand for GPUs will too</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=41500268">189 comments 131 points</a></li>
+<li><a href="https://visualdb.com/"><strong>Show HN: Visual DB – Web front end for your database</strong> <code>visualdb.com</code></a> - <a href="https://news.ycombinator.com/item?id=41503251">41 comments 129 points</a></li>
+<li><a href="https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/"><strong>How we made Jupyter notebooks load faster</strong> <code>www.singlestore.com</code></a> - <a href="https://news.ycombinator.com/item?id=41500522">31 comments 128 points</a></li>
+<li><a href="https://buttondown.com/hillelwayne/archive/why-not-comments/"><strong>Why Not Comments</strong> <code>buttondown.com</code></a> - <a href="https://news.ycombinator.com/item?id=41505389">113 comments 126 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=41499905"><strong>Show HN: Free tool to find RSS feeds, even if not linked on the page</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41499905">38 comments 121 points</a></li>
+<li><a href="https://manuscriptroadtrip.wordpress.com/2024/09/08/multispectral-imaging-and-the-voynich-manuscript/"><strong>Multispectral Imaging and the Voynich Manuscript</strong> <code>manuscriptroadtrip.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=41500406">27 comments 121 points</a></li>
+<li><a href="https://queue.acm.org/detail.cfm?id=3688007"><strong>GPTs and Hallucination</strong> <code>queue.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=41501818">188 comments 118 points</a></li>
+<li><a href="https://eugeneyan.com/writing/web-frameworks/"><strong>Building the same app using various web frameworks</strong> <code>eugeneyan.com</code></a> - <a href="https://news.ycombinator.com/item?id=41507271">52 comments 91 points</a></li>
+<li><a href="https://www.dw.com/en/eu-top-court-rules-against-apple-google/a-70175532"><strong>EU top court confirms Apple&#39;s €13 billion tax bill in the EU</strong> <code>www.dw.com</code></a> - <a href="https://news.ycombinator.com/item?id=41499666">5 comments 91 points</a></li>
+<li><a href="https://briefer.cloud/blog/posts/open-source-strategy/"><strong>Going open-source as a VC-Backed company</strong> <code>briefer.cloud</code></a> - <a href="https://news.ycombinator.com/item?id=41500506">47 comments 87 points</a></li>
+<li><a href="https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives"><strong>Iron Mountain: It&#39;s Time to Talk About Hard Drives</strong> <code>www.mixonline.com</code></a> - <a href="https://news.ycombinator.com/item?id=41504331">87 comments 83 points</a></li>
+<li><a href="https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/"><strong>Playstation 5 Pro</strong> <code>blog.playstation.com</code></a> - <a href="https://news.ycombinator.com/item?id=41501580">150 comments 80 points</a></li>
+<li><a href="https://www.prnewswire.com/news-releases/k1-acquires-mariadb-a-leading-database-software-company-and-appoints-new-ceo-302243508.html"><strong>K1 Buys MariaDB</strong> <code>www.prnewswire.com</code></a> - <a href="https://news.ycombinator.com/item?id=41506124">77 comments 80 points</a></li>
+<li><a href="https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos"><strong>Rust in illumos</strong> <code>wegmueller.it</code></a> - <a href="https://news.ycombinator.com/item?id=41505665">31 comments 76 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-09-10]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/725</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/"><strong>Tensors, the geometric tool that solved Einstein&#39;s relativity problem</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=41225357">75 comments 76 points</a></li>
 <li><a href="https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/"><strong>Don&#39;t rely on IF NOT EXISTS for concurrent index creation in PostgreSQL</strong> <code>www.shayon.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41228022">48 comments 72 points</a></li>
 <li><a href="https://www.npr.org/2024/08/09/nx-s1-5046225/work-from-home-philadelphia-order"><strong>Working from home allowed him to be a more engaged dad. Now it&#39;s over</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=41228069">84 comments 71 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-08-12]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/695</link>
-            <guid>695</guid>
-            <pubDate>Mon, 12 Aug 2024 06:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://togithub.com/versotile-org/verso"><strong>Verso – web browser built on top of the Servo web engine</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41215727">223 comments 665 points</a></li>
-<li><a href="https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7"><strong>Firefox Browser Ported to HaikuOS</strong> <code>discuss.haiku-os.org</code></a> - <a href="https://news.ycombinator.com/item?id=41214762">172 comments 440 points</a></li>
-<li><a href="https://grandmasword.com"><strong>Show HN: My 70 year old grandma is learning to code and made a word game</strong> <code>grandmasword.com</code></a> - <a href="https://news.ycombinator.com/item?id=41217109">143 comments 432 points</a></li>
-<li><a href="https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are"><strong>OpenStreetMap Is Turning 20</strong> <code>stevecoast.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41214259">110 comments 406 points</a></li>
-<li><a href="https://twitter.com/singe/status/1822324795645575263"><strong>CrowdStrike accepting the PwnieAwards for &quot;most epic fail&quot; at defcon</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41217037">309 comments 366 points</a></li>
-<li><a href="https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/"><strong>Things I&#39;ve learned building a modern TUI Framework</strong> <code>www.textualize.io</code></a> - <a href="https://news.ycombinator.com/item?id=41215679">88 comments 257 points</a></li>
-<li><a href="https://servermono.com/"><strong>Server Mono: A Typeface Inspired by Typewriters, Apple&#39;s SF Mono, and CLIs</strong> <code>servermono.com</code></a> - <a href="https://news.ycombinator.com/item?id=41217136">61 comments 241 points</a></li>
-<li><a href="https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"><strong>The Gervais Principle, or the Office According to “The Office” (2009)</strong> <code>www.ribbonfarm.com</code></a> - <a href="https://news.ycombinator.com/item?id=41214180">150 comments 240 points</a></li>
-<li><a href="https://www.politico.com/news/2024/08/09/cdc-records-lawsuit-ruling-00173416"><strong>Judge orders CDC to stop deleting emails of departing staff: &#39;likely unlawful&#39;</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=41217162">95 comments 238 points</a></li>
-<li><a href="https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz"><strong>It took my savings and 14 years but I’m about to beat arthritis</strong> <code>www.thetimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=41217319">52 comments 162 points</a></li>
-<li><a href="https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/"><strong>China&#39;s total wind and solar capacity outstrips coal</strong> <code>renewablesnow.com</code></a> - <a href="https://news.ycombinator.com/item?id=41220098">138 comments 157 points</a></li>
-<li><a href="https://arxiv.org/abs/2407.16741"><strong>OpenDevin: An Open Platform for AI Software Developers as Generalist Agents</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41215593">74 comments 149 points</a></li>
-<li><a href="https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by"><strong>Samsung to Mass-Produce Solid-State Batteries for &#39;Super Premium&#39; EVs</strong> <code>www.pcmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=41215489">210 comments 142 points</a></li>
-<li><a href="https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and"><strong>Building data infrastructure that will last</strong> <code>seattledataguy.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41215201">69 comments 141 points</a></li>
-<li><a href="https://blog.alexwendland.com/2024-07-07-holding-pens/"><strong>How to avoid losing items? Holding pens</strong> <code>blog.alexwendland.com</code></a> - <a href="https://news.ycombinator.com/item?id=41220059">59 comments 138 points</a></li>
-<li><a href="https://togithub.com/spion/adbfs-rootless"><strong>Adbfs-rootless – Mount Android phones on Linux with adb. No root required</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41219080">15 comments 130 points</a></li>
-<li><a href="https://kevinlynagh.com/z3-simpsons-paradox/"><strong>Generating Simpson&#39;s Paradox with Z3</strong> <code>kevinlynagh.com</code></a> - <a href="https://news.ycombinator.com/item?id=41219562">25 comments 119 points</a></li>
-<li><a href="https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/"><strong>ChatGPT unexpectedly began speaking in a user&#39;s cloned voice during testing</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=41217313">134 comments 114 points</a></li>
-<li><a href="https://hackmd.gfuzz.de/s/Qsk14kc3i"><strong>OpenBSD 7.5 via QEMU on Hetzner physical machine (no phys. access / KVM console)</strong> <code>hackmd.gfuzz.de</code></a> - <a href="https://news.ycombinator.com/item?id=41218737">13 comments 90 points</a></li>
-<li><a href="https://www.wired.com/story/apple-prototypes-corporate-data/"><strong>Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=41219122">36 comments 88 points</a></li>
-<li><a href="https://madebyevan.com/fsm/"><strong>Finite State Machine Designer</strong> <code>madebyevan.com</code></a> - <a href="https://news.ycombinator.com/item?id=41216560">16 comments 87 points</a></li>
-<li><a href="https://blog.comma.ai/refactoring-for-growth/"><strong>Comma.ai: Refactoring for Growth</strong> <code>blog.comma.ai</code></a> - <a href="https://news.ycombinator.com/item?id=41220284">46 comments 78 points</a></li>
-<li><a href="https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen"><strong>The 1986 Oldsmobile Incas Dashboard (2020)</strong> <code>www.thedrive.com</code></a> - <a href="https://news.ycombinator.com/item?id=41218314">46 comments 75 points</a></li>
-<li><a href="https://git.zx2c4.com/wireguard-rs/"><strong>WireGuard-rs – Official Rust implementation of WireGuard</strong> <code>git.zx2c4.com</code></a> - <a href="https://news.ycombinator.com/item?id=41219440">16 comments 73 points</a></li>
-<li><a href="https://unskilled.blog/posts/preemption-in-go-an-introduction/"><strong>Introduction to Golang Preemption Mechanisms</strong> <code>unskilled.blog</code></a> - <a href="https://news.ycombinator.com/item?id=41217758">11 comments 72 points</a></li>
-<li><a href="https://shaungallagher.pressbin.com/blog/group-boycotts.html"><strong>X&#39;s likelihood of prevailing in boycott suit is higher than I thought</strong> <code>shaungallagher.pressbin.com</code></a> - <a href="https://news.ycombinator.com/item?id=41215927">86 comments 66 points</a></li>
-<li><a href="https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561"><strong>How can Firefox create the best support for web apps on the desktop?</strong> <code>connect.mozilla.org</code></a> - <a href="https://news.ycombinator.com/item?id=41220393">42 comments 59 points</a></li>
-<li><a href="https://bevyengine.org/news/bevys-fourth-birthday/"><strong>Bevy&#39;s Game Engine Fourth Birthday</strong> <code>bevyengine.org</code></a> - <a href="https://news.ycombinator.com/item?id=41214369">39 comments 59 points</a></li>
-<li><a href="https://nixos.org/blog/announcements/2024/letter/"><strong>Open Letter to the European Commission</strong> <code>nixos.org</code></a> - <a href="https://news.ycombinator.com/item?id=41214860">23 comments 59 points</a></li>
-<li><a href="https://www.pcworld.com/article/2423294/google-is-killing-one-of-chromes-biggest-ad-blockers.html"><strong>Google is killing one of Chrome&#39;s biggest ad blockers</strong> <code>www.pcworld.com</code></a> - <a href="https://news.ycombinator.com/item?id=41220764">33 comments 55 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
