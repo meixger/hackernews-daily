@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 11 Sep 2024 06:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 06:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-09-12]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/727</link>
+            <guid>727</guid>
+            <pubDate>Thu, 12 Sep 2024 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/"><strong>We spent $20 to achieve RCE and accidentally became the admins of .mobi</strong> <code>labs.watchtowr.com</code></a> - <a href="https://news.ycombinator.com/item?id=41510252">310 comments 1298 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=41510103"><strong>Ask HN: Why is Pave legal?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41510103">421 comments 956 points</a></li>
+<li><a href="https://togithub.com/jp3141/AppleWatchAmmeter"><strong>AppleWatchAmmeter</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41508752">49 comments 268 points</a></li>
+<li><a href="https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html"><strong>A MiniGolf game for Palm OS</strong> <code>ctrl-c.club</code></a> - <a href="https://news.ycombinator.com/item?id=41514944">58 comments 224 points</a></li>
+<li><a href="https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/comment-page-1/#comments"><strong>The first release candidate of FreeCAD 1.0 is out</strong> <code>blog.freecad.org</code></a> - <a href="https://news.ycombinator.com/item?id=41515101">105 comments 215 points</a></li>
+<li><a href="https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/"><strong>SQLite on Rails: The how and why of optimal performance</strong> <code>fractaledmind.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41513648">69 comments 213 points</a></li>
+<li><a href="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/"><strong>Possibly all the ways to get loop-finding in graphs wrong</strong> <code>www.chiark.greenend.org.uk</code></a> - <a href="https://news.ycombinator.com/item?id=41508355">45 comments 210 points</a></li>
+<li><a href="https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/"><strong>David Chang on the long, hard, stupid way</strong> <code>herbertlui.net</code></a> - <a href="https://news.ycombinator.com/item?id=41512207">129 comments 198 points</a></li>
+<li><a href="http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard"><strong>My business card runs Linux and Ultrix (2022)</strong> <code>dmitry.gr</code></a> - <a href="https://news.ycombinator.com/item?id=41516476">47 comments 181 points</a></li>
+<li><a href="https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd"><strong>Noisy neighbor detection with eBPF</strong> <code>netflixtechblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=41513860">51 comments 177 points</a></li>
+<li><a href="https://radicle.xyz/2024/09/10/radicle-1.0.html"><strong>Radicle 1.0 – A local-first, P2P alternative to GitHub</strong> <code>radicle.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=41509713">58 comments 172 points</a></li>
+<li><a href="https://crzphil.github.io/posts/ssh-obfuscation-bypass/"><strong>OpenSSH Keystroke Obfuscation Bypass</strong> <code>crzphil.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41508530">18 comments 163 points</a></li>
+<li><a href="https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/"><strong>Mistral releases Pixtral 12B, its first multimodal model</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=41514727">32 comments 155 points</a></li>
+<li><a href="https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic"><strong>The Golden Road: How Ancient India Transformed the World</strong> <code>www.lrb.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=41508261">64 comments 154 points</a></li>
+<li><a href="https://phys.org/news/2024-09-scientists-magnetic-nanotech-safely-rewarm.html"><strong>Scientists use magnetic nanotech to safely rewarm frozen tissues for transplant</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=41511928">32 comments 148 points</a></li>
+<li><a href="https://www.cartoonbrew.com/cgi/max-headroom-and-the-strange-world-of-pseudo-cgi-82745.html"><strong>Max Headroom and the World of Pseudo-CGI (2013)</strong> <code>www.cartoonbrew.com</code></a> - <a href="https://news.ycombinator.com/item?id=41509558">72 comments 144 points</a></li>
+<li><a href="https://columbialawreview.org/content/on-algorithmic-wage-discrimination/"><strong>Algorithmic Wage Discrimination (2023)</strong> <code>columbialawreview.org</code></a> - <a href="https://news.ycombinator.com/item?id=41513417">91 comments 142 points</a></li>
+<li><a href="https://servo.org/blog/2024/09/11/building-browser/"><strong>Building a browser using Servo as a web engine</strong> <code>servo.org</code></a> - <a href="https://news.ycombinator.com/item?id=41510402">13 comments 134 points</a></li>
+<li><a href="https://nsarchive.gwu.edu/briefing-book/chile/2024-09-09/cia-chile-scandal-50"><strong>The CIA-in-Chile Scandal at 50</strong> <code>nsarchive.gwu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=41511050">89 comments 130 points</a></li>
+<li><a href="https://togithub.com/felafax/felafax"><strong>Show HN: Tune LLaMa3.1 on Google Cloud TPUs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41512142">34 comments 130 points</a></li>
+<li><a href="https://yaak.app/blog/now-open-source"><strong>Yaak is now open source</strong> <code>yaak.app</code></a> - <a href="https://news.ycombinator.com/item?id=41509156">41 comments 129 points</a></li>
+<li><a href="https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/"><strong>Be a Thermostat, Not a Thermometer</strong> <code>larahogan.me</code></a> - <a href="https://news.ycombinator.com/item?id=41516327">35 comments 119 points</a></li>
+<li><a href="https://arstechnica.com/gadgets/2024/09/android-now-allows-apps-to-block-sideloading-and-push-a-google-play-version/"><strong>Android now allows apps to block sideloading</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=41515588">113 comments 117 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=41511506"><strong>Is 7 days a week the new norm (for YC)?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41511506">73 comments 105 points</a></li>
+<li><a href="https://restofworld.org/2024/kenya-uber-rate-cards-fuel-prices/"><strong>Uber drivers in Kenya are ignoring the app and charging their own rates</strong> <code>restofworld.org</code></a> - <a href="https://news.ycombinator.com/item?id=41512328">101 comments 104 points</a></li>
+<li><a href="https://howmuchis13billioneuros.com"><strong>Show HN: How much is 13B euros?</strong> <code>howmuchis13billioneuros.com</code></a> - <a href="https://news.ycombinator.com/item?id=41515649">70 comments 100 points</a></li>
+<li><a href="https://binsider.dev/"><strong>Binsider – A TUI for analyzing Linux binaries</strong> <code>binsider.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41509742">23 comments 92 points</a></li>
+<li><a href="https://www.theregister.com/2024/09/11/civo_vmware_research/"><strong>Research suggests more than half of VMware customers are looking to move</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=41512587">58 comments 90 points</a></li>
+<li><a href="https://www.washingtonpost.com/health/2024/09/10/boars-head-listeria-outbreak-inspection/"><strong>Boar&#39;s Head plant posed an &#39;imminent threat&#39; years before listeria outbreak</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=41511473">101 comments 85 points</a></li>
+<li><a href="https://restofworld.org/2024/electric-vehicle-conversions-uruguay/"><strong>A Uruguayan company teaches people how to turn regular cars into EVs</strong> <code>restofworld.org</code></a> - <a href="https://news.ycombinator.com/item?id=41512774">27 comments 85 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-09-11]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/726</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://jacobin.com/2024/08/realpage-software-housing-landlords/"><strong>With shared software, landlords are teaming up to raise rents</strong> <code>jacobin.com</code></a> - <a href="https://news.ycombinator.com/item?id=41235619">3 comments 75 points</a></li>
 <li><a href="https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal"><strong>ARPA-H announces awards to develop novel technologies for precise tumor removal</strong> <code>arpa-h.gov</code></a> - <a href="https://news.ycombinator.com/item?id=41239800">12 comments 73 points</a></li>
 <li><a href="https://meshtastic.org/blog/meshtastic-opposition-to-nextnav-proposed-changes/"><strong>Meshtastic&#39;s Opposition to Proposed Changes on 900 MHz Band</strong> <code>meshtastic.org</code></a> - <a href="https://news.ycombinator.com/item?id=41242091">8 comments 73 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-08-13]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/696</link>
-            <guid>696</guid>
-            <pubDate>Tue, 13 Aug 2024 06:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://news.patreon.com/articles/understanding-apple-requirements-for-patreon"><strong>Apple&#39;s requirements are about to hit creators and fans on Patreon</strong> <code>news.patreon.com</code></a> - <a href="https://news.ycombinator.com/item?id=41224853">756 comments 861 points</a></li>
-<li><a href="https://qntm.org/scp"><strong>There Is No Antimemetics Division (2018)</strong> <code>qntm.org</code></a> - <a href="https://news.ycombinator.com/item?id=41224225">197 comments 568 points</a></li>
-<li><a href="https://comment.org/repair-and-remain/"><strong>Repair and Remain (2022)</strong> <code>comment.org</code></a> - <a href="https://news.ycombinator.com/item?id=41226039">184 comments 465 points</a></li>
-<li><a href="https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da"><strong>US Government wants to make it easier for you to click the &#39;unsubscribe&#39; button</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=41223774">198 comments 432 points</a></li>
-<li><a href="https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional"><strong>Federal appeals court finds geofence warrants &quot;categorically&quot; unconstitutional</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=41228630">138 comments 426 points</a></li>
-<li><a href="https://alexplescan.com/posts/2024/08/10/wezterm/"><strong>Okay, I Like WezTerm</strong> <code>alexplescan.com</code></a> - <a href="https://news.ycombinator.com/item?id=41223934">234 comments 417 points</a></li>
-<li><a href="https://pglite.dev/"><strong>Show HN: PGlite – in-browser WASM Postgres with pgvector and live sync</strong> <code>pglite.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41224689">93 comments 358 points</a></li>
-<li><a href="https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail"><strong>Go is my hammer, and everything is a nail</strong> <code>www.maragu.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41223902">404 comments 274 points</a></li>
-<li><a href="https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/"><strong>NASA investigation finds Boeing hindering Americans&#39; return to moon</strong> <code>www.flyingmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=41229049">180 comments 253 points</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/amd-records-its-highest-server-market-share-in-decades-but-intel-fights-back-in-client-pcs"><strong>AMD records its highest server market share in decades</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=41224253">141 comments 237 points</a></li>
-<li><a href="https://supabase.com/blog/postgres-new"><strong>Postgres.new: In-browser Postgres with an AI interface</strong> <code>supabase.com</code></a> - <a href="https://news.ycombinator.com/item?id=41224286">95 comments 220 points</a></li>
-<li><a href="https://togithub.com/judofyr/spice"><strong>Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41230344">21 comments 207 points</a></li>
-<li><a href="https://twitter.com/TimSweeneyEpic/status/1823027135784558842"><strong>Tim Sweeney: &quot; Now Apple is demanding a 30% cut of all Patreon DONATIONS</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41226754">109 comments 188 points</a></li>
-<li><a href="https://togithub.com/mawise/bookshelf"><strong>Show HN: I built an animated 3D bookshelf for ebooks</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41227350">37 comments 181 points</a></li>
-<li><a href="https://postgres.new/"><strong>Postgres.new</strong> <code>postgres.new</code></a> - <a href="https://news.ycombinator.com/item?id=41224749">14 comments 176 points</a></li>
-<li><a href="https://www.businessinsider.com/us-job-market-recession-outlook-workers-quitting-hiring-trends-2024-8"><strong>Workers are stuck in place because everyone is too afraid of a recession to quit</strong> <code>www.businessinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=41229600">110 comments 139 points</a></li>
-<li><a href="https://threadreaderapp.com/thread/1822663687145972105.html"><strong>&quot;Does astrology work? We tested the ability of 152 astrologers&quot;</strong> <code>threadreaderapp.com</code></a> - <a href="https://news.ycombinator.com/item?id=41224173">4 comments 133 points</a></li>
-<li><a href="https://docs.fcc.gov/public/attachments/DA-24-776A1.txt"><strong>FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band</strong> <code>docs.fcc.gov</code></a> - <a href="https://news.ycombinator.com/item?id=41226802">83 comments 132 points</a></li>
-<li><a href="https://twitter.com/bitfield/status/1020632237493112833"><strong>Interstellar movie black hole implemented with Einstein&#39;s equations in C++</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41222862">97 comments 130 points</a></li>
-<li><a href="https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html"><strong>Brands should avoid the term &#39;AI&#39;. It&#39;s turning off customers</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=41231731">69 comments 110 points</a></li>
-<li><a href="https://trieve.ai/history-of-hnsearch/"><strong>History of Hacker News Search from 2007 to 2024</strong> <code>trieve.ai</code></a> - <a href="https://news.ycombinator.com/item?id=41228935">57 comments 107 points</a></li>
-<li><a href="https://www.developer-tech.com/news/gitlab-is-reportedly-up-for-sale/"><strong>Gitlab is reportedly up for sale</strong> <code>www.developer-tech.com</code></a> - <a href="https://news.ycombinator.com/item?id=41231735">90 comments 95 points</a></li>
-<li><a href="https://danluu.com/codenames/"><strong>How good can you be at Codenames without knowing any words?</strong> <code>danluu.com</code></a> - <a href="https://news.ycombinator.com/item?id=41221501">47 comments 93 points</a></li>
-<li><a href="https://arctic-news.blogspot.com/2024/08/paris-agreement-thresholds-crossed.html"><strong>Paris Agreement thresholds crossed</strong> <code>arctic-news.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=41224686">73 comments 85 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41230500"><strong>Ask HN: Has anyone been able to contact Cloudflare Support in the last 5 days?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41230500">13 comments 83 points</a></li>
-<li><a href="https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/"><strong>Cancer rates are rising in young people</strong> <code>www.scientificamerican.com</code></a> - <a href="https://news.ycombinator.com/item?id=41225678">146 comments 79 points</a></li>
-<li><a href="https://www.newyorker.com/culture/infinite-scroll/why-i-finally-quit-spotify"><strong>I Quit Spotify</strong> <code>www.newyorker.com</code></a> - <a href="https://news.ycombinator.com/item?id=41221558">124 comments 79 points</a></li>
-<li><a href="https://www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/"><strong>Tensors, the geometric tool that solved Einstein&#39;s relativity problem</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=41225357">75 comments 76 points</a></li>
-<li><a href="https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/"><strong>Don&#39;t rely on IF NOT EXISTS for concurrent index creation in PostgreSQL</strong> <code>www.shayon.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41228022">48 comments 72 points</a></li>
-<li><a href="https://www.npr.org/2024/08/09/nx-s1-5046225/work-from-home-philadelphia-order"><strong>Working from home allowed him to be a more engaged dad. Now it&#39;s over</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=41228069">84 comments 71 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
