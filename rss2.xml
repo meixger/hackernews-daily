@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 13 Sep 2024 06:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Sep 2024 06:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-09-14]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/729</link>
+            <guid>729</guid>
+            <pubDate>Sat, 14 Sep 2024 06:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://twitter.com/SmokeAwayyy/status/1834641370486915417"><strong>OpenAI threatens to revoke o1 access for asking it about its chain of thought</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41534474">236 comments 441 points</a></li>
+<li><a href="https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns"><strong>Entire staff of game publisher Annapurna Interactive has reportedly resigned</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=41528266">195 comments 397 points</a></li>
+<li><a href="https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b"><strong>Zero-Click Calendar invite vulnerability chain in macOS</strong> <code>mikko-kenttala.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=41532946">135 comments 366 points</a></li>
+<li><a href="https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage"><strong>CrowdStrike ex-employees: &#39;Quality control was not part of our process&#39;</strong> <code>www.semafor.com</code></a> - <a href="https://news.ycombinator.com/item?id=41534716">163 comments 344 points</a></li>
+<li><a href="https://reader.tymoon.eu/article/437"><strong>Porting SBCL to the Nintendo Switch</strong> <code>reader.tymoon.eu</code></a> - <a href="https://news.ycombinator.com/item?id=41530783">56 comments 317 points</a></li>
+<li><a href="https://togithub.com/coekie/flowtracker"><strong>Show HN: FlowTracker – Track data flowing through Java programs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41530190">30 comments 264 points</a></li>
+<li><a href="https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html"><strong>My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures</strong> <code>louwrentius.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536088">125 comments 203 points</a></li>
+<li><a href="https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170"><strong>Facebook scraped every Australian adult user&#39;s public posts to train AI</strong> <code>www.abc.net.au</code></a> - <a href="https://news.ycombinator.com/item?id=41533060">209 comments 191 points</a></li>
+<li><a href="https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption"><strong>Defend against vampires with 10 gbps network encryption</strong> <code>www.synacktiv.com</code></a> - <a href="https://news.ycombinator.com/item?id=41531699">50 comments 174 points</a></li>
+<li><a href="https://togithub.com/RyanWelly/lisp-in-rs-macros"><strong>Lisp implemented in Rust macros</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41535354">31 comments 168 points</a></li>
+<li><a href="https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html"><strong>I won&#39;t be renewing my Pinboard subscription</strong> <code>notes.kateva.org</code></a> - <a href="https://news.ycombinator.com/item?id=41533958">72 comments 163 points</a></li>
+<li><a href="https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994"><strong>Janet Jackson had the power to crash laptop computers (2022)</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41534483">44 comments 131 points</a></li>
+<li><a href="https://arcprize.org/blog/openai-o1-results-arc-prize"><strong>OpenAI o1 Results on ARC-AGI-Pub</strong> <code>arcprize.org</code></a> - <a href="https://news.ycombinator.com/item?id=41535694">62 comments 119 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military"><strong>Intel Solidifies $3.5B Deal to Make Chips for Military</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536131">68 comments 104 points</a></li>
+<li><a href="https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art"><strong>JG Ballard&#39;s Apocalyptic Art</strong> <code>www.newstatesman.com</code></a> - <a href="https://news.ycombinator.com/item?id=41530364">22 comments 101 points</a></li>
+<li><a href="https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/"><strong>I Added SVG Maps to My Travel Posts</strong> <code>cyberb.space</code></a> - <a href="https://news.ycombinator.com/item?id=41532958">13 comments 93 points</a></li>
+<li><a href="https://www.haiku-os.org/get-haiku/r1beta5/release-notes"><strong>Haiku R1/beta5 has been released</strong> <code>www.haiku-os.org</code></a> - <a href="https://news.ycombinator.com/item?id=41532540">5 comments 91 points</a></li>
+<li><a href="https://materializedview.io/p/modular-monoliths-are-a-good-idea"><strong>Modular Monoliths Are a Good Idea</strong> <code>materializedview.io</code></a> - <a href="https://news.ycombinator.com/item?id=41534179">46 comments 85 points</a></li>
+<li><a href="https://www.stadafa.com/2020/12/stockholm-syndrome-discredit.html"><strong>&quot;Stockholm Syndrome&quot; was invented by police to discredit a female hostage (2020)</strong> <code>www.stadafa.com</code></a> - <a href="https://news.ycombinator.com/item?id=41530415">52 comments 84 points</a></li>
+<li><a href="https://www.macobserver.com/ios/stolen-iphones-will-be-even-more-useless-from-ios-18-onwards/"><strong>Stolen iPhones Will Be Even More Useless from iOS 18 Onwards</strong> <code>www.macobserver.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536232">63 comments 78 points</a></li>
+<li><a href="https://xeiaso.net/blog/2024/strawberry/"><strong>I fixed the strawberry problem because OpenAI couldn&#39;t</strong> <code>xeiaso.net</code></a> - <a href="https://news.ycombinator.com/item?id=41530647">86 comments 77 points</a></li>
+<li><a href="https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz"><strong>NextNav&#39;s Callous Land-Grab to Privatize 900 MHz</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=41535994">22 comments 76 points</a></li>
+<li><a href="https://twitter.com/anpaure/status/1834576613742145982"><strong>CS Career fair cancelled at community college because no companies reached out</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41533271">100 comments 75 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=FIEwcTKUFCA"><strong>Linux kernel contributor swatted and handcuffed live on stream [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=41532098">34 comments 74 points</a></li>
+<li><a href="https://arxiv.org/abs/2408.16782"><strong>The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41536003">22 comments 74 points</a></li>
+<li><a href="https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/"><strong>Martin Luther King Jr. In Berlin</strong> <code>www.german-way.com</code></a> - <a href="https://news.ycombinator.com/item?id=41531383">17 comments 74 points</a></li>
+<li><a href="https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html"><strong>18,000 Miles Later, an American Woman Has Cycled the World</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536542">25 comments 58 points</a></li>
+<li><a href="https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796"><strong>US targets trade loophole used by ecommerce groups Temu and Shein</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536137">16 comments 58 points</a></li>
+<li><a href="https://www.vox.com/future-perfect/371640/economic-growth-climate-change-degrowth-science-global-warming"><strong>Shrinking the economy won&#39;t save the planet</strong> <code>www.vox.com</code></a> - <a href="https://news.ycombinator.com/item?id=41531021">69 comments 54 points</a></li>
+<li><a href="https://www.reuters.com/technology/artificial-intelligence/openais-stunning-150-billion-valuation-hinges-upending-corporate-structure-2024-09-14/"><strong>OpenAI&#39;s $150B valuation hinges on upending corporate structure, sources</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536735">48 comments 51 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-09-13]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/728</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://thefinancebuff.com/goodbye-banks-credit-unions.html"><strong>Ditch banks – Go with money market funds and treasuries</strong> <code>thefinancebuff.com</code></a> - <a href="https://news.ycombinator.com/item?id=41262439">85 comments 79 points</a></li>
 <li><a href="https://www.sfgate.com/tech/article/cisco-layoffs-second-this-year-19657267.php"><strong>Cisco slashes thousands of workers as it announces yearly profit of $10.3B</strong> <code>www.sfgate.com</code></a> - <a href="https://news.ycombinator.com/item?id=41258049">45 comments 70 points</a></li>
 <li><a href="https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iranian-banks-hit-by-major-cyber-attack-reportedly-one-of-largest-in-history"><strong>Iranian banks hit by major cyber attack</strong> <code>www.i24news.tv</code></a> - <a href="https://news.ycombinator.com/item?id=41255968">38 comments 69 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-08-15]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/698</link>
-            <guid>698</guid>
-            <pubDate>Thu, 15 Aug 2024 06:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://ytch.xyz"><strong>Show HN: If YouTube had actual channels</strong> <code>ytch.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=41247023">416 comments 1937 points</a></li>
-<li><a href="https://togithub.com/"><strong>GitHub was down</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41251412">227 comments 470 points</a></li>
-<li><a href="https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40"><strong>How I won $2,750 using JavaScript, AI, and a can of WD-40</strong> <code>davekiss.com</code></a> - <a href="https://news.ycombinator.com/item?id=41247982">146 comments 398 points</a></li>
-<li><a href="https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/"><strong>Inside the &quot;3 billion people&quot; national public data breach</strong> <code>www.troyhunt.com</code></a> - <a href="https://news.ycombinator.com/item?id=41248104">243 comments 391 points</a></li>
-<li><a href="https://blog.jim-nielsen.com/2023/examples-of-great-urls/"><strong>Examples of Great URL Design (2023)</strong> <code>blog.jim-nielsen.com</code></a> - <a href="https://news.ycombinator.com/item?id=41243992">154 comments 386 points</a></li>
-<li><a href="https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf"><strong>Texas sues GM for unlaw­ful­ly collecting and selling dri­vers&#39; pri­vate data [pdf]</strong> <code>www.texasattorneygeneral.gov</code></a> - <a href="https://news.ycombinator.com/item?id=41246050">207 comments 349 points</a></li>
-<li><a href="https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"><strong>Font with Built-In Syntax Highlighting</strong> <code>blog.glyphdrawing.club</code></a> - <a href="https://news.ycombinator.com/item?id=41245159">71 comments 312 points</a></li>
-<li><a href="https://x.ai/blog/grok-2"><strong>Grok-2 Beta Release</strong> <code>x.ai</code></a> - <a href="https://news.ycombinator.com/item?id=41242979">313 comments 208 points</a></li>
-<li><a href="https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/"><strong>How one ED mobilized his department during a mass casualty incident (2017)</strong> <code>epmonthly.com</code></a> - <a href="https://news.ycombinator.com/item?id=41247841">78 comments 205 points</a></li>
-<li><a href="https://spectrum.ieee.org/of-modes-and-men"><strong>Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWYG (2005)</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=41244847">136 comments 159 points</a></li>
-<li><a href="https://syndicate-lang.org/about/"><strong>The Syndicated Actor Model</strong> <code>syndicate-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=41244468">31 comments 146 points</a></li>
-<li><a href="https://togithub.com/dani-garcia/vaultwarden"><strong>Vaultwarden: Unofficial Bitwarden compatible server written in Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41243147">108 comments 142 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41246686"><strong>Show HN: Double – Design and invest in your own stock index</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41246686">77 comments 139 points</a></li>
-<li><a href="https://www.windowscentral.com/software-apps/browsing/google-pulls-the-plug-on-ublock-origin"><strong>Google pulls the plug on uBlock Origin</strong> <code>www.windowscentral.com</code></a> - <a href="https://news.ycombinator.com/item?id=41252462">81 comments 130 points</a></li>
-<li><a href="https://togithub.com/project-oak/oak"><strong>Project Oak: Meaningful control of data in distributed systems</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41246181">43 comments 120 points</a></li>
-<li><a href="https://togithub.com/arc53/llm-price-compass"><strong>Show HN: Open-source LLM provider price comparison</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41244648">32 comments 119 points</a></li>
-<li><a href="https://ianthehenry.com/posts/peggi/"><strong>A different kind of keyboard (2021)</strong> <code>ianthehenry.com</code></a> - <a href="https://news.ycombinator.com/item?id=41247238">39 comments 117 points</a></li>
-<li><a href="https://www.engadget.com/cybersecurity/hackers-may-have-leaked-the-social-security-numbers-of-every-american-150834276.html"><strong>Hackers may have leaked the Social Security Numbers of every American</strong> <code>www.engadget.com</code></a> - <a href="https://news.ycombinator.com/item?id=41245779">180 comments 116 points</a></li>
-<li><a href="https://togithub.com/sdushantha/tmpmail"><strong>Tmpmail: Temporary email right from your terminal written in POSIX sh</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41246211">29 comments 110 points</a></li>
-<li><a href="https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385"><strong>Re-fixing Servo&#39;s event-loop</strong> <code>medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=41245901">15 comments 106 points</a></li>
-<li><a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063"><strong>Windows TCP/IP Remote Code Execution Vulnerability</strong> <code>msrc.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41243931">48 comments 105 points</a></li>
-<li><a href="https://economistwritingeveryday.com/2024/02/13/is-rich-dad-poor-dad-a-fraud/"><strong>Is &quot;Rich Dad Poor Dad&quot; a Fraud?</strong> <code>economistwritingeveryday.com</code></a> - <a href="https://news.ycombinator.com/item?id=41245702">202 comments 95 points</a></li>
-<li><a href="https://togithub.com/zuplo/rate-my-openapi"><strong>Show HN: We made a tool to help developers improve OpenAPI specs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41244423">19 comments 93 points</a></li>
-<li><a href="https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/"><strong>CSVs Are Kinda Bad. DSVs Are Kinda Good</strong> <code>matthodges.com</code></a> - <a href="https://news.ycombinator.com/item?id=41244172">116 comments 92 points</a></li>
-<li><a href="https://fosstodon.org/@altstore/112962388607680148"><strong>AltStore PAL receives Epic Games MegaGrant, will no longer require subscription</strong> <code>fosstodon.org</code></a> - <a href="https://news.ycombinator.com/item?id=41250470">26 comments 89 points</a></li>
-<li><a href="https://www.massgeneralbrigham.org/en/about/newsroom/articles/consciousness-unresponsive-patients"><strong>International Study Detects Consciousness in Unresponsive Patients</strong> <code>www.massgeneralbrigham.org</code></a> - <a href="https://news.ycombinator.com/item?id=41250830">22 comments 87 points</a></li>
-<li><a href="https://photonlines.substack.com/p/visual-data-structures-cheat-sheet"><strong>Visual data structures cheat sheet</strong> <code>photonlines.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41247275">4 comments 77 points</a></li>
-<li><a href="https://blog.plover.com/calendar/poor-richards-almanack.html"><strong>Poor Richard&#39;s Almanack</strong> <code>blog.plover.com</code></a> - <a href="https://news.ycombinator.com/item?id=41247153">48 comments 76 points</a></li>
-<li><a href="https://www.traudhd.com/p/autism-adhd-personality-disorders-narcissism"><strong>The Complex Relationship Between ADHD, Autism, and Personality Disorders</strong> <code>www.traudhd.com</code></a> - <a href="https://news.ycombinator.com/item?id=41245504">41 comments 76 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41248542"><strong>Tell HN: Server error (5xx) in Google Search Console may not be 5xx at all</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41248542">14 comments 71 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
