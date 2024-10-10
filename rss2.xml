@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 09 Oct 2024 06:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 06:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-10-10]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/755</link>
+            <guid>755</guid>
+            <pubDate>Thu, 10 Oct 2024 06:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message"><strong>Internet Archive: Security breach alert</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=41792500">377 comments 601 points</a></li>
+<li><a href="https://www.dookiedemastered.com/"><strong>Dookie Demastered</strong> <code>www.dookiedemastered.com</code></a> - <a href="https://news.ycombinator.com/item?id=41790295">151 comments 538 points</a></li>
+<li><a href="https://www.nobelprize.org/prizes/chemistry/2024/press-release/"><strong>Chemistry Nobel: Computational protein design and protein structure prediction</strong> <code>www.nobelprize.org</code></a> - <a href="https://news.ycombinator.com/item?id=41786101">282 comments 501 points</a></li>
+<li><a href="https://www.siliconvalley.com/2024/10/07/h-1b-visa-company-supplying-thousands-of-tech-workers-to-silicon-valley-discriminated-against-non-indians-jury-finds/"><strong>Cognizant found guilty of discriminating against non-Indian employees</strong> <code>www.siliconvalley.com</code></a> - <a href="https://news.ycombinator.com/item?id=41785265">365 comments 390 points</a></li>
+<li><a href="https://togithub.com/alebeck/boring"><strong>Show HN: I made an SSH tunnel manager to learn Go</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41785511">62 comments 197 points</a></li>
+<li><a href="https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe"><strong>Germans decry influence of English as &#39;idiot&#39;s apostrophe&#39; gets approval</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41787647">462 comments 195 points</a></li>
+<li><a href="https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls"><strong>An n-ball Between n-balls</strong> <code>www.arnaldur.be</code></a> - <a href="https://news.ycombinator.com/item?id=41789242">34 comments 185 points</a></li>
+<li><a href="https://levels.fyi/heatmap"><strong>Software Engineer Pay Heatmap Across the US</strong> <code>levels.fyi</code></a> - <a href="https://news.ycombinator.com/item?id=41792055">125 comments 177 points</a></li>
+<li><a href="https://chrisdone.com/posts/rust/"><strong>My negative views on Rust (2023)</strong> <code>chrisdone.com</code></a> - <a href="https://news.ycombinator.com/item?id=41791773">176 comments 153 points</a></li>
+<li><a href="https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182"><strong>PEP 760: No more bare excepts</strong> <code>discuss.python.org</code></a> - <a href="https://news.ycombinator.com/item?id=41788026">349 comments 152 points</a></li>
+<li><a href="https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/"><strong>Why Gov.uk&#39;s Exit this Page component doesn&#39;t use the Escape key</strong> <code>beeps.website</code></a> - <a href="https://news.ycombinator.com/item?id=41793597">65 comments 148 points</a></li>
+<li><a href="https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/"><strong>Geoffrey Hinton says he&#39;s proud Ilya Sutskever &#39;fired Sam Altman&#39;</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=41792179">5 comments 143 points</a></li>
+<li><a href="https://www.library.universiteitleiden.nl/news/2024/10/he-internet-archive-takes-over-foreign-dissertations-from-ubl"><strong>The Internet Archive takes over foreign dissertations from Leiden University</strong> <code>www.library.universiteitleiden.nl</code></a> - <a href="https://news.ycombinator.com/item?id=41789815">36 comments 137 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=H7DgMFqrON0"><strong>Press Conference: Professor Geoffrey Hinton, Nobel Prize in Physics 2024 [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=41791692">12 comments 134 points</a></li>
+<li><a href="https://www.404media.co/wordpress-checkbox-login-wp-engine/"><strong>Wordpress.org Login: &quot;I am not affiliated with WP Engine in any way&quot;</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=41791369">172 comments 128 points</a></li>
+<li><a href="https://togithub.com/andrearaponi/dito"><strong>Dito – an advanced Layer 7 reverse proxy server written in Go</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41790619">63 comments 126 points</a></li>
+<li><a href="https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363"><strong>OpenAI pursues public benefit structure to fend off hostile takeovers</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41790026">68 comments 124 points</a></li>
+<li><a href="https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/"><strong>You Don’t Know Jack about Bandwidth</strong> <code>cacm.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=41793658">55 comments 122 points</a></li>
+<li><a href="https://login.wordpress.org/"><strong>Wordpress.org Login: &quot;I am not affiliated with WP Engine in any way&quot;</strong> <code>login.wordpress.org</code></a> - <a href="https://news.ycombinator.com/item?id=41787409">1 comments 115 points</a></li>
+<li><a href="https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/"><strong>Command Line Tools I Like (2022)</strong> <code>rwblickhan.org</code></a> - <a href="https://news.ycombinator.com/item?id=41791708">49 comments 113 points</a></li>
+<li><a href="https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/"><strong>A free and open internet shouldn&#39;t come at the expense of privacy</strong> <code>blog.mozilla.org</code></a> - <a href="https://news.ycombinator.com/item?id=41786012">120 comments 104 points</a></li>
+<li><a href="http://antirez.com/articoli/tclmisunderstood.html"><strong>Tcl the Misunderstood (Antirez) (2006)</strong> <code>antirez.com</code></a> - <a href="https://news.ycombinator.com/item?id=41791875">22 comments 102 points</a></li>
+<li><a href="https://www.phoronix.com/review/lunar-lake-windows-linux/5"><strong>Windows 11 vs. Ubuntu 24.10 Performance For Intel Core Ultra 7 Lunar Lake</strong> <code>www.phoronix.com</code></a> - <a href="https://news.ycombinator.com/item?id=41788557">82 comments 100 points</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ratan_Tata"><strong>Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=41795218">19 comments 97 points</a></li>
+<li><a href="https://www.donobu.com/"><strong>Show HN: Donobu – Mac App for Web Automation and Testing</strong> <code>www.donobu.com</code></a> - <a href="https://news.ycombinator.com/item?id=41789633">21 comments 92 points</a></li>
+<li><a href="https://twitter.com/cassieceleste/status/1843702724090835178"><strong>Cassie LaBelle: &quot;eBay completely destroyed my life&quot;</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41784713">73 comments 89 points</a></li>
+<li><a href="https://deno.com/blog/v2.0"><strong>Deno 2</strong> <code>deno.com</code></a> - <a href="https://news.ycombinator.com/item?id=41789551">15 comments 88 points</a></li>
+<li><a href="https://resobscura.substack.com/p/on-17th-century-cocaine"><strong>On 17th century &quot;cocaine&quot;</strong> <code>resobscura.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41787798">59 comments 87 points</a></li>
+<li><a href="https://finetunedb.com"><strong>Show HN: FinetuneDB – AI fine-tuning platform to create custom LLMs</strong> <code>finetunedb.com</code></a> - <a href="https://news.ycombinator.com/item?id=41789176">38 comments 85 points</a></li>
+<li><a href="https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107"><strong>Your brain changes based on what you did two weeks ago</strong> <code>www.newsweek.com</code></a> - <a href="https://news.ycombinator.com/item?id=41789277">16 comments 85 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-10-09]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/754</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/"><strong>Playstation 5 Pro</strong> <code>blog.playstation.com</code></a> - <a href="https://news.ycombinator.com/item?id=41501580">150 comments 80 points</a></li>
 <li><a href="https://www.prnewswire.com/news-releases/k1-acquires-mariadb-a-leading-database-software-company-and-appoints-new-ceo-302243508.html"><strong>K1 Buys MariaDB</strong> <code>www.prnewswire.com</code></a> - <a href="https://news.ycombinator.com/item?id=41506124">77 comments 80 points</a></li>
 <li><a href="https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos"><strong>Rust in illumos</strong> <code>wegmueller.it</code></a> - <a href="https://news.ycombinator.com/item?id=41505665">31 comments 76 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-09-10]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/725</link>
-            <guid>725</guid>
-            <pubDate>Tue, 10 Sep 2024 06:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://worksinprogress.co/issue/lab-grown-diamonds/"><strong>Synthetic diamonds are now purer, more beautiful, and cheaper than mined</strong> <code>worksinprogress.co</code></a> - <a href="https://news.ycombinator.com/item?id=41488353">335 comments 569 points</a></li>
-<li><a href="https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/"><strong>James Earl Jones has died</strong> <code>variety.com</code></a> - <a href="https://news.ycombinator.com/item?id=41493634">157 comments 560 points</a></li>
-<li><a href="https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/"><strong>iPhone 16 Pro and iPhone 16 Pro Max</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=41491896">1181 comments 465 points</a></li>
-<li><a href="https://blog.gitbutler.com/why-github-actually-won/"><strong>Why GitHub won</strong> <code>blog.gitbutler.com</code></a> - <a href="https://news.ycombinator.com/item?id=41490161">376 comments 441 points</a></li>
-<li><a href="https://blogsystem5.substack.com/p/windows-nt-vs-unix-design"><strong>Windows NT vs. Unix: A design comparison</strong> <code>blogsystem5.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41490290">280 comments 364 points</a></li>
-<li><a href="https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/"><strong>FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates</strong> <code>www.techdirt.com</code></a> - <a href="https://news.ycombinator.com/item?id=41492251">118 comments 313 points</a></li>
-<li><a href="https://jacobfilipp.com/hammer/"><strong>Project Hammer: reduce collusion in the Canadian grocery sector</strong> <code>jacobfilipp.com</code></a> - <a href="https://news.ycombinator.com/item?id=41490143">186 comments 278 points</a></li>
-<li><a href="https://awfulannouncing.com/espn/alex-morgan-ai-generated-recap-mention.html"><strong>ESPN AI recap of Alex Morgan’s final professional match fails to mention her</strong> <code>awfulannouncing.com</code></a> - <a href="https://news.ycombinator.com/item?id=41489167">156 comments 255 points</a></li>
-<li><a href="https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/"><strong>Apple Hearing Study shares preliminary insights on tinnitus</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=41491121">150 comments 243 points</a></li>
-<li><a href="https://9to5mac.com/2024/09/09/airpods-pro-2-adds-clinical-grade-hearing-aid-feature/"><strong>AirPods Pro 2 adds &#39;clinical grade&#39; hearing aid feature</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=41491191">137 comments 236 points</a></li>
-<li><a href="https://planetscale.com/blog/btrees-and-database-indexes"><strong>B-Trees and Database Indexes</strong> <code>planetscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=41489832">34 comments 190 points</a></li>
-<li><a href="https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide"><strong>Hacking misconfigured AWS S3 buckets: A complete guide</strong> <code>blog.intigriti.com</code></a> - <a href="https://news.ycombinator.com/item?id=41489644">35 comments 183 points</a></li>
-<li><a href="https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/"><strong>Apple Watch Series 10</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=41491886">365 comments 180 points</a></li>
-<li><a href="https://duckdb.org/2024/09/09/announcing-duckdb-110.html"><strong>DuckDB 1.1.0 Released</strong> <code>duckdb.org</code></a> - <a href="https://news.ycombinator.com/item?id=41489537">31 comments 180 points</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/"><strong>DOJ claims Google has &quot;trifecta of monopolies&quot; on Day 1 of ad tech trial</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=41496254">104 comments 174 points</a></li>
-<li><a href="https://fikku.com/111920"><strong>Europe to End &quot;Salary Secrecy&quot;: Employee Salaries to Become Public by 2026</strong> <code>fikku.com</code></a> - <a href="https://news.ycombinator.com/item?id=41492081">76 comments 163 points</a></li>
-<li><a href="https://www.empirical.health/blog/apple-watch-sleep-apnea/"><strong>How on-the-wrist sleep apnea detection works</strong> <code>www.empirical.health</code></a> - <a href="https://news.ycombinator.com/item?id=41490921">139 comments 159 points</a></li>
-<li><a href="https://www.theengineer.co.uk/content/news/study-shows-alarming-level-of-trust-in-ai-for-life-and-death-decisions/"><strong>Study shows &#39;alarming&#39; level of trust in AI for life and death decisions</strong> <code>www.theengineer.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=41490094">101 comments 153 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41490196"><strong>Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41490196">54 comments 151 points</a></li>
-<li><a href="https://justforfunnoreally.dev"><strong>Just for Fun. No</strong> <code>justforfunnoreally.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41496725">37 comments 151 points</a></li>
-<li><a href="https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/"><strong>Please stop inventing new software licences (2020)</strong> <code>shkspr.mobi</code></a> - <a href="https://news.ycombinator.com/item?id=41485967">164 comments 130 points</a></li>
-<li><a href="https://mntre.com/media/reform_md/2024-09-09-introducing-mnt-reform-next.html"><strong>MNT Reform Next</strong> <code>mntre.com</code></a> - <a href="https://news.ycombinator.com/item?id=41489633">49 comments 130 points</a></li>
-<li><a href="https://www.decarpentier.nl/carpentopod"><strong>Carpentopod: A Walking Table Project</strong> <code>www.decarpentier.nl</code></a> - <a href="https://news.ycombinator.com/item?id=41491016">16 comments 129 points</a></li>
-<li><a href="https://cohost.org/staff/post/7611443-cohost-to-shut-down"><strong>Cohost to shut down at end of 2024</strong> <code>cohost.org</code></a> - <a href="https://news.ycombinator.com/item?id=41492807">99 comments 114 points</a></li>
-<li><a href="https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en"><strong>The Future of European Competitiveness</strong> <code>commission.europa.eu</code></a> - <a href="https://news.ycombinator.com/item?id=41488865">108 comments 111 points</a></li>
-<li><a href="https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/"><strong>Nobody Cares About Security</strong> <code>www.adatosystems.com</code></a> - <a href="https://news.ycombinator.com/item?id=41489267">73 comments 110 points</a></li>
-<li><a href="https://www.oxfordpv.com/news/20-more-powerful-tandem-solar-panels-enter-commercial-use-first-time-us"><strong>20% more powerful perovskite solar panels enter commercial use</strong> <code>www.oxfordpv.com</code></a> - <a href="https://news.ycombinator.com/item?id=41489170">141 comments 105 points</a></li>
-<li><a href="https://ourworldindata.org/a-history-of-global-living-conditions"><strong>The short history of global living conditions and why it matters that we know it</strong> <code>ourworldindata.org</code></a> - <a href="https://news.ycombinator.com/item?id=41489182">139 comments 105 points</a></li>
-<li><a href="https://theoceancleanup.com/press/press-releases/the-great-pacific-garbage-patch-can-be-cleaned-for-7-5-billion/"><strong>The Great Pacific Garbage Patch Can Be Cleaned for $7.5B</strong> <code>theoceancleanup.com</code></a> - <a href="https://news.ycombinator.com/item?id=41488251">97 comments 105 points</a></li>
-<li><a href="https://togithub.com/digital-fabric/iou"><strong>Show HN: Io_uring for Ruby</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41487714">28 comments 105 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
