@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 13 Oct 2024 06:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 06:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-10-14]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/759</link>
+            <guid>759</guid>
+            <pubDate>Mon, 14 Oct 2024 06:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://twitter.com/SpaceX/status/1845152255944819015"><strong>Starship Flight 5: Launch and booster catch [video]</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41827362">1046 comments 1760 points</a></li>
+<li><a href="https://diamond-wm.github.io/"><strong>Diffusion for World Modeling</strong> <code>diamond-wm.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41826402">197 comments 431 points</a></li>
+<li><a href="https://billwear.github.io/art-of-attention.html"><strong>The quiet art of attention</strong> <code>billwear.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41828601">126 comments 420 points</a></li>
+<li><a href="https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871"><strong>Large language models reduce public knowledge sharing on online Q&amp;A platforms</strong> <code>academic.oup.com</code></a> - <a href="https://news.ycombinator.com/item?id=41827043">294 comments 350 points</a></li>
+<li><a href="https://fossil-scm.org/home/ext/crlf-harmful.md"><strong>CRLF is obsolete and should be abolished</strong> <code>fossil-scm.org</code></a> - <a href="https://news.ycombinator.com/item?id=41830717">201 comments 344 points</a></li>
+<li><a href="https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine"><strong>WordPress.org&#39;s latest move involves taking control of a WP Engine plugin</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=41826082">201 comments 261 points</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ward_Christensen"><strong>Ward Christensen (of BBS and XMODEM fame) has died</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=41828923">60 comments 239 points</a></li>
+<li><a href="https://www.nature.com/articles/d41586-024-03277-6"><strong>Eating less can lead to a longer life: study in mice shows why</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=41826449">148 comments 208 points</a></li>
+<li><a href="https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/"><strong>Making the Tibetan language a first-class citizen in the digital world</strong> <code>www.bdrc.io</code></a> - <a href="https://news.ycombinator.com/item?id=41829926">88 comments 200 points</a></li>
+<li><a href="https://www.advancedcustomfields.com/blog/acf-plugin-no-longer-available-on-wordpress-org/"><strong>ACF Plugin no longer available on WordPress.org</strong> <code>www.advancedcustomfields.com</code></a> - <a href="https://news.ycombinator.com/item?id=41828958">108 comments 190 points</a></li>
+<li><a href="https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/"><strong>Zero-latency SQLite storage in every Durable Object</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=41832547">54 comments 177 points</a></li>
+<li><a href="https://restic.net/"><strong>Restic: Backups done right</strong> <code>restic.net</code></a> - <a href="https://news.ycombinator.com/item?id=41829913">80 comments 174 points</a></li>
+<li><a href="https://www.wsj.com/business/entrepreneurship/plumbers-hvac-skilled-trades-millionaires-2b62bf6c"><strong>America&#39;s new millionaire class: Plumbers and HVAC entrepreneurs</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=41828896">185 comments 132 points</a></li>
+<li><a href="https://togithub.com/hcengineering/platform"><strong>Huly – Open-source project management platform</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41833902">46 comments 124 points</a></li>
+<li><a href="https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/"><strong>Introducing Our New Name</strong> <code>blog.minetest.net</code></a> - <a href="https://news.ycombinator.com/item?id=41832215">51 comments 122 points</a></li>
+<li><a href="https://www.wired.com/story/darpa-thinks-walls-of-oysters-could-protect-shores-against-hurricanes/"><strong>DARPA is funding reef structures that will be colonized by corals and bivalves</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=41828864">28 comments 122 points</a></li>
+<li><a href="https://blog.mapotofu.org/blogs/rabitq-bench/"><strong>Lessons learned from profiling an algorithm in Rust</strong> <code>blog.mapotofu.org</code></a> - <a href="https://news.ycombinator.com/item?id=41828611">19 comments 114 points</a></li>
+<li><a href="https://togithub.com/gmpalter/cl-forth"><strong>Common Lisp implementation of the Forth 2012 Standard</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41827461">64 comments 111 points</a></li>
+<li><a href="https://people.eecs.berkeley.edu/~jrs/highd/"><strong>Counterintuitive Properties of High Dimensional Space</strong> <code>people.eecs.berkeley.edu</code></a> - <a href="https://news.ycombinator.com/item?id=41831617">27 comments 104 points</a></li>
+<li><a href="https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event"><strong>The Optimus robots at Tesla&#39;s Cybercab event were humans in disguise</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=41831009">92 comments 100 points</a></li>
+<li><a href="https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html"><strong>Why pay for a search engine</strong> <code>help.kagi.com</code></a> - <a href="https://news.ycombinator.com/item?id=41833833">86 comments 100 points</a></li>
+<li><a href="http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html"><strong>Refurb weekend: the Symbolics MacIvory Lisp machine I have hated</strong> <code>oldvcr.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=41826388">23 comments 88 points</a></li>
+<li><a href="https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5"><strong>Interview with Yann LeCun on AI</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=41830375">73 comments 85 points</a></li>
+<li><a href="https://www.npr.org/2024/10/12/g-s1-28040/teens-tiktok-addiction-lawsuit-investigation-documents"><strong>The TikTok documents: Stripping teens and boosting &#39;attractive&#39; people</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=41832903">85 comments 82 points</a></li>
+<li><a href="https://www.honest-broker.com/p/the-new-culture-war-is-real-vs-bogus"><strong>The new culture war is real vs. bogus</strong> <code>www.honest-broker.com</code></a> - <a href="https://news.ycombinator.com/item?id=41828968">77 comments 80 points</a></li>
+<li><a href="https://arxiv.org/abs/2410.07874"><strong>A novel channel contention mechanism for improving wi-fi&#39;s reliability</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41828069">31 comments 79 points</a></li>
+<li><a href="https://hbr.org/2024/10/stop-ignoring-your-high-performers"><strong>Stop Ignoring Your High Performers</strong> <code>hbr.org</code></a> - <a href="https://news.ycombinator.com/item?id=41826928">89 comments 77 points</a></li>
+<li><a href="https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/"><strong>The military is an impossible place for hackers, and what to do about it (2018)</strong> <code>warontherocks.com</code></a> - <a href="https://news.ycombinator.com/item?id=41830906">80 comments 77 points</a></li>
+<li><a href="https://www.johndcook.com/blog/2024/10/13/why-does-fm-sound-better-than-am/"><strong>Why does FM sound better than AM?</strong> <code>www.johndcook.com</code></a> - <a href="https://news.ycombinator.com/item?id=41832302">90 comments 74 points</a></li>
+<li><a href="https://www.kron4.com/news/california/ucla-professor-says-hes-homeless-due-to-low-pay/"><strong>UCLA professor says he&#39;s homeless due to low pay</strong> <code>www.kron4.com</code></a> - <a href="https://news.ycombinator.com/item?id=41828443">102 comments 73 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-10-13]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/758</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://blog.yoshuawuyts.com/nesting-allocators/"><strong>Nesting Arena Allocators in Rust</strong> <code>blog.yoshuawuyts.com</code></a> - <a href="https://news.ycombinator.com/item?id=41540777">4 comments 70 points</a></li>
 <li><a href="https://www.statnews.com/2024/09/11/ultra-processed-foods-health-nih-research-kevin-hall-controlled-trials/"><strong>How a scientist is pushing to supersize research into ultra-processed foods</strong> <code>www.statnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=41539826">89 comments 66 points</a></li>
 <li><a href="https://giacomo.coletto.io/blog/arch-amd/"><strong>Installing Arch Linux on a Laptop</strong> <code>giacomo.coletto.io</code></a> - <a href="https://news.ycombinator.com/item?id=41542076">92 comments 64 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-09-14]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/729</link>
-            <guid>729</guid>
-            <pubDate>Sat, 14 Sep 2024 06:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://twitter.com/SmokeAwayyy/status/1834641370486915417"><strong>OpenAI threatens to revoke o1 access for asking it about its chain of thought</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41534474">236 comments 441 points</a></li>
-<li><a href="https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns"><strong>Entire staff of game publisher Annapurna Interactive has reportedly resigned</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=41528266">195 comments 397 points</a></li>
-<li><a href="https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b"><strong>Zero-Click Calendar invite vulnerability chain in macOS</strong> <code>mikko-kenttala.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=41532946">135 comments 366 points</a></li>
-<li><a href="https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage"><strong>CrowdStrike ex-employees: &#39;Quality control was not part of our process&#39;</strong> <code>www.semafor.com</code></a> - <a href="https://news.ycombinator.com/item?id=41534716">163 comments 344 points</a></li>
-<li><a href="https://reader.tymoon.eu/article/437"><strong>Porting SBCL to the Nintendo Switch</strong> <code>reader.tymoon.eu</code></a> - <a href="https://news.ycombinator.com/item?id=41530783">56 comments 317 points</a></li>
-<li><a href="https://togithub.com/coekie/flowtracker"><strong>Show HN: FlowTracker – Track data flowing through Java programs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41530190">30 comments 264 points</a></li>
-<li><a href="https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html"><strong>My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures</strong> <code>louwrentius.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536088">125 comments 203 points</a></li>
-<li><a href="https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170"><strong>Facebook scraped every Australian adult user&#39;s public posts to train AI</strong> <code>www.abc.net.au</code></a> - <a href="https://news.ycombinator.com/item?id=41533060">209 comments 191 points</a></li>
-<li><a href="https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption"><strong>Defend against vampires with 10 gbps network encryption</strong> <code>www.synacktiv.com</code></a> - <a href="https://news.ycombinator.com/item?id=41531699">50 comments 174 points</a></li>
-<li><a href="https://togithub.com/RyanWelly/lisp-in-rs-macros"><strong>Lisp implemented in Rust macros</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41535354">31 comments 168 points</a></li>
-<li><a href="https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html"><strong>I won&#39;t be renewing my Pinboard subscription</strong> <code>notes.kateva.org</code></a> - <a href="https://news.ycombinator.com/item?id=41533958">72 comments 163 points</a></li>
-<li><a href="https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994"><strong>Janet Jackson had the power to crash laptop computers (2022)</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41534483">44 comments 131 points</a></li>
-<li><a href="https://arcprize.org/blog/openai-o1-results-arc-prize"><strong>OpenAI o1 Results on ARC-AGI-Pub</strong> <code>arcprize.org</code></a> - <a href="https://news.ycombinator.com/item?id=41535694">62 comments 119 points</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military"><strong>Intel Solidifies $3.5B Deal to Make Chips for Military</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536131">68 comments 104 points</a></li>
-<li><a href="https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art"><strong>JG Ballard&#39;s Apocalyptic Art</strong> <code>www.newstatesman.com</code></a> - <a href="https://news.ycombinator.com/item?id=41530364">22 comments 101 points</a></li>
-<li><a href="https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/"><strong>I Added SVG Maps to My Travel Posts</strong> <code>cyberb.space</code></a> - <a href="https://news.ycombinator.com/item?id=41532958">13 comments 93 points</a></li>
-<li><a href="https://www.haiku-os.org/get-haiku/r1beta5/release-notes"><strong>Haiku R1/beta5 has been released</strong> <code>www.haiku-os.org</code></a> - <a href="https://news.ycombinator.com/item?id=41532540">5 comments 91 points</a></li>
-<li><a href="https://materializedview.io/p/modular-monoliths-are-a-good-idea"><strong>Modular Monoliths Are a Good Idea</strong> <code>materializedview.io</code></a> - <a href="https://news.ycombinator.com/item?id=41534179">46 comments 85 points</a></li>
-<li><a href="https://www.stadafa.com/2020/12/stockholm-syndrome-discredit.html"><strong>&quot;Stockholm Syndrome&quot; was invented by police to discredit a female hostage (2020)</strong> <code>www.stadafa.com</code></a> - <a href="https://news.ycombinator.com/item?id=41530415">52 comments 84 points</a></li>
-<li><a href="https://www.macobserver.com/ios/stolen-iphones-will-be-even-more-useless-from-ios-18-onwards/"><strong>Stolen iPhones Will Be Even More Useless from iOS 18 Onwards</strong> <code>www.macobserver.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536232">63 comments 78 points</a></li>
-<li><a href="https://xeiaso.net/blog/2024/strawberry/"><strong>I fixed the strawberry problem because OpenAI couldn&#39;t</strong> <code>xeiaso.net</code></a> - <a href="https://news.ycombinator.com/item?id=41530647">86 comments 77 points</a></li>
-<li><a href="https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz"><strong>NextNav&#39;s Callous Land-Grab to Privatize 900 MHz</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=41535994">22 comments 76 points</a></li>
-<li><a href="https://twitter.com/anpaure/status/1834576613742145982"><strong>CS Career fair cancelled at community college because no companies reached out</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41533271">100 comments 75 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=FIEwcTKUFCA"><strong>Linux kernel contributor swatted and handcuffed live on stream [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=41532098">34 comments 74 points</a></li>
-<li><a href="https://arxiv.org/abs/2408.16782"><strong>The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41536003">22 comments 74 points</a></li>
-<li><a href="https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/"><strong>Martin Luther King Jr. In Berlin</strong> <code>www.german-way.com</code></a> - <a href="https://news.ycombinator.com/item?id=41531383">17 comments 74 points</a></li>
-<li><a href="https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html"><strong>18,000 Miles Later, an American Woman Has Cycled the World</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536542">25 comments 58 points</a></li>
-<li><a href="https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796"><strong>US targets trade loophole used by ecommerce groups Temu and Shein</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536137">16 comments 58 points</a></li>
-<li><a href="https://www.vox.com/future-perfect/371640/economic-growth-climate-change-degrowth-science-global-warming"><strong>Shrinking the economy won&#39;t save the planet</strong> <code>www.vox.com</code></a> - <a href="https://news.ycombinator.com/item?id=41531021">69 comments 54 points</a></li>
-<li><a href="https://www.reuters.com/technology/artificial-intelligence/openais-stunning-150-billion-valuation-hinges-upending-corporate-structure-2024-09-14/"><strong>OpenAI&#39;s $150B valuation hinges on upending corporate structure, sources</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41536735">48 comments 51 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
