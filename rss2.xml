@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 23 Oct 2024 06:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 06:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-10-24]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/769</link>
+            <guid>769</guid>
+            <pubDate>Thu, 24 Oct 2024 06:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://simonwillison.net/2024/Oct/21/claude-artifacts/"><strong>Everything I built with Claude Artifacts this week</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=41929174">356 comments 485 points</a></li>
+<li><a href="https://togithub.com/corbt/agent.exe"><strong>Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41926770">195 comments 345 points</a></li>
+<li><a href="https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html"><strong>Goldman and Apple &#39;illegally sidestepped&#39; obligations to credit-card customers</strong> <code>finance.yahoo.com</code></a> - <a href="https://news.ycombinator.com/item?id=41926978">154 comments 250 points</a></li>
+<li><a href="https://www.matthieulc.com/posts/pablonet/"><strong>Show HN: Wall-mounted diffusion mirror that turns reflections into paintings</strong> <code>www.matthieulc.com</code></a> - <a href="https://news.ycombinator.com/item?id=41929804">49 comments 234 points</a></li>
+<li><a href="https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"><strong>The global surveillance free-for-all in mobile ad data</strong> <code>krebsonsecurity.com</code></a> - <a href="https://news.ycombinator.com/item?id=41923931">116 comments 231 points</a></li>
+<li><a href="https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess"><strong>What happens when you make a move in lichess.org?</strong> <code>www.davidreis.me</code></a> - <a href="https://news.ycombinator.com/item?id=41922928">104 comments 227 points</a></li>
+<li><a href="https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/"><strong>Probably pay attention to tokenizers</strong> <code>cybernetist.com</code></a> - <a href="https://news.ycombinator.com/item?id=41923625">67 comments 210 points</a></li>
+<li><a href="https://bernsteinbear.com/blog/row-poly/"><strong>Adding row polymorphism to Damas-Hindley-Milner</strong> <code>bernsteinbear.com</code></a> - <a href="https://news.ycombinator.com/item?id=41922081">52 comments 198 points</a></li>
+<li><a href="https://www.copetti.org/writings/consoles/playstation-vita/"><strong>Playstation Vita Architecture (Part 1)</strong> <code>www.copetti.org</code></a> - <a href="https://news.ycombinator.com/item?id=41928529">54 comments 168 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei"><strong>TSMC cuts off client after discovering chips sent to Huawei</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=41931392">49 comments 145 points</a></li>
+<li><a href="https://ij.org/press-release/federal-lawsuit-challenges-virginia-citys-use-of-over-170-cameras-to-conduct-prolonged-warrantless-surveillance-of-entire-driving-population/"><strong>Lawsuit challenges Virginia City&#39;s use of cameras for warrantless surveillance</strong> <code>ij.org</code></a> - <a href="https://news.ycombinator.com/item?id=41926472">72 comments 131 points</a></li>
+<li><a href="https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/"><strong>Huawei makes divorce from Android official with HarmonyOS NEXT launch</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=41923387">128 comments 130 points</a></li>
+<li><a href="https://jacko.io/async_intro.html"><strong>Async Rust in Three Parts</strong> <code>jacko.io</code></a> - <a href="https://news.ycombinator.com/item?id=41925323">30 comments 121 points</a></li>
+<li><a href="https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874"><strong>Show HN: I built a task manager that separates &quot;do&quot; and &quot;due&quot; dates</strong> <code>apps.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=41925644">52 comments 117 points</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/"><strong>Users say T-Mobile must pay for killing &quot;lifetime&quot; price lock</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=41924804">86 comments 109 points</a></li>
+<li><a href="https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124"><strong>Paper mills: the &#39;cartel-like&#39; companies behind fraudulent scientific journals</strong> <code>theconversation.com</code></a> - <a href="https://news.ycombinator.com/item?id=41926515">40 comments 109 points</a></li>
+<li><a href="https://benhouston3d.com/blog/risc-v-in-2024-is-slow"><strong>RISC-V is currently slow compared to modern CPUs</strong> <code>benhouston3d.com</code></a> - <a href="https://news.ycombinator.com/item?id=41925511">115 comments 106 points</a></li>
+<li><a href="https://www.wired.com/story/novo-nordisk-ozempic-compounded-fda-block-pharmacies/"><strong>The Maker of Ozempic Is Trying to Block Compounded Versions of Its Drug</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=41925982">144 comments 97 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=41924787"><strong>Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41924787">74 comments 97 points</a></li>
+<li><a href="https://www.dont-click-here.com/"><strong>Don&#39;t use &quot;click here&quot; for link text</strong> <code>www.dont-click-here.com</code></a> - <a href="https://news.ycombinator.com/item?id=41925658">55 comments 96 points</a></li>
+<li><a href="https://togithub.com/dittofeed/dittofeed/tree/main/packages/emailo"><strong>Show HN: Open-source low-code email editor</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41928203">19 comments 96 points</a></li>
+<li><a href="https://togithub.com/huggingface/chat-macOS"><strong>Show HN: A macOS Client for HuggingFace Chat</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41927624">15 comments 95 points</a></li>
+<li><a href="https://togithub.com/RamboRogers/rfhunter"><strong>Show HN: RF Hunter – Find hidden cameras and other devices</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41930628">39 comments 92 points</a></li>
+<li><a href="https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/"><strong>Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=41923429">70 comments 90 points</a></li>
+<li><a href="https://pypy.org/posts/2024/10/jit-peephole-dsl.html"><strong>A DSL for peephole transformation rules of integer operations in the PyPy JIT</strong> <code>pypy.org</code></a> - <a href="https://news.ycombinator.com/item?id=41926669">7 comments 89 points</a></li>
+<li><a href="https://benjdd.com/aws/"><strong>AWS data center latencies, visualized</strong> <code>benjdd.com</code></a> - <a href="https://news.ycombinator.com/item?id=41931572">36 comments 85 points</a></li>
+<li><a href="https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/"><strong>My NumPy year: Creating a DType for the next generation of scientific computing</strong> <code>quansight.com</code></a> - <a href="https://news.ycombinator.com/item?id=41927436">14 comments 85 points</a></li>
+<li><a href="https://blog.gitbutler.com/fearless-rebasing/"><strong>GitButler now supports first class conflicts, making rebasing less annoying</strong> <code>blog.gitbutler.com</code></a> - <a href="https://news.ycombinator.com/item?id=41926942">76 comments 82 points</a></li>
+<li><a href="https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/"><strong>Apple may stop producing Vision Pro by the end of 2024</strong> <code>www.macrumors.com</code></a> - <a href="https://news.ycombinator.com/item?id=41925006">117 comments 81 points</a></li>
+<li><a href="https://togithub.com/openobserve/openobserve"><strong>OpenObserve: Observability platform for logs, metrics, traces, analytics</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41927743">58 comments 78 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-10-23]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/768</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://blog.oodle.ai/building-a-high-performance-low-cost-metrics-observability-system/"><strong>Show HN: Oodle – serverless, fully-managed, drop-in replacement for Prometheus</strong> <code>blog.oodle.ai</code></a> - <a href="https://news.ycombinator.com/item?id=41635871">58 comments 78 points</a></li>
 <li><a href="https://ijc8.me/2024/08/26/gsoc-difflogic/"><strong>GSoC&#39;24: Differentiable Logic for Interactive Systems and Generative Music</strong> <code>ijc8.me</code></a> - <a href="https://news.ycombinator.com/item?id=41638581">7 comments 76 points</a></li>
 <li><a href="https://ryelang.org/cookbook/rye-fyne/examples/"><strong>GUI Examples – Rye Language</strong> <code>ryelang.org</code></a> - <a href="https://news.ycombinator.com/item?id=41633899">37 comments 67 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-09-24]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/739</link>
-            <guid>739</guid>
-            <pubDate>Tue, 24 Sep 2024 06:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/"><strong>I designed a Dieter Rams-inspired iPhone dock</strong> <code>arslan.io</code></a> - <a href="https://news.ycombinator.com/item?id=41623467">278 comments 1217 points</a></li>
-<li><a href="https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at"><strong>What&#39;s inside the QR code menu at this cafe?</strong> <code>peabee.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41622632">307 comments 444 points</a></li>
-<li><a href="https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16"><strong>How the iPhone 16&#39;s electrically-released adhesive works</strong> <code>www.ifixit.com</code></a> - <a href="https://news.ycombinator.com/item?id=41623251">197 comments 406 points</a></li>
-<li><a href="https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/"><strong>Cloudflare&#39;s new marketplace lets websites charge AI bots for scraping</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=41625903">248 comments 382 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41629377"><strong>Show HN: I Wrote a Book on Java</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41629377">96 comments 378 points</a></li>
-<li><a href="https://ia.samaltman.com/"><strong>The Intelligence Age</strong> <code>ia.samaltman.com</code></a> - <a href="https://news.ycombinator.com/item?id=41628167">353 comments 292 points</a></li>
-<li><a href="https://www.atomsonly.news/p/franklin-oil"><strong>In 1870, Lord Rayleigh used oil and water to calculate the size of molecules</strong> <code>www.atomsonly.news</code></a> - <a href="https://news.ycombinator.com/item?id=41629475">100 comments 282 points</a></li>
-<li><a href="https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey)"><strong>We fine-tuned Llama 405B on AMD GPUs</strong> <code>publish.obsidian.md</code></a> - <a href="https://news.ycombinator.com/item?id=41630913">48 comments 270 points</a></li>
-<li><a href="https://www.the-sentinel-intelligence.com/p/heres-why-they-want-you-back-at-the-office-so-bad"><strong>The war on remote work has nothing to do with productivity</strong> <code>www.the-sentinel-intelligence.com</code></a> - <a href="https://news.ycombinator.com/item?id=41622640">276 comments 255 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=KRRNR4HyYaw"><strong>iPhone 16 Pro Storage Expansion 128GB to 1TB [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=41631130">125 comments 239 points</a></li>
-<li><a href="http://rachelbythebay.com/w/2024/09/22/colo/"><strong>A terrible way to jump into colocating your own stuff</strong> <code>rachelbythebay.com</code></a> - <a href="https://news.ycombinator.com/item?id=41622653">125 comments 186 points</a></li>
-<li><a href="https://www.nrm.org/2024/08/mad/"><strong>What, Me Worry? The Art and Humor of Mad Magazine</strong> <code>www.nrm.org</code></a> - <a href="https://news.ycombinator.com/item?id=41627787">75 comments 170 points</a></li>
-<li><a href="https://togithub.com/nobuyuki83/floor_plan"><strong>Free-form floor plan design using differentiable Voronoi diagram</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41627549">33 comments 170 points</a></li>
-<li><a href="https://twitter.com/wpengine/status/1838350670564377051"><strong>WP Engine sent &quot;cease and desist&quot; letter to Automattic</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41631912">93 comments 159 points</a></li>
-<li><a href="https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity"><strong>Telegram will now hand over phone number and IP for criminal suspects</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=41629620">103 comments 156 points</a></li>
-<li><a href="https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_1.html"><strong>Rust panics under the hood, and implementing them in .NET</strong> <code>fractalfir.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41622601">61 comments 133 points</a></li>
-<li><a href="https://togithub.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0"><strong>Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41625714">57 comments 118 points</a></li>
-<li><a href="https://conbini.kikkia.dev"><strong>Show HN: Interactive map of the convenience store &quot;turf war&quot; in Japan</strong> <code>conbini.kikkia.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41626063">48 comments 105 points</a></li>
-<li><a href="https://a16z.com/anime-is-eating-the-world/"><strong>Anime is eating the world</strong> <code>a16z.com</code></a> - <a href="https://news.ycombinator.com/item?id=41629811">302 comments 104 points</a></li>
-<li><a href="https://old.reddit.com/r/toronto/comments/1fnqw0c/psa_toronto_hydro_is_able_to_see_your_login/"><strong>Major Toronto Utility Company Stores Customers&#39; Passwords in Plain Text</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=41630962">72 comments 99 points</a></li>
-<li><a href="http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html"><strong>Inside a Ferroelectric RAM Chip</strong> <code>www.righto.com</code></a> - <a href="https://news.ycombinator.com/item?id=41629923">38 comments 94 points</a></li>
-<li><a href="https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/"><strong>Overview of cross-architecture portability problems</strong> <code>blogs.gentoo.org</code></a> - <a href="https://news.ycombinator.com/item?id=41624510">17 comments 87 points</a></li>
-<li><a href="https://www.chinatalk.media/p/autocracy-and-stagnation-how-imperial"><strong>Autocracy and Stagnation: How Imperial Exams Shaped China&#39;s Destiny</strong> <code>www.chinatalk.media</code></a> - <a href="https://news.ycombinator.com/item?id=41624827">76 comments 81 points</a></li>
-<li><a href="https://togithub.com/xlmnxp/Qocker"><strong>Qocker is a user-friendly Qt GUI application for managing Docker containers</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41622685">47 comments 80 points</a></li>
-<li><a href="https://todayhasbeen.com"><strong>Show HN: A journaling service that runs over WhatsApp</strong> <code>todayhasbeen.com</code></a> - <a href="https://news.ycombinator.com/item?id=41625402">54 comments 77 points</a></li>
-<li><a href="https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/"><strong>Averaging is a convenient fiction of neuroscience</strong> <code>www.thetransmitter.org</code></a> - <a href="https://news.ycombinator.com/item?id=41630907">57 comments 68 points</a></li>
-<li><a href="https://www.trend-mill.com/p/honey-youtubers-are-poisoning-the"><strong>Honey, YouTubers are poisoning the kids</strong> <code>www.trend-mill.com</code></a> - <a href="https://news.ycombinator.com/item?id=41628225">77 comments 67 points</a></li>
-<li><a href="https://torrentfreak.com/court-orders-google-to-uninstall-pirate-iptv-app-sideloaded-on-android-devices-240923/"><strong>Court orders Google to uninstall pirate IPTV app sideloaded on Android devices</strong> <code>torrentfreak.com</code></a> - <a href="https://news.ycombinator.com/item?id=41625374">39 comments 66 points</a></li>
-<li><a href="https://togithub.com/panoratech/Panora"><strong>Launch HN: Panora (YC S24) – Data Integration API for LLMs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41627966">10 comments 63 points</a></li>
-<li><a href="https://torrentfreak.com/telegram-removes-z-library-posts-due-to-copyright-infringement-240923/"><strong>Telegram Removes Z-Library Posts &#39;Due to Copyright Infringement&#39;</strong> <code>torrentfreak.com</code></a> - <a href="https://news.ycombinator.com/item?id=41631017">34 comments 62 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
