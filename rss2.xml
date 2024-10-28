@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 27 Oct 2024 06:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 06:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-10-28]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/773</link>
+            <guid>773</guid>
+            <pubDate>Mon, 28 Oct 2024 06:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html"><strong>A Chopin waltz unearthed after nearly 200 years</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=41961866">105 comments 326 points</a></li>
+<li><a href="https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds"><strong>Up to $41B in World Bank climate finance unaccounted for, Oxfam finds</strong> <code>www.oxfam.org</code></a> - <a href="https://news.ycombinator.com/item?id=41964639">112 comments 290 points</a></li>
+<li><a href="https://togithub.com/soimort/you-get"><strong>You-get: Dumb downloader that scrapes the web</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41962205">102 comments 257 points</a></li>
+<li><a href="https://flathub.org/apps/net.newpipe.NewPipe"><strong>NewPipe on Linux, Using Android_translation_layer</strong> <code>flathub.org</code></a> - <a href="https://news.ycombinator.com/item?id=41963932">52 comments 208 points</a></li>
+<li><a href="https://blinry.org/coast-to-coast/"><strong>Crossing the USA by Train</strong> <code>blinry.org</code></a> - <a href="https://news.ycombinator.com/item?id=41961034">294 comments 203 points</a></li>
+<li><a href="https://togithub.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama"><strong>NotebookLlama: An open source version of NotebookLM</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41964980">33 comments 199 points</a></li>
+<li><a href="https://clace.io/blog/sqlite/"><strong>Using SQLite as storage for web server static content</strong> <code>clace.io</code></a> - <a href="https://news.ycombinator.com/item?id=41963996">102 comments 183 points</a></li>
+<li><a href="https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat"><strong>50 Years Ago, Sugar Industry Paid Scientists to Point Blame at Fat (2016)</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=41962750">151 comments 179 points</a></li>
+<li><a href="https://paulgraham.com/writes.html"><strong>Writes and Write-Nots</strong> <code>paulgraham.com</code></a> - <a href="https://news.ycombinator.com/item?id=41960914">147 comments 176 points</a></li>
+<li><a href="https://map.simonsarris.com/p/school-is-not-enough"><strong>School is Not Enough: Learning is a consequence of doing (2021)</strong> <code>map.simonsarris.com</code></a> - <a href="https://news.ycombinator.com/item?id=41963063">110 comments 172 points</a></li>
+<li><a href="https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative"><strong>Ibis: Federated Wikipedia alternative</strong> <code>ibis.wiki</code></a> - <a href="https://news.ycombinator.com/item?id=41964210">108 comments 164 points</a></li>
+<li><a href="https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/"><strong>Open Source on its own is no alternative to Big Tech</strong> <code>berthub.eu</code></a> - <a href="https://news.ycombinator.com/item?id=41960442">186 comments 163 points</a></li>
+<li><a href="https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/"><strong>Moonshine, the new state of the art for speech to text</strong> <code>petewarden.com</code></a> - <a href="https://news.ycombinator.com/item?id=41960085">33 comments 161 points</a></li>
+<li><a href="https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md"><strong>ATL: A layer to run Android apps on Linux</strong> <code>gitlab.com</code></a> - <a href="https://news.ycombinator.com/item?id=41966785">18 comments 159 points</a></li>
+<li><a href="https://freenet.org/"><strong>Freenet: A decentralized alternative to world wide web</strong> <code>freenet.org</code></a> - <a href="https://news.ycombinator.com/item?id=41964191">69 comments 144 points</a></li>
+<li><a href="https://docs.racket-lang.org/pollen/"><strong>Pollen: A publishing system written in Racket</strong> <code>docs.racket-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=41963491">9 comments 116 points</a></li>
+<li><a href="https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/"><strong>Using less memory to look up IP addresses in Mess With DNS</strong> <code>jvns.ca</code></a> - <a href="https://news.ycombinator.com/item?id=41962822">30 comments 100 points</a></li>
+<li><a href="https://www.londoncentric.media/p/an-utter-shitshow-inside-the-transport"><strong>Inside the Transport for London cyberattack</strong> <code>www.londoncentric.media</code></a> - <a href="https://news.ycombinator.com/item?id=41964117">77 comments 93 points</a></li>
+<li><a href="https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/"><strong>RP FLIP escapes wrecker&#39;s claws</strong> <code>gcaptain.com</code></a> - <a href="https://news.ycombinator.com/item?id=41964882">27 comments 84 points</a></li>
+<li><a href="https://togithub.com/open-mmlab/Amphion"><strong>Amphion: An open-source audio, music, and speech generation toolkit</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41962956">2 comments 83 points</a></li>
+<li><a href="http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html"><strong>The MIPS ThinkPad, kind of (2022)</strong> <code>oldvcr.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=41964467">20 comments 81 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=41966114"><strong>Ask HN: What Are You Working On? (October 2024)</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41966114">215 comments 77 points</a></li>
+<li><a href="https://infrequently.org/2024/10/platforms-are-competitions/"><strong>Platform Strategy and Its Discontents</strong> <code>infrequently.org</code></a> - <a href="https://news.ycombinator.com/item?id=41965091">17 comments 71 points</a></li>
+<li><a href="https://www.science.org/content/article/some-scientific-papers-words-expressing-uncertainty-have-decreased"><strong>In some scientific papers, words expressing uncertainty have decreased (2023)</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=41962930">46 comments 65 points</a></li>
+<li><a href="https://www.filfre.net/2016/11/the-prophet-of-cyberspace/"><strong>The Prophet of Cyberspace (2016)</strong> <code>www.filfre.net</code></a> - <a href="https://news.ycombinator.com/item?id=41962509">12 comments 63 points</a></li>
+<li><a href="https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump"><strong>&#39;Fandom has toxified the world&#39;: Watchmen author Alan Moore</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41960954">85 comments 59 points</a></li>
+<li><a href="https://www.cia.gov/the-world-factbook/field/real-gdp-purchasing-power-parity/country-comparison/"><strong>Real GDP (purchasing power parity)</strong> <code>www.cia.gov</code></a> - <a href="https://news.ycombinator.com/item?id=41963931">66 comments 57 points</a></li>
+<li><a href="https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism"><strong>Axiomatics: Mathematical thought and high modernism</strong> <code>old.maa.org</code></a> - <a href="https://news.ycombinator.com/item?id=41962944">12 comments 56 points</a></li>
+<li><a href="https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic"><strong>What is the first American graphic novel?</strong> <code>haljohnsonbooks.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41963635">21 comments 51 points</a></li>
+<li><a href="https://www.construction-physics.com/p/will-the-china-cycle-come-for-airbus"><strong>Will the China cycle come for Airbus and Boeing?</strong> <code>www.construction-physics.com</code></a> - <a href="https://news.ycombinator.com/item?id=41964769">34 comments 48 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-10-27]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/772</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://togithub.com/better-auth/better-auth"><strong>Show HN: The most comprehensive authentication library for TypeScript</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41678652">38 comments 62 points</a></li>
 <li><a href="https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/"><strong>Apple not investing in OpenAI after all, new report says</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=41678654">2 comments 61 points</a></li>
 <li><a href="https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic"><strong>Show HN: Enable right click and copy on websites that disabled it</strong> <code>chromewebstore.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=41681469">28 comments 58 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-09-28]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/743</link>
-            <guid>743</guid>
-            <pubDate>Sat, 28 Sep 2024 06:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.ontestautomation.com/i-am-tired-of-ai/"><strong>I Am Tired of AI</strong> <code>www.ontestautomation.com</code></a> - <a href="https://news.ycombinator.com/item?id=41667652">946 comments 1049 points</a></li>
-<li><a href="https://www.science.org/content/blog-post/fraud-so-much-fraud"><strong>Fraud, so much fraud</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=41672599">597 comments 1032 points</a></li>
-<li><a href="https://larslofgren.com/cnn-usa-today-forbes-marketplace/"><strong>CNN and USA Today have fake websites, I believe Forbes Marketplace runs them</strong> <code>larslofgren.com</code></a> - <a href="https://news.ycombinator.com/item?id=41670210">246 comments 672 points</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro"><strong>TSMC execs allegedly dismissed OpenAI CEO Sam Altman as &#39;podcasting bro&#39;</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=41668824">522 comments 459 points</a></li>
-<li><a href="https://variety.com/2024/legit/news/maggie-smith-dead-harry-potter-1236157839/"><strong>Maggie Smith has died</strong> <code>variety.com</code></a> - <a href="https://news.ycombinator.com/item?id=41670429">42 comments 367 points</a></li>
-<li><a href="https://papanotes.com/the-best-4-ever-spent"><strong>The best $4 ever spent</strong> <code>papanotes.com</code></a> - <a href="https://news.ycombinator.com/item?id=41671145">126 comments 364 points</a></li>
-<li><a href="https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html"><strong>It&#39;s hard to write code for computers, but it&#39;s harder to write code for humans</strong> <code>erikbern.com</code></a> - <a href="https://news.ycombinator.com/item?id=41668304">110 comments 361 points</a></li>
-<li><a href="https://www.polygon.com/news/457071/new"><strong>CA law means stores can&#39;t say you&#39;re buying a game if you&#39;re merely licensing it</strong> <code>www.polygon.com</code></a> - <a href="https://news.ycombinator.com/item?id=41671838">106 comments 235 points</a></li>
-<li><a href="https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/"><strong>How AlphaChip transformed computer chip design</strong> <code>deepmind.google</code></a> - <a href="https://news.ycombinator.com/item?id=41672110">131 comments 228 points</a></li>
-<li><a href="https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368"><strong>AMD Unveils Its First Small Language Model AMD-135M</strong> <code>community.amd.com</code></a> - <a href="https://news.ycombinator.com/item?id=41674382">62 comments 222 points</a></li>
-<li><a href="https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/"><strong>Moving Bricks: Money-laundering practices in the online scam industry</strong> <code>globalchinapulse.net</code></a> - <a href="https://news.ycombinator.com/item?id=41669934">155 comments 208 points</a></li>
-<li><a href="https://new.mta.info/article/mta-open-data-challenge"><strong>MTA Open Data Challenge</strong> <code>new.mta.info</code></a> - <a href="https://news.ycombinator.com/item?id=41670186">60 comments 202 points</a></li>
-<li><a href="https://joshcollinsworth.com/blog/fire-matt"><strong>If WordPress is to survive, Matt Mullenweg must be removed</strong> <code>joshcollinsworth.com</code></a> - <a href="https://news.ycombinator.com/item?id=41676653">147 comments 201 points</a></li>
-<li><a href="https://blog.cloudflare.com/container-platform-preview/"><strong>Our container platform is in production. It has GPUs. Here&#39;s an early look</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=41669961">60 comments 173 points</a></li>
-<li><a href="https://arxiv.org/abs/2409.14252"><strong>Collaborative text editing with Eg-Walker: Better, faster, smaller</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41669840">18 comments 172 points</a></li>
-<li><a href="https://thesecretlivesofdata.com/raft/"><strong>Raft: Understandable Distributed Consensus (2014)</strong> <code>thesecretlivesofdata.com</code></a> - <a href="https://news.ycombinator.com/item?id=41669850">61 comments 171 points</a></li>
-<li><a href="https://ssoready.com/docs/saml/saml-technical-primer"><strong>SAML: A Technical Primer</strong> <code>ssoready.com</code></a> - <a href="https://news.ycombinator.com/item?id=41674109">74 comments 165 points</a></li>
-<li><a href="https://www.xda-developers.com/privacy-implications-new-microsoft-outlook/"><strong>Microsoft&#39;s new Outlook client moves your email to the cloud (2023)</strong> <code>www.xda-developers.com</code></a> - <a href="https://news.ycombinator.com/item?id=41666945">121 comments 160 points</a></li>
-<li><a href="https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents"><strong>Greenwich: an experiment in collaborative links</strong> <code>readpolymathematics.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41670140">93 comments 149 points</a></li>
-<li><a href="https://lyonsden.net/my-mega65-is-finally-here/"><strong>My MEGA65 is finally here</strong> <code>lyonsden.net</code></a> - <a href="https://news.ycombinator.com/item?id=41670743">53 comments 141 points</a></li>
-<li><a href="https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/"><strong>Smart TVs take snapshots of what you watch multiple times per second</strong> <code>www.newscientist.com</code></a> - <a href="https://news.ycombinator.com/item?id=41667243">128 comments 126 points</a></li>
-<li><a href="https://lithub.com/why-everything-we-think-we-know-about-spies-is-wrong/"><strong>Everything we know about spies is wrong</strong> <code>lithub.com</code></a> - <a href="https://news.ycombinator.com/item?id=41669922">106 comments 118 points</a></li>
-<li><a href="https://gavinhoward.com/2024/09/rewriting-rust-a-response/"><strong>Rewriting Rust: A Response</strong> <code>gavinhoward.com</code></a> - <a href="https://news.ycombinator.com/item?id=41671034">81 comments 115 points</a></li>
-<li><a href="https://www.reuters.com/legal/litigation/us-trademark-office-cancels-marvel-dcs-super-hero-marks-2024-09-26/"><strong>US Trademark Office Cancels Marvel, DC&#39;s &#39;Super Hero&#39; Marks</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41676297">30 comments 114 points</a></li>
-<li><a href="https://fortune.com/crypto/2024/09/26/cz-changpeng-zhao-crypto-release-date-binance-founder/"><strong>Binance founder &#39;CZ&#39; leaves prison on Friday</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=41671091">105 comments 113 points</a></li>
-<li><a href="http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/"><strong>Guide to implementing 2D platformers (2012)</strong> <code>higherorderfun.com</code></a> - <a href="https://news.ycombinator.com/item?id=41672669">8 comments 111 points</a></li>
-<li><a href="https://www.theguardian.com/world/2024/sep/27/japan-onigiri-rice-boom"><strong>Japan&#39;s humble onigiri took over lunchtimes around the world</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41670004">73 comments 108 points</a></li>
-<li><a href="https://www.smithsonianmag.com/smart-news/earth-is-on-the-brink-of-breaching-a-seventh-of-nine-planetary-boundaries-that-support-life-180985144/"><strong>Earth Is on the Brink of Breaching a 7th of Nine &#39;Planetary Boundaries&#39;</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=41672418">127 comments 102 points</a></li>
-<li><a href="https://hannahilea.com/blog/cuttle-obsession/"><strong>Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin</strong> <code>hannahilea.com</code></a> - <a href="https://news.ycombinator.com/item?id=41674677">12 comments 94 points</a></li>
-<li><a href="https://www.axios.com/2024/09/20/openai-largest-vc-round"><strong>OpenAI is closing in on raising $6.5B. Largest VC raise in history</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=41670073">83 comments 93 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
