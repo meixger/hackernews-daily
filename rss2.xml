@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 06 Nov 2024 06:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 06:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-11-07]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/783</link>
+            <guid>783</guid>
+            <pubDate>Thu, 07 Nov 2024 06:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/"><strong>Trump wins presidency for second time</strong> <code>thehill.com</code></a> - <a href="https://news.ycombinator.com/item?id=42057647">7962 comments 1671 points</a></li>
+<li><a href="https://weiyen.net/articles/useful-macos-cmd-line-utilities"><strong>Useful built-in macOS command-line utilities</strong> <code>weiyen.net</code></a> - <a href="https://news.ycombinator.com/item?id=42057431">202 comments 721 points</a></li>
+<li><a href="https://maxsiedentopf.com/passport-photos/"><strong>Passport Photos</strong> <code>maxsiedentopf.com</code></a> - <a href="https://news.ycombinator.com/item?id=42069646">91 comments 701 points</a></li>
+<li><a href="https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965"><strong>Trudeau government bans TikTok from operating in Canada</strong> <code>www.cbc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=42070946">308 comments 553 points</a></li>
+<li><a href="https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16"><strong>New images of Jupiter</strong> <code>www.missionjuno.swri.edu</code></a> - <a href="https://news.ycombinator.com/item?id=42057851">70 comments 435 points</a></li>
+<li><a href="https://passingtime.substack.com/p/learning-not-to-trust-the-all-in"><strong>Learning not to trust the All-In podcast</strong> <code>passingtime.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42065538">189 comments 377 points</a></li>
+<li><a href="https://security.apple.com/documentation/private-cloud-compute/"><strong>Private Cloud Compute Security Guide</strong> <code>security.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=42062230">149 comments 323 points</a></li>
+<li><a href="https://yourhackernews.com/"><strong>Show HN: Hacker News frontpage as a print newspaper that you can personalize</strong> <code>yourhackernews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42063709">85 comments 309 points</a></li>
+<li><a href="https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/"><strong>Switch 2 will be backwards compatible with Switch</strong> <code>www.videogameschronicle.com</code></a> - <a href="https://news.ycombinator.com/item?id=42062841">184 comments 307 points</a></li>
+<li><a href="https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill"><strong>WebSockets cost us $1M on our AWS bill</strong> <code>www.recall.ai</code></a> - <a href="https://news.ycombinator.com/item?id=42067275">171 comments 292 points</a></li>
+<li><a href="https://www.spacex.com/launches/mission/?missionId=starship-flight-6"><strong>Starship&#39;s Sixth Flight Test</strong> <code>www.spacex.com</code></a> - <a href="https://news.ycombinator.com/item?id=42067265">336 comments 284 points</a></li>
+<li><a href="https://magazine.medlineplus.gov/article/caring-for-yourself-while-caring-for-others"><strong>Caring for yourself while caring for others</strong> <code>magazine.medlineplus.gov</code></a> - <a href="https://news.ycombinator.com/item?id=42068485">56 comments 253 points</a></li>
+<li><a href="https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false"><strong>Show HN: SuperSplat – open-source 3D Gaussian Splat Editor</strong> <code>playcanvas.com</code></a> - <a href="https://news.ycombinator.com/item?id=42060856">44 comments 217 points</a></li>
+<li><a href="https://aide.dev/"><strong>Show HN: Aide, an open-source AI native IDE</strong> <code>aide.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42063346">127 comments 171 points</a></li>
+<li><a href="https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443"><strong>What has case distinction but is neither uppercase nor lowercase?</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=42061313">82 comments 170 points</a></li>
+<li><a href="https://www.coinbase.com/price/bitcoin"><strong>Bitcoin has made a new all-time high price</strong> <code>www.coinbase.com</code></a> - <a href="https://news.ycombinator.com/item?id=42062211">288 comments 155 points</a></li>
+<li><a href="https://ente.io/blog/monorepo-retrospective/"><strong>Monorepo – Our Experience</strong> <code>ente.io</code></a> - <a href="https://news.ycombinator.com/item?id=42062074">165 comments 154 points</a></li>
+<li><a href="https://ollama.com/blog/llama3.2-vision"><strong>Ollama 0.4 is released with support for Meta&#39;s Llama 3.2 Vision models locally</strong> <code>ollama.com</code></a> - <a href="https://news.ycombinator.com/item?id=42069453">11 comments 148 points</a></li>
+<li><a href="https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/"><strong>Australia proposes ban on social media for those under 16</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=42071310">92 comments 142 points</a></li>
+<li><a href="https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux"><strong>AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache</strong> <code>www.phoronix.com</code></a> - <a href="https://news.ycombinator.com/item?id=42062934">96 comments 136 points</a></li>
+<li><a href="https://www.mattkeeter.com/projects/rotation/"><strong>3D Rotation Design</strong> <code>www.mattkeeter.com</code></a> - <a href="https://news.ycombinator.com/item?id=42058355">29 comments 120 points</a></li>
+<li><a href="https://togithub.com/stoix-dev/stoix-cloud-saver"><strong>Forget CDK and AWS&#39;s insane costs. Pulumi and DigitalOcean to the rescue</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42065561">70 comments 117 points</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0147651324012636"><strong>Exposure to phthalate compromises brain function in adult vertebrates</strong> <code>www.sciencedirect.com</code></a> - <a href="https://news.ycombinator.com/item?id=42069320">41 comments 108 points</a></li>
+<li><a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5681"><strong>EU opens antitrust investigation into anticompetitive practices by Corning</strong> <code>ec.europa.eu</code></a> - <a href="https://news.ycombinator.com/item?id=42061599">20 comments 105 points</a></li>
+<li><a href="https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html"><strong>Upcoming changes to the DNSSEC root trust anchor</strong> <code>lists.dns-oarc.net</code></a> - <a href="https://news.ycombinator.com/item?id=42058302">23 comments 98 points</a></li>
+<li><a href="https://twitter.com/seatedro/status/1853262737557590479"><strong>2x 16GBx256GB Mac minis cost $1 cheaper than a single 32GBx512GB Mac mini</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=42057758">45 comments 95 points</a></li>
+<li><a href="https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/"><strong>Powering the Mars Base</strong> <code>caseyhandmer.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=42060286">73 comments 91 points</a></li>
+<li><a href="https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/"><strong>Windows 2022 Servers Unexpectedly Upgrading to 2025</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=42057451">38 comments 88 points</a></li>
+<li><a href="https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html"><strong>Visualizing binary files with ImHex&#39;s DSL, the &quot;pattern language&quot;</strong> <code>xy2i.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=42070153">7 comments 85 points</a></li>
+<li><a href="https://chat.com/"><strong>ChatGPT now on chat.com</strong> <code>chat.com</code></a> - <a href="https://news.ycombinator.com/item?id=42067474">101 comments 84 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-11-06]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/782</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels"><strong>Lunar Lake&#39;s iGPU: Debut of Intel&#39;s Xe2 Architecture</strong> <code>chipsandcheese.com</code></a> - <a href="https://news.ycombinator.com/item?id=41780929">20 comments 69 points</a></li>
 <li><a href="https://www.reuters.com/legal/tiktok-sued-by-13-states-dc-accused-harming-younger-users-2024-10-08/"><strong>TikTok sued by 13 states and DC, accused of harming younger users</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41779254">85 comments 67 points</a></li>
 <li><a href="http://sonic.net/~mly/www.geolith.com/bart/"><strong>Engineering Geology of the BART System (2000)</strong> <code>sonic.net</code></a> - <a href="https://news.ycombinator.com/item?id=41774175">12 comments 60 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-10-08]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/753</link>
-            <guid>753</guid>
-            <pubDate>Tue, 08 Oct 2024 06:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html"><strong>Can you get root with only a cigarette lighter?</strong> <code>www.da.vidbuchanan.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=41765716">123 comments 512 points</a></li>
-<li><a href="https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores"><strong>Google must open Android for third-party stores, rules Epic judge</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=41769657">373 comments 493 points</a></li>
-<li><a href="https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html"><strong>What&#39;s New in Ruby on Rails 8</strong> <code>blog.appsignal.com</code></a> - <a href="https://news.ycombinator.com/item?id=41766515">213 comments 468 points</a></li>
-<li><a href="https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/"><strong>US antitrust case against Amazon to move forward</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41768658">166 comments 379 points</a></li>
-<li><a href="https://twitter.com/notengoprisa/status/1842550658102079556"><strong>Nearly all of the Google images results for &quot;baby peacock&quot; are AI generated</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41767648">276 comments 330 points</a></li>
-<li><a href="https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers"><strong>An e-waste dumping ground</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=41765334">170 comments 269 points</a></li>
-<li><a href="https://www.newyorker.com/magazine/2024/10/14/silicon-valley-the-new-lobbying-monster"><strong>Silicon Valley, the new lobbying monster</strong> <code>www.newyorker.com</code></a> - <a href="https://news.ycombinator.com/item?id=41765734">260 comments 258 points</a></li>
-<li><a href="https://togithub.com/gorhill/uBlock/commit/6acf97bf51"><strong>Rewrite cname uncloaking code to account for new ipaddress= option</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41770921">108 comments 256 points</a></li>
-<li><a href="https://docs.python.org/3.13/whatsnew/3.13.html"><strong>Python 3.13.0 Is Released</strong> <code>docs.python.org</code></a> - <a href="https://news.ycombinator.com/item?id=41766035">104 comments 238 points</a></li>
-<li><a href="https://docs.hetzner.com/storage/object-storage/"><strong>Hetzner Object Storage</strong> <code>docs.hetzner.com</code></a> - <a href="https://news.ycombinator.com/item?id=41765435">173 comments 236 points</a></li>
-<li><a href="https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck"><strong>Show HN: Visualization of website accessibility tree</strong> <code>chromewebstore.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=41764635">22 comments 236 points</a></li>
-<li><a href="https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/"><strong>Building a single-page app with Htmx</strong> <code>jakelazaroff.com</code></a> - <a href="https://news.ycombinator.com/item?id=41766882">112 comments 218 points</a></li>
-<li><a href="https://www.dreamsongs.com/RiseOfWorseIsBetter.html"><strong>The Rise of Worse Is Better (1991)</strong> <code>www.dreamsongs.com</code></a> - <a href="https://news.ycombinator.com/item?id=41766293">228 comments 213 points</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/"><strong>AT&amp;T, Verizon reportedly hacked to target US govt wiretapping platform</strong> <code>www.bleepingcomputer.com</code></a> - <a href="https://news.ycombinator.com/item?id=41766610">43 comments 204 points</a></li>
-<li><a href="https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/"><strong>Homemade AI Drone Software Finds People When Search and Rescue Teams Can&#39;t</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=41764486">105 comments 174 points</a></li>
-<li><a href="https://www.nobelprize.org/prizes/medicine/2024/summary/"><strong>The Nobel Prize in Physiology or Medicine 2024</strong> <code>www.nobelprize.org</code></a> - <a href="https://news.ycombinator.com/item?id=41764283">70 comments 146 points</a></li>
-<li><a href="https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/"><strong>Is the attack helicopter dead?</strong> <code>hushkit.net</code></a> - <a href="https://news.ycombinator.com/item?id=41769971">367 comments 144 points</a></li>
-<li><a href="https://wasmer.io/posts/clang-in-browser"><strong>Show HN: Compiling C in the browser using WebAssembly</strong> <code>wasmer.io</code></a> - <a href="https://news.ycombinator.com/item?id=41767644">51 comments 141 points</a></li>
-<li><a href="https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/"><strong>ByteDance’s Bytespider is scraping at much higher rates than other platforms</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=41764670">90 comments 137 points</a></li>
-<li><a href="https://togithub.com/THUDM/LongWriter"><strong>Longwriter – Increase llama3.1 output to 10k words</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41766144">19 comments 113 points</a></li>
-<li><a href="https://nutritionprices.com/"><strong>Show HN: A website for comparing protein powder prices</strong> <code>nutritionprices.com</code></a> - <a href="https://news.ycombinator.com/item?id=41765939">68 comments 111 points</a></li>
-<li><a href="https://wigle.net/"><strong>Wigle.net: All the networks, found by everyone</strong> <code>wigle.net</code></a> - <a href="https://news.ycombinator.com/item?id=41769648">33 comments 111 points</a></li>
-<li><a href="https://nonzero.substack.com/p/sam-altman-goes-full-emperor"><strong>Sam Altman Goes Full Emperor</strong> <code>nonzero.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41770249">87 comments 109 points</a></li>
-<li><a href="https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/"><strong>An illustrated proof of the CAP theorem (2018)</strong> <code>mwhittaker.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41772624">43 comments 108 points</a></li>
-<li><a href="https://spectrum.ieee.org/fukushima-reactor"><strong>Fukushima Reactor: TEPCO robot aims to extract nuclear fuel</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=41765580">125 comments 102 points</a></li>
-<li><a href="https://www.forbes.com/sites/zakdoffman/2024/10/05/google-new-location-tracking-warning-pixel-9-pro-pixel-9-pro-xl-pixel-9-pro-fold/"><strong>Google Will Track Your Location &#39;Every 15 Minutes&#39;–&#39;Even with GPS Disabled&#39;</strong> <code>www.forbes.com</code></a> - <a href="https://news.ycombinator.com/item?id=41767199">45 comments 101 points</a></li>
-<li><a href="https://xkcd.com/1172/"><strong>Every change breaks someone&#39;s workflow (2013)</strong> <code>xkcd.com</code></a> - <a href="https://news.ycombinator.com/item?id=41766954">23 comments 94 points</a></li>
-<li><a href="https://engelsbergideas.com/essays/private-intelligence/"><strong>How private intelligence companies became the new spymasters</strong> <code>engelsbergideas.com</code></a> - <a href="https://news.ycombinator.com/item?id=41770383">29 comments 92 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41770111"><strong>Is AWS S3 having an outage?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41770111">40 comments 89 points</a></li>
-<li><a href="https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line"><strong>Rust is rolling off the Volvo assembly line</strong> <code>tweedegolf.nl</code></a> - <a href="https://news.ycombinator.com/item?id=41771272">49 comments 80 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
