@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 11 Nov 2024 06:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 06:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-11-12]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/788</link>
+            <guid>788</guid>
+            <pubDate>Tue, 12 Nov 2024 06:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://bandysc.github.io/AvaloniaVisualBasic6/"><strong>Visual Basic 6 rebuilt in C# – complete with form designer and IDE in browser</strong> <code>bandysc.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42105869">204 comments 427 points</a></li>
+<li><a href="https://www.seangoedecke.com/how-to-ship/"><strong>How I ship projects at big tech companies</strong> <code>www.seangoedecke.com</code></a> - <a href="https://news.ycombinator.com/item?id=42111031">98 comments 421 points</a></li>
+<li><a href="https://togithub.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md"><strong>I sent an Ethernet packet</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42105190">119 comments 372 points</a></li>
+<li><a href="https://togithub.com/sjdonado/idonthavespotify"><strong>I Don&#39;t Have Spotify</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42110877">133 comments 273 points</a></li>
+<li><a href="https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html"><strong>Improving Steam Client Stability on Linux</strong> <code>ttimo.typepad.com</code></a> - <a href="https://news.ycombinator.com/item?id=42110677">55 comments 243 points</a></li>
+<li><a href="https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/"><strong>Apple threatened workers over their talk about pay and remote work, feds charge</strong> <code>www.mercurynews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42104762">108 comments 240 points</a></li>
+<li><a href="https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google"><strong>The death and life of prediction markets at Google</strong> <code>asteriskmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=42108360">158 comments 230 points</a></li>
+<li><a href="https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge"><strong>Behaviors reveal sophisticated tool use and possible “pranking” among pachyderms</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=42105098">139 comments 211 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=42110901"><strong>YubiKey still selling old stock with vulnerable firmware</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42110901">27 comments 173 points</a></li>
+<li><a href="https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php"><strong>The business of gutting failed Bay Area tech companies</strong> <code>www.sfgate.com</code></a> - <a href="https://news.ycombinator.com/item?id=42107870">129 comments 172 points</a></li>
+<li><a href="https://forums.macrumors.com/threads/apple-courier-uber-may-have-stolen-2-macbooks-i-bought-and-its-looking-like-apple-is-not-going-to-help.2441932/"><strong>Apple courier may have stolen 2 MacBooks, ... Apple is not going to help</strong> <code>forums.macrumors.com</code></a> - <a href="https://news.ycombinator.com/item?id=42105274">108 comments 143 points</a></li>
+<li><a href="https://sst.dev/blog/container-support/"><strong>SST: Container Support</strong> <code>sst.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42105797">66 comments 140 points</a></li>
+<li><a href="https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/"><strong>The Silurian Hypothesis</strong> <code>pacificklaus.com</code></a> - <a href="https://news.ycombinator.com/item?id=42106700">136 comments 136 points</a></li>
+<li><a href="https://togithub.com/google-deepmind/alphafold3"><strong>AlphaFold 3 Code</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42106906">19 comments 132 points</a></li>
+<li><a href="https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel"><strong>Optimizing a WebGPU Matmul Kernel for 1 TFLOP</strong> <code>zanussbaum.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42108816">37 comments 128 points</a></li>
+<li><a href="https://togithub.com/microsoft/TinyTroupe"><strong>TinyTroupe, a new LLM-powered multiagent persona simulation Python library</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42108109">43 comments 125 points</a></li>
+<li><a href="https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads"><strong>Bluesky adds 700k new users in a week</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=42112432">100 comments 124 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=VloimYuCxBs"><strong>Brian Kernighan Reflects on Unix: A History and a Memoir [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=42108077">14 comments 113 points</a></li>
+<li><a href="https://i-d.co/article/streaming-arthouse-movies-john-waters-netflix-2024/"><strong>Every arthouse buff you know is pirating films</strong> <code>i-d.co</code></a> - <a href="https://news.ycombinator.com/item?id=42109544">123 comments 108 points</a></li>
+<li><a href="https://thezvi.substack.com/p/the-online-sports-gambling-experiment"><strong>The online sports gambling experiment</strong> <code>thezvi.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42110194">115 comments 107 points</a></li>
+<li><a href="https://blog.s20n.dev/posts/how-chordcat-works/"><strong>How Chordcat works – a chord naming algorithm</strong> <code>blog.s20n.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42106548">75 comments 107 points</a></li>
+<li><a href="https://securityis.substack.com/p/security-is-a-useless-controls-problem"><strong>Security Is a Useless Controls Problem</strong> <code>securityis.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42110149">57 comments 107 points</a></li>
+<li><a href="https://questdb.io/blog/making-a-trading-gameboy/"><strong>Making a trading Gameboy: A pocket exchange and algo trading platform</strong> <code>questdb.io</code></a> - <a href="https://news.ycombinator.com/item?id=42108907">7 comments 104 points</a></li>
+<li><a href="https://grizzlyreports.com/hsy/"><strong>High Levels of Banned PFAS Detected in Hershey&#39;s Packaging</strong> <code>grizzlyreports.com</code></a> - <a href="https://news.ycombinator.com/item?id=42110407">80 comments 102 points</a></li>
+<li><a href="https://community.frame.work/t/i-converted-a-macbook-into-a-pc/60063"><strong>I converted a Macbook into a PC</strong> <code>community.frame.work</code></a> - <a href="https://news.ycombinator.com/item?id=42111120">57 comments 95 points</a></li>
+<li><a href="https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html"><strong>Bus Number – The GitHub plugin my coworkers asked me not to write</strong> <code>www.scannedinavian.com</code></a> - <a href="https://news.ycombinator.com/item?id=42111260">30 comments 95 points</a></li>
+<li><a href="https://hachyderm.io/@danderson/113465421567555186"><strong>This morning for no obvious reason, I remembered the Fuel Rats</strong> <code>hachyderm.io</code></a> - <a href="https://news.ycombinator.com/item?id=42112005">7 comments 94 points</a></li>
+<li><a href="https://phys.org/news/2024-11-gophers-brought-mount-st-helens.html"><strong>How gophers brought Mount St. Helens back to life in one day</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=42106427">53 comments 93 points</a></li>
+<li><a href="https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s"><strong>Testing the Z80 Chip with a 1970s Beauty</strong> <code>mtsi.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42110081">16 comments 85 points</a></li>
+<li><a href="https://tidbits.com/2024/11/11/misguided-apple-intelligence-ads/"><strong>Misguided Apple Intelligence ads</strong> <code>tidbits.com</code></a> - <a href="https://news.ycombinator.com/item?id=42111094">64 comments 83 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-11-11]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/787</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/"><strong>The military is an impossible place for hackers, and what to do about it (2018)</strong> <code>warontherocks.com</code></a> - <a href="https://news.ycombinator.com/item?id=41830906">80 comments 77 points</a></li>
 <li><a href="https://www.johndcook.com/blog/2024/10/13/why-does-fm-sound-better-than-am/"><strong>Why does FM sound better than AM?</strong> <code>www.johndcook.com</code></a> - <a href="https://news.ycombinator.com/item?id=41832302">90 comments 74 points</a></li>
 <li><a href="https://www.kron4.com/news/california/ucla-professor-says-hes-homeless-due-to-low-pay/"><strong>UCLA professor says he&#39;s homeless due to low pay</strong> <code>www.kron4.com</code></a> - <a href="https://news.ycombinator.com/item?id=41828443">102 comments 73 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-10-13]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/758</link>
-            <guid>758</guid>
-            <pubDate>Sun, 13 Oct 2024 06:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52"><strong>1 bug, $50k in bounties, a Zendesk backdoor</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41818459">334 comments 1107 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=rbu7Zu5X1zI"><strong>How I animate 3Blue1Brown [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=41818779">144 comments 710 points</a></li>
-<li><a href="https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77"><strong>Psilocybin bests SSRI for major depression in first long-term comparison</strong> <code>www.medscape.com</code></a> - <a href="https://news.ycombinator.com/item?id=41818420">305 comments 461 points</a></li>
-<li><a href="https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html"><strong>Germany&#39;s 49-euro ticket resulted in significant shift from road to rail</strong> <code>www.mcc-berlin.net</code></a> - <a href="https://news.ycombinator.com/item?id=41819481">423 comments 439 points</a></li>
-<li><a href="https://twitter.com/wp_acf/status/1845169499064107049"><strong>The ACF plugin on the WordPress directory has been taken over by WordPress.org</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41821400">144 comments 341 points</a></li>
-<li><a href="https://blog.jreyesr.com/posts/typst/"><strong>Exploring Typst, a new typesetting system similar to LaTeX</strong> <code>blog.jreyesr.com</code></a> - <a href="https://news.ycombinator.com/item?id=41821361">80 comments 268 points</a></li>
-<li><a href="https://www.paypal.com/us/legalhub/upcoming-policies-full"><strong>PayPal (USA) will automatically share data about you to participating stores</strong> <code>www.paypal.com</code></a> - <a href="https://news.ycombinator.com/item?id=41822178">92 comments 249 points</a></li>
-<li><a href="https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001?modalOpened=true"><strong>Starship Flight 5 license issued by FAA</strong> <code>drs.faa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=41820785">182 comments 216 points</a></li>
-<li><a href="https://anderegg.ca/2024/10/13/acf-has-been-hijacked"><strong>ACF Has Been Hijacked</strong> <code>anderegg.ca</code></a> - <a href="https://news.ycombinator.com/item?id=41824852">38 comments 189 points</a></li>
-<li><a href="https://www.androidauthority.com/android-linux-terminal-app-3489887/"><strong>Google is preparing to let you run Linux apps on Android, just like Chrome OS</strong> <code>www.androidauthority.com</code></a> - <a href="https://news.ycombinator.com/item?id=41816756">185 comments 170 points</a></li>
-<li><a href="https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/"><strong>The phone ban has had a big impact on school work</strong> <code>icelandmonitor.mbl.is</code></a> - <a href="https://news.ycombinator.com/item?id=41819442">215 comments 166 points</a></li>
-<li><a href="https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/"><strong>Six transplant patients in Brazil contract HIV from infected organs</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41818775">79 comments 165 points</a></li>
-<li><a href="https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/"><strong>PostgreSQL Streaming Replication (WAL); What It Is and How to Configure One</strong> <code>mindhub365.com</code></a> - <a href="https://news.ycombinator.com/item?id=41818446">32 comments 151 points</a></li>
-<li><a href="https://www.theregister.com/2024/10/11/windows_update_cleanup/"><strong>Windows 11 24H2 hoards 8.63 GB of junk you can&#39;t delete</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=41818815">169 comments 145 points</a></li>
-<li><a href="https://wordpress.org/plugins/advanced-custom-fields/"><strong>Secure Custom Fields by WordPress.org</strong> <code>wordpress.org</code></a> - <a href="https://news.ycombinator.com/item?id=41821336">152 comments 144 points</a></li>
-<li><a href="https://togithub.com/stenzek/duckstation"><strong>DuckStation</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41818057">50 comments 141 points</a></li>
-<li><a href="https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/"><strong>FreeBSD: How Can We Make It More Attractive to New Users?</strong> <code>gyptazy.com</code></a> - <a href="https://news.ycombinator.com/item?id=41818595">146 comments 109 points</a></li>
-<li><a href="https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/"><strong>First Greenhouse Gas Plumes Detected with NASA-Designed Instrument</strong> <code>www.jpl.nasa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=41822321">34 comments 105 points</a></li>
-<li><a href="https://arxiv.org/abs/2403.04571"><strong>Machine learning and information theory concepts towards an AI Mathematician</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41821179">16 comments 97 points</a></li>
-<li><a href="https://replicate.com/blog/flux-is-fast-and-open-source"><strong>FLUX is fast and it&#39;s open source</strong> <code>replicate.com</code></a> - <a href="https://news.ycombinator.com/item?id=41824390">33 comments 93 points</a></li>
-<li><a href="https://swizec.com/blog/it-made-me-500k-but-i-think-content-is-a-bad-business/"><strong>I think content is a bad business</strong> <code>swizec.com</code></a> - <a href="https://news.ycombinator.com/item?id=41820727">57 comments 88 points</a></li>
-<li><a href="https://near.blog/the-1-8th-sleep/"><strong>The 1/8th Sleep</strong> <code>near.blog</code></a> - <a href="https://news.ycombinator.com/item?id=41824138">11 comments 86 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41821545"><strong>Ask HN: If you were rewriting Emacs from scratch, what would you do differently?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41821545">154 comments 83 points</a></li>
-<li><a href="https://www.theregister.com/2024/10/11/macos_15_is_unix/"><strong>Apple macOS 15 Sequoia is officially Unix</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=41822308">62 comments 81 points</a></li>
-<li><a href="https://freebsdfoundation.org/blog/celebrating-freebsd-day-with-tara-stella-a-journey-from-linux-to-freebsd/"><strong>A Journey from Linux to FreeBSD</strong> <code>freebsdfoundation.org</code></a> - <a href="https://news.ycombinator.com/item?id=41818868">51 comments 80 points</a></li>
-<li><a href="https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/"><strong>Choosing solitude</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=41818953">65 comments 79 points</a></li>
-<li><a href="https://togithub.com/KellerJordan/modded-nanogpt"><strong>Modded-NanoGPT: NanoGPT (124M) quality in 3.25B tokens</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41822273">9 comments 77 points</a></li>
-<li><a href="https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d"><strong>Ryzen 9000X3D performance according to MSI</strong> <code>videocardz.com</code></a> - <a href="https://news.ycombinator.com/item?id=41817067">61 comments 76 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=InGah1DF2Cc"><strong>Using drones to terrorize a city [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=41820938">63 comments 74 points</a></li>
-<li><a href="https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001"><strong>FAA grants SpaceX Starship Flight 5 license</strong> <code>drs.faa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=41822910">2 comments 66 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
