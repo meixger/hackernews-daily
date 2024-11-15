@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 14 Nov 2024 06:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 06:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-11-15]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/791</link>
+            <guid>791</guid>
+            <pubDate>Fri, 15 Nov 2024 06:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html"><strong>The Onion buys Infowars</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=42136259">910 comments 1467 points</a></li>
+<li><a href="https://jan.miksovsky.com/posts/2024/11-12-momboard"><strong>MomBoard: E-ink display for a parent with amnesia</strong> <code>jan.miksovsky.com</code></a> - <a href="https://news.ycombinator.com/item?id=42135520">159 comments 1361 points</a></li>
+<li><a href="https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/"><strong>Daisy, an AI granny wasting scammers&#39; time</strong> <code>news.virginmediao2.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42138115">197 comments 565 points</a></li>
+<li><a href="https://elliott-king.github.io/2024/10/amplify-overcharge/"><strong>I Followed the Official AWS Amplify Guide and Was Charged $1,100</strong> <code>elliott-king.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42133700">273 comments 437 points</a></li>
+<li><a href="https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive"><strong>AI makes tech debt more expensive</strong> <code>www.gauge.sh</code></a> - <a href="https://news.ycombinator.com/item?id=42137527">197 comments 388 points</a></li>
+<li><a href="https://arxiv.org/abs/2410.21771"><strong>Why is it so hard to find a job now? Enter Ghost Jobs</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42136469">530 comments 367 points</a></li>
+<li><a href="https://mtlynch.io/lessons-from-my-first-exit/"><strong>Lessons from my first exit</strong> <code>mtlynch.io</code></a> - <a href="https://news.ycombinator.com/item?id=42133864">104 comments 353 points</a></li>
+<li><a href="https://www.dwarkeshpatel.com/p/gwern-branwen"><strong>Interview with gwern</strong> <code>www.dwarkeshpatel.com</code></a> - <a href="https://news.ycombinator.com/item?id=42134315">214 comments 269 points</a></li>
+<li><a href="https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation"><strong>Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF</strong> <code>www.redhat.com</code></a> - <a href="https://news.ycombinator.com/item?id=42139044">69 comments 240 points</a></li>
+<li><a href="https://togithub.com/BAndysc/AvaloniaVisualBasic6"><strong>Visual Basic 6 IDE recreated in C#</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42141587">78 comments 235 points</a></li>
+<li><a href="https://mathoverflow.net/questions/278130/the-letter-wp-name-origin"><strong>The letter ℘: name and origin? (2017)</strong> <code>mathoverflow.net</code></a> - <a href="https://news.ycombinator.com/item?id=42137818">89 comments 218 points</a></li>
+<li><a href="https://dynomight.substack.com/p/chess"><strong>Something weird is happening with LLMs and chess</strong> <code>dynomight.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42138289">148 comments 215 points</a></li>
+<li><a href="https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html"><strong>Analysis of economic and productivity losses caused by cookie banners in Europe</strong> <code>legiscope.com</code></a> - <a href="https://news.ycombinator.com/item?id=42141843">195 comments 214 points</a></li>
+<li><a href="https://blog.helix.ml/p/we-can-all-be-ai-engineers"><strong>The barriers to AI engineering are crumbling fast</strong> <code>blog.helix.ml</code></a> - <a href="https://news.ycombinator.com/item?id=42136711">160 comments 211 points</a></li>
+<li><a href="https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/"><strong>SQLite Index Visualization</strong> <code>mrsuh.com</code></a> - <a href="https://news.ycombinator.com/item?id=42134964">17 comments 203 points</a></li>
+<li><a href="https://security.humanativaspa.it/an-analysis-of-the-keycloak-authentication-system/"><strong>An analysis of the Keycloak authentication system</strong> <code>security.humanativaspa.it</code></a> - <a href="https://news.ycombinator.com/item?id=42136000">77 comments 183 points</a></li>
+<li><a href="https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/"><strong>New Apple security feature reboots iPhones after 3 days, researchers confirm</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=42143265">89 comments 166 points</a></li>
+<li><a href="https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/"><strong>A memory leak in Apple&#39;s Network Extension framework</strong> <code>obdev.at</code></a> - <a href="https://news.ycombinator.com/item?id=42136136">37 comments 165 points</a></li>
+<li><a href="https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/"><strong>GOG&#39;s Preservation Program Is the DRM-Free Store Refocusing on the Classics</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=42133624">56 comments 156 points</a></li>
+<li><a href="https://www.relativty.com/"><strong>Relativty: An open-source VR headset for $200</strong> <code>www.relativty.com</code></a> - <a href="https://news.ycombinator.com/item?id=42143269">56 comments 153 points</a></li>
+<li><a href="https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/"><strong>PyPI now supports digital attestations</strong> <code>blog.pypi.org</code></a> - <a href="https://news.ycombinator.com/item?id=42136375">85 comments 151 points</a></li>
+<li><a href="https://jordanbryan.substack.com/p/on-building-git-for-lawyers"><strong>On Building Git for Lawyers</strong> <code>jordanbryan.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42137391">124 comments 142 points</a></li>
+<li><a href="https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/"><strong>In Memoriam: Thomas E. Kurtz, 1928–2024</strong> <code>computerhistory.org</code></a> - <a href="https://news.ycombinator.com/item?id=42141761">41 comments 128 points</a></li>
+<li><a href="https://dynomight.net/chess/"><strong>Something weird is happening with LLMs and Chess</strong> <code>dynomight.net</code></a> - <a href="https://news.ycombinator.com/item?id=42138276">50 comments 121 points</a></li>
+<li><a href="https://www.nbcnews.com/news/us-news/onion-wins-alex-jones-infowars-bankruptcy-auction-rcna179936"><strong>The Onion wins Alex Jones&#39; Infowars in bankruptcy auction</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42136327">2 comments 111 points</a></li>
+<li><a href="https://arxiv.org/abs/2406.04823"><strong>BERTs Are Generative In-Context Learners</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42134125">26 comments 108 points</a></li>
+<li><a href="https://www.deepl.com/en/products/voice"><strong>DeepL Voice: Real-time voice translations for global collaboration</strong> <code>www.deepl.com</code></a> - <a href="https://news.ycombinator.com/item?id=42134475">54 comments 107 points</a></li>
+<li><a href="https://davidlattimore.github.io/posts/2024/02/04/speeding-up-the-rust-edit-build-run-cycle.html"><strong>Speeding up the Rust edit-build-run cycle</strong> <code>davidlattimore.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42140164">74 comments 98 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=SlS3FOmKUbE"><strong>Smaller Than Pixel Art: Sub-Pixel Art [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=42133466">29 comments 96 points</a></li>
+<li><a href="https://www.nasdaq.com/articles/ai-progress-stalls-openai-google-and-anthropic-hit-roadblocks"><strong>AI progress stalls as OpenAI, Google and Anthropic hit roadblocks</strong> <code>www.nasdaq.com</code></a> - <a href="https://news.ycombinator.com/item?id=42138319">2 comments 96 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-11-14]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/790</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.servethehome.com/hell-freezes-over-amd-and-intel-come-together-ocp/"><strong>Hell Freezes Over as AMD and Intel Come Together for x86</strong> <code>www.servethehome.com</code></a> - <a href="https://news.ycombinator.com/item?id=41858304">96 comments 79 points</a></li>
 <li><a href="https://e360.yale.edu/features/gavin-schmidt-interview"><strong>Since spring of 2023, the world has been warmer than climate models anticipated</strong> <code>e360.yale.edu</code></a> - <a href="https://news.ycombinator.com/item?id=41856738">111 comments 67 points</a></li>
 <li><a href="https://youtubetranscriptoptimizer.com/blog/02_what_i_learned_making_the_python_backend_for_yto"><strong>Making the Python back end for my new webapp</strong> <code>youtubetranscriptoptimizer.com</code></a> - <a href="https://news.ycombinator.com/item?id=41859968">39 comments 64 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-10-16]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/761</link>
-            <guid>761</guid>
-            <pubDate>Wed, 16 Oct 2024 06:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://browser.engineering/index.html"><strong>Web Browser Engineering (2021)</strong> <code>browser.engineering</code></a> - <a href="https://news.ycombinator.com/item?id=41846780">111 comments 672 points</a></li>
-<li><a href="https://emoji.build/deal-with-it-generator/"><strong>Show HN: I built the most over-engineered Deal With It emoji generator</strong> <code>emoji.build</code></a> - <a href="https://news.ycombinator.com/item?id=41848150">123 comments 632 points</a></li>
-<li><a href="https://sqlite.org/wasm/doc/trunk/index.md"><strong>Sqlite3 WebAssembly</strong> <code>sqlite.org</code></a> - <a href="https://news.ycombinator.com/item?id=41851051">133 comments 466 points</a></li>
-<li><a href="https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/"><strong>The C23 edition of Modern C</strong> <code>gustedt.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=41850017">189 comments 369 points</a></li>
-<li><a href="https://togithub.com/Snowiiii/Pumpkin"><strong>Show HN: Pumpkin – A Modern Minecraft server written in Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41846636">128 comments 313 points</a></li>
-<li><a href="https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/"><strong>Show HN: I 3D scanned the tunnels inside the Maya Pyramid Temples at Copan</strong> <code>mused.com</code></a> - <a href="https://news.ycombinator.com/item?id=41848099">65 comments 293 points</a></li>
-<li><a href="https://graphite.rs/"><strong>Show HN: Graphite, a Blender-inspired 2D procedural design Rust app</strong> <code>graphite.rs</code></a> - <a href="https://news.ycombinator.com/item?id=41853810">48 comments 264 points</a></li>
-<li><a href="https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/"><strong>Apple introduces iPad mini built for Apple Intelligence</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=41849058">329 comments 225 points</a></li>
-<li><a href="https://togithub.com/asterinas/asterinas"><strong>Asterinas: OS kernel written in Rust and providing Linux-compatible ABI</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41847640">86 comments 210 points</a></li>
-<li><a href="https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/"><strong>Meta&#39;s open AI hardware vision</strong> <code>engineering.fb.com</code></a> - <a href="https://news.ycombinator.com/item?id=41851304">114 comments 209 points</a></li>
-<li><a href="https://digital-naturalism-laboratories.github.io/Mothbox/"><strong>Mothbox 4.0</strong> <code>digital-naturalism-laboratories.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41848804">28 comments 194 points</a></li>
-<li><a href="https://capibarazero.github.io/docs/"><strong>CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3</strong> <code>capibarazero.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41852821">30 comments 177 points</a></li>
-<li><a href="https://mermaid-ascii.art/"><strong>Show HN: Mermaid ASCII Diagrams</strong> <code>mermaid-ascii.art</code></a> - <a href="https://news.ycombinator.com/item?id=41847407">30 comments 172 points</a></li>
-<li><a href="https://www.the-fence.com/plots-major-authors/"><strong>All possible plots by major authors (2020)</strong> <code>www.the-fence.com</code></a> - <a href="https://news.ycombinator.com/item?id=41852009">116 comments 164 points</a></li>
-<li><a href="https://niedermeyer.io/2024/10/11/the-retreat-to-muskworld/"><strong>The Retreat to Muskworld</strong> <code>niedermeyer.io</code></a> - <a href="https://news.ycombinator.com/item?id=41845596">195 comments 138 points</a></li>
-<li><a href="https://togithub.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api"><strong>Drawing Graphics on Apple Vision with the Metal Rendering API</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41845646">90 comments 135 points</a></li>
-<li><a href="https://www.nature.com/articles/d41586-024-03244-1"><strong>Life expectancy rise in rich countries slows down: took 30 years to prove</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=41848482">237 comments 122 points</a></li>
-<li><a href="https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/"><strong>Why don&#39;t we use awnings anymore (2022)</strong> <code>thecraftsmanblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=41853637">80 comments 122 points</a></li>
-<li><a href="https://www.theregister.com/2024/10/15/intel_amd_x86_future/"><strong>Intel and AMD form advisory group to reshape x86 ISA</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=41851104">103 comments 114 points</a></li>
-<li><a href="https://cupofsquid.com/post/not-real/"><strong>Let Google decide</strong> <code>cupofsquid.com</code></a> - <a href="https://news.ycombinator.com/item?id=41855512">41 comments 114 points</a></li>
-<li><a href="https://lists.freebsd.org/pipermail/freebsd-chat/2011-November/006642.html"><strong>Superstitious Users and the FreeBSD Logo</strong> <code>lists.freebsd.org</code></a> - <a href="https://news.ycombinator.com/item?id=41845427">101 comments 110 points</a></li>
-<li><a href="http://lillian.com/films/"><strong>Short films by Lillian F. Schwartz (1927-2024)</strong> <code>lillian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41847239">15 comments 104 points</a></li>
-<li><a href="https://mynaui.com/icons"><strong>Show HN: MynaUI Icons – 1180 Beautifully Crafted Open Source Icons</strong> <code>mynaui.com</code></a> - <a href="https://news.ycombinator.com/item?id=41846539">43 comments 103 points</a></li>
-<li><a href="https://www.pcmag.com/news/googles-chrome-browser-starts-disabling-ublock-origin"><strong>Google&#39;s Chrome Browser Starts Disabling uBlock Origin</strong> <code>www.pcmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=41853411">31 comments 98 points</a></li>
-<li><a href="https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/"><strong>Big advance on simple-sounding math problem was a century in the making</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=41848209">26 comments 95 points</a></li>
-<li><a href="https://digipres.club/@foone/113313955144323780"><strong>Redbox left PII on decommissioned machines</strong> <code>digipres.club</code></a> - <a href="https://news.ycombinator.com/item?id=41854405">28 comments 91 points</a></li>
-<li><a href="https://www.wheresyoured.at/oai-business/"><strong>OpenAI Is a Bad Business</strong> <code>www.wheresyoured.at</code></a> - <a href="https://news.ycombinator.com/item?id=41849735">137 comments 85 points</a></li>
-<li><a href="https://www.command.ai/blog/command-ai-is-now-part-of-amplitude/"><strong>Command AI Bought by Amplitude</strong> <code>www.command.ai</code></a> - <a href="https://news.ycombinator.com/item?id=41849907">27 comments 84 points</a></li>
-<li><a href="https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html"><strong>Advancing Memory Safety</strong> <code>security.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=41851467">74 comments 81 points</a></li>
-<li><a href="https://archive.org/"><strong>Internet Archive Services are &quot;temporarily offline&quot;</strong> <code>archive.org</code></a> - <a href="https://news.ycombinator.com/item?id=41854518">17 comments 81 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
