@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sat, 16 Nov 2024 06:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 06:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-11-17]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/793</link>
+            <guid>793</guid>
+            <pubDate>Sun, 17 Nov 2024 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://lanparty.house/"><strong>Show HN: I built a(nother) house optimized for LAN parties</strong> <code>lanparty.house</code></a> - <a href="https://news.ycombinator.com/item?id=42156977">212 comments 533 points</a></li>
+<li><a href="https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/"><strong>SICP: The only computer science book worth reading twice? (2010)</strong> <code>simondobson.org</code></a> - <a href="https://news.ycombinator.com/item?id=42157558">116 comments 280 points</a></li>
+<li><a href="https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/"><strong>James Webb Space Telescope finds evidence for alternate theory of gravity</strong> <code>thedebrief.org</code></a> - <a href="https://news.ycombinator.com/item?id=42158130">109 comments 257 points</a></li>
+<li><a href="https://yggdrasil-network.github.io/"><strong>Yggdrasil Network</strong> <code>yggdrasil-network.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42155780">88 comments 250 points</a></li>
+<li><a href="https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html"><strong>Two galaxies aligned in a way where their gravity acts as a compound lens</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=42157335">60 comments 203 points</a></li>
+<li><a href="https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design"><strong>YC is wrong about LLMs for chip design</strong> <code>www.zach.be</code></a> - <a href="https://news.ycombinator.com/item?id=42156516">178 comments 198 points</a></li>
+<li><a href="https://bsky.jazco.dev/stats"><strong>Bluesky is currently gaining more than 1M users a day</strong> <code>bsky.jazco.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42159713">192 comments 192 points</a></li>
+<li><a href="https://myelectricsparks.com/four-dead-tesla-doors-fail-open-crash-fire/"><strong>Four dead in fire as Tesla doors fail to open after crash</strong> <code>myelectricsparks.com</code></a> - <a href="https://news.ycombinator.com/item?id=42158391">168 comments 180 points</a></li>
+<li><a href="https://togithub.com/hengyoush/kyanos"><strong>Kyanos: eBPF-based network issue analysis tool</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42154583">14 comments 179 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=42157556"><strong>Ask HN: What open source projects need help?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42157556">83 comments 170 points</a></li>
+<li><a href="https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr"><strong>Casio has released a ring in the form of its iconic watch</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=42156680">71 comments 165 points</a></li>
+<li><a href="https://firehose3d.theo.io/"><strong>The Bluesky firehose viewed in the style of a Windows XP screensaver</strong> <code>firehose3d.theo.io</code></a> - <a href="https://news.ycombinator.com/item?id=42159786">52 comments 162 points</a></li>
+<li><a href="https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/"><strong>M4 Macs can&#39;t virtualise older macOS</strong> <code>eclecticlight.co</code></a> - <a href="https://news.ycombinator.com/item?id=42157086">140 comments 161 points</a></li>
+<li><a href="https://phys.org/news/2024-11-bullying-problem-incidence-primary-schools.html"><strong>Treating bullying as everyone&#39;s problem reduces incidence in primary schools</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=42156640">161 comments 155 points</a></li>
+<li><a href="https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo"><strong>CSS gets a new logo and it uses the color <code>rebeccapurple</code></strong> <code>michaelcharl.es</code></a> - <a href="https://news.ycombinator.com/item?id=42161919">14 comments 144 points</a></li>
+<li><a href="https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/"><strong>Stop making me memorize the borrow checker</strong> <code>erikmcclure.com</code></a> - <a href="https://news.ycombinator.com/item?id=42160501">110 comments 136 points</a></li>
+<li><a href="https://togithub.com/rmcelreath/stat_rethinking_2024"><strong>Statistical Rethinking (2024 Edition)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42157885">22 comments 114 points</a></li>
+<li><a href="https://logica.dev/"><strong>Logica – Declarative logic programming language for data</strong> <code>logica.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42158445">39 comments 113 points</a></li>
+<li><a href="https://www.atlasobscura.com/articles/how-to-echolocate"><strong>Teach yourself to echolocate</strong> <code>www.atlasobscura.com</code></a> - <a href="https://news.ycombinator.com/item?id=42160071">25 comments 104 points</a></li>
+<li><a href="https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article"><strong>Effect of a giant meteorite impact on Paleoarchean environment and life</strong> <code>www.chemistryworld.com</code></a> - <a href="https://news.ycombinator.com/item?id=42160716">40 comments 101 points</a></li>
+<li><a href="https://www.twz.com/air/militarys-recently-deployed-ufo-hunting-aerial-surveillance-system-detailed-in-report"><strong>Military&#39;s UFO-hunting aerial surveillance system detailed in report</strong> <code>www.twz.com</code></a> - <a href="https://news.ycombinator.com/item?id=42158037">93 comments 99 points</a></li>
+<li><a href="https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x"><strong>We’re receiving about 3,000 reports/hour</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=42159454">158 comments 98 points</a></li>
+<li><a href="https://togithub.com/rudyrucker/chaos"><strong>James Gleick&#39;s Chaos: The Software</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42160647">9 comments 97 points</a></li>
+<li><a href="https://duckdb.org/2024/11/14/optimizers.html"><strong>Optimizers: The Low-Key MVP</strong> <code>duckdb.org</code></a> - <a href="https://news.ycombinator.com/item?id=42156430">6 comments 94 points</a></li>
+<li><a href="https://mastodon.social/@ChrisO_wiki/113492224877784244"><strong>X&#39;s algorithm was changed in mid-July 2024 to boost right-leaning accounts</strong> <code>mastodon.social</code></a> - <a href="https://news.ycombinator.com/item?id=42160659">38 comments 84 points</a></li>
+<li><a href="https://petapixel.com/2024/11/14/apple-smells-blood-in-the-water/"><strong>Apple Smells Blood in the Water</strong> <code>petapixel.com</code></a> - <a href="https://news.ycombinator.com/item?id=42156933">89 comments 83 points</a></li>
+<li><a href="https://togithub.com/pyro-ppl/numpyro"><strong>Numpyro: Probabilistic programming with NumPy powered by Jax</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42156126">18 comments 82 points</a></li>
+<li><a href="https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/"><strong>Pentagon fails 7th audit in a row but says progress made</strong> <code>thehill.com</code></a> - <a href="https://news.ycombinator.com/item?id=42160768">43 comments 78 points</a></li>
+<li><a href="https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/"><strong>A Case Against the Placebo Effect</strong> <code>carcinisation.com</code></a> - <a href="https://news.ycombinator.com/item?id=42157012">82 comments 76 points</a></li>
+<li><a href="https://www.allcatsarefemale.com/p/the-structure-of-a-worldview"><strong>The Structure of a Worldview</strong> <code>www.allcatsarefemale.com</code></a> - <a href="https://news.ycombinator.com/item?id=42155843">103 comments 74 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-11-16]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/792</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://arxiv.org/abs/2410.12860"><strong>LLMD: A Large Language Model for Interpreting Longitudinal Medical Records</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41878959">15 comments 44 points</a></li>
 <li><a href="https://techcrunch.com/2024/10/17/permira-completes-squarespace-acquisition-after-upping-bid-to-7-2b/"><strong>Permira completes Squarespace acquisition after upping bid to $7.2B</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=41879666">21 comments 40 points</a></li>
 <li><a href="https://www.theguardian.com/science/2024/oct/18/us-startup-charging-couples-to-screen-embryos-for-iq"><strong>US startup charging couples to &#39;screen embryos for IQ&#39;</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41879972">44 comments 38 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-10-18]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/763</link>
-            <guid>763</guid>
-            <pubDate>Fri, 18 Oct 2024 06:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen"><strong>Adobe&#39;s new image rotation tool is one of the most impressive AI tools seen</strong> <code>www.creativebloq.com</code></a> - <a href="https://news.ycombinator.com/item?id=41870040">230 comments 732 points</a></li>
-<li><a href="https://pudding.cool/2024/10/crokinole/"><strong>Crokinole</strong> <code>pudding.cool</code></a> - <a href="https://news.ycombinator.com/item?id=41871375">134 comments 454 points</a></li>
-<li><a href="https://ading.dev/blog/posts/chrome_sandbox_escape.html"><strong>Escaping the Chrome Sandbox Through DevTools</strong> <code>ading.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41866802">73 comments 382 points</a></li>
-<li><a href="https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2"><strong>Gamedev in Lisp. Part 2: Dungeons and Interfaces</strong> <code>gitlab.com</code></a> - <a href="https://news.ycombinator.com/item?id=41869460">49 comments 271 points</a></li>
-<li><a href="https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8"><strong>Cats are (almost) liquid</strong> <code>www.cell.com</code></a> - <a href="https://news.ycombinator.com/item?id=41868683">133 comments 263 points</a></li>
-<li><a href="https://blog.google/technology/ai/notebooklm-update-october-2024/"><strong>NotebookLM launches feature to customize and guide audio overviews</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=41871262">86 comments 252 points</a></li>
-<li><a href="https://help.kagi.com/kagi/features/exclude-ai-images.html"><strong>Kagi Update: AI Image Filter for Search Results</strong> <code>help.kagi.com</code></a> - <a href="https://news.ycombinator.com/item?id=41873204">93 comments 242 points</a></li>
-<li><a href="https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/"><strong>Type 2 diabetes: New treatment eliminates insulin for 86% of patients</strong> <code>scitechdaily.com</code></a> - <a href="https://news.ycombinator.com/item?id=41873606">89 comments 204 points</a></li>
-<li><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html"><strong>C++ proposal: There are exactly 8 bits in a byte</strong> <code>www.open-std.org</code></a> - <a href="https://news.ycombinator.com/item?id=41874394">206 comments 193 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41870887"><strong>I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41870887">270 comments 190 points</a></li>
-<li><a href="https://togithub.com/google-deepmind/searchless_chess"><strong>Grandmaster-level chess without search</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41872813">66 comments 186 points</a></li>
-<li><a href="https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/"><strong>Employees Describe an Environment of Paranoia and Fear Inside Automattic</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=41872046">79 comments 184 points</a></li>
-<li><a href="https://togithub.com/microsoft/openvmm"><strong>OpenVMM – A New VMM for Windows and Linux, Written in Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41866742">115 comments 159 points</a></li>
-<li><a href="https://torment-nexus.mathewingram.com/is-matt-mullenweg-defending-wordpress-or-sabotaging-it/"><strong>Is Matt Mullenweg defending WordPress or sabotaging it?</strong> <code>torment-nexus.mathewingram.com</code></a> - <a href="https://news.ycombinator.com/item?id=41872628">124 comments 142 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders"><strong>Qualcomm cancels Snapdragon Dev Kit, refunds all orders</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=41871899">132 comments 131 points</a></li>
-<li><a href="https://www.kennedy.senate.gov/public/2023/11/kennedy-merkley-introduce-bill-to-end-involuntary-facial-recognition-screenings-protect-americans-privacy"><strong>Kennedy, Merkley introduce bill to end TSA facial recognition (2023)</strong> <code>www.kennedy.senate.gov</code></a> - <a href="https://news.ycombinator.com/item?id=41876071">50 comments 107 points</a></li>
-<li><a href="https://www.thecoder.cafe/p/unit-tests-as-documentation"><strong>Unit tests as documentation</strong> <code>www.thecoder.cafe</code></a> - <a href="https://news.ycombinator.com/item?id=41871629">120 comments 101 points</a></li>
-<li><a href="https://mathenchant.wordpress.com/2024/10/17/industrious-dice/"><strong>Industrious Dice</strong> <code>mathenchant.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=41871729">7 comments 99 points</a></li>
-<li><a href="https://bigthink.com/business/not-remotely-cool-the-science-of-zoom-fatigue/"><strong>The science of &quot;Zoom fatigue&quot;</strong> <code>bigthink.com</code></a> - <a href="https://news.ycombinator.com/item?id=41870914">143 comments 97 points</a></li>
-<li><a href="https://savaos.com/"><strong>Show HN: Sava OS – A desktop interface for your web browser</strong> <code>savaos.com</code></a> - <a href="https://news.ycombinator.com/item?id=41871090">71 comments 90 points</a></li>
-<li><a href="https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet"><strong>Pg_parquet: An extension to connect Postgres and parquet</strong> <code>www.crunchydata.com</code></a> - <a href="https://news.ycombinator.com/item?id=41871068">12 comments 89 points</a></li>
-<li><a href="https://aldavigdis.dev/2024/09/30/my-strange-experiences-with-automattic-part-3/"><strong>My experiences with Automattic: Part 3</strong> <code>aldavigdis.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41868143">60 comments 87 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41871499"><strong>Ask HN: Why is there not more concern about the physical security of Cloudflare?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41871499">51 comments 85 points</a></li>
-<li><a href="https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions"><strong>Why does everyone run ancient Postgres versions?</strong> <code>neon.tech</code></a> - <a href="https://news.ycombinator.com/item?id=41873957">99 comments 79 points</a></li>
-<li><a href="https://www.sjsu.edu/faculty/watkins/5thgen.htm"><strong>The Fifth Generation Project in Japan (1992)</strong> <code>www.sjsu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=41874275">72 comments 77 points</a></li>
-<li><a href="https://lwn.net/Articles/992055/"><strong>Smart pointers for the kernel</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=41875792">40 comments 74 points</a></li>
-<li><a href="https://news.paolo.pm/p/apple-with-worms-why-founder-mode"><strong>Why &quot;founder mode&quot; is a rebranding for micromanaging, top-down leaders</strong> <code>news.paolo.pm</code></a> - <a href="https://news.ycombinator.com/item?id=41868751">26 comments 74 points</a></li>
-<li><a href="https://www.howtogeek.com/firefox-75x-faster-running-webassembly/"><strong>Firefox Is Now &quot;More Than 75X Faster&quot; Running WebAssembly</strong> <code>www.howtogeek.com</code></a> - <a href="https://news.ycombinator.com/item?id=41867863">10 comments 74 points</a></li>
-<li><a href="https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/"><strong>A Liveness Example in TLA+</strong> <code>surfingcomplexity.blog</code></a> - <a href="https://news.ycombinator.com/item?id=41866752">10 comments 69 points</a></li>
-<li><a href="https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents"><strong>Tubeworms live around deep-sea vents</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=41871812">37 comments 67 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
