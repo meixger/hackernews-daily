@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 17 Nov 2024 06:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 06:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-11-18]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/794</link>
+            <guid>794</guid>
+            <pubDate>Mon, 18 Nov 2024 06:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.lancaster.ac.uk/news/humans-have-already-caused-15-c-of-long-term-global-warming-according-to-new-estimates"><strong>Humans have caused 1.5 °C of long-term global warming according to new estimates</strong> <code>www.lancaster.ac.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42166030">472 comments 375 points</a></li>
+<li><a href="https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df"><strong>Everything Is Just Functions: Insights from SICP and David Beazley</strong> <code>ezzeriesa.notion.site</code></a> - <a href="https://news.ycombinator.com/item?id=42164541">191 comments 327 points</a></li>
+<li><a href="https://zarar.dev/good-software-development-habits/"><strong>Good Software Development Habits</strong> <code>zarar.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42165057">146 comments 292 points</a></li>
+<li><a href="https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html"><strong>Reverse Engineering iOS 18 Inactivity Reboot</strong> <code>naehrdine.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=42167633">56 comments 248 points</a></li>
+<li><a href="https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/"><strong>All-in-one embedding model for interleaved text, images, and screenshots</strong> <code>blog.voyageai.com</code></a> - <a href="https://news.ycombinator.com/item?id=42162622">26 comments 240 points</a></li>
+<li><a href="https://togithub.com/oracle/bpftune"><strong>Bpftune uses BPF to auto-tune Linux systems</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42163597">63 comments 223 points</a></li>
+<li><a href="https://htmx.org/essays/you-cant/"><strong>The myth that you can’t build interactive web apps except as single page app</strong> <code>htmx.org</code></a> - <a href="https://news.ycombinator.com/item?id=42164154">113 comments 209 points</a></li>
+<li><a href="https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507"><strong>Why did Windows 95 setup use three operating systems?</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=42166606">85 comments 190 points</a></li>
+<li><a href="https://togithub.com/veloplanner/map-matrix"><strong>Claude AI built me a React app to compare maps side by side</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42164141">187 comments 189 points</a></li>
+<li><a href="https://www.nayuki.io/page/creating-a-qr-code-step-by-step"><strong>Creating a QR Code step by step</strong> <code>www.nayuki.io</code></a> - <a href="https://news.ycombinator.com/item?id=42165862">22 comments 176 points</a></li>
+<li><a href="https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html"><strong>AlphaProof&#39;s Greatest Hits</strong> <code>rishimehta.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=42165397">80 comments 172 points</a></li>
+<li><a href="https://bitfieldconsulting.com/posts/constraints"><strong>Constraints in Go</strong> <code>bitfieldconsulting.com</code></a> - <a href="https://news.ycombinator.com/item?id=42162878">70 comments 167 points</a></li>
+<li><a href="https://togithub.com/NVIDIA/garak"><strong>Garak, LLM Vulnerability Scanner</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42163591">42 comments 162 points</a></li>
+<li><a href="https://www.cloudflare.com/robots.txt"><strong>Cloudflare.com&#39;s Robots.txt</strong> <code>www.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=42163883">40 comments 130 points</a></li>
+<li><a href="https://www.psypost.org/lucid-dreaming-app-triples-users-awareness-in-dreams-study-finds/"><strong>Lucid dreaming app triples users&#39; awareness in dreams, study finds</strong> <code>www.psypost.org</code></a> - <a href="https://news.ycombinator.com/item?id=42165849">86 comments 113 points</a></li>
+<li><a href="https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html"><strong>How to setup self hosted wiki for your startup</strong> <code>themythicalengineer.com</code></a> - <a href="https://news.ycombinator.com/item?id=42162751">64 comments 104 points</a></li>
+<li><a href="https://metropolisjapan.com/resignation-agencies/"><strong>1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies</strong> <code>metropolisjapan.com</code></a> - <a href="https://news.ycombinator.com/item?id=42169027">72 comments 102 points</a></li>
+<li><a href="https://togithub.com/arkohut/memos"><strong>Memos – An open source Rewinds / Recall</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42163978">26 comments 95 points</a></li>
+<li><a href="https://www.theregister.com/2024/11/18/teenage_serial_swatterforhire_busted/"><strong>Teen serial swatter-for-hire busted, pleads guilty, could face 20 years</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=42168652">120 comments 93 points</a></li>
+<li><a href="https://apps.apple.com/gb/app/islet-diabetes/id6453168642"><strong>Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini</strong> <code>apps.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=42168491">37 comments 87 points</a></li>
+<li><a href="https://worksinprogress.co/issue/the-decline-and-fall-of-britain/"><strong>The decline and fall of the British economy (2022)</strong> <code>worksinprogress.co</code></a> - <a href="https://news.ycombinator.com/item?id=42162419">117 comments 85 points</a></li>
+<li><a href="https://togithub.com/joexbayer/c-web-modules"><strong>Hobby Project: A dynamic C (Hot reloading) module-based Web Framework</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42165759">24 comments 83 points</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/contain"><strong>Contain – CSS Cascading Style Sheets – MDN</strong> <code>developer.mozilla.org</code></a> - <a href="https://news.ycombinator.com/item?id=42162368">12 comments 78 points</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-tells-the-user-to-die-the-answer-appears-out-of-nowhere-as-the-user-was-asking-geminis-help-with-his-homework"><strong>Gemini AI tells the user to die</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=42163019">77 comments 75 points</a></li>
+<li><a href="https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/"><strong>Japan ranked 31st in digital competitiveness, 92nd for English skills</strong> <code>www.japantimes.co.jp</code></a> - <a href="https://news.ycombinator.com/item?id=42165447">77 comments 73 points</a></li>
+<li><a href="https://blocksandfiles.com/2024/11/08/huawei-developing-meds-to-combat-disk-ship-stop-sickness/"><strong>Huawei developing SSD-tape hybrid amid US tech restrictions</strong> <code>blocksandfiles.com</code></a> - <a href="https://news.ycombinator.com/item?id=42164272">84 comments 72 points</a></li>
+<li><a href="https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks"><strong>Drinking water systems for 26M Americans face high cybersecurity risks</strong> <code>www.scworld.com</code></a> - <a href="https://news.ycombinator.com/item?id=42167887">46 comments 71 points</a></li>
+<li><a href="https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding"><strong>You could have designed state of the art positional encoding</strong> <code>fleetwood.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42166948">7 comments 71 points</a></li>
+<li><a href="https://kentindell.github.io/2023/04/03/can-injection/"><strong>Can Injection: keyless car theft (2023)</strong> <code>kentindell.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42163900">49 comments 68 points</a></li>
+<li><a href="https://www.tofugu.com/japan/japanese-black-companies/"><strong>How Japanese Black Companies Oppress Workers and Ruin Lives[2014]</strong> <code>www.tofugu.com</code></a> - <a href="https://news.ycombinator.com/item?id=42169615">56 comments 66 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-11-17]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/793</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.usenix.org/conference/osdi21/presentation/fri-keynote"><strong>It&#39;s time for operating systems to rediscover hardware</strong> <code>www.usenix.org</code></a> - <a href="https://news.ycombinator.com/item?id=41890633">12 comments 57 points</a></li>
 <li><a href="https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html"><strong>Smurf: Beyond the Test Pyramid</strong> <code>testing.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=41890486">34 comments 55 points</a></li>
 <li><a href="https://time.com/7093536/surgeons-apple-vision-pro/"><strong>Why Surgeons Are Wearing the Apple Vision Pro in Operating Rooms</strong> <code>time.com</code></a> - <a href="https://news.ycombinator.com/item?id=41892773">35 comments 51 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-10-19]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/764</link>
-            <guid>764</guid>
-            <pubDate>Sat, 19 Oct 2024 06:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme"><strong>Secret 3D scans in the French Supreme Court</strong> <code>cosmowenman.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41877513">242 comments 639 points</a></li>
-<li><a href="https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521"><strong>The feds are coming for John Deere over the right to repair</strong> <code>gizmodo.com</code></a> - <a href="https://news.ycombinator.com/item?id=41880981">164 comments 398 points</a></li>
-<li><a href="https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/"><strong>Apple Passwords’ generated strong password format</strong> <code>rmondello.com</code></a> - <a href="https://news.ycombinator.com/item?id=41878290">232 comments 363 points</a></li>
-<li><a href="https://alexwlchan.net/2024/static-websites/"><strong>Using static websites for tiny archives</strong> <code>alexwlchan.net</code></a> - <a href="https://news.ycombinator.com/item?id=41876750">60 comments 317 points</a></li>
-<li><a href="https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html"><strong>Microsoft and OpenAI&#39;s close partnership shows signs of fraying</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=41878281">413 comments 290 points</a></li>
-<li><a href="https://pehringer.info/go_plan9_memo.html"><strong>Show HN: Go Plan9 Memo</strong> <code>pehringer.info</code></a> - <a href="https://news.ycombinator.com/item?id=41879854">82 comments 254 points</a></li>
-<li><a href="https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/"><strong>Code that helped end Apartheid</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=41879072">140 comments 236 points</a></li>
-<li><a href="https://blog.ndepend.com/net-9-0-linq-performance-improvements/"><strong>Net 9.0 LINQ Performance Improvements</strong> <code>blog.ndepend.com</code></a> - <a href="https://news.ycombinator.com/item?id=41878095">186 comments 191 points</a></li>
-<li><a href="https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations"><strong>Running an open source app: Usage, costs and community donations</strong> <code>spliit.app</code></a> - <a href="https://news.ycombinator.com/item?id=41879845">115 comments 184 points</a></li>
-<li><a href="https://community.wolfram.com/groups/-/m/t/1793319"><strong>Factorio – Visualizing construction material dependencies</strong> <code>community.wolfram.com</code></a> - <a href="https://news.ycombinator.com/item?id=41876821">82 comments 177 points</a></li>
-<li><a href="https://subvert.fm/"><strong>Subvert – Collectively owned music marketplace</strong> <code>subvert.fm</code></a> - <a href="https://news.ycombinator.com/item?id=41880829">86 comments 171 points</a></li>
-<li><a href="https://cacm.acm.org/opinion/what-is-theoretical-computer-science/"><strong>What is theoretical computer science?</strong> <code>cacm.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=41876723">116 comments 135 points</a></li>
-<li><a href="https://technicalwriting.dev/strategy/decisions.html"><strong>Focus on decisions, not tasks</strong> <code>technicalwriting.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41881872">23 comments 128 points</a></li>
-<li><a href="https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/"><strong>US probes Tesla&#39;s Full Self-Driving software in 2.4M cars after fatal crash</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41884740">138 comments 125 points</a></li>
-<li><a href="https://expressjs.com/2024/10/15/v5-release.html"><strong>Express v5</strong> <code>expressjs.com</code></a> - <a href="https://news.ycombinator.com/item?id=41882955">28 comments 124 points</a></li>
-<li><a href="https://togithub.com/microsoft/BitNet"><strong>Microsoft BitNet: inference framework for 1-bit LLMs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41877609">30 comments 123 points</a></li>
-<li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185"><strong>Impact of early life adversity on reward processing in young adults (2014)</strong> <code>journals.plos.org</code></a> - <a href="https://news.ycombinator.com/item?id=41878167">109 comments 121 points</a></li>
-<li><a href="https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back"><strong>Life is not a story</strong> <code>psyche.co</code></a> - <a href="https://news.ycombinator.com/item?id=41876979">101 comments 110 points</a></li>
-<li><a href="https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d"><strong>Reports show some Canada euthanasia deaths driven by social reasons</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=41884415">84 comments 74 points</a></li>
-<li><a href="https://gushogg-blake.com/p/blog-burnout/"><strong>Another burnout post</strong> <code>gushogg-blake.com</code></a> - <a href="https://news.ycombinator.com/item?id=41880249">108 comments 70 points</a></li>
-<li><a href="https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/"><strong>Fixed Timestep Without Interpolation</strong> <code>jakubtomsu.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41878220">28 comments 69 points</a></li>
-<li><a href="https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b"><strong>Cuba&#39;s grid goes offline with blackout after a major power plant fails</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=41885463">43 comments 62 points</a></li>
-<li><a href="https://www.courthousenews.com/jury-awards-american-airlines-9-4-million-from-website-behind-skiplagging-hack/"><strong>Jury awards American Airline $9.4M from website behind &#39;skiplagging&#39; hack</strong> <code>www.courthousenews.com</code></a> - <a href="https://news.ycombinator.com/item?id=41884772">84 comments 56 points</a></li>
-<li><a href="https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm"><strong>Frederick Law Olmsted: His essential theory (2000)</strong> <code>www.nps.gov</code></a> - <a href="https://news.ycombinator.com/item?id=41878461">17 comments 55 points</a></li>
-<li><a href="https://www.flightradar24.com/blog/tcas-averts-possible-collision-austin/"><strong>TCAS averts possible head-on collision in Austin</strong> <code>www.flightradar24.com</code></a> - <a href="https://news.ycombinator.com/item?id=41882742">41 comments 48 points</a></li>
-<li><a href="https://www.patreonsettlement.com/"><strong>Stark et al. vs. Patreon, Inc. Class Action Settlement</strong> <code>www.patreonsettlement.com</code></a> - <a href="https://news.ycombinator.com/item?id=41884543">14 comments 48 points</a></li>
-<li><a href="https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73"><strong>US to probe Tesla&#39;s &#39;Full Self-Driving&#39; system after pedestrian killed</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=41880649">25 comments 44 points</a></li>
-<li><a href="https://arxiv.org/abs/2410.12860"><strong>LLMD: A Large Language Model for Interpreting Longitudinal Medical Records</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41878959">15 comments 44 points</a></li>
-<li><a href="https://techcrunch.com/2024/10/17/permira-completes-squarespace-acquisition-after-upping-bid-to-7-2b/"><strong>Permira completes Squarespace acquisition after upping bid to $7.2B</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=41879666">21 comments 40 points</a></li>
-<li><a href="https://www.theguardian.com/science/2024/oct/18/us-startup-charging-couples-to-screen-embryos-for-iq"><strong>US startup charging couples to &#39;screen embryos for IQ&#39;</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41879972">44 comments 38 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
