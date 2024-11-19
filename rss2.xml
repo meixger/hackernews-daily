@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 18 Nov 2024 06:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 06:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-11-19]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/795</link>
+            <guid>795</guid>
+            <pubDate>Tue, 19 Nov 2024 06:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://news.ycombinator.com/item?id=42174204"><strong>Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42174204">223 comments 401 points</a></li>
+<li><a href="https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/"><strong>I was banned from the hCaptcha accessibility account for not being blind (2023)</strong> <code>michaels.world</code></a> - <a href="https://news.ycombinator.com/item?id=42171164">245 comments 355 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly"><strong>DOJ will push Google to sell off Chrome</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=42177767">356 comments 329 points</a></li>
+<li><a href="https://maxbo.me/a-html-file-is-all-you-need.html"><strong>Reactive HTML Notebooks</strong> <code>maxbo.me</code></a> - <a href="https://news.ycombinator.com/item?id=42170740">49 comments 318 points</a></li>
+<li><a href="https://ondsel.com/blog/goodbye/"><strong>We are shutting down Ondsel</strong> <code>ondsel.com</code></a> - <a href="https://news.ycombinator.com/item?id=42169998">167 comments 302 points</a></li>
+<li><a href="https://togithub.com/circlemind-ai/fast-graphrag"><strong>Show HN: FastGraphRAG – Better RAG using good old PageRank</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42174829">73 comments 274 points</a></li>
+<li><a href="https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/"><strong>Bhutan, after prioritizing happiness, now faces an existential crisis</strong> <code>www.cbsnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42172281">320 comments 245 points</a></li>
+<li><a href="https://blog.google/outreach-initiatives/education/google-scholar-20-years/"><strong>20 years of Google Scholar</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=42175023">118 comments 238 points</a></li>
+<li><a href="https://www.arp242.net/best-practices.html"><strong>Against Best Practices</strong> <code>www.arp242.net</code></a> - <a href="https://news.ycombinator.com/item?id=42170552">183 comments 234 points</a></li>
+<li><a href="https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/"><strong>A BBC navigation bar component broke depending on the external monitor</strong> <code>www.joshtumath.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42173233">96 comments 233 points</a></li>
+<li><a href="https://tips.io"><strong>Show HN: Tips.io – A Tailwind playground with AI, page management, and theming</strong> <code>tips.io</code></a> - <a href="https://news.ycombinator.com/item?id=42173119">52 comments 223 points</a></li>
+<li><a href="https://cerebras.ai/blog/llama-405b-inference"><strong>Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference</strong> <code>cerebras.ai</code></a> - <a href="https://news.ycombinator.com/item?id=42178761">66 comments 214 points</a></li>
+<li><a href="https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html"><strong>Two undersea cables in Baltic Sea disrupted</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=42172565">391 comments 203 points</a></li>
+<li><a href="https://mailcatcher.me/"><strong>MailCatcher runs a super simple SMTP server</strong> <code>mailcatcher.me</code></a> - <a href="https://news.ycombinator.com/item?id=42174231">68 comments 197 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed"><strong>Finland and Lithuania Report Severed Undersea Data Cables</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=42175676">1 comments 174 points</a></li>
+<li><a href="https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/"><strong>AMD now has more compute on the top 500 than Nvidia</strong> <code>www.nextplatform.com</code></a> - <a href="https://news.ycombinator.com/item?id=42175624">93 comments 172 points</a></li>
+<li><a href="https://jvernay.fr/en/blog/skyline-2d-packer/implementation/"><strong>The Skyline algorithm for packing 2D rectangles</strong> <code>jvernay.fr</code></a> - <a href="https://news.ycombinator.com/item?id=42173114">40 comments 164 points</a></li>
+<li><a href="https://togithub.com/DocumindHQ/documind"><strong>Show HN: Documind – Open-source AI tool to turn documents into structured data</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42171311">49 comments 154 points</a></li>
+<li><a href="https://arxiv.org/abs/2411.10440"><strong>LLaVA-O1: Let Vision Language Models Reason Step-by-Step</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42171043">26 comments 154 points</a></li>
+<li><a href="https://news.mongabay.com/short-article/illegally-logged-wood-from-cambodia-likely-ending-up-in-u-s-homes/"><strong>Illegally logged wood from Cambodia likely ending up in U.S. homes</strong> <code>news.mongabay.com</code></a> - <a href="https://news.ycombinator.com/item?id=42174703">79 comments 121 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=BcmUZpdChhA"><strong>Unreal 5.5 is a big deal [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=42174840">60 comments 117 points</a></li>
+<li><a href="https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029"><strong>Rats Learned to Drive–and They Love It</strong> <code>theconversation.com</code></a> - <a href="https://news.ycombinator.com/item?id=42179774">33 comments 104 points</a></li>
+<li><a href="https://www.cam.ac.uk/stories/roots-of-bird-intelligence"><strong>Bird brain from the age of dinosaurs reveals roots of avian intelligence</strong> <code>www.cam.ac.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42173184">5 comments 103 points</a></li>
+<li><a href="https://qwenlm.github.io/blog/qwen2.5-turbo/"><strong>Extending the context length to 1M tokens</strong> <code>qwenlm.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42173960">101 comments 95 points</a></li>
+<li><a href="https://abdisalan.com/posts/tragedy-running-old-node-project/"><strong>The tragedy of running an old Node project</strong> <code>abdisalan.com</code></a> - <a href="https://news.ycombinator.com/item?id=42175316">110 comments 93 points</a></li>
+<li><a href="https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data"><strong>DNA testing company vanishes along with its customers&#39; genetic data</strong> <code>www.malwarebytes.com</code></a> - <a href="https://news.ycombinator.com/item?id=42176911">26 comments 93 points</a></li>
+<li><a href="https://twitter.com/jorilallo/status/1858211286066073922"><strong>Ben Affleck&#39;s surprisingly comprehensive take on LLMs for video</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=42175850">134 comments 86 points</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/cjr4zwj2lgdo"><strong>Nordic neighbours release new advice on surviving war</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42173870">123 comments 85 points</a></li>
+<li><a href="https://www.maslowcnc.com"><strong>Maslow 4: Large format CNC routing made accessible</strong> <code>www.maslowcnc.com</code></a> - <a href="https://news.ycombinator.com/item?id=42179467">13 comments 79 points</a></li>
+<li><a href="https://substack.com/@richholmes/note/c-77466623"><strong>Europeans spend 575M hours clicking on cookie banners a year</strong> <code>substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42176158">91 comments 77 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-11-18]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/794</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.youtube.com/watch?v=P_vbYmPm_zU"><strong>David Lynch Interview Project</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=41899586">13 comments 71 points</a></li>
 <li><a href="https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations"><strong>Do AI detectors work? Students face false cheating accusations</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=41896973">88 comments 70 points</a></li>
 <li><a href="https://mrmr.io/cat"><strong>The useful use of cat</strong> <code>mrmr.io</code></a> - <a href="https://news.ycombinator.com/item?id=41894933">65 comments 67 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-10-20]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/765</link>
-            <guid>765</guid>
-            <pubDate>Sun, 20 Oct 2024 06:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://twitter.com/snwy_me/status/1847396175961641176"><strong>Love being interrupted when my monitor asks me to accept user agreements</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=41889140">194 comments 318 points</a></li>
-<li><a href="https://www.npmjs.com/package/svelte"><strong>Svelte 5 Released</strong> <code>www.npmjs.com</code></a> - <a href="https://news.ycombinator.com/item?id=41889674">148 comments 299 points</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition"><strong>AI engineers claim new algorithm reduces AI power consumption by 95%</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=41889414">104 comments 212 points</a></li>
-<li><a href="https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/"><strong>The long road to lazy preemption in the Linux CPU scheduler</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=41886256">49 comments 207 points</a></li>
-<li><a href="https://arxiv.org/abs/2310.09423"><strong>QUIC is not quick enough over fast internet</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41890784">169 comments 188 points</a></li>
-<li><a href="https://send.vis.ee/"><strong>Send: Open-source fork of Firefox Send</strong> <code>send.vis.ee</code></a> - <a href="https://news.ycombinator.com/item?id=41887378">62 comments 181 points</a></li>
-<li><a href="https://aworkinglibrary.com/writing/accountability-sinks"><strong>Accountability sinks</strong> <code>aworkinglibrary.com</code></a> - <a href="https://news.ycombinator.com/item?id=41891694">70 comments 170 points</a></li>
-<li><a href="https://dancres.github.io/Pages/"><strong>A Distributed Systems Reading List (2014)</strong> <code>dancres.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41889076">9 comments 162 points</a></li>
-<li><a href="https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big"><strong>Have McKinsey and its consulting rivals got too big?</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=41888061">162 comments 152 points</a></li>
-<li><a href="https://dvc.org/"><strong>Data Version Control</strong> <code>dvc.org</code></a> - <a href="https://news.ycombinator.com/item?id=41888937">27 comments 139 points</a></li>
-<li><a href="https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/"><strong>Ribbonfarm Is Retiring</strong> <code>www.ribbonfarm.com</code></a> - <a href="https://news.ycombinator.com/item?id=41889876">85 comments 135 points</a></li>
-<li><a href="https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/"><strong>Dwarf Fortress – Boatmurdered Part #1 – Intro (2006)</strong> <code>lparchive.org</code></a> - <a href="https://news.ycombinator.com/item?id=41889543">38 comments 130 points</a></li>
-<li><a href="https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/"><strong>Regarding our Cease and Desist letter to Automattic</strong> <code>wpfusion.com</code></a> - <a href="https://news.ycombinator.com/item?id=41891799">33 comments 126 points</a></li>
-<li><a href="https://togithub.com/awslabs/git-remote-s3"><strong>S3 as a Git remote and LFS server</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41887004">25 comments 119 points</a></li>
-<li><a href="https://www.telegraph.co.uk/world-news/2024/10/18/dutch-woman-82-rides-bike/"><strong>Woman, 82, still rides same bike she was given at 13</strong> <code>www.telegraph.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=41887419">138 comments 105 points</a></li>
-<li><a href="https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/"><strong>Autism&#39;s Four Core Subtypes</strong> <code>www.thetransmitter.org</code></a> - <a href="https://news.ycombinator.com/item?id=41889990">67 comments 103 points</a></li>
-<li><a href="https://www.bbc.com/news/uk-england-35840393"><strong>Knocker uppers: Waking up the workers in industrial Britain (2016)</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=41886956">63 comments 90 points</a></li>
-<li><a href="https://blog.pragmaticengineer.com/did-automattic-commit-open-source-theft/"><strong>Did Automattic commit open source theft?</strong> <code>blog.pragmaticengineer.com</code></a> - <a href="https://news.ycombinator.com/item?id=41888808">39 comments 84 points</a></li>
-<li><a href="https://old.reddit.com/comments/1g6uc7x/comment/lsmpeeu"><strong>I Hate the Letter F</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=41885843">53 comments 83 points</a></li>
-<li><a href="https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life"><strong>&#39;They refused to let me go&#39;: Japanese turn to resignation agencies to quit jobs</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41886244">99 comments 73 points</a></li>
-<li><a href="https://www.entrepreneur.com/business-news/x-rival-bluesky-gains-12-million-new-users-in-2-days/481572"><strong>Bluesky gains 1.2M in 2 days, 12M total after X disables blocking</strong> <code>www.entrepreneur.com</code></a> - <a href="https://news.ycombinator.com/item?id=41889027">67 comments 73 points</a></li>
-<li><a href="https://oct8l.gitlab.io/posts/2019/140/wireguard-performance-with-a-pi-zero/"><strong>WireGuard Performance with a Pi Zero (2019)</strong> <code>oct8l.gitlab.io</code></a> - <a href="https://news.ycombinator.com/item?id=41889091">65 comments 68 points</a></li>
-<li><a href="https://dl.acm.org/doi/pdf/10.1145/987452.987458"><strong>Eliza in SNOBOL4</strong> <code>dl.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=41889284">17 comments 67 points</a></li>
-<li><a href="https://zen-browser.app/"><strong>Zen: Firefox Based Browser</strong> <code>zen-browser.app</code></a> - <a href="https://news.ycombinator.com/item?id=41887099">40 comments 65 points</a></li>
-<li><a href="https://registerspill.thorstenball.com/p/how-i-use-git"><strong>How I Use Git</strong> <code>registerspill.thorstenball.com</code></a> - <a href="https://news.ycombinator.com/item?id=41890480">14 comments 65 points</a></li>
-<li><a href="https://www.npr.org/2024/10/19/g-s1-29030/us-probe-tesla-full-self-driving-system"><strong>U.S. to probe Tesla&#39;s &#39;Full Self-Driving&#39; system after pedestrian killed</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=41888806">3 comments 62 points</a></li>
-<li><a href="https://mil04s43-in-f1.1e100.net"><strong>Italy&#39;s Piracy Shield just blocked one of Google&#39;s CDN</strong> <code>mil04s43-in-f1.1e100.net</code></a> - <a href="https://news.ycombinator.com/item?id=41890460">23 comments 61 points</a></li>
-<li><a href="https://www.usenix.org/conference/osdi21/presentation/fri-keynote"><strong>It&#39;s time for operating systems to rediscover hardware</strong> <code>www.usenix.org</code></a> - <a href="https://news.ycombinator.com/item?id=41890633">12 comments 57 points</a></li>
-<li><a href="https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html"><strong>Smurf: Beyond the Test Pyramid</strong> <code>testing.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=41890486">34 comments 55 points</a></li>
-<li><a href="https://time.com/7093536/surgeons-apple-vision-pro/"><strong>Why Surgeons Are Wearing the Apple Vision Pro in Operating Rooms</strong> <code>time.com</code></a> - <a href="https://news.ycombinator.com/item?id=41892773">35 comments 51 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
