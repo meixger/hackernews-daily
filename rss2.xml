@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 24 Nov 2024 06:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 06:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-11-25]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/801</link>
+            <guid>801</guid>
+            <pubDate>Mon, 25 Nov 2024 06:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.starlink.com/business/direct-to-cell"><strong>Starlink Direct to Cell</strong> <code>www.starlink.com</code></a> - <a href="https://news.ycombinator.com/item?id=42230103">468 comments 448 points</a></li>
+<li><a href="https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/"><strong>This website is hosted on Bluesky</strong> <code>danielmangum.com</code></a> - <a href="https://news.ycombinator.com/item?id=42230392">79 comments 423 points</a></li>
+<li><a href="https://www.5snb.club/posts/2023/do-not-stab/"><strong>RFC 35140: HTTP Do-Not-Stab (2023)</strong> <code>www.5snb.club</code></a> - <a href="https://news.ycombinator.com/item?id=42232040">91 comments 366 points</a></li>
+<li><a href="https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908"><strong>Denmark will plant 1B trees and convert 10% of farmland into forest</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42226185">237 comments 314 points</a></li>
+<li><a href="https://bitfieldconsulting.com/posts/career"><strong>A career-ending mistake</strong> <code>bitfieldconsulting.com</code></a> - <a href="https://news.ycombinator.com/item?id=42228538">186 comments 309 points</a></li>
+<li><a href="https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/"><strong>Marshall Brain has died</strong> <code>www.wral.com</code></a> - <a href="https://news.ycombinator.com/item?id=42228759">115 comments 287 points</a></li>
+<li><a href="https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads"><strong>Bluesky is on the verge of overtaking Threads in all the ways that matter</strong> <code>mashable.com</code></a> - <a href="https://news.ycombinator.com/item?id=42231148">254 comments 243 points</a></li>
+<li><a href="https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/"><strong>WireGuard: Beyond the most basic configuration</strong> <code>sloonz.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42229299">74 comments 238 points</a></li>
+<li><a href="https://togithub.com/huggingface/smollm"><strong>Full LLM training and evaluation toolkit</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42228472">4 comments 200 points</a></li>
+<li><a href="https://wtf-8.xn--stpie-k0a81a.com/"><strong>Charset=&quot;WTF-8&quot;</strong> <code>wtf-8.xn--stpie-k0a81a.com</code></a> - <a href="https://news.ycombinator.com/item?id=42226953">278 comments 188 points</a></li>
+<li><a href="https://twitter.com/taylorogan/status/1859146242519167249"><strong>The size of BYD&#39;s factory</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=42228138">284 comments 180 points</a></li>
+<li><a href="https://gizmodo.com/senators-say-tsas-facial-recognition-program-is-out-of-control-heres-how-to-opt-out-2000528310"><strong>Senators say TSA&#39;s facial recognition program is out of control</strong> <code>gizmodo.com</code></a> - <a href="https://news.ycombinator.com/item?id=42228795">151 comments 151 points</a></li>
+<li><a href="https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples"><strong>SQLite: Outlandish Recursive Query Examples</strong> <code>www.sqlite.org</code></a> - <a href="https://news.ycombinator.com/item?id=42230384">39 comments 129 points</a></li>
+<li><a href="https://statmodeling.stat.columbia.edu/2024/11/24/those-correction-notices-in-full-yes-its-possible-to-directly-admit-and-learn-from-error/"><strong>Those correction notices, in full</strong> <code>statmodeling.stat.columbia.edu</code></a> - <a href="https://news.ycombinator.com/item?id=42228866">31 comments 117 points</a></li>
+<li><a href="https://www.phoronix.com/news/Linux-6.13-Non-MM"><strong>Linux 6.13 will report the number of hung tasks since boot</strong> <code>www.phoronix.com</code></a> - <a href="https://news.ycombinator.com/item?id=42228672">23 comments 111 points</a></li>
+<li><a href="https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its"><strong>Pushing AMD&#39;s Infinity Fabric to Its Limit</strong> <code>chipsandcheese.com</code></a> - <a href="https://news.ycombinator.com/item?id=42230355">3 comments 110 points</a></li>
+<li><a href="https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88"><strong>Supreme Court allows multibillion-dollar class action to proceed against Meta</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42226081">50 comments 109 points</a></li>
+<li><a href="https://inside.java/2024/11/22/mark-scavenge-gc/"><strong>Mark–Scavenge: Waiting for Trash to Take Itself Out</strong> <code>inside.java</code></a> - <a href="https://news.ycombinator.com/item?id=42229107">27 comments 106 points</a></li>
+<li><a href="https://files.spritely.institute/papers/petnames.html"><strong>Petnames: A humane approach to secure, decentralized naming</strong> <code>files.spritely.institute</code></a> - <a href="https://news.ycombinator.com/item?id=42228146">18 comments 96 points</a></li>
+<li><a href="https://arxiv.org/abs/2411.11469"><strong>Deegen: A JIT-Capable VM Generator for Dynamic Languages</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42227233">16 comments 94 points</a></li>
+<li><a href="https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"><strong>The Two Factions of C++</strong> <code>herecomesthemoon.net</code></a> - <a href="https://news.ycombinator.com/item?id=42231489">84 comments 91 points</a></li>
+<li><a href="https://zkorean.com/hangul/history_of_hangul"><strong>History of Hangul</strong> <code>zkorean.com</code></a> - <a href="https://news.ycombinator.com/item?id=42228486">40 comments 82 points</a></li>
+<li><a href="https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds"><strong>Wildlife monitoring technologies used to intimidate and spy on women</strong> <code>www.cam.ac.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42232289">13 comments 76 points</a></li>
+<li><a href="https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/"><strong>Hynix launches 321-layer NAND</strong> <code>www.electronicsweekly.com</code></a> - <a href="https://news.ycombinator.com/item?id=42229825">31 comments 75 points</a></li>
+<li><a href="https://togithub.com/triyanox/lla"><strong>I made an ls alternative for my personal use</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42229003">77 comments 71 points</a></li>
+<li><a href="https://lemon.rip/w/c99-vla-tricks/"><strong>C99 doesn&#39;t need function bodies: VLAs are Turing complete</strong> <code>lemon.rip</code></a> - <a href="https://news.ycombinator.com/item?id=42230889">2 comments 68 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=E3N-z-Y8cuw"><strong>No More Storage Limits: M.2 Adapter for Apple&#39;s M1 MacBooks [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=42230990">8 comments 59 points</a></li>
+<li><a href="https://www.electrive.com/2024/11/24/new-study-shows-ev-batteries-last-much-longer-than-expected/"><strong>New study shows: EV batteries last much longer than expected</strong> <code>www.electrive.com</code></a> - <a href="https://news.ycombinator.com/item?id=42228901">43 comments 57 points</a></li>
+<li><a href="https://sqlitestudio.pl/"><strong>SQLiteStudio: Create, edit, browse SQLite databases</strong> <code>sqlitestudio.pl</code></a> - <a href="https://news.ycombinator.com/item?id=42232000">12 comments 56 points</a></li>
+<li><a href="https://www.nationalgeographic.com/animals/article/river-crab-ancient-rome"><strong>The &#39;giant&#39; river crabs that live beneath Rome&#39;s ancient ruins</strong> <code>www.nationalgeographic.com</code></a> - <a href="https://news.ycombinator.com/item?id=42228091">8 comments 55 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-11-24]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/800</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/"><strong>The weak science behind psychedelics</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=41958575">41 comments 58 points</a></li>
 <li><a href="https://www.bbc.com/news/articles/cjr431lr72jo"><strong>&quot;We took on Google and they were forced to pay out £2B&quot;</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=41958425">30 comments 56 points</a></li>
 <li><a href="https://www.ft.com/content/15998397-48dc-4afd-acbb-19ff08416e5b"><strong>There are only two asset classes: ownership and debt</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41955539">32 comments 54 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-10-26]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/771</link>
-            <guid>771</guid>
-            <pubDate>Sat, 26 Oct 2024 06:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines"><strong>We can now fix McDonald&#39;s ice cream machines</strong> <code>www.ifixit.com</code></a> - <a href="https://news.ycombinator.com/item?id=41949098">171 comments 602 points</a></li>
-<li><a href="https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html"><strong>Jeff Bezos killed Washington Post endorsement of Kamala Harris</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=41949297">681 comments 574 points</a></li>
-<li><a href="https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk"><strong>Company named &quot;&gt;<SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD" forced to change it (2020)</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=41948666">174 comments 402 points</a></li>
-<li><a href="https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/"><strong>Smartphone buyers meh on AI, care more about battery life</strong> <code>www.cnet.com</code></a> - <a href="https://news.ycombinator.com/item?id=41946188">308 comments 291 points</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation"><strong>Wikipedia article blocked worldwide by Delhi high court</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=41950392">175 comments 286 points</a></li>
-<li><a href="https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/"><strong>Before you buy a domain name, first check to see if it&#39;s haunted</strong> <code>www.bryanbraun.com</code></a> - <a href="https://news.ycombinator.com/item?id=41951131">44 comments 239 points</a></li>
-<li><a href="https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html"><strong>Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds</strong> <code>medicalxpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=41945372">168 comments 230 points</a></li>
-<li><a href="https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html"><strong>Smarter Than &#39;Ctrl+F&#39;: Linking Directly to Web Page Content</strong> <code>alfy.blog</code></a> - <a href="https://news.ycombinator.com/item?id=41943098">127 comments 212 points</a></li>
-<li><a href="https://abuseofnotation.github.io/category-theory-illustrated/05_logic/"><strong>Category Theory Illustrated: Logic (2021)</strong> <code>abuseofnotation.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41945308">62 comments 201 points</a></li>
-<li><a href="https://www.thariq.io/blog/entropix/"><strong>Detecting when LLMs are uncertain</strong> <code>www.thariq.io</code></a> - <a href="https://news.ycombinator.com/item?id=41947566">123 comments 195 points</a></li>
-<li><a href="https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/"><strong>A deep dive into Linux&#39;s new mseal syscall</strong> <code>blog.trailofbits.com</code></a> - <a href="https://news.ycombinator.com/item?id=41945894">37 comments 186 points</a></li>
-<li><a href="https://lukerissacher.com/battleships"><strong>Battleships Logic Puzzle</strong> <code>lukerissacher.com</code></a> - <a href="https://news.ycombinator.com/item?id=41946036">60 comments 165 points</a></li>
-<li><a href="https://arxiv.org/abs/2311.11793"><strong>Universal optimality of Dijkstra via beyond-worst-case heaps</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41947355">36 comments 149 points</a></li>
-<li><a href="https://simonwillison.net/2024/Oct/24/claude-analysis-tool/"><strong>Notes on the new Claude analysis JavaScript code execution tool</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=41943662">42 comments 145 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/cd7n3zyp114o"><strong>Disposable vapes to be banned in England and Wales</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=41946401">150 comments 144 points</a></li>
-<li><a href="https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers"><strong>Infinite Git repos on Cloudflare workers</strong> <code>gitlip.com</code></a> - <a href="https://news.ycombinator.com/item?id=41947513">83 comments 130 points</a></li>
-<li><a href="https://klecko.github.io/posts/selinux-bypasses/"><strong>SELinux bypasses</strong> <code>klecko.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41946453">28 comments 127 points</a></li>
-<li><a href="https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/"><strong>In the US, regenerative farming practices require unlearning past advice</strong> <code>investigatemidwest.org</code></a> - <a href="https://news.ycombinator.com/item?id=41949108">44 comments 120 points</a></li>
-<li><a href="https://microsoft.github.io/OmniParser/"><strong>OmniParser for Pure Vision Based GUI Agent</strong> <code>microsoft.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=41948433">16 comments 104 points</a></li>
-<li><a href="https://www.wsj.com/finance/currencies/federal-investigators-probe-cryptocurrency-firm-tether-a13804e5"><strong>Federal investigators probe Tether</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=41947892">92 comments 101 points</a></li>
-<li><a href="https://marx.wtf/2024/10/10/law-enforcement-undermines-tor/"><strong>Law Enforcement Undermines Tor</strong> <code>marx.wtf</code></a> - <a href="https://news.ycombinator.com/item?id=41942978">72 comments 92 points</a></li>
-<li><a href="https://abc7chicago.com/post/russia-amplified-hurricane-disinformation-drive-americans-apart-researchers-find/15463309/"><strong>Russia amplified hurricane disinformation to drive Americans apart</strong> <code>abc7chicago.com</code></a> - <a href="https://news.ycombinator.com/item?id=41951773">43 comments 92 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=SioCwvR_PYY"><strong>How can this 6 axis robot have a static accuracy of 0.05 mm? (2021) [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=41951408">16 comments 91 points</a></li>
-<li><a href="https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space"><strong>Astronomers discover complex carbon molecules in interstellar space</strong> <code>www.sciencealert.com</code></a> - <a href="https://news.ycombinator.com/item?id=41946381">13 comments 88 points</a></li>
-<li><a href="https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/"><strong>OSI readies controversial open-source AI definition</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=41951421">87 comments 81 points</a></li>
-<li><a href="https://composio.dev/blog/claude-computer-use/"><strong>Notes on Anthropic&#39;s Computer Use Ability</strong> <code>composio.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41944637">100 comments 77 points</a></li>
-<li><a href="https://waymo.com/blog/2024/10/investing-to-bring-the-waymo-driver-to-more-riders/"><strong>Waymo closes $5.6B investment round</strong> <code>waymo.com</code></a> - <a href="https://news.ycombinator.com/item?id=41945169">181 comments 72 points</a></li>
-<li><a href="https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"><strong>Unsafe Rust is harder than C</strong> <code>chadaustin.me</code></a> - <a href="https://news.ycombinator.com/item?id=41944121">93 comments 72 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41949455"><strong>Ask HN: Namecheap charged my card, didn&#39;t deliver, then upped the price</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=41949455">28 comments 69 points</a></li>
-<li><a href="https://www.404media.co/amazon-says-it-has-a-first-amendment-right-to-union-bust/"><strong>Amazon Says It Has a First Amendment Right to Union Bust</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=41945904">42 comments 67 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
