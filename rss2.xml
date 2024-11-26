@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 25 Nov 2024 06:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 06:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-11-26]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/802</link>
+            <guid>802</guid>
+            <pubDate>Tue, 26 Nov 2024 06:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.anthropic.com/news/model-context-protocol"><strong>Model Context Protocol</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=42237424">204 comments 612 points</a></li>
+<li><a href="https://www.benji.dog/articles/git-config/"><strong>How I configure my Git identities</strong> <code>www.benji.dog</code></a> - <a href="https://news.ycombinator.com/item?id=42233524">97 comments 408 points</a></li>
+<li><a href="https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/"><strong>Amazon S3 Adds Put-If-Match (Compare-and-Swap)</strong> <code>aws.amazon.com</code></a> - <a href="https://news.ycombinator.com/item?id=42240678">85 comments 285 points</a></li>
+<li><a href="https://timdellinger.substack.com/p/hey-wait-is-employee-performance"><strong>Hey, wait – is employee performance Gaussian distributed?</strong> <code>timdellinger.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42236841">309 comments 282 points</a></li>
+<li><a href="https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/"><strong>A Day in the Life: The Global BGP Table</strong> <code>articles.foletta.org</code></a> - <a href="https://news.ycombinator.com/item?id=42233565">19 comments 201 points</a></li>
+<li><a href="https://papersplease.org/wp/2024/11/25/do-you-need-id-to-read-the-real-id-rules/"><strong>Do you need ID to read the REAL-ID rules?</strong> <code>papersplease.org</code></a> - <a href="https://news.ycombinator.com/item?id=42239952">77 comments 196 points</a></li>
+<li><a href="https://togithub.com/destel/rill"><strong>Show HN: Rill – Composable concurrency toolkit for Go</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42237166">100 comments 179 points</a></li>
+<li><a href="https://status.flyio.net"><strong>Fly.io outage (restoration complete)</strong> <code>status.flyio.net</code></a> - <a href="https://news.ycombinator.com/item?id=42241851">124 comments 161 points</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328"><strong>Noise-canceling single-layer woven silk and cotton fabric</strong> <code>onlinelibrary.wiley.com</code></a> - <a href="https://news.ycombinator.com/item?id=42235909">105 comments 148 points</a></li>
+<li><a href="https://www.psypost.org/lonely-individuals-tend-to-think-and-talk-in-an-unusual-way-study-finds/"><strong>Lonely individuals tend to think and talk in an unusual way, study finds</strong> <code>www.psypost.org</code></a> - <a href="https://news.ycombinator.com/item?id=42234695">129 comments 129 points</a></li>
+<li><a href="http://deevybee.blogspot.com/2024/11/why-i-have-resigned-from-royal-society.html"><strong>Why I have resigned from the Royal Society</strong> <code>deevybee.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=42234497">113 comments 129 points</a></li>
+<li><a href="https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar"><strong>A Short Introduction to Automotive Lidar Technology</strong> <code>www.viksnewsletter.com</code></a> - <a href="https://news.ycombinator.com/item?id=42239721">88 comments 116 points</a></li>
+<li><a href="https://www.eff.org/deeplinks/2024/11/judges-investigation-patent-troll-ip-edge-results-criminal-referrals"><strong>Judge&#39;s Investigation into Patent Troll Results in Criminal Referrals</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=42234147">11 comments 113 points</a></li>
+<li><a href="https://togithub.com/github/roadmap/discussions/1014"><strong>Deprecating outdated issues on the GitHub public roadmap</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42234415">84 comments 104 points</a></li>
+<li><a href="https://twitter.com/TomHacohen/status/1861137484249252093"><strong>Redis is trying to take over the all of the OSS Redis libraries</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=42239607">36 comments 102 points</a></li>
+<li><a href="https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/"><strong>Computing with Time: Microarchitectural Weird Machines</strong> <code>cacm.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=42235418">19 comments 99 points</a></li>
+<li><a href="https://ldenoue.github.io/readabletranscripts/"><strong>Show HN: Gemini LLM corrects ASR YouTube transcripts</strong> <code>ldenoue.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42238890">59 comments 96 points</a></li>
+<li><a href="https://www.euronews.com/next/2024/11/25/microsoft-outlook-exchange-and-teams-calendar-are-down-worldwide"><strong>Microsoft Outlook, Exchange and Teams calendar are down worldwide</strong> <code>www.euronews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42235183">43 comments 94 points</a></li>
+<li><a href="https://huntlie.com"><strong>Show HN: I am Building a Producthunt alternative</strong> <code>huntlie.com</code></a> - <a href="https://news.ycombinator.com/item?id=42238396">83 comments 92 points</a></li>
+<li><a href="http://www.call-with-current-continuation.org/fleng/fleng.html"><strong>Fleng 22 (concurrent logic programming)</strong> <code>www.call-with-current-continuation.org</code></a> - <a href="https://news.ycombinator.com/item?id=42238299">7 comments 92 points</a></li>
+<li><a href="https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs"><strong>Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs (2015)</strong> <code>www.metmuseum.org</code></a> - <a href="https://news.ycombinator.com/item?id=42239487">26 comments 81 points</a></li>
+<li><a href="https://www.flowtide.app"><strong>Show HN: Minimal, customizable new tab for Chrome/Firefox</strong> <code>www.flowtide.app</code></a> - <a href="https://news.ycombinator.com/item?id=42237258">54 comments 73 points</a></li>
+<li><a href="https://www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/"><strong>Mysteries in polar orbit – space&#39;s oldest working hardware keeps its secrets</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=42235635">9 comments 65 points</a></li>
+<li><a href="https://deno.com/blog/deno-v-oracle"><strong>Deno vs. Oracle: Canceling the JavaScript Trademark</strong> <code>deno.com</code></a> - <a href="https://news.ycombinator.com/item?id=42239263">15 comments 64 points</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6290285/"><strong>Premature Graying of Hair: Review with Updates</strong> <code>pmc.ncbi.nlm.nih.gov</code></a> - <a href="https://news.ycombinator.com/item?id=42241702">40 comments 57 points</a></li>
+<li><a href="https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/"><strong>How the Ivy League Broke America</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=42233651">75 comments 56 points</a></li>
+<li><a href="https://arstechnica.com/health/2024/11/raw-milk-recalled-for-containing-bird-flu-virus-california-reports/"><strong>Raw milk recalled for containing bird flu virus, California reports</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=42239416">93 comments 52 points</a></li>
+<li><a href="https://www.yahoo.com/news/internet-entrepreneur-kim-dotcom-suffered-095220437.html"><strong>Kim Dotcom Suffers Stroke</strong> <code>www.yahoo.com</code></a> - <a href="https://news.ycombinator.com/item?id=42241600">70 comments 51 points</a></li>
+<li><a href="https://9to5google.com/2024/11/25/google-ios-app-link-annotations-search/"><strong>Google&#39;s iOS app now injects links on third-party websites that go to Search</strong> <code>9to5google.com</code></a> - <a href="https://news.ycombinator.com/item?id=42241789">34 comments 50 points</a></li>
+<li><a href="https://www.raspberrypi.com/news/raspberry-pi-pico-2-w-on-sale-now/"><strong>Raspberry Pi Pico 2 W on sale now at $7</strong> <code>www.raspberrypi.com</code></a> - <a href="https://news.ycombinator.com/item?id=42234174">15 comments 50 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-11-25]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/801</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism"><strong>Axiomatics: Mathematical thought and high modernism</strong> <code>old.maa.org</code></a> - <a href="https://news.ycombinator.com/item?id=41962944">12 comments 56 points</a></li>
 <li><a href="https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic"><strong>What is the first American graphic novel?</strong> <code>haljohnsonbooks.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41963635">21 comments 51 points</a></li>
 <li><a href="https://www.construction-physics.com/p/will-the-china-cycle-come-for-airbus"><strong>Will the China cycle come for Airbus and Boeing?</strong> <code>www.construction-physics.com</code></a> - <a href="https://news.ycombinator.com/item?id=41964769">34 comments 48 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-10-27]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/772</link>
-            <guid>772</guid>
-            <pubDate>Sun, 27 Oct 2024 06:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/"><strong>New Windows driver signature bypass allows kernel rootkit installs</strong> <code>www.bleepingcomputer.com</code></a> - <a href="https://news.ycombinator.com/item?id=41954825">211 comments 275 points</a></li>
-<li><a href="https://blog.hyperknot.com/p/understanding-round-robin-dns"><strong>Understanding Round Robin DNS</strong> <code>blog.hyperknot.com</code></a> - <a href="https://news.ycombinator.com/item?id=41955912">98 comments 260 points</a></li>
-<li><a href="https://beige.party/@possibledog/113367977656537478"><strong>Bluesky Is Not Decentralized</strong> <code>beige.party</code></a> - <a href="https://news.ycombinator.com/item?id=41952994">164 comments 200 points</a></li>
-<li><a href="https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e"><strong>How &#39;Factorio&#39; seduced Silicon Valley and me</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41952984">203 comments 174 points</a></li>
-<li><a href="https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/"><strong>Should JavaScript be split into two languages?</strong> <code>devclass.com</code></a> - <a href="https://news.ycombinator.com/item?id=41955353">227 comments 122 points</a></li>
-<li><a href="https://www.theregister.com/2024/10/25/opinion_open_washing/"><strong>Open washing – why companies pretend to be open source</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=41955473">75 comments 118 points</a></li>
-<li><a href="https://www.optimaloutliers.com/p/adhd-and-managing-your-reputation"><strong>ADHD and managing your professional reputation</strong> <code>www.optimaloutliers.com</code></a> - <a href="https://news.ycombinator.com/item?id=41958221">93 comments 115 points</a></li>
-<li><a href="https://togithub.com/dim0x69/mdx"><strong>Show HN: Mdx – Execute your Markdown code blocks, now in Go</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41952779">50 comments 111 points</a></li>
-<li><a href="https://gizmodo.com/feds-say-you-dont-have-a-right-to-check-out-retro-video-games-like-library-books-2000516767"><strong>Feds: You Don&#39;t Have a Right to Check Out Retro Video Games Like Library Books</strong> <code>gizmodo.com</code></a> - <a href="https://news.ycombinator.com/item?id=41952908">82 comments 106 points</a></li>
-<li><a href="https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/"><strong>ZombAIs: From Prompt Injection to C2 with Claude Computer Use</strong> <code>embracethered.com</code></a> - <a href="https://news.ycombinator.com/item?id=41958550">48 comments 106 points</a></li>
-<li><a href="https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen"><strong>I discovered mysterious hidden signals on a public radio channel (2013) [video]</strong> <code>media.ccc.de</code></a> - <a href="https://news.ycombinator.com/item?id=41958766">18 comments 106 points</a></li>
-<li><a href="https://bullenweg.com/"><strong>Bullenweg.com is no longer available following threats of legal action</strong> <code>bullenweg.com</code></a> - <a href="https://news.ycombinator.com/item?id=41957829">34 comments 105 points</a></li>
-<li><a href="https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps"><strong>Deep dive: the instability of op-amps</strong> <code>lcamtuf.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=41955003">36 comments 95 points</a></li>
-<li><a href="https://togithub.com/jonfraser/simpletext"><strong>Show HN: A text-only blog engine using Cloudflare workers and KV store</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=41954399">42 comments 90 points</a></li>
-<li><a href="https://m4xc.dev/articles/fundamental-rc/"><strong>Fundamentals of Radiance Cascades</strong> <code>m4xc.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41957008">21 comments 82 points</a></li>
-<li><a href="https://phys.org/news/2024-10-ion-solar-gravitational-lens-years.html"><strong>Ion engines could take us to the solar gravitational lens in less than 13 years</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=41956742">65 comments 80 points</a></li>
-<li><a href="https://www.andreagrandi.it/posts/howto-configure-ethernet-connection-ipad-raspberrypi-usbc/"><strong>How to configure an Ethernet connection between iPad and RaspberryPi with USB-C</strong> <code>www.andreagrandi.it</code></a> - <a href="https://news.ycombinator.com/item?id=41955255">30 comments 79 points</a></li>
-<li><a href="https://pine64.com/product/pinenote-community-edition-coming-soon/"><strong>PineNote Community Edition: Preorder coming soon</strong> <code>pine64.com</code></a> - <a href="https://news.ycombinator.com/item?id=41957601">26 comments 73 points</a></li>
-<li><a href="https://old.reddit.com/r/geography/comments/1fv9ti6/on_friday_21st_march_2025_at_0250_utc_the_sun/"><strong>On Friday 21st March 2025, the sun will set on the British &quot;Empire&quot;</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=41957938">19 comments 73 points</a></li>
-<li><a href="https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/"><strong>Why those particular integer multiplies?</strong> <code>fgiesen.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=41953319">32 comments 70 points</a></li>
-<li><a href="https://linderud.dev/blog/nixos-is-not-reproducible/"><strong>NixOS is not reproducible</strong> <code>linderud.dev</code></a> - <a href="https://news.ycombinator.com/item?id=41953155">131 comments 69 points</a></li>
-<li><a href="https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/"><strong>Apple wins $250 US jury verdict in patent case over Masimo smartwatches</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=41955650">43 comments 68 points</a></li>
-<li><a href="https://arxiv.org/abs/2410.18379"><strong>Identifying factors contributing to &quot;bad days&quot; for software developers</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=41955580">51 comments 65 points</a></li>
-<li><a href="https://commoncog.com/goodharts-law-not-useful/"><strong>Goodhart&#39;s law isn&#39;t as useful as you might think (2023)</strong> <code>commoncog.com</code></a> - <a href="https://news.ycombinator.com/item?id=41956587">40 comments 65 points</a></li>
-<li><a href="https://browserleaks.com/canvas"><strong>Canvas Fingerprinting</strong> <code>browserleaks.com</code></a> - <a href="https://news.ycombinator.com/item?id=41958255">50 comments 64 points</a></li>
-<li><a href="https://pen.org/press-release/cancellation-of-naval-academy-lecture-by-ruth-ben-ghiat-at-behest-of-republican-politicians-threatens-institutional-autonomy/"><strong>Cancellation of Naval Academy Lecture by Ruth Ben-Ghiat Threatens Inst. Autonomy</strong> <code>pen.org</code></a> - <a href="https://news.ycombinator.com/item?id=41953365">90 comments 62 points</a></li>
-<li><a href="https://www.bbc.com/news/business-66644709"><strong>Long wave radio fans mourn fading frequencies (2023)</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=41957585">31 comments 61 points</a></li>
-<li><a href="https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/"><strong>The weak science behind psychedelics</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=41958575">41 comments 58 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/cjr431lr72jo"><strong>&quot;We took on Google and they were forced to pay out £2B&quot;</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=41958425">30 comments 56 points</a></li>
-<li><a href="https://www.ft.com/content/15998397-48dc-4afd-acbb-19ff08416e5b"><strong>There are only two asset classes: ownership and debt</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=41955539">32 comments 54 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
