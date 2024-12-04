@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 03 Dec 2024 06:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 06:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-12-04]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/810</link>
+            <guid>810</guid>
+            <pubDate>Wed, 04 Dec 2024 06:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1"><strong>South Korean president declares martial law, parliament votes to lift it</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42306020">620 comments 569 points</a></li>
+<li><a href="https://www.armaansahni.com/game/"><strong>My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback</strong> <code>www.armaansahni.com</code></a> - <a href="https://news.ycombinator.com/item?id=42312121">242 comments 437 points</a></li>
+<li><a href="https://egoless.engineering"><strong>Egoless Engineering</strong> <code>egoless.engineering</code></a> - <a href="https://news.ycombinator.com/item?id=42311069">150 comments 436 points</a></li>
+<li><a href="https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette"><strong>Intel announces Arc B-series &quot;Battlemage&quot; discrete graphics with Linux support</strong> <code>www.phoronix.com</code></a> - <a href="https://news.ycombinator.com/item?id=42308590">549 comments 372 points</a></li>
+<li><a href="https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0"><strong>Phoenix LiveView 1.0.0 is here</strong> <code>www.phoenixframework.org</code></a> - <a href="https://news.ycombinator.com/item?id=42312301">65 comments 367 points</a></li>
+<li><a href="https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/"><strong>Amazon Nova</strong> <code>aws.amazon.com</code></a> - <a href="https://news.ycombinator.com/item?id=42309121">118 comments 308 points</a></li>
+<li><a href="https://commoncog.com/c/cases/y-combinator-power/"><strong>Y Combinator and Power in Silicon Valley</strong> <code>commoncog.com</code></a> - <a href="https://news.ycombinator.com/item?id=42303798">158 comments 285 points</a></li>
+<li><a href="https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/"><strong>DuckDuckGo donates $25k to the Perl and Raku Foundation</strong> <code>www.perl.com</code></a> - <a href="https://news.ycombinator.com/item?id=42307223">148 comments 271 points</a></li>
+<li><a href="https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/"><strong>Blizzard&#39;s pulling of Warcraft I and II tests GOG&#39;s new Preservation Program</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=42303274">177 comments 235 points</a></li>
+<li><a href="https://skia-canvas.org/"><strong>Skia Canvas: Browserless implementation of the HTML Canvas drawing API for node</strong> <code>skia-canvas.org</code></a> - <a href="https://news.ycombinator.com/item?id=42308051">67 comments 219 points</a></li>
+<li><a href="https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/"><strong>No need to email me about Cisco AnyConnect</strong> <code>daniel.haxx.se</code></a> - <a href="https://news.ycombinator.com/item?id=42303903">66 comments 217 points</a></li>
+<li><a href="https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/"><strong>Company claims 1k% price hike drove it from VMware to open source rival</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=42304955">188 comments 203 points</a></li>
+<li><a href="https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"><strong>Dependency management fatigue, or why I ditched React for Go+HTMX+Templ</strong> <code>blog.erodriguez.de</code></a> - <a href="https://news.ycombinator.com/item?id=42305348">195 comments 202 points</a></li>
+<li><a href="https://annali.netlify.app/2024/11/20/tweaking-stunt-island"><strong>Tweaking Stunt Island&#39;s 30-year-old 3D engine</strong> <code>annali.netlify.app</code></a> - <a href="https://news.ycombinator.com/item?id=42305954">42 comments 182 points</a></li>
+<li><a href="https://walzr.com/IMG_0001/"><strong>IMG_0001</strong> <code>walzr.com</code></a> - <a href="https://news.ycombinator.com/item?id=42314547">30 comments 181 points</a></li>
+<li><a href="https://aws.amazon.com/rds/aurora/dsql/"><strong>Amazon Aurora DSQL</strong> <code>aws.amazon.com</code></a> - <a href="https://news.ycombinator.com/item?id=42308716">107 comments 165 points</a></li>
+<li><a href="https://www.thetubecomputer.com/"><strong>The Tube Computer</strong> <code>www.thetubecomputer.com</code></a> - <a href="https://news.ycombinator.com/item?id=42309790">47 comments 153 points</a></li>
+<li><a href="https://www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/"><strong>Broadcom loses another big VMware customer</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=42308184">105 comments 144 points</a></li>
+<li><a href="https://help.kagi.com/kagi/api/search.html"><strong>Kagi Search API</strong> <code>help.kagi.com</code></a> - <a href="https://news.ycombinator.com/item?id=42305767">140 comments 143 points</a></li>
+<li><a href="https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers"><strong>FTC takes action against Gravy Analytics, Venntel for selling location data</strong> <code>www.ftc.gov</code></a> - <a href="https://news.ycombinator.com/item?id=42309429">121 comments 137 points</a></li>
+<li><a href="https://www.datocms.com/blog/why-we-switched-to-astro"><strong>We switched from Next.js to Astro (and why it might interest you)</strong> <code>www.datocms.com</code></a> - <a href="https://news.ycombinator.com/item?id=42306742">113 comments 130 points</a></li>
+<li><a href="https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/desktop/b-series/overview.html"><strong>Intel Launches Arc B-Series Graphics Cards</strong> <code>www.intel.com</code></a> - <a href="https://news.ycombinator.com/item?id=42309010">4 comments 129 points</a></li>
+<li><a href="https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/"><strong>Phishers Love New TLDs Like .shop, .top and .xyz</strong> <code>krebsonsecurity.com</code></a> - <a href="https://news.ycombinator.com/item?id=42305831">154 comments 128 points</a></li>
+<li><a href="https://lord.io/text-editing-hates-you-too/"><strong>Text Editing Hates You Too (2019)</strong> <code>lord.io</code></a> - <a href="https://news.ycombinator.com/item?id=42310461">48 comments 113 points</a></li>
+<li><a href="https://togithub.com/keyvank/30cc"><strong>Show HN: My C compiler compiled itself</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42311031">34 comments 112 points</a></li>
+<li><a href="https://www.reuters.com/world/asia-pacific/south-korea-president-yoon-declares-martial-law-2024-12-03/"><strong>South Korea President Yoon declares martial law</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=42306073">3 comments 112 points</a></li>
+<li><a href="https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/"><strong>California teacher dies from suspected rabid bat bite</strong> <code>ktla.com</code></a> - <a href="https://news.ycombinator.com/item?id=42308849">148 comments 94 points</a></li>
+<li><a href="https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal"><strong>‘With brain preservation, nobody has to die’</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=42307148">336 comments 91 points</a></li>
+<li><a href="https://www.nature.com/articles/s41598-024-76900-1"><strong>AI poetry is indistinguishable from human poetry and is rated more favorably</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=42306857">152 comments 90 points</a></li>
+<li><a href="https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/"><strong>My brand new digitizing workflow using a 25 year old film scanner</strong> <code>blog.vladovince.com</code></a> - <a href="https://news.ycombinator.com/item?id=42308234">43 comments 90 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-12-03]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/809</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.wsj.com/business/media/threat-of-new-york-times-tech-worker-strike-on-election-day-grows-174b1912"><strong>New York Times Tech Workers Strike Ahead of Election</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=42042082">7 comments 84 points</a></li>
 <li><a href="https://clagnut.com/blog/2426"><strong>Pagination widows, or, Why I&#39;m embarrassed about my eBook (2023)</strong> <code>clagnut.com</code></a> - <a href="https://news.ycombinator.com/item?id=42047677">18 comments 82 points</a></li>
 <li><a href="https://forum.manjaro.org/t/testers-needed-manjaro-data-donor/170163"><strong>Manjaro Linux prepares to enable telemetry by default</strong> <code>forum.manjaro.org</code></a> - <a href="https://news.ycombinator.com/item?id=42043539">95 comments 81 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-11-04]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/780</link>
-            <guid>780</guid>
-            <pubDate>Mon, 04 Nov 2024 06:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://spectrum.ieee.org/touchscreens"><strong>Touchscreens are out, and tactile controls are back</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=42033241">611 comments 857 points</a></li>
-<li><a href="https://togithub.com/altera-al/project-sid"><strong>Project Sid: Many-agent simulations toward AI civilization</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42035319">87 comments 273 points</a></li>
-<li><a href="https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit"><strong>Matrix 2.0 Is Here</strong> <code>matrix.org</code></a> - <a href="https://news.ycombinator.com/item?id=42032387">105 comments 253 points</a></li>
-<li><a href="https://bitfieldconsulting.com/posts/need-money"><strong>If you need the money, don&#39;t take the job</strong> <code>bitfieldconsulting.com</code></a> - <a href="https://news.ycombinator.com/item?id=42032638">150 comments 248 points</a></li>
-<li><a href="https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html"><strong>Scientists glue two proteins together, driving cancer cells to self-destruct</strong> <code>med.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=42037386">54 comments 207 points</a></li>
-<li><a href="https://kevinboone.me/systemd_embedded.html"><strong>Why systemd is a problem for embedded Linux</strong> <code>kevinboone.me</code></a> - <a href="https://news.ycombinator.com/item?id=42036305">147 comments 158 points</a></li>
-<li><a href="https://www.pgflo.io/"><strong>pg_flo – Stream, transform, and re-route PostgreSQL data in real-time</strong> <code>www.pgflo.io</code></a> - <a href="https://news.ycombinator.com/item?id=42034237">22 comments 149 points</a></li>
-<li><a href="https://spin.atomicobject.com/redis-postgresql/"><strong>Do you need Redis? PostgreSQL does queuing, locking, and pub/sub</strong> <code>spin.atomicobject.com</code></a> - <a href="https://news.ycombinator.com/item?id=42036303">91 comments 144 points</a></li>
-<li><a href="https://lmcinnes.github.io/datamapplot_examples/hackernews/"><strong>Hacker News Data Map [180MB]</strong> <code>lmcinnes.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42035981">19 comments 132 points</a></li>
-<li><a href="https://whatdinner.com/"><strong>Show HN: Tinder, but to Decide What to Eat</strong> <code>whatdinner.com</code></a> - <a href="https://news.ycombinator.com/item?id=42036041">109 comments 130 points</a></li>
-<li><a href="https://auth.wiki/"><strong>Auth Wiki</strong> <code>auth.wiki</code></a> - <a href="https://news.ycombinator.com/item?id=42033295">24 comments 106 points</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/intel-might-be-too-big-to-fail-washington-policymakers-are-already-discussing-potential-solutions-if-the-chipmaker-cannot-recover"><strong>Intel might be too big to fail</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=42032906">213 comments 100 points</a></li>
-<li><a href="https://togithub.com/karthink/gptel"><strong>gptel: a simple LLM client for Emacs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42034675">20 comments 99 points</a></li>
-<li><a href="https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html"><strong>Please just stop saying &quot;just&quot; (2019)</strong> <code>sgringwe.com</code></a> - <a href="https://news.ycombinator.com/item?id=42038139">64 comments 98 points</a></li>
-<li><a href="https://lalacheck.fly.dev/"><strong>I couldn&#39;t find a free, no-login, no-AI checklist app–so I built one</strong> <code>lalacheck.fly.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42034146">116 comments 92 points</a></li>
-<li><a href="https://togithub.com/ahmetsait/toolgit"><strong>ToolGit: A collection of scripts that extend Git with various sub-commands</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42034521">46 comments 89 points</a></li>
-<li><a href="https://togithub.com/ItsRiprod/DeskThing"><strong>The DeskThing: the perfect desk assistant</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42034362">52 comments 86 points</a></li>
-<li><a href="https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987"><strong>Bill Atkinson doxxed Douglas Adams in 1987</strong> <code>not.withoutdistractions.com</code></a> - <a href="https://news.ycombinator.com/item?id=42036165">75 comments 85 points</a></li>
-<li><a href="https://si.inc/hertz-dev/"><strong>Hertz-dev, the first open-source base model for conversational audio</strong> <code>si.inc</code></a> - <a href="https://news.ycombinator.com/item?id=42036995">10 comments 82 points</a></li>
-<li><a href="https://hardenedbsd.org/content/easy-feature-comparison"><strong>HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD</strong> <code>hardenedbsd.org</code></a> - <a href="https://news.ycombinator.com/item?id=42036652">25 comments 70 points</a></li>
-<li><a href="https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly"><strong>Moving Off Heroku, Slowly</strong> <code>jamie.ideasasylum.com</code></a> - <a href="https://news.ycombinator.com/item?id=42036163">46 comments 68 points</a></li>
-<li><a href="https://substack.com/home/post/p-151067817"><strong>The Confusing State of RCS</strong> <code>substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42035133">71 comments 67 points</a></li>
-<li><a href="https://www.phoronix.com/news/Redox-OS-For-October-2024"><strong>Redox OS gets RISC-V support</strong> <code>www.phoronix.com</code></a> - <a href="https://news.ycombinator.com/item?id=42035743">6 comments 65 points</a></li>
-<li><a href="https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/"><strong>Future Music magazine is closing after 32 years</strong> <code>musictech.com</code></a> - <a href="https://news.ycombinator.com/item?id=42035601">27 comments 63 points</a></li>
-<li><a href="https://www.cs.cmu.edu/~weigand/staff/"><strong>Reasonable Person Principle</strong> <code>www.cs.cmu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=42037260">51 comments 62 points</a></li>
-<li><a href="https://bettersoftware.uk/2024/11/03/missing-open-source-contributor-presents-a-dilemma-when-accepting-their-contribution/"><strong>Missing open-source contributor presents a dilemma when accepting their PR</strong> <code>bettersoftware.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42034196">43 comments 62 points</a></li>
-<li><a href="https://michaelengen.com/posts/my-eleventy-resume/"><strong>Building My Resume in HTML Using Eleventy</strong> <code>michaelengen.com</code></a> - <a href="https://news.ycombinator.com/item?id=42037120">50 comments 61 points</a></li>
-<li><a href="https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds"><strong>Why Facts Don&#39;t Change Our Minds</strong> <code>www.newyorker.com</code></a> - <a href="https://news.ycombinator.com/item?id=42036733">42 comments 61 points</a></li>
-<li><a href="https://arxiv.org/abs/2410.16454"><strong>An embarrassingly simple approach to recover unlearned knowledge for LLMs</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42037982">6 comments 61 points</a></li>
-<li><a href="https://blog.preyneyv.dev/doing-less-with-more"><strong>I Waited 10B Cycles and All I Got Was This Loading Screen</strong> <code>blog.preyneyv.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42032693">54 comments 59 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
