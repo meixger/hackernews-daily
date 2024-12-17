@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 16 Dec 2024 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 06:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2024-12-17]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/823</link>
+            <guid>823</guid>
+            <pubDate>Tue, 17 Dec 2024 06:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://danluu.com/nothing-works/"><strong>Why is it so hard to buy things that work well? (2022)</strong> <code>danluu.com</code></a> - <a href="https://news.ycombinator.com/item?id=42430450">466 comments 562 points</a></li>
+<li><a href="https://www.lfgss.com/conversations/401475/"><strong>Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)</strong> <code>www.lfgss.com</code></a> - <a href="https://news.ycombinator.com/item?id=42433044">271 comments 473 points</a></li>
+<li><a href="https://togithub.com/XiaoMi/ha_xiaomi_home"><strong>Xiaomi Home Integration for Home Assistant</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42432151">247 comments 457 points</a></li>
+<li><a href="https://deepmind.google/technologies/veo/veo-2/"><strong>Veo 2: Our video generation model</strong> <code>deepmind.google</code></a> - <a href="https://news.ycombinator.com/item?id=42432914">184 comments 377 points</a></li>
+<li><a href="https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/"><strong>Most iPhone owners see little to no value in Apple Intelligence so far</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=42431090">358 comments 317 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=42431103"><strong>Ask HN: SWEs how do you future-proof your career in light of LLMs?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42431103">611 comments 305 points</a></li>
+<li><a href="https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb"><strong>Popeye and Tintin enter the public domain in 2025 along with Faulkner, Hemingway</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42429606">90 comments 278 points</a></li>
+<li><a href="https://opsbros.com/nokia-5110-back-from-the-dead/"><strong>Nokia 5110 – Back from the Dead (2022)</strong> <code>opsbros.com</code></a> - <a href="https://news.ycombinator.com/item?id=42429197">124 comments 242 points</a></li>
+<li><a href="https://avi.im/blag/2024/faster-sqlite/"><strong>In Search of a Faster SQLite</strong> <code>avi.im</code></a> - <a href="https://news.ycombinator.com/item?id=42432730">105 comments 239 points</a></li>
+<li><a href="https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html"><strong>What did Ada Lovelace&#39;s program actually do? (2018)</strong> <code>twobithistory.org</code></a> - <a href="https://news.ycombinator.com/item?id=42432867">81 comments 236 points</a></li>
+<li><a href="https://modelica.org/"><strong>Modelica</strong> <code>modelica.org</code></a> - <a href="https://news.ycombinator.com/item?id=42431186">72 comments 231 points</a></li>
+<li><a href="https://go.dev/blog/protobuf-opaque"><strong>Go Protobuf: The New Opaque API</strong> <code>go.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42434947">87 comments 215 points</a></li>
+<li><a href="https://twitter.com/realGeorgeHotz/status/1868356459542770087"><strong>&quot;Nvidia is so far ahead that all the 4090s are nerfed to half speed&quot;</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=42430184">157 comments 178 points</a></li>
+<li><a href="https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/"><strong>UK&#39;s Online Safety Act comes into force</strong> <code>www.ofcom.org.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42429045">213 comments 155 points</a></li>
+<li><a href="https://waymo.com/blog/2024/12/partnering-with-nihon-kotsu-and-go-on-our-first-international-road-trip"><strong>Waymo will bring autonomous vehicles to Tokyo</strong> <code>waymo.com</code></a> - <a href="https://news.ycombinator.com/item?id=42438009">63 comments 147 points</a></li>
+<li><a href="https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/"><strong>Using Guile for Emacs</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=42432004">44 comments 133 points</a></li>
+<li><a href="https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral"><strong>Always go to the funeral (2005)</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=42435972">71 comments 130 points</a></li>
+<li><a href="https://solmaz.io/our-muscles-will-atrophy"><strong>Our muscles will atrophy as we climb the Kardashev Scale</strong> <code>solmaz.io</code></a> - <a href="https://news.ycombinator.com/item?id=42433205">180 comments 126 points</a></li>
+<li><a href="https://www.theregister.com/2024/12/16/who_me/"><strong>Coder wrote a bug so bad security guards wanted a word when he arrived at work</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=42431046">59 comments 125 points</a></li>
+<li><a href="https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/"><strong>Using Drop for safety in Rust</strong> <code>v5.chriskrycho.com</code></a> - <a href="https://news.ycombinator.com/item?id=42429672">23 comments 106 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=42431361"><strong>Ask HN: Examples of agentic LLM systems in production?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42431361">64 comments 92 points</a></li>
+<li><a href="https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html"><strong>The Qualcomm DSP Driver – Unexpectedly excavating an exploit</strong> <code>googleprojectzero.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=42430265">24 comments 89 points</a></li>
+<li><a href="https://spectrum.ieee.org/submarine-stealth"><strong>Will even the most advanced subs have nowhere to hide?</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=42430317">95 comments 86 points</a></li>
+<li><a href="https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/"><strong>Pelicans on a bicycle</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=42433609">53 comments 84 points</a></li>
+<li><a href="https://words.filippo.io/dispatches/frood/"><strong>Frood, an Alpine Initramfs NAS</strong> <code>words.filippo.io</code></a> - <a href="https://news.ycombinator.com/item?id=42428722">10 comments 82 points</a></li>
+<li><a href="https://www.404media.co/wordpress-login-pineapple-on-pizza/"><strong>To Log into WordPress, You Now Have to Agree Pineapple on Pizza Is Good</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=42433177">119 comments 79 points</a></li>
+<li><a href="https://op-co.de/blog/posts/grub2_bios_bootloop/"><strong>Backward-incompatible GRUB2 change causing BIOS setup bootloop</strong> <code>op-co.de</code></a> - <a href="https://news.ycombinator.com/item?id=42432979">15 comments 79 points</a></li>
+<li><a href="https://sailor.li/aocnds.html"><strong>Advent of Code on the Nintendo DS</strong> <code>sailor.li</code></a> - <a href="https://news.ycombinator.com/item?id=42436440">19 comments 69 points</a></li>
+<li><a href="https://www.thefp.com/p/the-year-of-mcdonalds-trump-luigi-mangione"><strong>The Year of McDonald&#39;s</strong> <code>www.thefp.com</code></a> - <a href="https://news.ycombinator.com/item?id=42435621">85 comments 62 points</a></li>
+<li><a href="https://www.boomcampaign.org/p/on-the-higher-fertility-of-semiconductor"><strong>The higher fertility of TSMC semiconductor workers</strong> <code>www.boomcampaign.org</code></a> - <a href="https://news.ycombinator.com/item?id=42436570">55 comments 62 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-12-16]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/822</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding"><strong>You could have designed state of the art positional encoding</strong> <code>fleetwood.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42166948">7 comments 71 points</a></li>
 <li><a href="https://kentindell.github.io/2023/04/03/can-injection/"><strong>Can Injection: keyless car theft (2023)</strong> <code>kentindell.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42163900">49 comments 68 points</a></li>
 <li><a href="https://www.tofugu.com/japan/japanese-black-companies/"><strong>How Japanese Black Companies Oppress Workers and Ruin Lives[2014]</strong> <code>www.tofugu.com</code></a> - <a href="https://news.ycombinator.com/item?id=42169615">56 comments 66 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-11-17]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/793</link>
-            <guid>793</guid>
-            <pubDate>Sun, 17 Nov 2024 06:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://lanparty.house/"><strong>Show HN: I built a(nother) house optimized for LAN parties</strong> <code>lanparty.house</code></a> - <a href="https://news.ycombinator.com/item?id=42156977">212 comments 533 points</a></li>
-<li><a href="https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/"><strong>SICP: The only computer science book worth reading twice? (2010)</strong> <code>simondobson.org</code></a> - <a href="https://news.ycombinator.com/item?id=42157558">116 comments 280 points</a></li>
-<li><a href="https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/"><strong>James Webb Space Telescope finds evidence for alternate theory of gravity</strong> <code>thedebrief.org</code></a> - <a href="https://news.ycombinator.com/item?id=42158130">109 comments 257 points</a></li>
-<li><a href="https://yggdrasil-network.github.io/"><strong>Yggdrasil Network</strong> <code>yggdrasil-network.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42155780">88 comments 250 points</a></li>
-<li><a href="https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html"><strong>Two galaxies aligned in a way where their gravity acts as a compound lens</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=42157335">60 comments 203 points</a></li>
-<li><a href="https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design"><strong>YC is wrong about LLMs for chip design</strong> <code>www.zach.be</code></a> - <a href="https://news.ycombinator.com/item?id=42156516">178 comments 198 points</a></li>
-<li><a href="https://bsky.jazco.dev/stats"><strong>Bluesky is currently gaining more than 1M users a day</strong> <code>bsky.jazco.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42159713">192 comments 192 points</a></li>
-<li><a href="https://myelectricsparks.com/four-dead-tesla-doors-fail-open-crash-fire/"><strong>Four dead in fire as Tesla doors fail to open after crash</strong> <code>myelectricsparks.com</code></a> - <a href="https://news.ycombinator.com/item?id=42158391">168 comments 180 points</a></li>
-<li><a href="https://togithub.com/hengyoush/kyanos"><strong>Kyanos: eBPF-based network issue analysis tool</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42154583">14 comments 179 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=42157556"><strong>Ask HN: What open source projects need help?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42157556">83 comments 170 points</a></li>
-<li><a href="https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr"><strong>Casio has released a ring in the form of its iconic watch</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=42156680">71 comments 165 points</a></li>
-<li><a href="https://firehose3d.theo.io/"><strong>The Bluesky firehose viewed in the style of a Windows XP screensaver</strong> <code>firehose3d.theo.io</code></a> - <a href="https://news.ycombinator.com/item?id=42159786">52 comments 162 points</a></li>
-<li><a href="https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/"><strong>M4 Macs can&#39;t virtualise older macOS</strong> <code>eclecticlight.co</code></a> - <a href="https://news.ycombinator.com/item?id=42157086">140 comments 161 points</a></li>
-<li><a href="https://phys.org/news/2024-11-bullying-problem-incidence-primary-schools.html"><strong>Treating bullying as everyone&#39;s problem reduces incidence in primary schools</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=42156640">161 comments 155 points</a></li>
-<li><a href="https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo"><strong>CSS gets a new logo and it uses the color <code>rebeccapurple</code></strong> <code>michaelcharl.es</code></a> - <a href="https://news.ycombinator.com/item?id=42161919">14 comments 144 points</a></li>
-<li><a href="https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/"><strong>Stop making me memorize the borrow checker</strong> <code>erikmcclure.com</code></a> - <a href="https://news.ycombinator.com/item?id=42160501">110 comments 136 points</a></li>
-<li><a href="https://togithub.com/rmcelreath/stat_rethinking_2024"><strong>Statistical Rethinking (2024 Edition)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42157885">22 comments 114 points</a></li>
-<li><a href="https://logica.dev/"><strong>Logica – Declarative logic programming language for data</strong> <code>logica.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42158445">39 comments 113 points</a></li>
-<li><a href="https://www.atlasobscura.com/articles/how-to-echolocate"><strong>Teach yourself to echolocate</strong> <code>www.atlasobscura.com</code></a> - <a href="https://news.ycombinator.com/item?id=42160071">25 comments 104 points</a></li>
-<li><a href="https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article"><strong>Effect of a giant meteorite impact on Paleoarchean environment and life</strong> <code>www.chemistryworld.com</code></a> - <a href="https://news.ycombinator.com/item?id=42160716">40 comments 101 points</a></li>
-<li><a href="https://www.twz.com/air/militarys-recently-deployed-ufo-hunting-aerial-surveillance-system-detailed-in-report"><strong>Military&#39;s UFO-hunting aerial surveillance system detailed in report</strong> <code>www.twz.com</code></a> - <a href="https://news.ycombinator.com/item?id=42158037">93 comments 99 points</a></li>
-<li><a href="https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x"><strong>We’re receiving about 3,000 reports/hour</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=42159454">158 comments 98 points</a></li>
-<li><a href="https://togithub.com/rudyrucker/chaos"><strong>James Gleick&#39;s Chaos: The Software</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42160647">9 comments 97 points</a></li>
-<li><a href="https://duckdb.org/2024/11/14/optimizers.html"><strong>Optimizers: The Low-Key MVP</strong> <code>duckdb.org</code></a> - <a href="https://news.ycombinator.com/item?id=42156430">6 comments 94 points</a></li>
-<li><a href="https://mastodon.social/@ChrisO_wiki/113492224877784244"><strong>X&#39;s algorithm was changed in mid-July 2024 to boost right-leaning accounts</strong> <code>mastodon.social</code></a> - <a href="https://news.ycombinator.com/item?id=42160659">38 comments 84 points</a></li>
-<li><a href="https://petapixel.com/2024/11/14/apple-smells-blood-in-the-water/"><strong>Apple Smells Blood in the Water</strong> <code>petapixel.com</code></a> - <a href="https://news.ycombinator.com/item?id=42156933">89 comments 83 points</a></li>
-<li><a href="https://togithub.com/pyro-ppl/numpyro"><strong>Numpyro: Probabilistic programming with NumPy powered by Jax</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42156126">18 comments 82 points</a></li>
-<li><a href="https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/"><strong>Pentagon fails 7th audit in a row but says progress made</strong> <code>thehill.com</code></a> - <a href="https://news.ycombinator.com/item?id=42160768">43 comments 78 points</a></li>
-<li><a href="https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/"><strong>A Case Against the Placebo Effect</strong> <code>carcinisation.com</code></a> - <a href="https://news.ycombinator.com/item?id=42157012">82 comments 76 points</a></li>
-<li><a href="https://www.allcatsarefemale.com/p/the-structure-of-a-worldview"><strong>The Structure of a Worldview</strong> <code>www.allcatsarefemale.com</code></a> - <a href="https://news.ycombinator.com/item?id=42155843">103 comments 74 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
