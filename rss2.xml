@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 31 Dec 2024 06:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 06:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-01-01]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/838</link>
+            <guid>838</guid>
+            <pubDate>Wed, 01 Jan 2025 06:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://simonwillison.net/2024/Dec/31/llms-in-2024/"><strong>Things we learned about LLMs in 2024</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=42560558">419 comments 586 points</a></li>
+<li><a href="https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas"><strong>Deepseek: The quiet giant leading China’s AI race</strong> <code>www.chinatalk.media</code></a> - <a href="https://news.ycombinator.com/item?id=42557586">303 comments 360 points</a></li>
+<li><a href="https://gitlab.com/skmp/dca3-game"><strong>The GTA III port for the Dreamcast has been released</strong> <code>gitlab.com</code></a> - <a href="https://news.ycombinator.com/item?id=42559909">92 comments 319 points</a></li>
+<li><a href="https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good"><strong>Systems ideas that sound good but almost never work</strong> <code>hardcoresoftware.learningbyshipping.com</code></a> - <a href="https://news.ycombinator.com/item?id=42559882">189 comments 301 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=42562750"><strong>Happy New Year 2025</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42562750">98 comments 301 points</a></li>
+<li><a href="https://www.darktable.org/2024/12/darktable-5.0.0-released/"><strong>Darktable 5.0.0</strong> <code>www.darktable.org</code></a> - <a href="https://news.ycombinator.com/item?id=42558037">103 comments 298 points</a></li>
+<li><a href="https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/"><strong>U.S. Army Soldier Arrested in AT&amp;T, Verizon Extortions</strong> <code>krebsonsecurity.com</code></a> - <a href="https://news.ycombinator.com/item?id=42557342">187 comments 278 points</a></li>
+<li><a href="https://togithub.com/louis-e/arnis"><strong>Arnis: Generate cities in Minecraft from OpenStreetMap</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42561711">47 comments 269 points</a></li>
+<li><a href="https://curiouscoding.nl/posts/static-search-tree/"><strong>Static search trees: faster than binary search</strong> <code>curiouscoding.nl</code></a> - <a href="https://news.ycombinator.com/item?id=42562847">89 comments 249 points</a></li>
+<li><a href="https://trading.snagra.com"><strong>Show HN: Watch 3 AIs compete in real-time stock trading</strong> <code>trading.snagra.com</code></a> - <a href="https://news.ycombinator.com/item?id=42559744">177 comments 221 points</a></li>
+<li><a href="https://rogueengine.io/blog/your-app-should-have-been-a-website"><strong>App Should Have Been a Website (and Probably Your Game Too)</strong> <code>rogueengine.io</code></a> - <a href="https://news.ycombinator.com/item?id=42557172">303 comments 209 points</a></li>
+<li><a href="https://www.construction-physics.com/p/morris-chang-and-the-origins-of-tsmc"><strong>Morris Chang and the Origins of TSMC</strong> <code>www.construction-physics.com</code></a> - <a href="https://news.ycombinator.com/item?id=42559052">53 comments 199 points</a></li>
+<li><a href="https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/"><strong>How to monitor your local weather with Grafana</strong> <code>grafana.com</code></a> - <a href="https://news.ycombinator.com/item?id=42558763">39 comments 179 points</a></li>
+<li><a href="https://dogagingproject.org/"><strong>Dog Aging Project</strong> <code>dogagingproject.org</code></a> - <a href="https://news.ycombinator.com/item?id=42557276">119 comments 122 points</a></li>
+<li><a href="https://www.theguardian.com/tv-and-radio/2018/dec/30/dinner-for-one-german-television-new-years-eve"><strong>Dinner for One: British comedy Germans have been laughing at for years (2018)</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=42560171">61 comments 120 points</a></li>
+<li><a href="https://healeycodes.com/building-game-prototypes-with-love"><strong>Building Game Prototypes with LÖVE</strong> <code>healeycodes.com</code></a> - <a href="https://news.ycombinator.com/item?id=42562175">42 comments 112 points</a></li>
+<li><a href="https://dgl.cx/2024/12/ghostty-terminal-title"><strong>Déjà vu: Ghostly CVEs in my terminal title</strong> <code>dgl.cx</code></a> - <a href="https://news.ycombinator.com/item?id=42562743">1 comments 76 points</a></li>
+<li><a href="https://www.lemonamiga.com/forum/viewtopic.php?t=19114"><strong>Amiga Games Released in 2024 Index</strong> <code>www.lemonamiga.com</code></a> - <a href="https://news.ycombinator.com/item?id=42560284">13 comments 65 points</a></li>
+<li><a href="https://www.pee.ie/"><strong>Pee.ie – Public Toilets Near Me Ireland</strong> <code>www.pee.ie</code></a> - <a href="https://news.ycombinator.com/item?id=42557257">34 comments 56 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=42557947"><strong>Ask HN: How to learn marketing and sales as a solo entrepreneur?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42557947">18 comments 53 points</a></li>
+<li><a href="https://thehill.com/national-security/5061535-virginia-man-arrested-explosives/"><strong>FBI: Largest homemade explosives cache in agency history found in Virginia</strong> <code>thehill.com</code></a> - <a href="https://news.ycombinator.com/item?id=42562529">40 comments 50 points</a></li>
+<li><a href="https://phys.org/news/2024-12-microplastics-multiple-human-tissues-lesions.html"><strong>Microplastics found in multiple human organ tissues correlated with lesions</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=42557434">15 comments 45 points</a></li>
+<li><a href="https://togithub.com/facebookresearch/large_concept_model"><strong>Large Concept Models: Language modeling in a sentence representation space</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42563534">3 comments 43 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=egfCTz-ZuZU"><strong>Bertrand Russell on Zionism [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=42557355">27 comments 38 points</a></li>
+<li><a href="https://gcaptain.com/finland-finds-anchor-drag-marks-left-by-tanker-that-broke-cables/"><strong>Finland Finds Anchor Drag Marks Left by Tanker That Broke Cables</strong> <code>gcaptain.com</code></a> - <a href="https://news.ycombinator.com/item?id=42563734">9 comments 37 points</a></li>
+<li><a href="https://www.macrumors.com/2024/12/31/vision-pro-may-be-out-of-production/"><strong>Apple Vision Pro May Now Be Out of Production</strong> <code>www.macrumors.com</code></a> - <a href="https://news.ycombinator.com/item?id=42563044">23 comments 34 points</a></li>
+<li><a href="https://www.bench.co/press-release"><strong>Bench.co acquired after informing staff company was insolvent</strong> <code>www.bench.co</code></a> - <a href="https://news.ycombinator.com/item?id=42562758">21 comments 33 points</a></li>
+<li><a href="https://discussions.apple.com/thread/255845196"><strong>Mac Mini M4 Pro Display Resolutions</strong> <code>discussions.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=42559914">8 comments 31 points</a></li>
+<li><a href="https://vidzert.com/connect-dots-without-crossing-lines"><strong>Show HN: I made a tiny game to challenge your mind</strong> <code>vidzert.com</code></a> - <a href="https://news.ycombinator.com/item?id=42560933">28 comments 30 points</a></li>
+<li><a href="https://obsessjobs.com/"><strong>Show HN: Obsess Jobs – Apply to jobs in your sleep</strong> <code>obsessjobs.com</code></a> - <a href="https://news.ycombinator.com/item?id=42559048">93 comments 27 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2024-12-31]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/837</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://cs.uwaterloo.ca/~csk/hat/"><strong>An Aperiodic Monotile (2023)</strong> <code>cs.uwaterloo.ca</code></a> - <a href="https://news.ycombinator.com/item?id=42293703">18 comments 59 points</a></li>
 <li><a href="https://blog.heroku.com/dotnet-support-on-heroku"><strong>.NET Support on Heroku</strong> <code>blog.heroku.com</code></a> - <a href="https://news.ycombinator.com/item?id=42301734">33 comments 58 points</a></li>
 <li><a href="https://theconversation.com/tip-pressure-might-work-in-the-moment-but-customers-are-less-likely-to-return-242089"><strong>Tip pressure might work in the moment, but customers are less likely to return</strong> <code>theconversation.com</code></a> - <a href="https://news.ycombinator.com/item?id=42302171">111 comments 57 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-12-02]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/808</link>
-            <guid>808</guid>
-            <pubDate>Mon, 02 Dec 2024 06:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://adventofcode.com/2024/about"><strong>Advent of Code 2024</strong> <code>adventofcode.com</code></a> - <a href="https://news.ycombinator.com/item?id=42287231">440 comments 1096 points</a></li>
-<li><a href="https://markwhen.com"><strong>Show HN: Markwhen: Markdown for Timelines</strong> <code>markwhen.com</code></a> - <a href="https://news.ycombinator.com/item?id=42289690">38 comments 361 points</a></li>
-<li><a href="https://bilbof.com/posts/kubernetes-on-hetzner"><strong>Kubernetes on Hetzner: cutting my infra bill by 75%</strong> <code>bilbof.com</code></a> - <a href="https://news.ycombinator.com/item?id=42288956">97 comments 202 points</a></li>
-<li><a href="https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once"><strong>Kyawthuite is so rare it&#39;s only ever been found once</strong> <code>www.sciencealert.com</code></a> - <a href="https://news.ycombinator.com/item?id=42288449">79 comments 201 points</a></li>
-<li><a href="https://publicdomainreview.org/features/entering-the-public-domain/2025/"><strong>What Will Enter the Public Domain in 2025?</strong> <code>publicdomainreview.org</code></a> - <a href="https://news.ycombinator.com/item?id=42290448">157 comments 194 points</a></li>
-<li><a href="https://arxiv.org/abs/2411.12580"><strong>Procedural knowledge in pretraining drives reasoning in large language models</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42289310">65 comments 179 points</a></li>
-<li><a href="https://www.openread.academy/en/paper/reading?corpusId=503252214"><strong>Handwriting but not typewriting leads to widespread connectivity in brain</strong> <code>www.openread.academy</code></a> - <a href="https://news.ycombinator.com/item?id=42288341">106 comments 163 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=42289955"><strong>Ask HN: How can I grow as an engineer without good seniors to learn from?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42289955">102 comments 140 points</a></li>
-<li><a href="http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html"><strong>Review of &quot;Statistics&quot; by Freedman, Pisani, and Purves (2017)</strong> <code>cadlag.org</code></a> - <a href="https://news.ycombinator.com/item?id=42287345">19 comments 133 points</a></li>
-<li><a href="https://retrogamecoders.com/c64-visual-studio-code/"><strong>Programming the C64 with Visual Studio Code</strong> <code>retrogamecoders.com</code></a> - <a href="https://news.ycombinator.com/item?id=42290861">13 comments 124 points</a></li>
-<li><a href="https://arxiv.org/abs/2411.01747"><strong>DynaSaur: Large Language Agents Beyond Predefined Actions</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42286397">29 comments 120 points</a></li>
-<li><a href="https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/"><strong>&#39;Brain rot&#39; named Oxford Word of the Year 2024</strong> <code>corp.oup.com</code></a> - <a href="https://news.ycombinator.com/item?id=42292294">92 comments 98 points</a></li>
-<li><a href="https://www.asimov.press/p/crick"><strong>Francis Crick&#39;s &quot;Central Dogma&quot; was misunderstood</strong> <code>www.asimov.press</code></a> - <a href="https://news.ycombinator.com/item?id=42289798">43 comments 85 points</a></li>
-<li><a href="https://www.math.uh.edu/~dblecher/pf2.html"><strong>How to Study Mathematics (2017)</strong> <code>www.math.uh.edu</code></a> - <a href="https://news.ycombinator.com/item?id=42290996">32 comments 79 points</a></li>
-<li><a href="https://lamport.azurewebsites.net/tla/science-book.html"><strong>A Science of Concurrent Programs (final draft)</strong> <code>lamport.azurewebsites.net</code></a> - <a href="https://news.ycombinator.com/item?id=42288375">3 comments 74 points</a></li>
-<li><a href="https://docs.racket-lang.org/ctp/index.html"><strong>Category Theory in Programming</strong> <code>docs.racket-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=42291141">42 comments 73 points</a></li>
-<li><a href="https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom"><strong>When was the famous &quot;sudo warning&quot; introduced? (2019)</strong> <code>retrocomputing.stackexchange.com</code></a> - <a href="https://news.ycombinator.com/item?id=42291781">48 comments 71 points</a></li>
-<li><a href="https://www.gamingonlinux.com/2024/11/steam-deck-hits-17000-games-playable-and-verified/"><strong>Steam Deck hits 17,000 games playable and verified</strong> <code>www.gamingonlinux.com</code></a> - <a href="https://news.ycombinator.com/item?id=42289380">42 comments 70 points</a></li>
-<li><a href="https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/"><strong>Heaviside’s Operator Calculus (2007)</strong> <code>deadreckonings.com</code></a> - <a href="https://news.ycombinator.com/item?id=42289913">20 comments 70 points</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/"><strong>Police bust pirate streaming service making €250M per month</strong> <code>www.bleepingcomputer.com</code></a> - <a href="https://news.ycombinator.com/item?id=42291611">103 comments 67 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=42291246"><strong>Ask HN: Who needs help this holidays?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42291246">4 comments 64 points</a></li>
-<li><a href="https://www.orioledb.com/blog/orioledb-beta7-benchmarks"><strong>Show HN: OrioleDB Beta7</strong> <code>www.orioledb.com</code></a> - <a href="https://news.ycombinator.com/item?id=42288258">9 comments 60 points</a></li>
-<li><a href="https://www.hillelwayne.com/post/divide-by-zero/"><strong>1/0 = 0 (2018)</strong> <code>www.hillelwayne.com</code></a> - <a href="https://news.ycombinator.com/item?id=42290069">97 comments 59 points</a></li>
-<li><a href="https://www.science.org/content/article/gene-behind-orange-fur-cats-found-last"><strong>Gene behind orange fur in cats found at last</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=42291386">13 comments 59 points</a></li>
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1934361"><strong>ICP-Brasil: Mis-issued certificate</strong> <code>bugzilla.mozilla.org</code></a> - <a href="https://news.ycombinator.com/item?id=42292235">10 comments 59 points</a></li>
-<li><a href="https://www.eurogamer.net/uk-counter-terrorism-unit-demands-steam-withdraw-controversial-shooter-from-sale"><strong>UK counter-terrorism unit demands Steam withdraw controversial shooter from sale</strong> <code>www.eurogamer.net</code></a> - <a href="https://news.ycombinator.com/item?id=42291111">83 comments 58 points</a></li>
-<li><a href="https://kristoff.it/blog/raii-rust-linux/"><strong>RAII and the Rust/Linux Drama</strong> <code>kristoff.it</code></a> - <a href="https://news.ycombinator.com/item?id=42291417">71 comments 57 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=SAFlRSftffc"><strong>Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=42288458">58 comments 57 points</a></li>
-<li><a href="https://www.wfxrtv.com/homepage-video/amazon-worker-strike-expected/"><strong>Amazon Workers on Strike from Black Friday to Cyber Monday</strong> <code>www.wfxrtv.com</code></a> - <a href="https://news.ycombinator.com/item?id=42292170">13 comments 56 points</a></li>
-<li><a href="https://avi.im/blag/2024/s3-log/"><strong>Building a distributed log using S3 (under 150 lines of Go)</strong> <code>avi.im</code></a> - <a href="https://news.ycombinator.com/item?id=42289087">30 comments 55 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
