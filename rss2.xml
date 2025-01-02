@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 01 Jan 2025 06:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 06:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-01-02]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/839</link>
+            <guid>839</guid>
+            <pubDate>Thu, 02 Jan 2025 06:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://doom-captcha.vercel.app/"><strong>DOOM CAPTCHA</strong> <code>doom-captcha.vercel.app</code></a> - <a href="https://news.ycombinator.com/item?id=42566112">197 comments 822 points</a></li>
+<li><a href="https://mathstodon.xyz/@tao/113721192051328193"><strong>One of my papers got declined today</strong> <code>mathstodon.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=42568399">179 comments 534 points</a></li>
+<li><a href="https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf"><strong>30% drop in O1-preview accuracy when Putnam problems are slightly variated</strong> <code>openreview.net</code></a> - <a href="https://news.ycombinator.com/item?id=42565606">463 comments 505 points</a></li>
+<li><a href="https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html"><strong>Databases in 2024: A Year in Review</strong> <code>www.cs.cmu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=42566192">143 comments 475 points</a></li>
+<li><a href="https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024"><strong>Books I Loved Reading in 2024</strong> <code>thoughts.wyounas.com</code></a> - <a href="https://news.ycombinator.com/item?id=42564687">146 comments 347 points</a></li>
+<li><a href="https://apiparrot.com/"><strong>Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs</strong> <code>apiparrot.com</code></a> - <a href="https://news.ycombinator.com/item?id=42565821">82 comments 333 points</a></li>
+<li><a href="https://literallythevoid.com/blog/rails_for_everything.html"><strong>Rails for everything</strong> <code>literallythevoid.com</code></a> - <a href="https://news.ycombinator.com/item?id=42569236">114 comments 230 points</a></li>
+<li><a href="https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/"><strong>Ruby 3.4 Highlights</strong> <code>blog.sinjakli.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42566141">74 comments 179 points</a></li>
+<li><a href="https://mjg59.dreamwidth.org/70954.html"><strong>The GPU, not the TPM, is the root of hardware DRM</strong> <code>mjg59.dreamwidth.org</code></a> - <a href="https://news.ycombinator.com/item?id=42570988">135 comments 151 points</a></li>
+<li><a href="https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/"><strong>Welcome to the Public Domain in 2025</strong> <code>blog.archive.org</code></a> - <a href="https://news.ycombinator.com/item?id=42567280">13 comments 141 points</a></li>
+<li><a href="https://blog.jacobvosmaer.nl/0036-beeper/"><strong>My favourite computer ergonomics hack</strong> <code>blog.jacobvosmaer.nl</code></a> - <a href="https://news.ycombinator.com/item?id=42569109">30 comments 129 points</a></li>
+<li><a href="https://www.msn.com/en-ca/autos/electric-cars/tesla-replaces-laid-off-u-s-workers-with-foreigners-using-visas-pushed-by-musk-report/ar-AA1wILAQ"><strong>Tesla replaces laid-off U.S. workers with foreigners using visas pushed by Musk</strong> <code>www.msn.com</code></a> - <a href="https://news.ycombinator.com/item?id=42566784">73 comments 121 points</a></li>
+<li><a href="https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/"><strong>Why does storing 2FA codes in your password manager make sense?</strong> <code>andygrunwald.com</code></a> - <a href="https://news.ycombinator.com/item?id=42567279">126 comments 102 points</a></li>
+<li><a href="https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/"><strong>OpenAI failed to deliver the opt-out tool it promised by 2025</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=42566803">21 comments 99 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=42564216"><strong>Ask HN: Does the Framework laptop stand the test of time?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42564216">77 comments 98 points</a></li>
+<li><a href="https://j3s.sh/thought/blogs-rot-wikis-wait.html"><strong>Blogs rot. Wikis wait</strong> <code>j3s.sh</code></a> - <a href="https://news.ycombinator.com/item?id=42571367">43 comments 94 points</a></li>
+<li><a href="https://www.comfydeploy.com/blog/you-dont-need-nextjs"><strong>You don&#39;t need Next.js – Why we migrated from Next to React</strong> <code>www.comfydeploy.com</code></a> - <a href="https://news.ycombinator.com/item?id=42565502">82 comments 93 points</a></li>
+<li><a href="https://tilde.zone/@gluejar/113749300977151258"><strong>A. A. Milne&#39;s Winnie-the-Pooh as an accessible eBook</strong> <code>tilde.zone</code></a> - <a href="https://news.ycombinator.com/item?id=42565513">14 comments 93 points</a></li>
+<li><a href="https://www.astralcodexten.com/p/h5n1-much-more-than-you-wanted-to"><strong>H5N1: Much More Than You Wanted to Know</strong> <code>www.astralcodexten.com</code></a> - <a href="https://news.ycombinator.com/item?id=42567069">97 comments 90 points</a></li>
+<li><a href="https://austinhenley.com/blog/25yearsofai.html"><strong>My 25-year adventure in AI and ML</strong> <code>austinhenley.com</code></a> - <a href="https://news.ycombinator.com/item?id=42569913">9 comments 89 points</a></li>
+<li><a href="https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops"><strong>How and Why I Stopped Buying New Laptops (2020)</strong> <code>solar.lowtechmagazine.com</code></a> - <a href="https://news.ycombinator.com/item?id=42568056">105 comments 84 points</a></li>
+<li><a href="https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html"><strong>Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=42570605">49 comments 84 points</a></li>
+<li><a href="https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/"><strong>Indexing Code at Scale with Glean</strong> <code>engineering.fb.com</code></a> - <a href="https://news.ycombinator.com/item?id=42568516">22 comments 84 points</a></li>
+<li><a href="https://www.404media.co/pornhub-is-now-blocked-in-almost-all-of-the-u-s-south/"><strong>Pornhub Is Now Blocked in Almost All of the U.S. South</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=42567641">141 comments 81 points</a></li>
+<li><a href="https://www.lanl.gov/media/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method"><strong>Hitting the Jackpot: The Birth of the Monte Carlo Method – LANL (2023)</strong> <code>www.lanl.gov</code></a> - <a href="https://news.ycombinator.com/item?id=42564735">15 comments 79 points</a></li>
+<li><a href="https://www.pbs.org/newshour/show/how-exercise-may-be-the-most-potent-medical-intervention-ever-known"><strong>Exercise may be the &#39;most potent medical intervention ever known&#39;</strong> <code>www.pbs.org</code></a> - <a href="https://news.ycombinator.com/item?id=42571202">52 comments 73 points</a></li>
+<li><a href="https://www.snopes.com/fact-check/trees-stars-milky-way/"><strong>Are there more trees on Earth than stars in the Milky Way? (2016)</strong> <code>www.snopes.com</code></a> - <a href="https://news.ycombinator.com/item?id=42570138">30 comments 73 points</a></li>
+<li><a href="https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/"><strong>How the lore of New Year defeated the law of New Year</strong> <code>davidallengreen.com</code></a> - <a href="https://news.ycombinator.com/item?id=42568805">36 comments 72 points</a></li>
+<li><a href="https://www.theverge.com/2025/1/1/24333612/cybertruck-fire-explosion-trump-hotel-las-vegas"><strong>A Tesla Cybertruck &#39;blew up&#39; outside Trump&#39;s hotel in Las Vegas</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=42568936">36 comments 68 points</a></li>
+<li><a href="https://robotics-transformer2.github.io/"><strong>RT-2: Vision-Language-Action Models (2023)</strong> <code>robotics-transformer2.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42565638">12 comments 65 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-01-01]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/838</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal"><strong>‘With brain preservation, nobody has to die’</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=42307148">336 comments 91 points</a></li>
 <li><a href="https://www.nature.com/articles/s41598-024-76900-1"><strong>AI poetry is indistinguishable from human poetry and is rated more favorably</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=42306857">152 comments 90 points</a></li>
 <li><a href="https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/"><strong>My brand new digitizing workflow using a 25 year old film scanner</strong> <code>blog.vladovince.com</code></a> - <a href="https://news.ycombinator.com/item?id=42308234">43 comments 90 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-12-03]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/809</link>
-            <guid>809</guid>
-            <pubDate>Tue, 03 Dec 2024 06:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html"><strong>Intel announces retirement of Pat Gelsinger</strong> <code>www.intel.com</code></a> - <a href="https://news.ycombinator.com/item?id=42296067">631 comments 791 points</a></li>
-<li><a href="https://www.map.cv/blog/redbook"><strong>Facebook&#39;s Little Red Book</strong> <code>www.map.cv</code></a> - <a href="https://news.ycombinator.com/item?id=42299863">194 comments 405 points</a></li>
-<li><a href="https://www.worldlabs.ai/blog"><strong>World Labs: Generate 3D worlds from a single image</strong> <code>www.worldlabs.ai</code></a> - <a href="https://news.ycombinator.com/item?id=42297644">113 comments 337 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=42297424"><strong>Ask HN: Who is hiring? (December 2024)</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42297424">222 comments 265 points</a></li>
-<li><a href="https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/"><strong>Fish have a brain microbiome – could humans have one too?</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=42298797">84 comments 227 points</a></li>
-<li><a href="https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view"><strong>Every board game rulebook is awful [pdf]</strong> <code>drive.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=42297252">202 comments 225 points</a></li>
-<li><a href="https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/"><strong>Kenya and &quot;the decline of the greatest coffee&quot; (2021)</strong> <code>christopherferan.com</code></a> - <a href="https://news.ycombinator.com/item?id=42296287">150 comments 178 points</a></li>
-<li><a href="https://www.postofficescandal.uk/post/proposed-amendment-to-legal-assumption-about-the-reliability-of-computers/"><strong>Proposed amendment to legal presumption about the reliability of computers</strong> <code>www.postofficescandal.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42294902">201 comments 170 points</a></li>
-<li><a href="https://togithub.com/SeekStorm/SeekStorm"><strong>Show HN: SeekStorm – open-source sub-millisecond search in Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42295792">36 comments 160 points</a></li>
-<li><a href="https://www.nature.com/articles/s41598-024-78687-7"><strong>Evidence of the use of silk by Bronze Age civilization</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=42297733">44 comments 125 points</a></li>
-<li><a href="https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html"><strong>8 months of OCaml after 8 years of Haskell in production (2023)</strong> <code>chshersh.com</code></a> - <a href="https://news.ycombinator.com/item?id=42302426">71 comments 118 points</a></li>
-<li><a href="https://togithub.com/briangu/klongpy"><strong>KlongPy: High-Performance Array Programming in Python</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42293723">63 comments 114 points</a></li>
-<li><a href="https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/"><strong>The zoology and biochemistry of xenomorphs from the Alien franchise</strong> <code>jgeekstudies.org</code></a> - <a href="https://news.ycombinator.com/item?id=42296970">65 comments 106 points</a></li>
-<li><a href="https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/"><strong>Unlocking the power of time-series data with multimodal models</strong> <code>research.google</code></a> - <a href="https://news.ycombinator.com/item?id=42299590">23 comments 106 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=42297422"><strong>Ask HN: Who wants to be hired? (December 2024)</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42297422">225 comments 105 points</a></li>
-<li><a href="https://modal.com/blog/vprox"><strong>Static IPs for Serverless Containers</strong> <code>modal.com</code></a> - <a href="https://news.ycombinator.com/item?id=42299829">54 comments 102 points</a></li>
-<li><a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215"><strong>Bioluminescent wood using the white rot fungus desarmillaria tabescens</strong> <code>onlinelibrary.wiley.com</code></a> - <a href="https://news.ycombinator.com/item?id=42299231">17 comments 91 points</a></li>
-<li><a href="https://arxiv.org/abs/2411.19826"><strong>Optimality of Gerver&#39;s Sofa</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42300382">18 comments 89 points</a></li>
-<li><a href="https://ourworldindata.org/us-airline-travel"><strong>US airlines transported passengers over two light-years since the last crash</strong> <code>ourworldindata.org</code></a> - <a href="https://news.ycombinator.com/item?id=42294205">121 comments 87 points</a></li>
-<li><a href="https://togithub.com/lmnr-ai/flow"><strong>Show HN: Flow – A dynamic task engine for building AI agents</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42299098">32 comments 86 points</a></li>
-<li><a href="https://togithub.com/copper-project/copper-rs/wiki/Copper-Release-Log"><strong>Show HN: Copper – Open-source robotics in Rust with deterministic log replay</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42302026">16 comments 79 points</a></li>
-<li><a href="https://www.henrikkarlsson.xyz/p/art-gallery"><strong>Lessons I learned working at an art gallery</strong> <code>www.henrikkarlsson.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=42302784">18 comments 78 points</a></li>
-<li><a href="https://www.theatlantic.com/ideas/archive/2024/12/food-deserts-robinson-patman/680765/"><strong>The Great Grocery Squeeze: federal policy change in &#39;80s created the food desert</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=42300825">84 comments 76 points</a></li>
-<li><a href="https://capibarazero.com/"><strong>CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3</strong> <code>capibarazero.com</code></a> - <a href="https://news.ycombinator.com/item?id=42296034">11 comments 65 points</a></li>
-<li><a href="https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/"><strong>The world of Dante&#39;s Divine Comedy</strong> <code>lithub.com</code></a> - <a href="https://news.ycombinator.com/item?id=42299025">38 comments 64 points</a></li>
-<li><a href="https://nyadgar.com/posts/the-beautiful-math-of-bloom-filters/"><strong>The Beautiful Math of Bloom Filters</strong> <code>nyadgar.com</code></a> - <a href="https://news.ycombinator.com/item?id=42293832">18 comments 62 points</a></li>
-<li><a href="https://togithub.com/asfarley/vtc_lfs"><strong>Show HN: Open-sourced (road) traffic counting application</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42301228">11 comments 61 points</a></li>
-<li><a href="https://cs.uwaterloo.ca/~csk/hat/"><strong>An Aperiodic Monotile (2023)</strong> <code>cs.uwaterloo.ca</code></a> - <a href="https://news.ycombinator.com/item?id=42293703">18 comments 59 points</a></li>
-<li><a href="https://blog.heroku.com/dotnet-support-on-heroku"><strong>.NET Support on Heroku</strong> <code>blog.heroku.com</code></a> - <a href="https://news.ycombinator.com/item?id=42301734">33 comments 58 points</a></li>
-<li><a href="https://theconversation.com/tip-pressure-might-work-in-the-moment-but-customers-are-less-likely-to-return-242089"><strong>Tip pressure might work in the moment, but customers are less likely to return</strong> <code>theconversation.com</code></a> - <a href="https://news.ycombinator.com/item?id=42302171">111 comments 57 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
