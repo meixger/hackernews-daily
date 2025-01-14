@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 13 Jan 2025 06:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 06:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-01-14]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/851</link>
+            <guid>851</guid>
+            <pubDate>Tue, 14 Jan 2025 06:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://paulgraham.com/woke.html"><strong>The Origins of Wokeness</strong> <code>paulgraham.com</code></a> - <a href="https://news.ycombinator.com/item?id=42682305">1613 comments 676 points</a></li>
+<li><a href="https://anderegg.ca/2025/01/11/wordpress-is-in-trouble"><strong>WordPress Is in Trouble</strong> <code>anderegg.ca</code></a> - <a href="https://news.ycombinator.com/item?id=42687121">373 comments 579 points</a></li>
+<li><a href="https://dwheeler.com/essays/debugging-agans.html"><strong>Debugging: Indispensable rules for finding even the most elusive problems (2004)</strong> <code>dwheeler.com</code></a> - <a href="https://news.ycombinator.com/item?id=42682602">194 comments 446 points</a></li>
+<li><a href="https://www.latent.space/p/2025-papers"><strong>AI Engineer Reading List</strong> <code>www.latent.space</code></a> - <a href="https://news.ycombinator.com/item?id=42686457">43 comments 320 points</a></li>
+<li><a href="https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/"><strong>Sonos CEO steps down after app update debacle</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=42687932">332 comments 314 points</a></li>
+<li><a href="https://www.githubstatus.com/incidents/qd96yfgvmcf9"><strong>GitHub Git Operations Are Down</strong> <code>www.githubstatus.com</code></a> - <a href="https://news.ycombinator.com/item?id=42691184">206 comments 296 points</a></li>
+<li><a href="https://mitxela.com/projects/fluid-pendant"><strong>Fluid Simulation Pendant</strong> <code>mitxela.com</code></a> - <a href="https://news.ycombinator.com/item?id=42683389">34 comments 263 points</a></li>
+<li><a href="https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/"><strong>Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=42682671">93 comments 250 points</a></li>
+<li><a href="https://traintimes.org.uk/map/tube/"><strong>Live London Underground / bus maps taken down by TfL trademark complaint</strong> <code>traintimes.org.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42682876">79 comments 211 points</a></li>
+<li><a href="https://sourcecodered.com/snyk-malicious-npm-package/"><strong>Snyk security researcher deploys malicious NPM packages targeting cursor.com</strong> <code>sourcecodered.com</code></a> - <a href="https://news.ycombinator.com/item?id=42690473">91 comments 177 points</a></li>
+<li><a href="https://moral.net.au/writing/2025/01/11/waiting_for_oregon/"><strong>Can you complete the Oregon Trail if you wait at a river for 14272 years?</strong> <code>moral.net.au</code></a> - <a href="https://news.ycombinator.com/item?id=42682813">78 comments 163 points</a></li>
+<li><a href="https://www.theguardian.com/world/2025/jan/13/spain-proposes-100-tax-on-homes-bought-by-non-eu-residents"><strong>Spain proposes 100% tax on homes bought by non-EU residents</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=42690781">216 comments 150 points</a></li>
+<li><a href="https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78"><strong>JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate</strong> <code>www.barrons.com</code></a> - <a href="https://news.ycombinator.com/item?id=42688159">172 comments 148 points</a></li>
+<li><a href="https://www.blueorigin.com"><strong>Blue Origin New Glenn Mission NG-1 – Live</strong> <code>www.blueorigin.com</code></a> - <a href="https://news.ycombinator.com/item?id=42680510">92 comments 147 points</a></li>
+<li><a href="https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says"><strong>43K fewer drivers on Manhattan roads after congestion pricing turned on</strong> <code>gothamist.com</code></a> - <a href="https://news.ycombinator.com/item?id=42692730">176 comments 137 points</a></li>
+<li><a href="https://www.helloquitx.com"><strong>Let&#39;s Quit X</strong> <code>www.helloquitx.com</code></a> - <a href="https://news.ycombinator.com/item?id=42686362">152 comments 136 points</a></li>
+<li><a href="https://bsky.app/profile/did:plc:n2okvbdq33c32ekbv6hfzdg2/post/3lfjk3mrdds23"><strong>Facebook blocks links to Pixelfed, a federated Instagram alternative</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=42680769">45 comments 133 points</a></li>
+<li><a href="https://akkartik.name/post/literate-programming"><strong>Literate programming: Knuth is doing it wrong (2014)</strong> <code>akkartik.name</code></a> - <a href="https://news.ycombinator.com/item?id=42683009">117 comments 126 points</a></li>
+<li><a href="https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/"><strong>Luck Be a Landlord Might Be Banned from Google Play</strong> <code>blog.trampolinetales.com</code></a> - <a href="https://news.ycombinator.com/item?id=42683567">156 comments 124 points</a></li>
+<li><a href="https://docs.linuxserver.io/images/docker-webtop/"><strong>Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs</strong> <code>docs.linuxserver.io</code></a> - <a href="https://news.ycombinator.com/item?id=42690983">18 comments 123 points</a></li>
+<li><a href="https://www.construction-physics.com/p/why-skyscrapers-became-glass-boxes"><strong>Why Skyscrapers Became Glass Boxes</strong> <code>www.construction-physics.com</code></a> - <a href="https://news.ycombinator.com/item?id=42683736">78 comments 119 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=42682821"><strong>Ask HN: Am I the only one here who can&#39;t stand HN&#39;s AI obsession?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42682821">110 comments 118 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=42685534"><strong>Ask HN: Is maintaining a personal blog still worth it?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42685534">108 comments 116 points</a></li>
+<li><a href="https://thehustle.co/originals/how-corn-syrup-took-over-america"><strong>How corn syrup took over America</strong> <code>thehustle.co</code></a> - <a href="https://news.ycombinator.com/item?id=42687133">141 comments 108 points</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2025/01/new-york-starts-enforcing-15-broadband-law-that-isps-tried-to-kill/"><strong>New York starts enforcing $15 broadband law that ISPs tried to kill</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=42687861">89 comments 106 points</a></li>
+<li><a href="http://internetthought.blogspot.com/2025/01/vanished-from-index-of-google-bing-and.html"><strong>Vanished from Google/Bing/LinkedIn: a rebuttal of an anti-net neutrality paper</strong> <code>internetthought.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=42681240">29 comments 104 points</a></li>
+<li><a href="https://www.ircdriven.com/"><strong>IRC Driven – modern IRC indexing site and search engine</strong> <code>www.ircdriven.com</code></a> - <a href="https://news.ycombinator.com/item?id=42680499">75 comments 92 points</a></li>
+<li><a href="https://ghuntley.com/oh-fuck/"><strong>An &quot;oh fuck&quot; moment in time</strong> <code>ghuntley.com</code></a> - <a href="https://news.ycombinator.com/item?id=42684740">133 comments 86 points</a></li>
+<li><a href="https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app"><strong>Sonos CEO Patrick Spence steps down after disastrous app launch</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=42683753">139 comments 81 points</a></li>
+<li><a href="https://www.nature.com/articles/d41586-025-00010-9"><strong>Earth breaches 1.5 °C climate limit for the first time: what does it mean?</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=42682758">155 comments 76 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-01-13]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/850</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.wired.com/story/the-uk-now-has-its-own-illegal-rubberized-cybertruck-on-the-road/"><strong>The UK Now Has Its Own Illegal Rubberized Cybertruck on the Road</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=42425418">23 comments 24 points</a></li>
 <li><a href="https://togithub.com/humodz/node-wasi-preopens-escape"><strong>Proof of Concept showcasing WASM program access files outside node:wasi&#39;s dir</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42424597">5 comments 24 points</a></li>
 <li><a href="https://news.ycombinator.com/item?id=42421835"><strong>Ask HN: Who Has an Interesting Job?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42421835">23 comments 20 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-12-15]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/821</link>
-            <guid>821</guid>
-            <pubDate>Sun, 15 Dec 2024 06:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/"><strong>School smartphone ban results in better sleep and improved mood: study</strong> <code>www.york.ac.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42420352">197 comments 369 points</a></li>
-<li><a href="https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1"><strong>Byte Latent Transformer: Patches Scale Better Than Tokens</strong> <code>ai.meta.com</code></a> - <a href="https://news.ycombinator.com/item?id=42415122">78 comments 307 points</a></li>
-<li><a href="https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/"><strong>What is entropy? A measure of just how little we know</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=42415386">108 comments 258 points</a></li>
-<li><a href="https://theyseeyourphotos.com/"><strong>They see your photos</strong> <code>theyseeyourphotos.com</code></a> - <a href="https://news.ycombinator.com/item?id=42419469">130 comments 229 points</a></li>
-<li><a href="https://veryfront.com/figma-kit"><strong>I made a free Figma library packed with components for fast prototyping</strong> <code>veryfront.com</code></a> - <a href="https://news.ycombinator.com/item?id=42415637">56 comments 213 points</a></li>
-<li><a href="https://www.cell.com/cell/abstract/S0092-8674(24)00897-3"><strong>Humans are unreliable models of mouse disease</strong> <code>www.cell.com</code></a> - <a href="https://news.ycombinator.com/item?id=42418272">78 comments 191 points</a></li>
-<li><a href="https://docs.astral.sh/uv/"><strong>Uv, a fast Python package and project manager</strong> <code>docs.astral.sh</code></a> - <a href="https://news.ycombinator.com/item?id=42415602">124 comments 171 points</a></li>
-<li><a href="https://togithub.com/sockmaster27/svader"><strong>Show HN: Svader – Create GPU-rendered Svelte components</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42416230">37 comments 167 points</a></li>
-<li><a href="https://irata.online/"><strong>IRATA.ONLINE: A Community for Retro-Computing Enthusiasts</strong> <code>irata.online</code></a> - <a href="https://news.ycombinator.com/item?id=42418982">34 comments 144 points</a></li>
-<li><a href="https://togithub.com/gsidhu/buzee-tauri"><strong>Show HN: Open-sourcing my failed startup Buzee – A file search application</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42417330">60 comments 135 points</a></li>
-<li><a href="https://www.essesmag.com/articles/racings-deadliest-day"><strong>The 1955 Le Mans disaster changed motorsport</strong> <code>www.essesmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=42417480">171 comments 123 points</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2666202724004518"><strong>Antimatter production, storage, control, annihilation applications in propulsion</strong> <code>www.sciencedirect.com</code></a> - <a href="https://news.ycombinator.com/item?id=42418264">107 comments 120 points</a></li>
-<li><a href="https://hapax.github.io/physics/teaching/hacks/napkin-hacks/"><strong>Hacking physics from the back of a napkin (2020)</strong> <code>hapax.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42418309">7 comments 97 points</a></li>
-<li><a href="https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh"><strong>YouTube quietly made some of its web embeds worse, including ours</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=42416554">50 comments 92 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=YD-9NG1Ke5Y"><strong>Sequence to sequence learning with neural networks: what a decade</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=42414912">30 comments 88 points</a></li>
-<li><a href="https://chords.yottanami.com/"><strong>Show HN: A simple web game to help learn chords and basic progressions</strong> <code>chords.yottanami.com</code></a> - <a href="https://news.ycombinator.com/item?id=42416258">20 comments 86 points</a></li>
-<li><a href="https://apnews.com/article/south-korea-martial-law-yoon-impeach-6432768aafc8b55be26215667e3c19d0"><strong>South Korea&#39;s parliament votes to impeach President over his martial law order</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42418871">20 comments 78 points</a></li>
-<li><a href="https://togithub.com/ggerganov/llama.cpp/pull/10361"><strong>Llama.cpp Now Supports Qwen2-VL (Vision Language Model)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42419505">14 comments 61 points</a></li>
-<li><a href="http://www.appliedscience.studio/articles/array-programming-for-clojurists.html"><strong>Array Languages for Clojurians (2020)</strong> <code>www.appliedscience.studio</code></a> - <a href="https://news.ycombinator.com/item?id=42416681">6 comments 61 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2024/pi-modder-successfully-adds-m2-slot-pi-500"><strong>Pi modder successfully adds M.2 slot to Pi 500</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=42418866">18 comments 60 points</a></li>
-<li><a href="https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/"><strong>Go should sometimes be a no-go</strong> <code>brainbaking.com</code></a> - <a href="https://news.ycombinator.com/item?id=42415566">73 comments 57 points</a></li>
-<li><a href="https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware"><strong>Tenstorrent and the State of AI Hardware Startups</strong> <code>irrationalanalysis.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42421157">9 comments 57 points</a></li>
-<li><a href="https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/"><strong>Should programming languages be safe or powerful?</strong> <code>lambdaland.org</code></a> - <a href="https://news.ycombinator.com/item?id=42420091">69 comments 56 points</a></li>
-<li><a href="https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html"><strong>Problems with Python dependency management</strong> <code>nielscautaerts.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=42419822">83 comments 54 points</a></li>
-<li><a href="https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/"><strong>Four Hidden Species of Portuguese Man-O&#39;-War</strong> <code>crookedtimber.org</code></a> - <a href="https://news.ycombinator.com/item?id=42419036">15 comments 54 points</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/hdmi-2-2-is-set-to-debut-at-ces-2025-the-new-standard-brings-higher-resolutions-refresh-rates-and-bandwidth"><strong>HDMI 2.2 is set to debut at CES 2025</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=42418985">113 comments 53 points</a></li>
-<li><a href="https://blog.jonas.foo/whats_vim.html"><strong>What Is Vim?</strong> <code>blog.jonas.foo</code></a> - <a href="https://news.ycombinator.com/item?id=42420138">46 comments 46 points</a></li>
-<li><a href="https://www.atvbt.com/bmi/"><strong>There&#39;s a New Country Ranking and You&#39;re Not Going to Like It</strong> <code>www.atvbt.com</code></a> - <a href="https://news.ycombinator.com/item?id=42420361">45 comments 40 points</a></li>
-<li><a href="https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/"><strong>Here at the End of All Things (2017)</strong> <code>longreads.com</code></a> - <a href="https://news.ycombinator.com/item?id=42418445">1 comments 36 points</a></li>
-<li><a href="https://interrupt.memfault.com/blog/embedded-async-rust"><strong>Asynchronous Rust on Cortex-M Microcontrollers (2023)</strong> <code>interrupt.memfault.com</code></a> - <a href="https://news.ycombinator.com/item?id=42416364">7 comments 26 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
