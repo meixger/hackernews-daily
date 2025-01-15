@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 14 Jan 2025 06:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 06:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-01-15]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/852</link>
+            <guid>852</guid>
+            <pubDate>Wed, 15 Jan 2025 06:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/"><strong>I Switched to Firefox and Never Looked Back</strong> <code>www.howtogeek.com</code></a> - <a href="https://news.ycombinator.com/item?id=42696081">476 comments 556 points</a></li>
+<li><a href="https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast"><strong>In the belly of the MrBeast</strong> <code>kevinmunger.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42696691">360 comments 468 points</a></li>
+<li><a href="https://ffmpegbyexample.com/"><strong>FFmpeg by Example</strong> <code>ffmpegbyexample.com</code></a> - <a href="https://news.ycombinator.com/item?id=42695547">114 comments 455 points</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification"><strong>Apple will soon receive &#39;made in America&#39; chips from TSMC&#39;s Arizona fab</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=42699977">419 comments 435 points</a></li>
+<li><a href="https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw"><strong>Google’s OAuth login doesn’t protect against purchasing a failed startup domain</strong> <code>trufflesecurity.com</code></a> - <a href="https://news.ycombinator.com/item?id=42699099">232 comments 435 points</a></li>
+<li><a href="https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706"><strong>1 in 5 online job postings are either fake or never filled, study finds</strong> <code>gizmodo.com</code></a> - <a href="https://news.ycombinator.com/item?id=42697783">354 comments 394 points</a></li>
+<li><a href="https://togithub.com/openzfs/zfs/releases/tag/zfs-2.3.0"><strong>ZFS 2.3 released with ZFS raidz expansion</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42694596">275 comments 359 points</a></li>
+<li><a href="https://collegetowns.substack.com/p/making-an-intersection-unsafe-for"><strong>Making an intersection unsafe for pedestrians to save seconds for drivers</strong> <code>collegetowns.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42698557">421 comments 288 points</a></li>
+<li><a href="https://db-engines.com/en/blog_post/109"><strong>PostgreSQL is the Database Management System of the Year 2024</strong> <code>db-engines.com</code></a> - <a href="https://news.ycombinator.com/item?id=42696080">96 comments 251 points</a></li>
+<li><a href="https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/"><strong>If You Ever See This Speed Sign, You&#39;re Probably Going to Die</strong> <code>www.theautopian.com</code></a> - <a href="https://news.ycombinator.com/item?id=42704491">144 comments 232 points</a></li>
+<li><a href="https://www.coryzue.com/writing/solopreneur/"><strong>Using coding skills to make passive income</strong> <code>www.coryzue.com</code></a> - <a href="https://news.ycombinator.com/item?id=42696822">125 comments 222 points</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing"><strong>Home Loss File System</strong> <code>docs.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=42700997">32 comments 209 points</a></li>
+<li><a href="https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/"><strong>Don&#39;t use cosine similarity carelessly</strong> <code>p.migdal.pl</code></a> - <a href="https://news.ycombinator.com/item?id=42704078">30 comments 196 points</a></li>
+<li><a href="https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html"><strong>Meta announces 5% cuts in preparation for &#39;intense year&#39;</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=42700134">315 comments 183 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=H-nO1F-AO9I"><strong>Servo vs. steppers: Speed, Torque and Accuracy [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=42697335">62 comments 164 points</a></li>
+<li><a href="https://philipotoole.com/how-is-rqlite-tested/"><strong>How rqlite is tested</strong> <code>philipotoole.com</code></a> - <a href="https://news.ycombinator.com/item?id=42703282">29 comments 162 points</a></li>
+<li><a href="https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/"><strong>The Shepherd 1.0.0 released</strong> <code>guix.gnu.org</code></a> - <a href="https://news.ycombinator.com/item?id=42698981">40 comments 158 points</a></li>
+<li><a href="https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github"><strong>Show HN: WASM-powered codespaces for Python notebooks on GitHub</strong> <code>docs.marimo.io</code></a> - <a href="https://news.ycombinator.com/item?id=42700852">22 comments 150 points</a></li>
+<li><a href="https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates"><strong>Estimates of plant CO2 uptake rise by nearly one third</strong> <code>www.ornl.gov</code></a> - <a href="https://news.ycombinator.com/item?id=42696517">131 comments 143 points</a></li>
+<li><a href="https://proton.me/blog/2024-lifetime-fundraiser-results"><strong>Proton: We&#39;re giving away over $1M to support a better internet</strong> <code>proton.me</code></a> - <a href="https://news.ycombinator.com/item?id=42697882">38 comments 141 points</a></li>
+<li><a href="https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/"><strong>Allstate used GasBuddy and other apps to track driving behavior: lawsuit</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=42699771">179 comments 132 points</a></li>
+<li><a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/"><strong>Executive order on advancing United States leadership in AI infrastructure</strong> <code>www.whitehouse.gov</code></a> - <a href="https://news.ycombinator.com/item?id=42700755">96 comments 128 points</a></li>
+<li><a href="https://togithub.com/popcar2/BadWebsiteBlocklist"><strong>Show HN: A blocklist to remove spam and bad websites from search results</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42697346">53 comments 126 points</a></li>
+<li><a href="https://www.axios.com/2025/01/14/workers-job-satisfaction-gallup"><strong>American workers&#39; enthusiasm for their jobs falls to a 10-year low</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=42697483">149 comments 124 points</a></li>
+<li><a href="https://insideevs.com/news/745119/tesla-sales-europe-2024/"><strong>Tesla Sales Are Tanking in Europe</strong> <code>insideevs.com</code></a> - <a href="https://news.ycombinator.com/item?id=42698077">195 comments 119 points</a></li>
+<li><a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y"><strong>LLM based agents as Dungeon Masters</strong> <code>studenttheses.uu.nl</code></a> - <a href="https://news.ycombinator.com/item?id=42698610">120 comments 118 points</a></li>
+<li><a href="https://www.vijayp.dev/blog/rewrite-plain-html/"><strong>Rewriting my website in plain HTML and CSS</strong> <code>www.vijayp.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42705077">91 comments 115 points</a></li>
+<li><a href="https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing"><strong>Platforms systematically removed a user because he made &quot;most wanted CEO&quot; cards</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=42701456">164 comments 114 points</a></li>
+<li><a href="https://www.fortressofdoors.com/take-the-pedals-off-the-bike/"><strong>Take the Pedals Off the Bike</strong> <code>www.fortressofdoors.com</code></a> - <a href="https://news.ycombinator.com/item?id=42697467">149 comments 110 points</a></li>
+<li><a href="https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into"><strong>Why is homeschooling becoming fashionable?</strong> <code>newsletter.goodtechthings.com</code></a> - <a href="https://news.ycombinator.com/item?id=42698737">364 comments 109 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-01-14]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/851</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://sailor.li/aocnds.html"><strong>Advent of Code on the Nintendo DS</strong> <code>sailor.li</code></a> - <a href="https://news.ycombinator.com/item?id=42436440">19 comments 69 points</a></li>
 <li><a href="https://www.thefp.com/p/the-year-of-mcdonalds-trump-luigi-mangione"><strong>The Year of McDonald&#39;s</strong> <code>www.thefp.com</code></a> - <a href="https://news.ycombinator.com/item?id=42435621">85 comments 62 points</a></li>
 <li><a href="https://www.boomcampaign.org/p/on-the-higher-fertility-of-semiconductor"><strong>The higher fertility of TSMC semiconductor workers</strong> <code>www.boomcampaign.org</code></a> - <a href="https://news.ycombinator.com/item?id=42436570">55 comments 62 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2024-12-16]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/822</link>
-            <guid>822</guid>
-            <pubDate>Mon, 16 Dec 2024 06:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.futilitycloset.com/2024/12/15/tidy-2/"><strong>A visual proof that a^2 – b^2 = (a + b)(a – b)</strong> <code>www.futilitycloset.com</code></a> - <a href="https://news.ycombinator.com/item?id=42423409">160 comments 518 points</a></li>
-<li><a href="https://togithub.com/anvaka/map-of-github"><strong>Map of GitHub</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42426284">53 comments 351 points</a></li>
-<li><a href="https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/"><strong>Dumb TVs deserve a comeback</strong> <code>www.makeuseof.com</code></a> - <a href="https://news.ycombinator.com/item?id=42425398">293 comments 251 points</a></li>
-<li><a href="https://elmwealth.com/crystal-ball/"><strong>Crystal Ball Trading Game</strong> <code>elmwealth.com</code></a> - <a href="https://news.ycombinator.com/item?id=42422077">146 comments 241 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=42425339"><strong>Ask HN: How do you find part time work?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42425339">95 comments 239 points</a></li>
-<li><a href="https://twitter.com/TechEmails/status/1868368310024462791"><strong>Palm&#39;s CEO emails Steve Jobs (2007)</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=42425348">153 comments 234 points</a></li>
-<li><a href="https://smarthome.steviep.xyz"><strong>Show HN: SmartHome – An Adventure Game</strong> <code>smarthome.steviep.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=42424508">50 comments 200 points</a></li>
-<li><a href="https://togithub.com/JanNeuendorf/SVC16"><strong>SVC16: Simplest Virtual Computer</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42424370">52 comments 173 points</a></li>
-<li><a href="https://jpcamara.com/2024/12/14/my-rubyconf-talk.html"><strong>In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape</strong> <code>jpcamara.com</code></a> - <a href="https://news.ycombinator.com/item?id=42422942">17 comments 155 points</a></li>
-<li><a href="https://dillo-browser.github.io/25-years/"><strong>25 Years of Dillo</strong> <code>dillo-browser.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42426589">25 comments 126 points</a></li>
-<li><a href="https://www.fractionaljobs.io/"><strong>Fractional Jobs – Job Board for Fractional Work</strong> <code>www.fractionaljobs.io</code></a> - <a href="https://news.ycombinator.com/item?id=42425473">48 comments 115 points</a></li>
-<li><a href="https://alexxcons.github.io/blogpost_14.html"><strong>XFCE 4.20 Released</strong> <code>alexxcons.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42423353">41 comments 114 points</a></li>
-<li><a href="https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/"><strong>The Antikythera mechanism – 254:19 ratio</strong> <code>leancrew.com</code></a> - <a href="https://news.ycombinator.com/item?id=42425139">22 comments 113 points</a></li>
-<li><a href="https://www.reuters.com/legal/us-lawmakers-tell-apple-google-be-ready-remove-tiktok-app-stores-jan-19-2024-12-13/"><strong>US lawmakers tell Apple, Google to be ready to remove TikTok from stores Jan. 19</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=42427132">102 comments 109 points</a></li>
-<li><a href="https://www.openerv.ca"><strong>OpenERV</strong> <code>www.openerv.ca</code></a> - <a href="https://news.ycombinator.com/item?id=42427888">16 comments 103 points</a></li>
-<li><a href="https://thoughts.jatintiwari.com/pages/starting-business-at-60.html"><strong>Starting a Business at 60: My Father&#39;s Story</strong> <code>thoughts.jatintiwari.com</code></a> - <a href="https://news.ycombinator.com/item?id=42421797">45 comments 98 points</a></li>
-<li><a href="https://railgunlabs.com/unicorn/"><strong>Show HN: I built an embeddable Unicode library with MISRA C conformance</strong> <code>railgunlabs.com</code></a> - <a href="https://news.ycombinator.com/item?id=42423988">38 comments 92 points</a></li>
-<li><a href="https://justinjackson.ca/over-40"><strong>What&#39;s happening with founders over 40?</strong> <code>justinjackson.ca</code></a> - <a href="https://news.ycombinator.com/item?id=42423263">66 comments 85 points</a></li>
-<li><a href="https://nataliewexler.substack.com/p/scores-for-adults-are-dropping-on"><strong>Scores for Adults Are Dropping on Tests of Basic Skills</strong> <code>nataliewexler.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42427086">90 comments 74 points</a></li>
-<li><a href="https://rish-01.github.io/blog/posts/ml_estimation/"><strong>Maximum likelihood estimation and loss functions</strong> <code>rish-01.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42424879">17 comments 73 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=42423742"><strong>Lost IBM OS/2 Warp 3 and 4 localizations: Looking for help finding and archiving</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42423742">18 comments 64 points</a></li>
-<li><a href="https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf"><strong>The First 50M Prime Numbers (1975) [pdf]</strong> <code>people.mpim-bonn.mpg.de</code></a> - <a href="https://news.ycombinator.com/item?id=42426337">25 comments 61 points</a></li>
-<li><a href="https://www.propublica.org/article/unitedhealthcare-insurance-autism-denials-applied-behavior-analysis-medicaid"><strong>UnitedHealth Is Strategically Limiting Access to Treatment for Kids with Autism</strong> <code>www.propublica.org</code></a> - <a href="https://news.ycombinator.com/item?id=42422229">18 comments 48 points</a></li>
-<li><a href="https://cyphernet.es/#"><strong>Cyphernetes: A Query Language for Kubernetes</strong> <code>cyphernet.es</code></a> - <a href="https://news.ycombinator.com/item?id=42427916">15 comments 42 points</a></li>
-<li><a href="https://unherd.com/newsroom/the-next-time-wikipedia-asks-for-a-donation-ignore-it/"><strong>The next time Wikipedia asks for a donation, ignore it (2022)</strong> <code>unherd.com</code></a> - <a href="https://news.ycombinator.com/item?id=42427358">16 comments 40 points</a></li>
-<li><a href="https://www.timesunion.com/capitol/article/insiders-say-fraud-computer-programming-sector-19941411.php"><strong>Insiders say fraud in NY computer programming work dates back years</strong> <code>www.timesunion.com</code></a> - <a href="https://news.ycombinator.com/item?id=42423423">11 comments 38 points</a></li>
-<li><a href="https://www.torquenews.com/11826/tesla-cybertruck-becomes-extensively-corroded-after-exposed-magnet"><strong>Tesla Cybertruck Becomes Extensively Corroded After Exposed to Magnet</strong> <code>www.torquenews.com</code></a> - <a href="https://news.ycombinator.com/item?id=42426249">24 comments 27 points</a></li>
-<li><a href="https://www.wired.com/story/the-uk-now-has-its-own-illegal-rubberized-cybertruck-on-the-road/"><strong>The UK Now Has Its Own Illegal Rubberized Cybertruck on the Road</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=42425418">23 comments 24 points</a></li>
-<li><a href="https://togithub.com/humodz/node-wasi-preopens-escape"><strong>Proof of Concept showcasing WASM program access files outside node:wasi&#39;s dir</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42424597">5 comments 24 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=42421835"><strong>Ask HN: Who Has an Interesting Job?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42421835">23 comments 20 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
