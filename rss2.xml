@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 02 Feb 2025 06:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 06:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-02-03]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/871</link>
+            <guid>871</guid>
+            <pubDate>Mon, 03 Feb 2025 06:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://timsh.org/tracking-myself-down-through-in-app-ads/"><strong>Everyone knows your location: tracking myself down through in-app ads</strong> <code>timsh.org</code></a> - <a href="https://news.ycombinator.com/item?id=42909921">381 comments 1138 points</a></li>
+<li><a href="https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/"><strong>Life is more than an engineering problem</strong> <code>lareviewofbooks.org</code></a> - <a href="https://news.ycombinator.com/item?id=42907268">209 comments 341 points</a></li>
+<li><a href="https://openai.com/index/introducing-deep-research/"><strong>Introducing deep research</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=42913251">242 comments 296 points</a></li>
+<li><a href="https://waydro.id/"><strong>Waydroid – Android in a Linux container</strong> <code>waydro.id</code></a> - <a href="https://news.ycombinator.com/item?id=42911042">59 comments 275 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=42909166"><strong>Ask HN: What is interviewing like now with everyone using AI?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=42909166">362 comments 262 points</a></li>
+<li><a href="https://togithub.com/trycua/lume"><strong>Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42908061">67 comments 262 points</a></li>
+<li><a href="https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/"><strong>Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)</strong> <code>ripitapart.com</code></a> - <a href="https://news.ycombinator.com/item?id=42907766">104 comments 237 points</a></li>
+<li><a href="https://adriacabeza.github.io/2024/07/12/caffeine-cache.html"><strong>Analyzing the codebase of Caffeine, a high performance caching library</strong> <code>adriacabeza.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42907488">41 comments 219 points</a></li>
+<li><a href="https://togithub.com/GyulyVGC/sniffnet"><strong>Sniffnet – monitor your Internet traffic</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42909530">78 comments 207 points</a></li>
+<li><a href="https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court"><strong>Costa Rican supermarket wins trademark battle against Nintendo</strong> <code>ticotimes.net</code></a> - <a href="https://news.ycombinator.com/item?id=42911842">61 comments 186 points</a></li>
+<li><a href="https://www.efavdb.com/memory%20recall"><strong>Spaced repetition can allow for infinite recall (2022)</strong> <code>www.efavdb.com</code></a> - <a href="https://news.ycombinator.com/item?id=42908041">166 comments 164 points</a></li>
+<li><a href="https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/"><strong>Don&#39;t make fun of renowned author Dan Brown (2013)</strong> <code>onehundredpages.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=42912133">126 comments 151 points</a></li>
+<li><a href="https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html"><strong>The legacy of lies in Alzheimer&#39;s science</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=42910829">85 comments 148 points</a></li>
+<li><a href="https://togithub.com/tcgoetz/GarminDB"><strong>GarminDB</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42912515">18 comments 120 points</a></li>
+<li><a href="https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1"><strong>A loophole used by Shein/Temu to ship packages to US tax-free (2024)</strong> <code>www.businessinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=42911511">88 comments 114 points</a></li>
+<li><a href="https://brightprogrammer.in/posts/fixing-recursions-in-grammar/"><strong>Fixing left and mutual recursions in grammars</strong> <code>brightprogrammer.in</code></a> - <a href="https://news.ycombinator.com/item?id=42907139">28 comments 102 points</a></li>
+<li><a href="https://www.wired.com/story/elon-musk-government-young-engineers/"><strong>The Young, Inexperienced Engineers Aiding Elon Musk’s Government Takeover</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=42910910">46 comments 100 points</a></li>
+<li><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf"><strong>F-strings for C++26 proposal [pdf]</strong> <code>www.open-std.org</code></a> - <a href="https://news.ycombinator.com/item?id=42912438">45 comments 100 points</a></li>
+<li><a href="https://www.wsj.com/opinion/the-trump-tariff-fallout-begins-canada-mexico-vow-retaliation-economic-uncertainty-da522b44"><strong>The Dumbest Trade War Fallout Begins</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=42914478">53 comments 83 points</a></li>
+<li><a href="https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked"><strong>UK betting giant&#39;s unlawful marketing kept suicidal gambler hooked</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=42910983">70 comments 78 points</a></li>
+<li><a href="https://fortune.com/2025/02/02/musk-doge-treasury-payments-system-halt-us-govenment-contractors-lutheran-charity/"><strong>Musk says DOGE is halting Treasury payments to US contractors</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=42914425">44 comments 75 points</a></li>
+<li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309"><strong>Emergence of a second law of thermodynamics in isolated quantum systems</strong> <code>journals.aps.org</code></a> - <a href="https://news.ycombinator.com/item?id=42912412">9 comments 74 points</a></li>
+<li><a href="https://arxiv.org/abs/2412.05265"><strong>Reinforcement Learning: An Overview</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42910028">11 comments 73 points</a></li>
+<li><a href="https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator"><strong>ScatterBrain: Unmasking the shadow of PoisonPlug&#39;s obfuscator</strong> <code>cloud.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=42911162">7 comments 66 points</a></li>
+<li><a href="https://togithub.com/esbudylin/modest"><strong>Show HN: Modest – musical harmony library for Lua</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42907765">7 comments 65 points</a></li>
+<li><a href="https://budgetlab.yale.edu/research/economic-and-fiscal-effects-trump-administrations-proposed-tarrifs"><strong>The Economic and Fiscal Effects of the Trump Administration&#39;s Proposed Tariffs</strong> <code>budgetlab.yale.edu</code></a> - <a href="https://news.ycombinator.com/item?id=42914794">38 comments 62 points</a></li>
+<li><a href="https://www.usaid.gov/"><strong>Usaid.gov</strong> <code>www.usaid.gov</code></a> - <a href="https://news.ycombinator.com/item?id=42910099">26 comments 55 points</a></li>
+<li><a href="https://groundhog-day.com/api"><strong>Show HN: Groundhog AI Spring API</strong> <code>groundhog-day.com</code></a> - <a href="https://news.ycombinator.com/item?id=42910105">19 comments 51 points</a></li>
+<li><a href="https://www.ft.com/content/27ba0a6a-0d9b-4e08-8329-730b581c0481"><strong>Musk vows to cancel grants after gaining access to US Treasury payment system</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=42910345">14 comments 51 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2025/feb/02/elon-musk-doge-access-federal-payment-system"><strong>Musk/Dodge Given Access to Federal Databases</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=42913977">8 comments 48 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-02-02]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/870</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://togithub.com/YoteZip/LinuxCrackingBible"><strong>Linux Cracking Bible – The GNU Testament</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42595758">4 comments 33 points</a></li>
 <li><a href="https://sfist.com/2025/01/03/sfpd-refuses-to-say-where-theyve-placed-those-400-automated-license-plate-readers-all-over-town/"><strong>SFPD refuses to say where they&#39;ve placed 400 automated license plate readers</strong> <code>sfist.com</code></a> - <a href="https://news.ycombinator.com/item?id=42598007">19 comments 29 points</a></li>
 <li><a href="https://togithub.com/ksdme/beam"><strong>Show HN: An SSH based utility to transfer pipes across machines – beam</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42593135">31 comments 27 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-01-04]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/841</link>
-            <guid>841</guid>
-            <pubDate>Sat, 04 Jan 2025 06:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://minimaxir.com/2025/01/write-better-code/"><strong>Can LLMs write better code if you keep asking them to “write better code”?</strong> <code>minimaxir.com</code></a> - <a href="https://news.ycombinator.com/item?id=42584400">374 comments 651 points</a></li>
-<li><a href="https://pavelsevecek.github.io/"><strong>SpaceSim</strong> <code>pavelsevecek.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42587356">39 comments 278 points</a></li>
-<li><a href="https://blogscroll.com/"><strong>BlogScroll – An open directory of personal sites and blogs</strong> <code>blogscroll.com</code></a> - <a href="https://news.ycombinator.com/item?id=42583086">77 comments 271 points</a></li>
-<li><a href="https://blog.schwad.org/schwogs/6"><strong>In Memoriam: Noah Gibbs</strong> <code>blog.schwad.org</code></a> - <a href="https://news.ycombinator.com/item?id=42586879">37 comments 238 points</a></li>
-<li><a href="https://www.economist.com/europe/2025/01/02/why-canada-should-join-the-eu"><strong>Why Canada Should Join the EU</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=42583297">542 comments 226 points</a></li>
-<li><a href="https://anntelnaes.substack.com/p/why-im-quitting-the-washington-post"><strong>I&#39;m quitting the Washington Post</strong> <code>anntelnaes.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42591221">120 comments 213 points</a></li>
-<li><a href="https://togithub.com/s-macke/VoxelSpace"><strong>VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42588956">49 comments 188 points</a></li>
-<li><a href="https://www.usenix.org/publications/loginonline/evolution-sre-google"><strong>The Evolution of SRE at Google</strong> <code>www.usenix.org</code></a> - <a href="https://news.ycombinator.com/item?id=42584750">79 comments 181 points</a></li>
-<li><a href="https://pimosa.app/"><strong>Show HN: I completed shipping my desktop app</strong> <code>pimosa.app</code></a> - <a href="https://news.ycombinator.com/item?id=42585009">53 comments 175 points</a></li>
-<li><a href="https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago"><strong>Laser mapping reveals oldest Amazonian cities, built 2500 years ago (2024)</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=42583141">78 comments 167 points</a></li>
-<li><a href="https://blog.val.town/blog/fast-follow/"><strong>What we learned copying all the best code assistants</strong> <code>blog.val.town</code></a> - <a href="https://news.ycombinator.com/item?id=42586042">47 comments 167 points</a></li>
-<li><a href="https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/"><strong>UK ICO response to Google&#39;s policy change on device fingerprinting</strong> <code>ico.org.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42583726">92 comments 157 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/c4gl417l757o"><strong>Court strikes down US net neutrality rules</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=42584621">132 comments 153 points</a></li>
-<li><a href="https://www.texasmonthly.com/food/yemeni-coffee-shops-booming-in-texas/"><strong>Yemeni Coffee Shops in Texas</strong> <code>www.texasmonthly.com</code></a> - <a href="https://news.ycombinator.com/item?id=42584610">103 comments 146 points</a></li>
-<li><a href="https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html"><strong>Mandelbrot deep zoom theory and practice (2021)</strong> <code>mathr.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42586590">44 comments 142 points</a></li>
-<li><a href="https://www.rollingstone.com/culture/rs-gaming/world-of-warcraft-onlyfangs-twitch-roleplay-1235222436/"><strong>OnlyFangs has made &#39;World of Warcraft&#39; into Twitch&#39;s best soap opera</strong> <code>www.rollingstone.com</code></a> - <a href="https://news.ycombinator.com/item?id=42587829">85 comments 124 points</a></li>
-<li><a href="https://arxiv.org/abs/2412.14135"><strong>A path to O1 open source</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42590322">76 comments 124 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc"><strong>System76 built the fastest Windows Arm PC</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=42586291">57 comments 123 points</a></li>
-<li><a href="https://twitter.com/damengchen/status/1875296442417607072"><strong>Perplexity got ads</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=42589863">152 comments 120 points</a></li>
-<li><a href="https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/"><strong>B-Trees: More Than I Thought I&#39;d Want to Know</strong> <code>benjamincongdon.me</code></a> - <a href="https://news.ycombinator.com/item?id=42583947">3 comments 113 points</a></li>
-<li><a href="https://togithub.com/obfusk/fdroid-fakesigner-poc"><strong>F-Droid Fake Signer PoC</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42590307">23 comments 110 points</a></li>
-<li><a href="https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/"><strong>Zebrafish protein unlocks dormant genes for heart repair</strong> <code>www.hubrecht.eu</code></a> - <a href="https://news.ycombinator.com/item?id=42588151">48 comments 108 points</a></li>
-<li><a href="https://www.robertwalters.co.uk/insights/news/blog/conscious-unbossing.html"><strong>Conscious unbossing – 52% of GenZ professionals don&#39;t want to be middle managers</strong> <code>www.robertwalters.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42590992">95 comments 92 points</a></li>
-<li><a href="https://www.theregister.com/2025/01/03/apple_enhanced_visual_search/"><strong>Apple auto-opts everyone into having their photos analyzed by AI for landmarks</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=42584856">51 comments 88 points</a></li>
-<li><a href="https://onepercentrule.substack.com/p/what-is-to-be-done"><strong>What Is To Be Done? The book that helped spark the Russian Revolution</strong> <code>onepercentrule.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=42586262">110 comments 76 points</a></li>
-<li><a href="https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future"><strong>A marriage of solar energy and farming</strong> <code>www.ksjd.org</code></a> - <a href="https://news.ycombinator.com/item?id=42590903">47 comments 74 points</a></li>
-<li><a href="https://www.science.org/content/article/covid-5-years-later-learning-pandemic-many-are-forgetting"><strong>Covid 5 years later: Learning from a pandemic many are forgetting</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=42583093">145 comments 73 points</a></li>
-<li><a href="https://ourworldindata.org/data-insights/china-has-reduced-sulphur-dioxide-emissions-by-more-than-two-thirds-in-the-last-15-years"><strong>China reduced sulphur dioxide emissions by more than two-thirds in past 15 years</strong> <code>ourworldindata.org</code></a> - <a href="https://news.ycombinator.com/item?id=42584615">57 comments 73 points</a></li>
-<li><a href="https://www.economist.com/europe/2025/01/02/why-canada-should-join-the-eu"><strong>Why Canada should join the EU</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=42589788">30 comments 70 points</a></li>
-<li><a href="https://www.amnesty.org/en/documents/eur70/8813/2024/en/"><strong>Surveillance and the suppression of civil society in Serbia</strong> <code>www.amnesty.org</code></a> - <a href="https://news.ycombinator.com/item?id=42584258">43 comments 68 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
