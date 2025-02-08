@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 07 Feb 2025 06:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 06:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-02-08]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/876</link>
+            <guid>876</guid>
+            <pubDate>Sat, 08 Feb 2025 06:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/"><strong>Meta torrented &amp; seeded 81.7 TB dataset containing copyrighted data</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=42971446">811 comments 1134 points</a></li>
+<li><a href="https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/"><strong>Apple ordered by UK to create global iCloud encryption backdoor</strong> <code>www.macrumors.com</code></a> - <a href="https://news.ycombinator.com/item?id=42971761">2 comments 1110 points</a></li>
+<li><a href="https://lkml.org/lkml/2025/2/7/9"><strong>Asahi Linux lead developer Hector Martin resigns from Linux kernel</strong> <code>lkml.org</code></a> - <a href="https://news.ycombinator.com/item?id=42972062">544 comments 604 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=Hi8r_63LGyg"><strong>Donald Knuth&#39;s 2024 Christmas Lecture: Strong and Weak Components [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=42970240">63 comments 379 points</a></li>
+<li><a href="https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/"><strong>Announcing the data.gov archive</strong> <code>lil.law.harvard.edu</code></a> - <a href="https://news.ycombinator.com/item?id=42970039">114 comments 361 points</a></li>
+<li><a href="https://fly.io/blog/vscode-ssh-wtf/"><strong>VSCode&#39;s SSH agent is bananas</strong> <code>fly.io</code></a> - <a href="https://news.ycombinator.com/item?id=42979467">145 comments 255 points</a></li>
+<li><a href="https://theretowhere.com/"><strong>Show HN: A website that heatmaps your city based on your housing preferences</strong> <code>theretowhere.com</code></a> - <a href="https://news.ycombinator.com/item?id=42975803">81 comments 227 points</a></li>
+<li><a href="https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/"><strong>German civil activists win victory in election case against X</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=42975170">213 comments 222 points</a></li>
+<li><a href="https://togithub.com/c0stya/trre"><strong>Show HN: Transductive regular expressions for text editing</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42974378">68 comments 222 points</a></li>
+<li><a href="https://togithub.com/orgs/community/discussions/72603"><strong>Copilot stops working on code that contains hardcoded banned words from GitHub (2023)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42971279">99 comments 221 points</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/c04nx1vnw17o"><strong>Shwe Kokko is accused of being a city built on scams</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=42971059">88 comments 211 points</a></li>
+<li><a href="https://hearsum.ca/posts/history-of-code-signing-at-mozilla/"><strong>A brief history of code signing at Mozilla</strong> <code>hearsum.ca</code></a> - <a href="https://news.ycombinator.com/item?id=42975436">67 comments 193 points</a></li>
+<li><a href="https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/"><strong>U.K. orders Apple to let it spy on users&#39; encrypted accounts</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=42970412">702 comments 188 points</a></li>
+<li><a href="https://huggingface.co/spaces/webml-community/kokoro-webgpu"><strong>Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser</strong> <code>huggingface.co</code></a> - <a href="https://news.ycombinator.com/item?id=42973769">41 comments 187 points</a></li>
+<li><a href="https://togithub.com/AIFanatic/three-nanite"><strong>Three-nanite: Unreal Nanite in Three.js</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42974461">31 comments 186 points</a></li>
+<li><a href="https://carto.com/blog/zip-codes-spatial-analysis"><strong>Stop using zip codes for geospatial analysis (2019)</strong> <code>carto.com</code></a> - <a href="https://news.ycombinator.com/item?id=42974728">118 comments 156 points</a></li>
+<li><a href="https://www.nature.com/articles/s41586-024-08502-w"><strong>Children&#39;s arithmetic skills do not transfer between applied and academic math</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=42972781">155 comments 140 points</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/628099"><strong>The origins of 60-Hz as a power frequency</strong> <code>ieeexplore.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=42974809">182 comments 138 points</a></li>
+<li><a href="https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271"><strong>Whalesong patterns follow a universal law of human language, new research finds</strong> <code>theconversation.com</code></a> - <a href="https://news.ycombinator.com/item?id=42971847">22 comments 133 points</a></li>
+<li><a href="https://source.coop/repositories/harvard-lil/gov-data/description"><strong>A 16TB Mirror of Data.gov on Source.Coop</strong> <code>source.coop</code></a> - <a href="https://news.ycombinator.com/item?id=42974533">18 comments 131 points</a></li>
+<li><a href="https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm"><strong>Radiation belts detected around Earth after solar storm</strong> <code>www.sciencealert.com</code></a> - <a href="https://news.ycombinator.com/item?id=42974727">51 comments 122 points</a></li>
+<li><a href="https://togithub.com/Tanq16/ExpenseOwl"><strong>Show HN: ExpenseOwl – Simple, self-hosted expense tracker</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42977388">40 comments 111 points</a></li>
+<li><a href="https://baltic-grid.sympower.net/"><strong>Baltic countries disconnect from the Russian power grid</strong> <code>baltic-grid.sympower.net</code></a> - <a href="https://news.ycombinator.com/item?id=42973131">59 comments 108 points</a></li>
+<li><a href="https://www.yalemedicine.org/news/ketamine-for-depression"><strong>Ketamine for Depression: How It Works (2024) [video]</strong> <code>www.yalemedicine.org</code></a> - <a href="https://news.ycombinator.com/item?id=42974882">70 comments 95 points</a></li>
+<li><a href="https://stytch.com/blog/the-age-of-agent-experience/"><strong>The Age of Agent Experience</strong> <code>stytch.com</code></a> - <a href="https://news.ycombinator.com/item?id=42974429">38 comments 93 points</a></li>
+<li><a href="https://elering.ee/en/estonia-disconnect-russian-run-electricity-network-saturday"><strong>Estonia to disconnect from the Russian-run electricity network on Saturday</strong> <code>elering.ee</code></a> - <a href="https://news.ycombinator.com/item?id=42971959">76 comments 92 points</a></li>
+<li><a href="https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago"><strong>When Louis Armstrong conquered Chicago</strong> <code>www.honest-broker.com</code></a> - <a href="https://news.ycombinator.com/item?id=42973897">10 comments 92 points</a></li>
+<li><a href="https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software/"><strong>How to help us build open source Pebble software</strong> <code>ericmigi.com</code></a> - <a href="https://news.ycombinator.com/item?id=42972791">33 comments 90 points</a></li>
+<li><a href="https://www.theverge.com/news/608145/apple-uk-icloud-encrypted-backups-spying-snoopers-charter"><strong>Apple ordered to open encrypted user accounts globally to UK spying</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=42971533">2 comments 88 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2025-02-07/musk-s-doge-teen-was-fired-by-cybersecurity-firm-for-leaking-company-secrets"><strong>DOGE member previously fired by cybersecurity firm for leaking company secrets</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=42976761">54 comments 77 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-02-07]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/875</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.theatlantic.com/ideas/archive/2025/01/hitler-germany-constitution-authoritarianism/681233/"><strong>Hitler dismantled a democracy in 53 days through constitutional means</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=42644140">79 comments 82 points</a></li>
 <li><a href="https://passo.uno/seven-action-model/"><strong>The Seven-Action Documentation Model</strong> <code>passo.uno</code></a> - <a href="https://news.ycombinator.com/item?id=42645075">10 comments 77 points</a></li>
 <li><a href="https://www.ess-news.com/2025/01/09/worlds-largest-pumped-storage-power-plant-fully-operational-in-china/"><strong>World&#39;s largest pumped storage power plant fully operational in China</strong> <code>www.ess-news.com</code></a> - <a href="https://news.ycombinator.com/item?id=42649517">75 comments 75 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-01-09]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/846</link>
-            <guid>846</guid>
-            <pubDate>Thu, 09 Jan 2025 06:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://operating-system-in-1000-lines.vercel.app/en"><strong>Operating System in 1,000 Lines – Intro</strong> <code>operating-system-in-1000-lines.vercel.app</code></a> - <a href="https://news.ycombinator.com/item?id=42631873">89 comments 829 points</a></li>
-<li><a href="https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key"><strong>Cracking a 512-bit DKIM key for less than $8 in the cloud</strong> <code>dmarcchecker.app</code></a> - <a href="https://news.ycombinator.com/item?id=42633501">305 comments 636 points</a></li>
-<li><a href="https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb"><strong>I had to take down my course-swapping site or be expelled</strong> <code>www.linkedin.com</code></a> - <a href="https://news.ycombinator.com/item?id=42638626">301 comments 587 points</a></li>
-<li><a href="https://sagipolaczek.github.io/NeuralSVG/"><strong>NeuralSVG: An Implicit Representation for Text-to-Vector Generation</strong> <code>sagipolaczek.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42636873">48 comments 457 points</a></li>
-<li><a href="https://atlasof.space/"><strong>Show HN: Atlas of Space</strong> <code>atlasof.space</code></a> - <a href="https://news.ycombinator.com/item?id=42634787">97 comments 439 points</a></li>
-<li><a href="https://www.mattkeeter.com/projects/fidget/"><strong>Fidget</strong> <code>www.mattkeeter.com</code></a> - <a href="https://news.ycombinator.com/item?id=42634624">42 comments 395 points</a></li>
-<li><a href="https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/"><strong>Salesforce will hire no more software engineers in 2025, says Marc Benioff</strong> <code>www.salesforceben.com</code></a> - <a href="https://news.ycombinator.com/item?id=42639417">307 comments 271 points</a></li>
-<li><a href="https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase"><strong>You don&#39;t have to pay the Microsoft 365 price increase</strong> <code>www.consumer.org.nz</code></a> - <a href="https://news.ycombinator.com/item?id=42640180">118 comments 260 points</a></li>
-<li><a href="https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/"><strong>LA wildfires force thousands to evacuate, NASA JPL closed</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=42638735">358 comments 254 points</a></li>
-<li><a href="https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/"><strong>Facebook is removing stories about pornographic ads</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=42637267">111 comments 248 points</a></li>
-<li><a href="https://sdomi.pl/weblog/23-serenityos-realhw/"><strong>Bringing SerenityOS to real hardware, one driver at a time</strong> <code>sdomi.pl</code></a> - <a href="https://news.ycombinator.com/item?id=42636086">78 comments 214 points</a></li>
-<li><a href="https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/"><strong>Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=42633269">291 comments 213 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=mVWQQeSOD0M"><strong>The Aging Programmer [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=42632772">143 comments 213 points</a></li>
-<li><a href="https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/"><strong>Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra</strong> <code>robotics.umich.edu</code></a> - <a href="https://news.ycombinator.com/item?id=42633805">49 comments 200 points</a></li>
-<li><a href="https://znah.net/tt09/"><strong>Gate-level simulation of ASIC in browser</strong> <code>znah.net</code></a> - <a href="https://news.ycombinator.com/item?id=42631629">25 comments 188 points</a></li>
-<li><a href="https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/"><strong>Steve Langasek, one of Ubuntu Linux&#39;s leading lights, has died</strong> <code>thenewstack.io</code></a> - <a href="https://news.ycombinator.com/item?id=42639563">12 comments 153 points</a></li>
-<li><a href="https://mecha.so/comet"><strong>The Comet is a handheld Linux computer that brings extensibility</strong> <code>mecha.so</code></a> - <a href="https://news.ycombinator.com/item?id=42632865">66 comments 134 points</a></li>
-<li><a href="https://sidhion.com/blog/28h_days_update_1/"><strong>28h Days: year 1 update</strong> <code>sidhion.com</code></a> - <a href="https://news.ycombinator.com/item?id=42639779">78 comments 131 points</a></li>
-<li><a href="https://jerf.org/iri/post/2025/programming_language_ideas/"><strong>Some programming language ideas</strong> <code>jerf.org</code></a> - <a href="https://news.ycombinator.com/item?id=42637304">116 comments 121 points</a></li>
-<li><a href="https://togithub.com/browserbase/stagehand"><strong>Show HN: Stagehand – an open source browser automation framework powered by AI</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42635942">20 comments 107 points</a></li>
-<li><a href="https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/"><strong>Embedding Scheme in Rust</strong> <code>raviqqe.com</code></a> - <a href="https://news.ycombinator.com/item?id=42632592">10 comments 92 points</a></li>
-<li><a href="https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/"><strong>Spinal cord injuries from mountain biking exceed hockey, other high-risk sports</strong> <code>www.med.ubc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=42632878">125 comments 87 points</a></li>
-<li><a href="https://connect.garmin.com/status/"><strong>Garmin Connect services were down</strong> <code>connect.garmin.com</code></a> - <a href="https://news.ycombinator.com/item?id=42633093">69 comments 83 points</a></li>
-<li><a href="http://avitus.alcuinus.net/schola_latina/soni_en.php"><strong>Schola Latina Europæa and Universalis</strong> <code>avitus.alcuinus.net</code></a> - <a href="https://news.ycombinator.com/item?id=42631959">52 comments 83 points</a></li>
-<li><a href="https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65"><strong>Fired from Meta After 1 Week: Here&#39;s All the Dirt I Got</strong> <code>sebastiancarlos.com</code></a> - <a href="https://news.ycombinator.com/item?id=42633463">19 comments 71 points</a></li>
-<li><a href="https://gist.github.com/hopeseekr/f522e380e35745bd5bdc3269a9f0b132"><strong>New questions on Stack Overflow are down 77% compared to 2022</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42633880">62 comments 68 points</a></li>
-<li><a href="https://www.crikey.com.au/2025/01/08/apple-new-artificial-intelligence-rewords-scam-messages-look-legitimate/"><strong>Apple&#39;s new AI feature rewords scam messages to make them look more legit</strong> <code>www.crikey.com.au</code></a> - <a href="https://news.ycombinator.com/item?id=42638857">33 comments 67 points</a></li>
-<li><a href="https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/"><strong>White House unveils Cyber Trust Mark program for consumer devices</strong> <code>www.nextgov.com</code></a> - <a href="https://news.ycombinator.com/item?id=42636675">61 comments 65 points</a></li>
-<li><a href="https://blog.karliner.net/projects/belshazzars-clock/"><strong>Show HN: Belshazzar&#39;s Clock, luminous paint night clock</strong> <code>blog.karliner.net</code></a> - <a href="https://news.ycombinator.com/item?id=42633035">14 comments 63 points</a></li>
-<li><a href="https://www.france24.com/en/live-news/20250108-germans-turn-to-balcony-solar-panels-to-save-money"><strong>Germans turn to balcony solar panels to save money</strong> <code>www.france24.com</code></a> - <a href="https://news.ycombinator.com/item?id=42633159">63 comments 62 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
