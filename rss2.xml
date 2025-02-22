@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 21 Feb 2025 06:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 06:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-02-22]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/890</link>
+            <guid>890</guid>
+            <pubDate>Sat, 22 Feb 2025 06:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.bbc.com/news/articles/cgj54eq4vejo"><strong>Apple pulls data protection tool after UK government security row</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43128253">796 comments 1123 points</a></li>
+<li><a href="https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed"><strong>I found a backdoor into my bed</strong> <code>trufflesecurity.com</code></a> - <a href="https://news.ycombinator.com/item?id=43129439">301 comments 676 points</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/"><strong>Meta claims torrenting pirated books isn&#39;t illegal without proof of seeding</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43125840">408 comments 619 points</a></li>
+<li><a href="https://www.wethebuilders.org/"><strong>We are the builders</strong> <code>www.wethebuilders.org</code></a> - <a href="https://news.ycombinator.com/item?id=43133648">187 comments 454 points</a></li>
+<li><a href="https://www.patentlyapple.com/2025/02/a-federal-judge-has-invalidated-an-omni-medsci-patent-which-could-open-the-door-for-a-blood-glucose-solution-for-apple-watch.html"><strong>US Judge invalidates blood glucose sensor patent, opens door for Apple Watch</strong> <code>www.patentlyapple.com</code></a> - <a href="https://news.ycombinator.com/item?id=43124436">172 comments 428 points</a></li>
+<li><a href="https://sky.cs.berkeley.edu/project/sky-t1/"><strong>Train Your Own O1 Preview Model Within $450</strong> <code>sky.cs.berkeley.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43125430">64 comments 403 points</a></li>
+<li><a href="https://docs.docker.com/docker-hub/usage/"><strong>Docker limits unauthenticated pulls to 10/HR/IP from Docker Hub, from March 1</strong> <code>docs.docker.com</code></a> - <a href="https://news.ycombinator.com/item?id=43125089">405 comments 385 points</a></li>
+<li><a href="https://johnnydecimal.com"><strong>Johnny.Decimal – A system to organise your life</strong> <code>johnnydecimal.com</code></a> - <a href="https://news.ycombinator.com/item?id=43128093">197 comments 367 points</a></li>
+<li><a href="https://arxiv.org/abs/2410.06992"><strong>Some critical issues with the SWE-bench dataset</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=43130732">107 comments 316 points</a></li>
+<li><a href="https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/"><strong>20 years working on the same software product</strong> <code>successfulsoftware.net</code></a> - <a href="https://news.ycombinator.com/item?id=43133174">99 comments 315 points</a></li>
+<li><a href="https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2"><strong>Every .gov Domain</strong> <code>flatgithub.com</code></a> - <a href="https://news.ycombinator.com/item?id=43125829">258 comments 308 points</a></li>
+<li><a href="https://www.contraption.co/rails-versus-nextjs/"><strong>Why Ruby on Rails still matters</strong> <code>www.contraption.co</code></a> - <a href="https://news.ycombinator.com/item?id=43130546">237 comments 298 points</a></li>
+<li><a href="https://digital.archives.caltech.edu/collections/Images/1.10-29/"><strong>Richard Feynman&#39;s blackboard at the time of his death (1988)</strong> <code>digital.archives.caltech.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43131017">157 comments 283 points</a></li>
+<li><a href="https://suckless.org/"><strong>Suckless.org: software that sucks less</strong> <code>suckless.org</code></a> - <a href="https://news.ycombinator.com/item?id=43131059">138 comments 246 points</a></li>
+<li><a href="https://www.empathetic.dev/users-dont-care-about-your-tech-stack"><strong>Users don&#39;t care about your tech stack</strong> <code>www.empathetic.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43125981">250 comments 212 points</a></li>
+<li><a href="https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/"><strong>Apple pulls encrypted iCloud security feature in UK amid backdoor demands</strong> <code>www.macrumors.com</code></a> - <a href="https://news.ycombinator.com/item?id=43128870">3 comments 208 points</a></li>
+<li><a href="https://www.wired.com/story/faa-doge-elon-musk-space-x/"><strong>SpaceX engineers brought on at FAA after probationary employees were fired</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=43127819">124 comments 192 points</a></li>
+<li><a href="https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html"><strong>Sweden Investigates New Cable Break Under Baltic Sea</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43127425">159 comments 187 points</a></li>
+<li><a href="https://www.reuters.com/business/autos-transportation/tesla-recalls-380000-vehicles-us-over-power-steering-issue-2025-02-21/"><strong>Tesla recalls 380k vehicles in US over power steering assist issue</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43128987">166 comments 181 points</a></li>
+<li><a href="https://togithub.com/Edu4rdSHL/fly-to-podman"><strong>Fly To Podman: a script that will help you to migrate from Docker</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43125487">84 comments 160 points</a></li>
+<li><a href="https://www.renpy.org/"><strong>The Ren&#39;Py Visual Novel Engine</strong> <code>www.renpy.org</code></a> - <a href="https://news.ycombinator.com/item?id=43132336">48 comments 145 points</a></li>
+<li><a href="https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts"><strong>NASA&#39;s James Webb Space Telescope faces potential 20% budget cut</strong> <code>www.space.com</code></a> - <a href="https://news.ycombinator.com/item?id=43131045">137 comments 140 points</a></li>
+<li><a href="https://togithub.com/therealoliver/Deepdive-llama3-from-scratch"><strong>DeepDive in everything of Llama3: revealing detailed insights and implementation</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43129887">8 comments 133 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2025/feb/21/elon-musk-butch-wilmore-suni-williams-nasa-astronaut-iss-claims-biden"><strong>&#39;What a lie&#39;: Danish astronaut responds to Musk</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=43126588">73 comments 132 points</a></li>
+<li><a href="https://linear.app/blog/the-profitable-startup"><strong>The Profitable Startup</strong> <code>linear.app</code></a> - <a href="https://news.ycombinator.com/item?id=43130480">44 comments 129 points</a></li>
+<li><a href="https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/"><strong>Bybit loses $1.5B in hack but can cover loss, CEO confirms</strong> <code>www.tradingview.com</code></a> - <a href="https://news.ycombinator.com/item?id=43130143">82 comments 113 points</a></li>
+<li><a href="https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html"><strong>Yocto, RockPi and SBOMs: Building modern embedded Linux images</strong> <code>vpetersson.com</code></a> - <a href="https://news.ycombinator.com/item?id=43131902">56 comments 107 points</a></li>
+<li><a href="https://www.eql.com/media/sneaker-bot-ai-error"><strong>Who needs a sneaker bot when AI can hallucinate a win for you?</strong> <code>www.eql.com</code></a> - <a href="https://news.ycombinator.com/item?id=43135382">25 comments 107 points</a></li>
+<li><a href="https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/"><strong>On Running systemd-nspawn Containers (2022)</strong> <code>benjamintoll.com</code></a> - <a href="https://news.ycombinator.com/item?id=43125176">47 comments 105 points</a></li>
+<li><a href="https://techxplore.com/news/2025-01-lithium-sulfur-battery-retains-capacity.html"><strong>Lithium-sulfur battery retains 80% charge capacity after 25,000 cycles</strong> <code>techxplore.com</code></a> - <a href="https://news.ycombinator.com/item?id=43130923">63 comments 104 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-02-21]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/889</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.redblobgames.com/x/1903-orbit-spirograph/"><strong>Orbit Spirograph (2019)</strong> <code>www.redblobgames.com</code></a> - <a href="https://news.ycombinator.com/item?id=42805421">7 comments 69 points</a></li>
 <li><a href="https://www.irishstar.com/news/us-news/jeff-bezos-deletes-lgbtq-rights-34533955"><strong>Amazon removed statements advocating for LGBTQ rights and racial equity</strong> <code>www.irishstar.com</code></a> - <a href="https://news.ycombinator.com/item?id=42806900">47 comments 62 points</a></li>
 <li><a href="https://blog.google/feed/android-xr-htc-agreement/"><strong>We&#39;re accelerating the Android XR platform with a new agreement with HTC</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=42802210">65 comments 55 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-01-23]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/860</link>
-            <guid>860</guid>
-            <pubDate>Thu, 23 Jan 2025 06:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.byran.ee/posts/creation/"><strong>Show HN: I made an open-source laptop from scratch</strong> <code>www.byran.ee</code></a> - <a href="https://news.ycombinator.com/item?id=42797260">125 comments 855 points</a></li>
-<li><a href="https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/"><strong>Mastercard DNS error went unnoticed for years</strong> <code>krebsonsecurity.com</code></a> - <a href="https://news.ycombinator.com/item?id=42793783">201 comments 757 points</a></li>
-<li><a href="https://tabboo.xyz/"><strong>TabBoo – add random jumpscares to websites you&#39;re trying to avoid</strong> <code>tabboo.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=42795237">95 comments 483 points</a></li>
-<li><a href="https://rustle.ca/posts/articles/work-from-home-lighting"><strong>How to improve your WFH lighting to reduce eye strain</strong> <code>rustle.ca</code></a> - <a href="https://news.ycombinator.com/item?id=42796950">175 comments 350 points</a></li>
-<li><a href="https://www.jofreeman.com/joreen/tyranny.htm"><strong>The Tyranny of Structurelessness (1970)</strong> <code>www.jofreeman.com</code></a> - <a href="https://news.ycombinator.com/item?id=42793483">126 comments 329 points</a></li>
-<li><a href="https://allthatjazz.me/posts/doom-scrolling-struggles"><strong>My Struggle with Doom Scrolling</strong> <code>allthatjazz.me</code></a> - <a href="https://news.ycombinator.com/item?id=42791428">294 comments 302 points</a></li>
-<li><a href="https://bsky.app/profile/ericjgeller.com/post/3lgbpqmxeok2f"><strong>DHS removes all members of cyber security advisory boards, halts investigations</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=42790207">345 comments 274 points</a></li>
-<li><a href="https://stratoshark.org/"><strong>Show HN: Stratoshark, a sibling application to Wireshark</strong> <code>stratoshark.org</code></a> - <a href="https://news.ycombinator.com/item?id=42793777">42 comments 249 points</a></li>
-<li><a href="https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional"><strong>Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=42797756">48 comments 240 points</a></li>
-<li><a href="https://www.science.org/content/article/trump-hits-nih-devastating-freezes-meetings-travel-communications-and-hiring"><strong>NIH hit with freezes on meetings, travel, communications, and hiring</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=42798960">320 comments 235 points</a></li>
-<li><a href="http://simplecpudesign.com/"><strong>Simple CPU Design</strong> <code>simplecpudesign.com</code></a> - <a href="https://news.ycombinator.com/item?id=42793597">38 comments 222 points</a></li>
-<li><a href="https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/"><strong>OpenAI has upped its lobbying efforts nearly sevenfold</strong> <code>www.technologyreview.com</code></a> - <a href="https://news.ycombinator.com/item?id=42793567">180 comments 203 points</a></li>
-<li><a href="https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them"><strong>Understanding gRPC, OpenAPI and REST and when to use them in API design</strong> <code>cloud.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=42799245">133 comments 166 points</a></li>
-<li><a href="https://tailwindcss.com/blog/tailwindcss-v4"><strong>Tailwind CSS v4.0</strong> <code>tailwindcss.com</code></a> - <a href="https://news.ycombinator.com/item?id=42799136">91 comments 165 points</a></li>
-<li><a href="https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html"><strong>Google Fiber is coming to Las Vegas</strong> <code>fiber.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=42798293">172 comments 162 points</a></li>
-<li><a href="https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us"><strong>C stdlib isn&#39;t threadsafe and even safe Rust didn&#39;t save us</strong> <code>www.edgedb.com</code></a> - <a href="https://news.ycombinator.com/item?id=42796058">166 comments 140 points</a></li>
-<li><a href="https://togithub.com/itamarom/notepadjs"><strong>Show HN: NotepadJs – A cross-platform love letter to Notepad</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42791820">98 comments 132 points</a></li>
-<li><a href="https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/"><strong>Most Influential Papers in Computer Science History</strong> <code>terriblesoftware.org</code></a> - <a href="https://news.ycombinator.com/item?id=42799103">36 comments 127 points</a></li>
-<li><a href="https://docpop.org/2025/01/the-day-instagram-blocked-democracy/"><strong>The Day Instagram Blocked Democracy</strong> <code>docpop.org</code></a> - <a href="https://news.ycombinator.com/item?id=42790729">71 comments 125 points</a></li>
-<li><a href="https://togithub.com/slu4coder/Minimal-64x4-Home-Computer"><strong>Minimal 64x4 Home Computer</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42794232">26 comments 121 points</a></li>
-<li><a href="https://arxiv.org/abs/2501.09223"><strong>Foundations of Large Language Models</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42799629">6 comments 115 points</a></li>
-<li><a href="https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer"><strong>The ultra-fast cancer treatments which could replace conventional radiotherapy</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=42797281">5 comments 111 points</a></li>
-<li><a href="https://www.trae.ai/home"><strong>Trae: An AI-powered IDE by ByteDance</strong> <code>www.trae.ai</code></a> - <a href="https://news.ycombinator.com/item?id=42799540">105 comments 99 points</a></li>
-<li><a href="https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html"><strong>A Look Back at 2024: F-Droid&#39;s Progress and What&#39;s Coming in 2025</strong> <code>f-droid.org</code></a> - <a href="https://news.ycombinator.com/item?id=42798108">4 comments 99 points</a></li>
-<li><a href="https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/"><strong>I made a multiplayer shooter game in Lisp, here is my journey</strong> <code>ertu.dev</code></a> - <a href="https://news.ycombinator.com/item?id=42796906">14 comments 95 points</a></li>
-<li><a href="https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/"><strong>Tech takes the Pareto principle too far</strong> <code>bobbylox.com</code></a> - <a href="https://news.ycombinator.com/item?id=42800557">12 comments 86 points</a></li>
-<li><a href="http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html"><strong>Hands-on Assignment – Therac-25 (2007)</strong> <code>web.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=42797798">43 comments 84 points</a></li>
-<li><a href="https://arstechnica.com/health/2025/01/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/"><strong>Florida man eats diet of butter, cheese, beef; cholesterol oozes from his body</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=42798051">65 comments 77 points</a></li>
-<li><a href="https://togithub.com/sauravpanda/BrowserAI"><strong>Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=42795375">18 comments 76 points</a></li>
-<li><a href="https://arxiv.org/abs/2501.10479"><strong>Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=42798811">3 comments 72 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
