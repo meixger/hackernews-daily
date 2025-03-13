@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 12 Mar 2025 06:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 06:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-03-13]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/909</link>
+            <guid>909</guid>
+            <pubDate>Thu, 13 Mar 2025 06:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying"><strong>Mark Klein, AT&amp;T whistleblower who revealed NSA mass spying, has died</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=43347662">193 comments 875 points</a></li>
+<li><a href="https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/"><strong>Gemini Robotics</strong> <code>deepmind.google</code></a> - <a href="https://news.ycombinator.com/item?id=43344082">401 comments 678 points</a></li>
+<li><a href="https://duckdb.org/2025/03/12/duckdb-ui.html"><strong>The DuckDB Local UI</strong> <code>duckdb.org</code></a> - <a href="https://news.ycombinator.com/item?id=43342712">149 comments 670 points</a></li>
+<li><a href="https://togithub.com/kern/filepizza"><strong>Peer-to-peer file transfers in the browser</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43342361">207 comments 442 points</a></li>
+<li><a href="https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf"><strong>Gemma 3 Technical Report [pdf]</strong> <code>storage.googleapis.com</code></a> - <a href="https://news.ycombinator.com/item?id=43340491">221 comments 419 points</a></li>
+<li><a href="https://ersei.net/en/blog/niri"><strong>The Future Is Niri</strong> <code>ersei.net</code></a> - <a href="https://news.ycombinator.com/item?id=43342178">171 comments 327 points</a></li>
+<li><a href="https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again"><strong>I stopped everything and started writing C again</strong> <code>www.kmx.io</code></a> - <a href="https://news.ycombinator.com/item?id=43340731">290 comments 284 points</a></li>
+<li><a href="https://mozillapetition.com/"><strong>Tell Mozilla: it&#39;s time to ditch Google</strong> <code>mozillapetition.com</code></a> - <a href="https://news.ycombinator.com/item?id=43340948">298 comments 280 points</a></li>
+<li><a href="https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/"><strong>The insecurity of telecom stacks in the wake of Salt Typhoon</strong> <code>soatok.blog</code></a> - <a href="https://news.ycombinator.com/item?id=43340196">174 comments 275 points</a></li>
+<li><a href="https://www.sfgate.com/sf-culture/article/san-francisco-sony-bouncy-ball-ad-20204385.php"><strong>The 2005 Sony Bravia ad</strong> <code>www.sfgate.com</code></a> - <a href="https://news.ycombinator.com/item?id=43344129">193 comments 250 points</a></li>
+<li><a href="https://www.eggnog.ai/entertimeportal"><strong>Show HN: Time Portal – Get dropped into history, guess where you landed</strong> <code>www.eggnog.ai</code></a> - <a href="https://news.ycombinator.com/item?id=43347306">137 comments 249 points</a></li>
+<li><a href="https://ollama.com/library/gemma3"><strong>Gemma3 – The current strongest model that fits on a single GPU</strong> <code>ollama.com</code></a> - <a href="https://news.ycombinator.com/item?id=43340785">136 comments 241 points</a></li>
+<li><a href="https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/"><strong>Intel appoints Lip-Bu Tan as its CEO</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43347369">84 comments 235 points</a></li>
+<li><a href="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/"><strong>Iconography of the PuTTY tools</strong> <code>www.chiark.greenend.org.uk</code></a> - <a href="https://news.ycombinator.com/item?id=43346816">56 comments 232 points</a></li>
+<li><a href="https://twitter.com/benswerd/status/1899853533761200300"><strong>Reverse engineering OpenAI code execution to make it run C and JavaScript</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=43344673">55 comments 213 points</a></li>
+<li><a href="https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/"><strong>The cultural divide between mathematics and AI</strong> <code>sugaku.net</code></a> - <a href="https://news.ycombinator.com/item?id=43344703">117 comments 187 points</a></li>
+<li><a href="https://www.websiteplanet.com/news/eshyft-report-breach/"><strong>&#39;Uber for nurses&#39; exposes 86K+ medical records, PII via open S3 bucket</strong> <code>www.websiteplanet.com</code></a> - <a href="https://news.ycombinator.com/item?id=43349115">108 comments 181 points</a></li>
+<li><a href="https://www.engadget.com/social-media/meta-is-trying-to-stop-a-former-employee-from-promoting-her-book-about-facebook-004938899.html"><strong>Meta is trying to stop a former employee from promoting her book about Facebook</strong> <code>www.engadget.com</code></a> - <a href="https://news.ycombinator.com/item?id=43349473">42 comments 181 points</a></li>
+<li><a href="https://www.nickcraux.com/blog/cursor-tips"><strong>I use Cursor daily - here&#39;s how I avoid the garbage parts</strong> <code>www.nickcraux.com</code></a> - <a href="https://news.ycombinator.com/item?id=43340662">177 comments 169 points</a></li>
+<li><a href="https://www.tibinotes.com/p/practical-ux-for-startups-surviving"><strong>Practical UX for startups surviving without a designer</strong> <code>www.tibinotes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43348379">46 comments 158 points</a></li>
+<li><a href="https://www.theregister.com/2025/03/12/hardware_os_lockin_monopolies/"><strong>Apple has locked me in the same cage Microsoft&#39;s built for Windows 10 users</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=43341481">158 comments 145 points</a></li>
+<li><a href="https://wulinshu.com/2025/03/11/reverse-engineering-adventures-3-bug-or-not-bug/"><strong>Shenmue (1999) reverse engineering reveals possible sun position oversight</strong> <code>wulinshu.com</code></a> - <a href="https://news.ycombinator.com/item?id=43345285">49 comments 130 points</a></li>
+<li><a href="https://spectrum.ieee.org/ammonia-fuel-2671266100"><strong>First ammonia-fueled ship hits a snag</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=43342071">199 comments 122 points</a></li>
+<li><a href="https://binarysecurity.no/posts/2025/03/api-connections"><strong>Azure&#39;s Weakest Link? How API Connections Spill Secrets</strong> <code>binarysecurity.no</code></a> - <a href="https://news.ycombinator.com/item?id=43340505">54 comments 117 points</a></li>
+<li><a href="https://www.reuters.com/markets/europe/eu-impose-counter-tariffs-over-28-billion-us-goods-2025-03-12/"><strong>EU to impose counter tariffs on $28 billion of US goods</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43341226">160 comments 106 points</a></li>
+<li><a href="https://sr.ht/~oconnor0/zinc/"><strong>Zinc, a systems programming language prototype</strong> <code>sr.ht</code></a> - <a href="https://news.ycombinator.com/item?id=43346864">33 comments 104 points</a></li>
+<li><a href="https://www.usenix.org/system/files/1311_05-08_mickens.pdf"><strong>The Night Watch (2013) [pdf]</strong> <code>www.usenix.org</code></a> - <a href="https://news.ycombinator.com/item?id=43347724">19 comments 100 points</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/"><strong>How far neuroscience is from understanding brains (2023)</strong> <code>pmc.ncbi.nlm.nih.gov</code></a> - <a href="https://news.ycombinator.com/item?id=43342407">81 comments 93 points</a></li>
+<li><a href="https://blog.llvm.org/posts/2025-03-11-flang-new/"><strong>First official release of LLVM Flang</strong> <code>blog.llvm.org</code></a> - <a href="https://news.ycombinator.com/item?id=43340487">23 comments 87 points</a></li>
+<li><a href="https://jamieraskin.com/doge-privacy-act-requests/"><strong>Doge Privacy Act Requests</strong> <code>jamieraskin.com</code></a> - <a href="https://news.ycombinator.com/item?id=43349901">34 comments 83 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-03-12]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/908</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/"><strong>E Ink&#39;s color ePaper tech gets supersized for outdoor displays</strong> <code>newatlas.com</code></a> - <a href="https://news.ycombinator.com/item?id=43014418">68 comments 100 points</a></li>
 <li><a href="https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html"><strong>JJ Cheat Sheet</strong> <code>justinpombrio.net</code></a> - <a href="https://news.ycombinator.com/item?id=43020180">44 comments 99 points</a></li>
 <li><a href="https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-"><strong>Postmortem: The singular design of Namco&#39;s Katamari Damacy (2004)</strong> <code>www.gamedeveloper.com</code></a> - <a href="https://news.ycombinator.com/item?id=43015585">20 comments 97 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-02-11]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/879</link>
-            <guid>879</guid>
-            <pubDate>Tue, 11 Feb 2025 06:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://blog.plover.com/lang/etym/nickname-names.html"><strong>Surnames from nicknames nobody has any more</strong> <code>blog.plover.com</code></a> - <a href="https://news.ycombinator.com/item?id=43000316">368 comments 769 points</a></li>
-<li><a href="https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/"><strong>Undergraduate shows that searches within hash tables can be much faster</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=43002511">300 comments 671 points</a></li>
-<li><a href="https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/"><strong>Musk-led group makes $97B bid for control of OpenAI</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43004889">714 comments 584 points</a></li>
-<li><a href="https://www.anthropic.com/news/the-anthropic-economic-index"><strong>The Anthropic Economic Index</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=43000529">195 comments 462 points</a></li>
-<li><a href="https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell"><strong>To buy a Tesla Model 3, only to end up in hell</strong> <code>www.myteslaexperience.com</code></a> - <a href="https://news.ycombinator.com/item?id=42998024">522 comments 428 points</a></li>
-<li><a href="https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/"><strong>I built an open source AI tool to find my autoimmune disease</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=42999632">273 comments 373 points</a></li>
-<li><a href="https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr"><strong>TL;DR of Deep Dive into LLMs Like ChatGPT by Andrej Karpathy</strong> <code>anfalmushtaq.com</code></a> - <a href="https://news.ycombinator.com/item?id=42997340">78 comments 356 points</a></li>
-<li><a href="https://togithub.com/desgeeko/pdfsyntax/blob/main/docs/browse.md"><strong>Show HN: HTML visualization of a PDF file&#39;s internal structure</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43000303">45 comments 355 points</a></li>
-<li><a href="https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html"><strong>Advertising Is a Cancer on Society (2019)</strong> <code>jacek.zlydach.pl</code></a> - <a href="https://news.ycombinator.com/item?id=42999561">235 comments 271 points</a></li>
-<li><a href="https://www.kalzumeus.com/2025/02/10/retraction-request-denied/"><strong>Bank CEO: Retract your debanking piece? Me: No</strong> <code>www.kalzumeus.com</code></a> - <a href="https://news.ycombinator.com/item?id=43001441">70 comments 255 points</a></li>
-<li><a href="https://xpqz.github.io/kbook/Introduction.html"><strong>What about K?</strong> <code>xpqz.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=42999650">116 comments 184 points</a></li>
-<li><a href="https://dagger.io/blog/replaced-react-with-go"><strong>We replaced our React front end with Go and WebAssembly</strong> <code>dagger.io</code></a> - <a href="https://news.ycombinator.com/item?id=43008190">106 comments 178 points</a></li>
-<li><a href="https://fetchfox.ai/a/founding-engineer-compensation"><strong>1% Equity for Founding Engineers Is BS</strong> <code>fetchfox.ai</code></a> - <a href="https://news.ycombinator.com/item?id=43002999">223 comments 171 points</a></li>
-<li><a href="https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/"><strong>The state of Rust trying to catch up with Ada [video]</strong> <code>fosdem.org</code></a> - <a href="https://news.ycombinator.com/item?id=42998061">171 comments 161 points</a></li>
-<li><a href="https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/"><strong>CAPTCHAs: &#39;a tracking cookie farm for profit masquerading as a security service&#39;</strong> <code>www.pcgamer.com</code></a> - <a href="https://news.ycombinator.com/item?id=43002440">94 comments 153 points</a></li>
-<li><a href="https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon/"><strong>Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)</strong> <code>www.xstore.co.za</code></a> - <a href="https://news.ycombinator.com/item?id=43003230">34 comments 134 points</a></li>
-<li><a href="https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/"><strong>Hedge Funds Are Pocketing Much of Their Clients&#39; Gains with &#39;No Limit&#39; Fees</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=43006390">96 comments 127 points</a></li>
-<li><a href="http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/"><strong>How Copyover MUD Servers Worked</strong> <code>jackkelly.name</code></a> - <a href="https://news.ycombinator.com/item?id=43007769">36 comments 109 points</a></li>
-<li><a href="https://www.mnot.net/blog/2025/02/09/decentralize-icloud"><strong>Apple&#39;s Best Option: Decentralize iCloud</strong> <code>www.mnot.net</code></a> - <a href="https://news.ycombinator.com/item?id=42997647">121 comments 108 points</a></li>
-<li><a href="https://www.abortretry.fail/p/work-at-the-mill"><strong>Work at the Mill Or, the Story of Digital Equipment Corporation</strong> <code>www.abortretry.fail</code></a> - <a href="https://news.ycombinator.com/item?id=43002906">43 comments 106 points</a></li>
-<li><a href="https://opencomply.io"><strong>Show HN: Open Source Security &amp; Compliance: Introducing Opencomply</strong> <code>opencomply.io</code></a> - <a href="https://news.ycombinator.com/item?id=43001826">1 comments 105 points</a></li>
-<li><a href="https://zknill.io/posts/patterns-for-building-realtime/"><strong>Patterns for Building Realtime Features</strong> <code>zknill.io</code></a> - <a href="https://news.ycombinator.com/item?id=43004334">24 comments 99 points</a></li>
-<li><a href="https://arxiv.org/abs/2502.05171"><strong>Scaling up test-time compute with latent reasoning: A recurrent depth approach</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=43004416">20 comments 99 points</a></li>
-<li><a href="https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/"><strong>Why hasn&#39;t commercial air travel gotten any faster since the 1960s? (2009)</strong> <code>engineering.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43000275">379 comments 88 points</a></li>
-<li><a href="https://topography.jessekv.com"><strong>Show HN: Global 3D topography explorer</strong> <code>topography.jessekv.com</code></a> - <a href="https://news.ycombinator.com/item?id=43001688">31 comments 86 points</a></li>
-<li><a href="https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/"><strong>Steam makes its ban on in-game ads explicit</strong> <code>www.pcgamer.com</code></a> - <a href="https://news.ycombinator.com/item?id=42999661">47 comments 80 points</a></li>
-<li><a href="https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing"><strong>What happens to SaaS in a world with computer-using agents?</strong> <code>docs.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=43004373">70 comments 76 points</a></li>
-<li><a href="https://pydong.org/posts/KwArgs/"><strong>Fun with C++26 reflection: Keyword Arguments</strong> <code>pydong.org</code></a> - <a href="https://news.ycombinator.com/item?id=43006536">35 comments 72 points</a></li>
-<li><a href="https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873"><strong>A story about USB floppy drives (2004)</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=43002426">42 comments 71 points</a></li>
-<li><a href="https://boingboing.net/2025/02/07/recaptcha-819-million-hours-of-wasted-human-time-and-billions-of-dollars-google-profit.html"><strong>ReCAPTCHA: 819M hours of wasted human time and billions in Google profits</strong> <code>boingboing.net</code></a> - <a href="https://news.ycombinator.com/item?id=42997755">17 comments 71 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
