@@ -15,13 +15,13 @@
   },
   "homepage": "https://github.com/meixger/hackernews-daily#readme",
   "dependencies": {
-    "@actions/core": "^1.10.1",
+    "@actions/core": "^1.11.1",
     "@octokit/auth-action": "^5.1.1",
-    "@octokit/auth-app": "^7.1.0",
-    "@octokit/core": "^6.1.2",
-    "dayjs": "^1.11.12",
+    "@octokit/auth-app": "^7.1.5",
+    "@octokit/core": "^6.1.4",
+    "dayjs": "^1.11.13",
     "feed": "^4.2.2",
-    "marked": "^14.0.0",
+    "marked": "^15.0.7",
     "timeago.js": "^4.0.2"
   }
 }
