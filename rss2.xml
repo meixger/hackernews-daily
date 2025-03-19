@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 18 Mar 2025 06:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 06:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-03-19]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/915</link>
+            <guid>915</guid>
+            <pubDate>Wed, 19 Mar 2025 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/"><strong>Apple restricts Pebble from being awesome with iPhones</strong> <code>ericmigi.com</code></a> - <a href="https://news.ycombinator.com/item?id=43401245">805 comments 1320 points</a></li>
+<li><a href="https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/"><strong>Two new PebbleOS watches</strong> <code>ericmigi.com</code></a> - <a href="https://news.ycombinator.com/item?id=43400989">386 comments 1217 points</a></li>
+<li><a href="https://ericdraken.com/pfsense-decrypt-ad-traffic/"><strong>Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf (2022)</strong> <code>ericdraken.com</code></a> - <a href="https://news.ycombinator.com/item?id=43396735">404 comments 671 points</a></li>
+<li><a href="https://martijnhols.nl/blog/moving-away-from-us-cloud-services"><strong>Moving away from US cloud services</strong> <code>martijnhols.nl</code></a> - <a href="https://news.ycombinator.com/item?id=43396795">355 comments 556 points</a></li>
+<li><a href="https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/"><strong>US appeals court rules AI generated art cannot be copyrighted</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43402790">364 comments 536 points</a></li>
+<li><a href="https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/"><strong>Google to buy Wiz for $32B</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43398518">647 comments 450 points</a></li>
+<li><a href="https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/"><strong>Amazon to kill off local Alexa processing, all voice requests shipped to cloud</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=43402115">116 comments 434 points</a></li>
+<li><a href="https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/"><strong>Wired is dropping paywalls for FOIA-based reporting. Others should follow</strong> <code>freedom.press</code></a> - <a href="https://news.ycombinator.com/item?id=43399138">66 comments 433 points</a></li>
+<li><a href="https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/"><strong>Turkish university annuls Erdogan rival&#39;s degree, preventing run for president</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43404679">253 comments 429 points</a></li>
+<li><a href="https://bluemigrate.com"><strong>Show HN: I made a tool to port tweets to Bluesky mantaining their original date</strong> <code>bluemigrate.com</code></a> - <a href="https://news.ycombinator.com/item?id=43401855">130 comments 342 points</a></li>
+<li><a href="https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/"><strong>FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=43402957">99 comments 284 points</a></li>
+<li><a href="https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097"><strong>Make Ubuntu packages 90% faster by rebuilding them</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43406710">155 comments 259 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=43402315"><strong>Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43402315">134 comments 222 points</a></li>
+<li><a href="https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/"><strong>Google announces agreement to acquire Wiz</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=43398780">4 comments 220 points</a></li>
+<li><a href="https://vintagedata.org/blog/posts/model-is-the-product"><strong>The model is the product</strong> <code>vintagedata.org</code></a> - <a href="https://news.ycombinator.com/item?id=43397474">80 comments 219 points</a></li>
+<li><a href="https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html"><strong>Please stop externalizing your costs directly into my face</strong> <code>drewdevault.com</code></a> - <a href="https://news.ycombinator.com/item?id=43397361">107 comments 202 points</a></li>
+<li><a href="https://www.hscott.net/designing-electronics-that-work/"><strong>Designing Electronics That Work</strong> <code>www.hscott.net</code></a> - <a href="https://news.ycombinator.com/item?id=43401179">69 comments 182 points</a></li>
+<li><a href="https://kupajo.com/stamina-is-a-quiet-advantage/"><strong>Stamina Is a Quiet Advantage</strong> <code>kupajo.com</code></a> - <a href="https://news.ycombinator.com/item?id=43398589">85 comments 180 points</a></li>
+<li><a href="https://www.minesweeperpro.com/"><strong>Show HN: I made a live multiplayer Minesweeper game</strong> <code>www.minesweeperpro.com</code></a> - <a href="https://news.ycombinator.com/item?id=43398081">66 comments 178 points</a></li>
+<li><a href="https://www.redhat.com/en/blog/fedora-42-beta-now-available"><strong>Fedora 42 Beta</strong> <code>www.redhat.com</code></a> - <a href="https://news.ycombinator.com/item?id=43401595">88 comments 170 points</a></li>
+<li><a href="https://joinpeertube.org/news/release-7.1"><strong>PeerTube v7.1 Is Out</strong> <code>joinpeertube.org</code></a> - <a href="https://news.ycombinator.com/item?id=43403377">42 comments 164 points</a></li>
+<li><a href="https://togithub.com/sinclairtarget/git-who"><strong>Show HN: &quot;Git who&quot; – A new CLI tool for industrial-scale Git blaming</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43404548">80 comments 154 points</a></li>
+<li><a href="https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html"><strong>Preview: Amazon S3 Tables and Lakehouse in DuckDB</strong> <code>duckdb.org</code></a> - <a href="https://news.ycombinator.com/item?id=43401421">39 comments 149 points</a></li>
+<li><a href="https://www.httrack.com/"><strong>HTTrack Website Copier</strong> <code>www.httrack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43402149">40 comments 141 points</a></li>
+<li><a href="https://store.steampowered.com/app/2477290/HalfLife_2_RTX/"><strong>Half-Life 2 RTX</strong> <code>store.steampowered.com</code></a> - <a href="https://news.ycombinator.com/item?id=43399168">80 comments 134 points</a></li>
+<li><a href="https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto"><strong>North Korea Launders Billions in Stolen Crypto</strong> <code>www.coindesk.com</code></a> - <a href="https://news.ycombinator.com/item?id=43399190">55 comments 134 points</a></li>
+<li><a href="https://jdk.java.net/24/"><strong>Java 24</strong> <code>jdk.java.net</code></a> - <a href="https://news.ycombinator.com/item?id=43398999">91 comments 120 points</a></li>
+<li><a href="https://www.wired.com/story/federal-auditors-doge-elon-musk/"><strong>&#39;It&#39;s a Heist&#39;: Real Federal Auditors Are Horrified by Doge</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=43404586">63 comments 114 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed"><strong>BYD says new fast-charging system could be as quick as filling up a tank</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=43396853">184 comments 108 points</a></li>
+<li><a href="https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills"><strong>Underrated Soft Skills: Charisma</strong> <code>utopianengineeringsociety.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43401378">96 comments 106 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-03-18]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/914</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.bbc.com/news/articles/cp9x9j89evxo"><strong>Argentina president faces impeachment calls over crypto crash</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43083886">26 comments 74 points</a></li>
 <li><a href="https://twitter.com/xai/status/1891699715298730482"><strong>Grok3 Launch</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=43085957">51 comments 72 points</a></li>
 <li><a href="https://www.joanwestenberg.com/you-will-never-win-an-argument-on-the-internet-heres-why/"><strong>Learning happens in environments optimized for understanding, not winning</strong> <code>www.joanwestenberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=43078701">24 comments 68 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-02-17]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/885</link>
-            <guid>885</guid>
-            <pubDate>Mon, 17 Feb 2025 06:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://chadnauseam.com/coding/random/calculator-app"><strong>“A calculator app? Anyone could make that”</strong> <code>chadnauseam.com</code></a> - <a href="https://news.ycombinator.com/item?id=43066953">347 comments 1369 points</a></li>
-<li><a href="https://caddyserver.com/"><strong>Caddy – The Ultimate Server with Automatic HTTPS</strong> <code>caddyserver.com</code></a> - <a href="https://news.ycombinator.com/item?id=43070025">179 comments 487 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/c4g3nrx1dq5o"><strong>US government struggles to rehire nuclear safety staff it laid off days ago</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43066182">710 comments 437 points</a></li>
-<li><a href="https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52"><strong>Half-Life 2 and Dishonored art lead Viktor Antonov has died</strong> <code>www.eurogamer.net</code></a> - <a href="https://news.ycombinator.com/item?id=43069514">86 comments 432 points</a></li>
-<li><a href="https://uchu.style"><strong>Uchū – Color scheme for internet lovers</strong> <code>uchu.style</code></a> - <a href="https://news.ycombinator.com/item?id=43072338">152 comments 363 points</a></li>
-<li><a href="https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/"><strong>Kindle is removing download and transfer option on Feb 26th</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=43070155">181 comments 319 points</a></li>
-<li><a href="https://rtestardi.github.io/usbte/flea-scope.pdf"><strong>Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]</strong> <code>rtestardi.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43068585">92 comments 272 points</a></li>
-<li><a href="https://poweroutage.us/"><strong>United States Power Outage Map</strong> <code>poweroutage.us</code></a> - <a href="https://news.ycombinator.com/item?id=43069399">128 comments 268 points</a></li>
-<li><a href="https://kk.org/thetechnium/50-years-of-travel-tips/"><strong>50 Years of Travel Tips</strong> <code>kk.org</code></a> - <a href="https://news.ycombinator.com/item?id=43066720">192 comments 243 points</a></li>
-<li><a href="https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/"><strong>All Kindles can now be jailbroken</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=43073969">81 comments 209 points</a></li>
-<li><a href="https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/"><strong>Vim after Bram: a core maintainer on how they&#39;ve kept it going</strong> <code>thenewstack.io</code></a> - <a href="https://news.ycombinator.com/item?id=43068884">66 comments 201 points</a></li>
-<li><a href="https://www.ssp.sh/blog/finding-flow/"><strong>Finding Flow: Escaping digital distractions through deep work and slow living</strong> <code>www.ssp.sh</code></a> - <a href="https://news.ycombinator.com/item?id=43067303">69 comments 196 points</a></li>
-<li><a href="https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html"><strong>Homemade polarimetric synthetic aperture radar drone</strong> <code>hforsten.com</code></a> - <a href="https://news.ycombinator.com/item?id=43073808">15 comments 165 points</a></li>
-<li><a href="https://old.reddit.com/r/VirtualYoutubers/comments/1iqmul1/if_you_have_a_moment_i_need_your_help/"><strong>YouTube asks channel owner to verify phone, permanently overwrites personal info</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=43073836">109 comments 148 points</a></li>
-<li><a href="https://techlog.jenslink.net/posts/ipv6-is-hard/"><strong>IPv6 Is Hard</strong> <code>techlog.jenslink.net</code></a> - <a href="https://news.ycombinator.com/item?id=43069533">231 comments 146 points</a></li>
-<li><a href="https://www.chillyatc.com/"><strong>Show HN: Air traffic control radio and chill music for focus</strong> <code>www.chillyatc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43071934">77 comments 139 points</a></li>
-<li><a href="https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m"><strong>Javier Milei backtracks on $4.4B memecoin after &#39;insiders&#39; pocket $87M</strong> <code>www.coindesk.com</code></a> - <a href="https://news.ycombinator.com/item?id=43072790">142 comments 131 points</a></li>
-<li><a href="https://basedfob.substack.com/p/big-tech-has-disrupted-the-social"><strong>Big tech has disrupted the social contract</strong> <code>basedfob.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43071213">85 comments 126 points</a></li>
-<li><a href="https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/"><strong>San Francisco homelessness: Park ranger helps one person at a time</strong> <code>sfstandard.com</code></a> - <a href="https://news.ycombinator.com/item?id=43073292">166 comments 124 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/cm21g0052dno"><strong>Critics say new Google rules put profits over privacy</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43071506">60 comments 115 points</a></li>
-<li><a href="https://leerob.com/n/rust"><strong>Rust Is Eating JavaScript (2023)</strong> <code>leerob.com</code></a> - <a href="https://news.ycombinator.com/item?id=43067585">220 comments 113 points</a></li>
-<li><a href="https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/"><strong>Dinner at a North Korean Restaurant in Shanghai (2016)</strong> <code>simplyfabulicious.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=43065586">70 comments 107 points</a></li>
-<li><a href="https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/"><strong>Why I&#39;m leaving Elm (2020)</strong> <code>lukeplant.me.uk</code></a> - <a href="https://news.ycombinator.com/item?id=43069475">79 comments 95 points</a></li>
-<li><a href="https://surasshu.com/blocklist-for-ai-music-on-youtube/"><strong>Blocklist for AI Music on YouTube</strong> <code>surasshu.com</code></a> - <a href="https://news.ycombinator.com/item?id=43067419">80 comments 92 points</a></li>
-<li><a href="https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei"><strong>Google defends scrapping AI pledges and DEI goals in all-staff meeting</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=43072416">128 comments 89 points</a></li>
-<li><a href="https://www.washingtonpost.com/business/2025/02/16/doge-irs-access-taxpayer-data/"><strong>Musk&#39;s DOGE seeks access to personal taxpayer data, raising alarm at IRS</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=43073471">24 comments 88 points</a></li>
-<li><a href="https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates"><strong>Does or did COBOL default to 1875-05-20 for corrupt or missing dates?</strong> <code>retrocomputing.stackexchange.com</code></a> - <a href="https://news.ycombinator.com/item?id=43073149">118 comments 86 points</a></li>
-<li><a href="https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315"><strong>Why is there a screen that says &quot;It is now safe to turn off your computer&quot;? (2016)</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=43071193">74 comments 74 points</a></li>
-<li><a href="https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer"><strong>Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=43071110">33 comments 73 points</a></li>
-<li><a href="https://www.theguardian.com/artanddesign/gallery/2025/jan/29/japan-brutalist-buildings-in-pictures"><strong>Statement or eyesore? Japan&#39;s divisive brutalist buildings – in pictures</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=43067378">31 comments 72 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
