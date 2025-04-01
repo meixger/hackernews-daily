@@ -8,6 +8,19 @@ function githubReplaceRenovatebotRedirector(value) {
     return value.replace(/https?:\/\/(www\.)?github.com\//g, 'https://togithub.com/');
 }
 
+function escapeHTML(value) {
+    return value.replace(
+        /[&<>'"]/g,
+        tag => ({
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            "'": '&#39;',
+            '"': '&quot;'
+        }[tag] || tag)
+    );
+}
+
 export const getHeadlines = async (date, take) => {
     try {
         // end of the date
@@ -40,7 +53,7 @@ export const getHeadlines = async (date, take) => {
                 if (!url) url = ycombinatorUrl;
                 const domain = url ? `<code>${new URL(url).hostname}</code>` : '';
                 url = githubReplaceRenovatebotRedirector(url);
-                const titleAndDomain = `[**${title}** ${domain}](${url})`;
+                const titleAndDomain = `[**${escapeHTML(title)}** ${domain}](${url})`;
                 const commentsAndPoints = `[${num_comments} comments ${points} points](${ycombinatorUrl})`;
                 return `${i + 1}. ${titleAndDomain} - ${commentsAndPoints}`;
             })
