@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 15 Apr 2025 06:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Apr 2025 06:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-04-15]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/942</link>
+            <guid>942</guid>
+            <pubDate>Tue, 15 Apr 2025 06:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/"><strong>Harvard&#39;s response to federal government letter demanding changes</strong> <code>www.harvard.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43684536">920 comments 1023 points</a></li>
+<li><a href="https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs"><strong>A hackable AI assistant using a single SQLite table and a handful of cron jobs</strong> <code>www.geoffreylitt.com</code></a> - <a href="https://news.ycombinator.com/item?id=43681287">138 comments 563 points</a></li>
+<li><a href="https://openai.com/index/gpt-4-1/"><strong>GPT-4.1 in the API</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=43683410">401 comments 527 points</a></li>
+<li><a href="https://togithub.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine"><strong>The path to open-sourcing the DeepSeek inference engine</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43682088">40 comments 429 points</a></li>
+<li><a href="https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court"><strong>Meta antitrust trial kicks off in federal court</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=43680957">232 comments 315 points</a></li>
+<li><a href="https://blog.google/technology/ai/dolphingemma/"><strong>DolphinGemma: How Google AI is helping decode dolphin communication</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=43680899">102 comments 272 points</a></li>
+<li><a href="https://www.bigsandwoodworking.com/kezurou-kai-39/"><strong>Kezurou-Kai #39</strong> <code>www.bigsandwoodworking.com</code></a> - <a href="https://news.ycombinator.com/item?id=43679004">24 comments 264 points</a></li>
+<li><a href="https://www.nytimes.com/live/2025/04/14/us/trump-news-tariffs"><strong>U.S. and El Salvador Say They Won&#39;t Return Man Who Was Mistakenly Deported</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43683405">207 comments 243 points</a></li>
+<li><a href="https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025"><strong>Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation</strong> <code>newsroom.intel.com</code></a> - <a href="https://news.ycombinator.com/item?id=43686773">174 comments 242 points</a></li>
+<li><a href="https://www.muppetlabs.com/~breadbox/txt/al.html"><strong>Albert Einstein&#39;s theory of relativity in words of four letters or less (1999)</strong> <code>www.muppetlabs.com</code></a> - <a href="https://news.ycombinator.com/item?id=43678312">125 comments 230 points</a></li>
+<li><a href="https://sqlite-internal.pages.dev"><strong>SQLite File Format Viewer</strong> <code>sqlite-internal.pages.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43682006">31 comments 198 points</a></li>
+<li><a href="https://jasonfantl.com/posts/What-is-Entropy/"><strong>What Is Entropy?</strong> <code>jasonfantl.com</code></a> - <a href="https://news.ycombinator.com/item?id=43684560">68 comments 181 points</a></li>
+<li><a href="https://www.openmymind.net/Zigs-New-LinkedList-API/"><strong>Zig&#39;s new LinkedList API (it&#39;s time to learn fieldParentPtr)</strong> <code>www.openmymind.net</code></a> - <a href="https://news.ycombinator.com/item?id=43679707">139 comments 170 points</a></li>
+<li><a href="https://www.brooks.team/posts/how-to-bike-across-the-country/"><strong>How to bike across the country</strong> <code>www.brooks.team</code></a> - <a href="https://news.ycombinator.com/item?id=43681936">87 comments 169 points</a></li>
+<li><a href="https://omnom.zone/?src=hn"><strong>Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots</strong> <code>omnom.zone</code></a> - <a href="https://news.ycombinator.com/item?id=43680232">48 comments 152 points</a></li>
+<li><a href="https://togithub.com/meilisearch/meilisearch"><strong>Meilisearch – search engine API bringing AI-powered hybrid search</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43680699">56 comments 139 points</a></li>
+<li><a href="https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Letter-Sent-to-Harvard-2025-04-11.pdf"><strong>Federal Government&#39;s letter to Harvard demanding changes [pdf]</strong> <code>www.harvard.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43684386">54 comments 132 points</a></li>
+<li><a href="https://www.cbc.ca/lite/story/1.7510325"><strong>Palestinian activist arrested by ICE while expecting U.S. citizenship interview</strong> <code>www.cbc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=43688069">14 comments 130 points</a></li>
+<li><a href="https://togithub.com/codr7/hacktical-c"><strong>Hacktical C: practical hacker&#39;s guide to the C programming language</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43679781">118 comments 128 points</a></li>
+<li><a href="https://podman-desktop.io/blog/podman-quadlet"><strong>Podman Quadlets with Podman Desktop</strong> <code>podman-desktop.io</code></a> - <a href="https://news.ycombinator.com/item?id=43683641">45 comments 128 points</a></li>
+<li><a href="https://zeyuet.github.io/AudioX/"><strong>AudioX: Diffusion Transformer for Anything-to-Audio Generation</strong> <code>zeyuet.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43683907">13 comments 124 points</a></li>
+<li><a href="https://tombengine.com/"><strong>Tomb Engine</strong> <code>tombengine.com</code></a> - <a href="https://news.ycombinator.com/item?id=43686936">21 comments 116 points</a></li>
+<li><a href="https://pypi.org/project/tariff/"><strong>Tariff: A Python package that imposes tariffs on Python imports</strong> <code>pypi.org</code></a> - <a href="https://news.ycombinator.com/item?id=43681752">12 comments 113 points</a></li>
+<li><a href="https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/"><strong>OpenAI is a systemic risk to the tech industry</strong> <code>www.wheresyoured.at</code></a> - <a href="https://news.ycombinator.com/item?id=43683071">105 comments 110 points</a></li>
+<li><a href="https://togithub.com/nathanhleung/protobuf-ts-types"><strong>Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43682547">46 comments 107 points</a></li>
+<li><a href="https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html"><strong>Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety</strong> <code>medicalxpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=43682686">38 comments 104 points</a></li>
+<li><a href="https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization"><strong>The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing</strong> <code>metacast.app</code></a> - <a href="https://news.ycombinator.com/item?id=43687431">80 comments 97 points</a></li>
+<li><a href="https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html"><strong>The problem with &quot;vibe coding&quot;</strong> <code>dylanbeattie.net</code></a> - <a href="https://news.ycombinator.com/item?id=43687767">71 comments 96 points</a></li>
+<li><a href="https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106"><strong>She was chatting with friends in a Lyft. Then someone texted her what they said</strong> <code>www.cbc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=43680039">81 comments 94 points</a></li>
+<li><a href="https://www.grumpy-economist.com/p/tariffs-saving-and-investment"><strong>Tariffs, Saving, and Investment</strong> <code>www.grumpy-economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=43678401">72 comments 88 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-04-14]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/941</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.nytimes.com/2025/03/16/us/brown-university-rasha-alawieh-professor-deported.html"><strong>Brown University Professor Is Deported Despite a Judge&#39;s Order</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43384730">33 comments 79 points</a></li>
 <li><a href="https://www.dw.com/en/max-planck-institute-abuse-of-power-elite-scientists-germany-v2/video-71904207"><strong>Abuse of power at Germany&#39;s elite research institution [video]</strong> <code>www.dw.com</code></a> - <a href="https://news.ycombinator.com/item?id=43380643">10 comments 78 points</a></li>
 <li><a href="https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features"><strong>Leaked Apple meeting shows how dire the Siri situation is</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=43382014">64 comments 77 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-03-16]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/912</link>
-            <guid>912</guid>
-            <pubDate>Sun, 16 Mar 2025 06:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://brodzinski.com/2025/03/milk-kanban.html"><strong>Milk Kanban</strong> <code>brodzinski.com</code></a> - <a href="https://news.ycombinator.com/item?id=43373157">135 comments 329 points</a></li>
-<li><a href="https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/"><strong>Sign in as anyone: Bypassing SAML SSO authentication with parser differentials</strong> <code>github.blog</code></a> - <a href="https://news.ycombinator.com/item?id=43374519">80 comments 225 points</a></li>
-<li><a href="https://togithub.com/christian-fei/my-yt"><strong>Show HN: A personal YouTube frontend based on yt-dlp</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43373242">150 comments 224 points</a></li>
-<li><a href="https://publications.ersnet.org/content/erj/49/6/1700470"><strong>Finland&#39;s National Allergy Program Successfully Reduces Allergic Diseases</strong> <code>publications.ersnet.org</code></a> - <a href="https://news.ycombinator.com/item?id=43370956">94 comments 179 points</a></li>
-<li><a href="https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles"><strong>How many artists&#39; careers did the Beatles kill?</strong> <code>www.cantgetmuchhigher.com</code></a> - <a href="https://news.ycombinator.com/item?id=43373765">149 comments 159 points</a></li>
-<li><a href="https://therasr.github.io/"><strong>Arbitrary-Scale Super-Resolution with Neural Heat Fields</strong> <code>therasr.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43371583">47 comments 135 points</a></li>
-<li><a href="https://susam.net/lemma-for-ftgt.html"><strong>Lemma for the Fundamental Theorem of Galois Theory</strong> <code>susam.net</code></a> - <a href="https://news.ycombinator.com/item?id=43373196">31 comments 124 points</a></li>
-<li><a href="https://forum.palemoon.org/viewtopic.php?t=32127"><strong>Cloudflare asks browser devs to sign insane NDAs before fixing browser blocking</strong> <code>forum.palemoon.org</code></a> - <a href="https://news.ycombinator.com/item?id=43376064">31 comments 116 points</a></li>
-<li><a href="https://lethain.com/career-advice-2025/"><strong>Career Advice in 2025</strong> <code>lethain.com</code></a> - <a href="https://news.ycombinator.com/item?id=43375923">28 comments 111 points</a></li>
-<li><a href="https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/"><strong>They&#39;re Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)</strong> <code>www.thewhitereview.org</code></a> - <a href="https://news.ycombinator.com/item?id=43374237">53 comments 102 points</a></li>
-<li><a href="https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood"><strong>For climate and livelihoods, Africa bets big on solar mini-grids</strong> <code>knowablemagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=43372729">71 comments 101 points</a></li>
-<li><a href="https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/"><strong>Tesla is done in Germany: 94% say they won&#39;t buy a Tesla car</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=43370950">69 comments 90 points</a></li>
-<li><a href="https://www.shapeoperator.com/2016/12/12/sunset-geometry/"><strong>Sunset Geometry (2016)</strong> <code>www.shapeoperator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43372431">10 comments 88 points</a></li>
-<li><a href="https://theconversation.com/how-to-learn-a-language-like-a-baby-250551"><strong>How to learn a new language like a baby</strong> <code>theconversation.com</code></a> - <a href="https://news.ycombinator.com/item?id=43375307">33 comments 78 points</a></li>
-<li><a href="https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/"><strong>Apple&#39;s long-lost hidden recovery partition from 1994 has been found</strong> <code>www.downtowndougbrown.com</code></a> - <a href="https://news.ycombinator.com/item?id=43376033">3 comments 76 points</a></li>
-<li><a href="https://www.space.com/space-exploration/james-webb-space-telescope/is-our-universe-trapped-inside-a-black-hole-this-james-webb-space-telescope-discovery-might-blow-your-mind"><strong>Is our universe trapped inside a black hole? This JWS Telescope discovery</strong> <code>www.space.com</code></a> - <a href="https://news.ycombinator.com/item?id=43372271">55 comments 75 points</a></li>
-<li><a href="https://vibewall.shop/"><strong>Show HN: Fashion Shopping with Nearest Neighbors</strong> <code>vibewall.shop</code></a> - <a href="https://news.ycombinator.com/item?id=43373163">21 comments 65 points</a></li>
-<li><a href="https://supakeen.com/weblog/esp32-wifi-superstitions/"><strong>ESP32 WiFi Superstitions</strong> <code>supakeen.com</code></a> - <a href="https://news.ycombinator.com/item?id=43375780">40 comments 64 points</a></li>
-<li><a href="https://togithub.com/giacomo-b/rust-stakeholder"><strong>Generate impressive-looking terminal output, look busy when stakeholders walk by</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43376824">19 comments 61 points</a></li>
-<li><a href="https://mandelbrot.site"><strong>Mandelbrot Set Explorer</strong> <code>mandelbrot.site</code></a> - <a href="https://news.ycombinator.com/item?id=43375676">12 comments 46 points</a></li>
-<li><a href="https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/"><strong>Why SNES hardware is running faster than expected and why it&#39;s a problem</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43373414">9 comments 40 points</a></li>
-<li><a href="https://www.cursor.com/en/changelog"><strong>Cursor stealthily doubled the price of Claude-3.7-Thinking in a changelog</strong> <code>www.cursor.com</code></a> - <a href="https://news.ycombinator.com/item?id=43375201">4 comments 40 points</a></li>
-<li><a href="https://togithub.com/telekinesis-inc/aiopandas"><strong>Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43374505">7 comments 39 points</a></li>
-<li><a href="https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard"><strong>The Day Hobie Made Nixon a Surfboard</strong> <code>www.surfer.com</code></a> - <a href="https://news.ycombinator.com/item?id=43373693">32 comments 38 points</a></li>
-<li><a href="https://www.businessinsider.com/canada-weighs-purchase-f-35-fighter-jets-amid-us-portugal-2025-3"><strong>Canada joins Portugal in weighing alternatives to the US-made F-35 fighter jet</strong> <code>www.businessinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=43376221">9 comments 37 points</a></li>
-<li><a href="https://cradle.sh/"><strong>Cradle – Open-Source Collaborative Threat Intelligence Hub</strong> <code>cradle.sh</code></a> - <a href="https://news.ycombinator.com/item?id=43371603">5 comments 36 points</a></li>
-<li><a href="https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/"><strong>Were multiple return values Go&#39;s biggest mistake?</strong> <code>herecomesthemoon.net</code></a> - <a href="https://news.ycombinator.com/item?id=43373024">20 comments 34 points</a></li>
-<li><a href="https://arxiv.org/abs/2503.01890"><strong>AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=43374283">0 comments 34 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=43371097"><strong>Nubmq: A high performant key-value store engine built from first principles</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43371097">16 comments 30 points</a></li>
-<li><a href="https://ai.google.dev/gemini-api/docs/learnlm"><strong>LearnLM: An experimental task-specific model for learning science principles (2024)</strong> <code>ai.google.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43373726">4 comments 29 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
