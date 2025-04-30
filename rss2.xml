@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 29 Apr 2025 06:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 06:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-04-29]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/956</link>
+            <guid>956</guid>
+            <pubDate>Tue, 29 Apr 2025 06:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.bbc.com/news/live/c9wpq8xrvd9t"><strong>Widespread power outage in Spain and Portugal</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43819791">952 comments 1341 points</a></li>
+<li><a href="https://www.runpyxl.com/gpio"><strong>Show HN: I built a hardware processor that runs Python</strong> <code>www.runpyxl.com</code></a> - <a href="https://news.ycombinator.com/item?id=43820228">233 comments 891 points</a></li>
+<li><a href="https://qwenlm.github.io/blog/qwen3/"><strong>Qwen3: Think deeper, act faster</strong> <code>qwenlm.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43825900">217 comments 542 points</a></li>
+<li><a href="https://deadmoney.gg/news/articles/migrating-away-from-rust"><strong>Migrating away from Rust</strong> <code>deadmoney.gg</code></a> - <a href="https://news.ycombinator.com/item?id=43824640">442 comments 497 points</a></li>
+<li><a href="https://xkcd.com/3081/"><strong>PhD Timeline</strong> <code>xkcd.com</code></a> - <a href="https://news.ycombinator.com/item?id=43818614">106 comments 328 points</a></li>
+<li><a href="https://www.bbc.com/news/live/c9wpq8xrvd9t"><strong>Reports of widespread power cuts in Spain and Portugal</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43820043">20 comments 326 points</a></li>
+<li><a href="https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell"><strong>The side hustle from hell</strong> <code>blog.jacobstechtavern.com</code></a> - <a href="https://news.ycombinator.com/item?id=43823620">123 comments 312 points</a></li>
+<li><a href="https://mrwint.github.io/winter/writeup/writeup.html"><strong>Uncovering the mechanics of The Games: Winter Challenge</strong> <code>mrwint.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43820076">103 comments 254 points</a></li>
+<li><a href="https://togithub.com/skyzh/tiny-llm"><strong>Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43820022">27 comments 253 points</a></li>
+<li><a href="https://onemillionchessboards.com/#199,276"><strong>One Million Chessboards</strong> <code>onemillionchessboards.com</code></a> - <a href="https://news.ycombinator.com/item?id=43825336">41 comments 192 points</a></li>
+<li><a href="https://iamkate.com/data/12-bit-rainbow/"><strong>The 12-bit rainbow palette</strong> <code>iamkate.com</code></a> - <a href="https://news.ycombinator.com/item?id=43827108">50 comments 187 points</a></li>
+<li><a href="https://togithub.com/xdadda/mini-photo-editor"><strong>Show HN: A pure WebGL image editor with filters, crop and perspective correction</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43823044">50 comments 173 points</a></li>
+<li><a href="https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated"><strong>Reports of the death of California High-Speed Rail have been greatly exaggerated</strong> <code>asteriskmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=43824544">315 comments 165 points</a></li>
+<li><a href="https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121"><strong>Why did Windows 7 log on slower for months if you had a solid color background?</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=43827214">61 comments 150 points</a></li>
+<li><a href="https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o"><strong>The One-Person Framework in Practice</strong> <code>link.mail.beehiiv.com</code></a> - <a href="https://news.ycombinator.com/item?id=43826584">58 comments 140 points</a></li>
+<li><a href="https://togithub.com/simstudioai/sim"><strong>Show HN: Sim Studio – Open-Source Agent Workflow GUI</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43823096">47 comments 136 points</a></li>
+<li><a href="https://www.wheresyoured.at/reality-check/"><strong>Reality Check</strong> <code>www.wheresyoured.at</code></a> - <a href="https://news.ycombinator.com/item?id=43823492">92 comments 115 points</a></li>
+<li><a href="https://mihaiolteanu.me/knowledge-based-society-my-ass"><strong>Knowledge-based society, my ass</strong> <code>mihaiolteanu.me</code></a> - <a href="https://news.ycombinator.com/item?id=43828713">18 comments 111 points</a></li>
+<li><a href="https://lars.ingebrigtsen.no/2025/04/28/book-club-2025-the-books-of-earthsea-by-ursula-k-le-guin/"><strong>The Books of Earthsea by Ursula K. Le Guin</strong> <code>lars.ingebrigtsen.no</code></a> - <a href="https://news.ycombinator.com/item?id=43823462">45 comments 109 points</a></li>
+<li><a href="https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws"><strong>Congress passes Take It Down act despite major flaws</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=43828568">29 comments 105 points</a></li>
+<li><a href="https://rnikhil.com/2025/04/25/sales-outbound-ai-dead"><strong>Is outbound going to die?</strong> <code>rnikhil.com</code></a> - <a href="https://news.ycombinator.com/item?id=43823851">90 comments 101 points</a></li>
+<li><a href="https://ratfactor.com/cards/naur-vs-llms"><strong>Naur&#39;s &quot;Programming as Theory Building&quot; and LLMs replacing human programmers</strong> <code>ratfactor.com</code></a> - <a href="https://news.ycombinator.com/item?id=43818169">112 comments 88 points</a></li>
+<li><a href="https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/"><strong>DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub</strong> <code>torrentfreak.com</code></a> - <a href="https://news.ycombinator.com/item?id=43825716">27 comments 85 points</a></li>
+<li><a href="https://simonwillison.net/2025/Apr/28/give-it-away-for-free/"><strong>Giving Software Away for Free</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=43824153">49 comments 83 points</a></li>
+<li><a href="https://arxiv.org/abs/2309.16588"><strong>Vision Transformers Need Registers</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=43823485">9 comments 83 points</a></li>
+<li><a href="https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/"><strong>Reversing the fossilization of computer science conferences</strong> <code>cacm.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=43818518">55 comments 80 points</a></li>
+<li><a href="https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/"><strong>We Found Insurance Fraud in Our Crash Data</strong> <code>www.levs.fyi</code></a> - <a href="https://news.ycombinator.com/item?id=43821578">68 comments 72 points</a></li>
+<li><a href="https://togithub.com/Operative-Sh/web-eval-agent"><strong>Show HN: Web-eval-agent – Let the coding agent debug itself</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43822659">11 comments 66 points</a></li>
+<li><a href="https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232"><strong>Show HN: Heart Rate Zones Plus – The first iOS app I developed</strong> <code>apps.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=43824583">39 comments 64 points</a></li>
+<li><a href="https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/"><strong>Backblaze responds to claims of &quot;sham accounting&quot;, &quot;customer backups at risk&quot;</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43827236">41 comments 60 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-04-28]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/955</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.mamedev.org/?p=549"><strong>MAME 0.276</strong> <code>www.mamedev.org</code></a> - <a href="https://news.ycombinator.com/item?id=43527552">23 comments 82 points</a></li>
 <li><a href="https://www.johnirons.com/pdfs/shadowleguin.pdf"><strong>The Child and the Shadow (1975) [pdf]</strong> <code>www.johnirons.com</code></a> - <a href="https://news.ycombinator.com/item?id=43525079">19 comments 75 points</a></li>
 <li><a href="https://www.reuters.com/world/us/trump-says-he-is-not-joking-about-third-presidential-term-2025-03-30/"><strong>Trump says he is not joking about third presidential term</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43525860">68 comments 74 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-03-30]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/926</link>
-            <guid>926</guid>
-            <pubDate>Sun, 30 Mar 2025 06:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/"><strong>Why Apple&#39;s Severance gets edited over remote desktop software</strong> <code>tedium.co</code></a> - <a href="https://news.ycombinator.com/item?id=43517301">250 comments 414 points</a></li>
-<li><a href="https://peabee.substack.com/p/everyone-knows-what-apps-you-use"><strong>Everyone knows all the apps on your phone</strong> <code>peabee.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43518866">134 comments 358 points</a></li>
-<li><a href="https://togithub.com/supabase-community/postgres-language-server"><strong>Postgres Language Server: Initial Release</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43513996">50 comments 301 points</a></li>
-<li><a href="https://togithub.com/Rukenshia/pomodoro"><strong>Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43514383">63 comments 289 points</a></li>
-<li><a href="https://veloren.net/"><strong>Veloren – voxel action-adventure role-playing</strong> <code>veloren.net</code></a> - <a href="https://news.ycombinator.com/item?id=43517337">67 comments 279 points</a></li>
-<li><a href="https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US"><strong>My TV started playing a video in full screen by itself. What happened?</strong> <code>support.vizio.com</code></a> - <a href="https://news.ycombinator.com/item?id=43520074">155 comments 274 points</a></li>
-<li><a href="https://dbushell.com/2025/03/29/et-tu-grammarly/"><strong>Et Tu, Grammarly?</strong> <code>dbushell.com</code></a> - <a href="https://news.ycombinator.com/item?id=43514308">69 comments 258 points</a></li>
-<li><a href="https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed"><strong>When the physicists need burner phones, that&#39;s when you know America&#39;s changed</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=43517590">225 comments 242 points</a></li>
-<li><a href="https://cloudisland.nz/@rmi/114219847307106213"><strong>Today Google bricked my Chromebook by force-installing a hidden extension</strong> <code>cloudisland.nz</code></a> - <a href="https://news.ycombinator.com/item?id=43514087">63 comments 229 points</a></li>
-<li><a href="https://christinapagel.substack.com/p/trumps-attacks-on-universities-get"><strong>Trump&#39;s attacks on universities get darker, with shadows reaching our shores</strong> <code>christinapagel.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43513811">149 comments 226 points</a></li>
-<li><a href="https://togithub.com/misprit7/real-time-chess"><strong>Real Time Chess – A physical chess board without the concept of turns</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43514695">36 comments 224 points</a></li>
-<li><a href="https://pagedout.institute/download/PagedOut_006.pdf"><strong>Paged Out #6 [pdf]</strong> <code>pagedout.institute</code></a> - <a href="https://news.ycombinator.com/item?id=43517375">17 comments 210 points</a></li>
-<li><a href="https://buyoncesoftware.com/"><strong>Buy once, use forever A directory of one-time purchase software. Add yours</strong> <code>buyoncesoftware.com</code></a> - <a href="https://news.ycombinator.com/item?id=43519998">86 comments 202 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/c4gmggp2y99o"><strong>Utah becomes first US state to ban fluoride in its water</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43517833">397 comments 194 points</a></li>
-<li><a href="https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/"><strong>Accessible open textbooks in math-heavy disciplines</strong> <code>richardzach.org</code></a> - <a href="https://news.ycombinator.com/item?id=43516733">55 comments 175 points</a></li>
-<li><a href="https://koto.dev/"><strong>Koto Programming Language</strong> <code>koto.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43514915">124 comments 157 points</a></li>
-<li><a href="https://philipbohun.com/blog/0007.html"><strong>Convert Linux to Windows</strong> <code>philipbohun.com</code></a> - <a href="https://news.ycombinator.com/item?id=43518917">163 comments 142 points</a></li>
-<li><a href="https://ploum.net/2025-03-28-geeks-naivety.html"><strong>The Candid Naivety of Geeks</strong> <code>ploum.net</code></a> - <a href="https://news.ycombinator.com/item?id=43518087">68 comments 131 points</a></li>
-<li><a href="https://www.cnn.com/2025/03/27/tech/apple-ai-artificial-intelligence/index.html"><strong>Apple&#39;s AI isn&#39;t a letdown. AI is the letdown</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=43518576">133 comments 128 points</a></li>
-<li><a href="https://openwall.com/lists/oss-security/2025/03/29/1"><strong>Atop 2.11 heap problems</strong> <code>openwall.com</code></a> - <a href="https://news.ycombinator.com/item?id=43518560">51 comments 125 points</a></li>
-<li><a href="https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html"><strong>Commercials that David Lynch directed (2018)</strong> <code>www.openculture.com</code></a> - <a href="https://news.ycombinator.com/item?id=43518466">25 comments 115 points</a></li>
-<li><a href="https://www.techdirt.com/2025/03/27/trumps-secret-police-are-now-disappearing-students-for-their-op-eds/"><strong>Trump&#39;s Police Are Now Disappearing Students for Their Op-Eds</strong> <code>www.techdirt.com</code></a> - <a href="https://news.ycombinator.com/item?id=43519864">25 comments 112 points</a></li>
-<li><a href="https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices"><strong>Why I&#39;m No Longer Talking to Architects About Microservices</strong> <code>blog.container-solutions.com</code></a> - <a href="https://news.ycombinator.com/item?id=43515563">89 comments 108 points</a></li>
-<li><a href="https://togithub.com/lvgl/lvgl"><strong>Lvgl: Embedded graphics library to create beautiful UIs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43517576">21 comments 103 points</a></li>
-<li><a href="https://www.wired.com/video/watch/incognito-mode-romance-scams"><strong>Scammers Steal $1T a Year – Mostly from Americans</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=43513850">90 comments 102 points</a></li>
-<li><a href="https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/"><strong>Twitter (X) Hit by Data Leak of 2.8B Users – Allegedly an Insider Job</strong> <code>hackread.com</code></a> - <a href="https://news.ycombinator.com/item?id=43517318">14 comments 101 points</a></li>
-<li><a href="https://arxiv.org/abs/2501.14787"><strong>Matrix Calculus (For Machine Learning and Beyond)</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=43518220">16 comments 100 points</a></li>
-<li><a href="https://www.wsj.com/tech/ai/the-real-story-behind-sam-altman-firing-from-openai-efd51a5d"><strong>The Real Story Behind Sam Altman’s Firing From OpenAI</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=43514717">104 comments 99 points</a></li>
-<li><a href="https://togithub.com/Overv/vramfs"><strong>Vramfs: Vram Based Filesystem for Linux</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43517234">32 comments 95 points</a></li>
-<li><a href="https://togithub.com/typedgrammar/typed-japanese"><strong>Typed Japanese</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43515426">31 comments 90 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
