@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sat, 03 May 2025 06:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 May 2025 06:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-05-03]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/960</link>
+            <guid>960</guid>
+            <pubDate>Sat, 03 May 2025 06:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich"><strong>How to live an intellectually rich life</strong> <code>utsavmamoria.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43868192">282 comments 506 points</a></li>
+<li><a href="https://developer.apple.com/app-store/review/guidelines/"><strong>Apple App Store guidelines remove ban on encouraging external payments in US</strong> <code>developer.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=43867692">325 comments 445 points</a></li>
+<li><a href="https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media"><strong>Corporation for Public Broadcasting Statement Regarding Executive Order</strong> <code>cpb.org</code></a> - <a href="https://news.ycombinator.com/item?id=43869546">527 comments 385 points</a></li>
+<li><a href="https://anukari.com"><strong>Show HN: I built a synthesizer based on 3D physics</strong> <code>anukari.com</code></a> - <a href="https://news.ycombinator.com/item?id=43873074">91 comments 355 points</a></li>
+<li><a href="https://support.google.com/googleplay/android-developer/thread/330114530/fewer-users-warning-hurting-specialized-and-new-apps-need-answers?hl=en"><strong>“Fewer Users” Warning Hurting Specialized and New Apps</strong> <code>support.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=43869794">199 comments 351 points</a></li>
+<li><a href="https://apnews.com/article/tiktok-ireland-european-union-data-privacy-regulation-d386ec74becc716905d7f686d6a448e2"><strong>Irish privacy watchdog hits TikTok with €530M fine over data transfers to China</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=43868074">221 comments 341 points</a></li>
+<li><a href="https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/"><strong>Old Soviet Venus descent craft nearing Earth reentry</strong> <code>www.leonarddavid.com</code></a> - <a href="https://news.ycombinator.com/item?id=43873531">160 comments 325 points</a></li>
+<li><a href="https://massivesci.com/articles/programming-math-language-python-women-in-science/"><strong>The language brain matters more for programming than the math brain? (2020)</strong> <code>massivesci.com</code></a> - <a href="https://news.ycombinator.com/item?id=43870969">332 comments 318 points</a></li>
+<li><a href="https://suno.com/explore/"><strong>Suno v4.5</strong> <code>suno.com</code></a> - <a href="https://news.ycombinator.com/item?id=43869353">181 comments 278 points</a></li>
+<li><a href="https://www.abdisa.me/"><strong>Just redesigned my personal site with a TTY-style interface</strong> <code>www.abdisa.me</code></a> - <a href="https://news.ycombinator.com/item?id=43867211">106 comments 247 points</a></li>
+<li><a href="https://openai.com/index/expanding-on-sycophancy/"><strong>Expanding on what we missed with sycophancy</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=43870819">209 comments 191 points</a></li>
+<li><a href="https://togithub.com/nathan-barry/gpt2-webgl"><strong>Show HN: GPT-2 implemented using graphics shaders</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43870998">22 comments 189 points</a></li>
+<li><a href="https://www.cnn.com/2025/05/01/business/first-driverless-semis-started-regular-routes"><strong>Driverless semis have started running regular longhaul routes</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=43872990">221 comments 149 points</a></li>
+<li><a href="https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html"><strong>A Common Lisp jq replacement</strong> <code>world-playground-deceit.net</code></a> - <a href="https://news.ycombinator.com/item?id=43868737">47 comments 141 points</a></li>
+<li><a href="https://www.joanwestenberg.com/the-cannae-problem/"><strong>The Cannae Problem</strong> <code>www.joanwestenberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=43869288">85 comments 140 points</a></li>
+<li><a href="https://togithub.com/shikaan/osle"><strong>Show HN: OSle – A 510 bytes OS in x86 assembly</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43866585">26 comments 139 points</a></li>
+<li><a href="https://zerowidth.com/2025/what-ive-learned-from-jj/"><strong>What I&#39;ve learned from jj</strong> <code>zerowidth.com</code></a> - <a href="https://news.ycombinator.com/item?id=43867403">57 comments 130 points</a></li>
+<li><a href="https://webflow.com/blog/gsap-becomes-free"><strong>Webflow makes GSAP 100% free – plus more updates</strong> <code>webflow.com</code></a> - <a href="https://news.ycombinator.com/item?id=43868273">39 comments 117 points</a></li>
+<li><a href="https://togithub.com/stanford-mast/blast"><strong>Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43872761">42 comments 113 points</a></li>
+<li><a href="https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/"><strong>Crawlers impact the operations of the Wikimedia projects</strong> <code>diff.wikimedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=43868876">59 comments 112 points</a></li>
+<li><a href="https://www.vaticanobservatory.org/telescopes/va/"><strong>Vatican Observatory</strong> <code>www.vaticanobservatory.org</code></a> - <a href="https://news.ycombinator.com/item?id=43867429">51 comments 112 points</a></li>
+<li><a href="https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups"><strong>Building Burstables: CPU slicing with cgroups</strong> <code>www.ubicloud.com</code></a> - <a href="https://news.ycombinator.com/item?id=43872094">16 comments 105 points</a></li>
+<li><a href="https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/"><strong>VR Design Unpacked: The secret to Beat Saber&#39;s fun</strong> <code>www.roadtovr.com</code></a> - <a href="https://news.ycombinator.com/item?id=43873679">77 comments 98 points</a></li>
+<li><a href="https://www.goto10retro.com/p/altair-at-50-remembering-the-first"><strong>Altair at 50: Remembering the first Personal Computer</strong> <code>www.goto10retro.com</code></a> - <a href="https://news.ycombinator.com/item?id=43868231">50 comments 97 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/cwy79j2n7d4o"><strong>De minimis: US small parcels loophole closes pushing up Shein, Temu prices</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43868246">130 comments 91 points</a></li>
+<li><a href="https://matthewstrom.com/writing/album-art/"><strong>The History of Album Art</strong> <code>matthewstrom.com</code></a> - <a href="https://news.ycombinator.com/item?id=43872625">15 comments 87 points</a></li>
+<li><a href="https://www.vice.com/en/article/the-totalitarian-buddhist-who-beat-sim-city/"><strong>The Totalitarian Buddhist Who Beat SIM City (2010)</strong> <code>www.vice.com</code></a> - <a href="https://news.ycombinator.com/item?id=43868130">18 comments 76 points</a></li>
+<li><a href="https://medicalxpress.com/news/2025-04-waistlines-middle-age-aging-stem.html"><strong>Why our waistlines expand in middle age: aging stem cells shift into overdrive</strong> <code>medicalxpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=43870926">111 comments 75 points</a></li>
+<li><a href="https://meta.slashdot.org/story/25/05/01/206224/metas-reality-labs-has-now-lost-over-60-billion-since-2020"><strong>Meta&#39;s Reality Labs Has Now Lost over $60B Since 2020</strong> <code>meta.slashdot.org</code></a> - <a href="https://news.ycombinator.com/item?id=43868279">110 comments 67 points</a></li>
+<li><a href="https://togithub.com/TechnicJelle/GitDroid"><strong>GitDroid: A third party Android app manager for apps uploaded to GitHub releases</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43875416">25 comments 67 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-05-02]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/959</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.nytimes.com/2025/04/03/us/politics/nsa-cyber-command-chief-fired.html"><strong>Head of NSA and Cybercommand Is Ousted</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43578475">32 comments 67 points</a></li>
 <li><a href="https://www.reuters.com/technology/intel-tsmc-tentatively-agree-form-chipmaking-joint-venture-information-reports-2025-04-03/"><strong>Intel, TSMC tentatively agree to form chipmaking joint venture</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43573980">17 comments 67 points</a></li>
 <li><a href="https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day"><strong>Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day</strong> <code>tenstorrent.com</code></a> - <a href="https://news.ycombinator.com/item?id=43573310">15 comments 61 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-04-03]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/930</link>
-            <guid>930</guid>
-            <pubDate>Thu, 03 Apr 2025 06:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://news.ycombinator.com/item?id=43558671"><strong>Tell HN: Announcing tomhow as a public moderator</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43558671">390 comments 1436 points</a></li>
-<li><a href="https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html"><strong>Animals Made from 13 Circles (2016)</strong> <code>www.dorithegiant.com</code></a> - <a href="https://news.ycombinator.com/item?id=43557873">92 comments 483 points</a></li>
-<li><a href="https://pico.sh/"><strong>Pico.sh – SSH powered services for developers</strong> <code>pico.sh</code></a> - <a href="https://news.ycombinator.com/item?id=43560899">78 comments 344 points</a></li>
-<li><a href="https://tailscale.com/blog/plan9-port"><strong>Porting Tailscale to Plan 9</strong> <code>tailscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=43557790">86 comments 336 points</a></li>
-<li><a href="https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/"><strong>RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)</strong> <code>reactormag.com</code></a> - <a href="https://news.ycombinator.com/item?id=43555334">101 comments 322 points</a></li>
-<li><a href="https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365"><strong>Mozilla launching “Thundermail” email service to take on Gmail, Microsoft 365</strong> <code>www.techradar.com</code></a> - <a href="https://news.ycombinator.com/item?id=43560885">206 comments 316 points</a></li>
-<li><a href="https://www.culture-critic.com/p/why-is-the-world-losing-color"><strong>Why is the world losing color?</strong> <code>www.culture-critic.com</code></a> - <a href="https://news.ycombinator.com/item?id=43557471">247 comments 279 points</a></li>
-<li><a href="https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845"><strong>Waltz&#39;s team set up at least 20 Signal group chats for crises across the world</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=43560336">189 comments 275 points</a></li>
-<li><a href="https://www.bbc.com/news/live/c1dr7vy39eet"><strong>US Administration announces 34% tariffs on China, 20% on EU</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43561253">332 comments 266 points</a></li>
-<li><a href="https://togithub.com/luskaner/ageLANServer"><strong>Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43562860">32 comments 246 points</a></li>
-<li><a href="https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are"><strong>Are people bad at their jobs or are the jobs just bad?</strong> <code>annehelen.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43562119">205 comments 197 points</a></li>
-<li><a href="https://automattic.com/2025/04/02/restructuring-announcement/"><strong>Restructuring Announcement</strong> <code>automattic.com</code></a> - <a href="https://news.ycombinator.com/item?id=43559855">154 comments 179 points</a></li>
-<li><a href="https://matrix.org/blog/2025/04/matrix-auth-service/"><strong>Matrix.org Will Migrate to MAS</strong> <code>matrix.org</code></a> - <a href="https://news.ycombinator.com/item?id=43558464">103 comments 166 points</a></li>
-<li><a href="https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds"><strong>Sports supplement creatine makes no difference to muscle gains, trial finds</strong> <code>www.unsw.edu.au</code></a> - <a href="https://news.ycombinator.com/item?id=43556350">168 comments 162 points</a></li>
-<li><a href="https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/"><strong>A steam locomotive from 1993 broke my yarn test</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=43556280">68 comments 161 points</a></li>
-<li><a href="https://spectrum.ieee.org/digital-archive"><strong>Digital Archivists: Protecting Public Data from Erasure</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=43558182">37 comments 158 points</a></li>
-<li><a href="https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/"><strong>Coffea stenophylla: A forgotten bean that could save coffee from extinction</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=43555286">118 comments 153 points</a></li>
-<li><a href="https://www.washingtonpost.com/technology/2025/03/31/immigration-h1b-fear-siliconvalley/"><strong>Tech companies are telling immigrant employees on visas not to leave the U.S.</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=43563918">130 comments 140 points</a></li>
-<li><a href="https://blog.google/products/gemini/how-we-built-gemini-robotics/"><strong>How Google built its Gemini robotics models</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=43557310">52 comments 138 points</a></li>
-<li><a href="https://www.ft.com/content/0ebcec51-2a5a-4820-99e8-1e500370fd68"><strong>Tesla suffers worst quarter since 2022 as deliveries tumble</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=43556443">112 comments 133 points</a></li>
-<li><a href="https://togithub.com/juanfont/headscale"><strong>An open source, self-hosted implementation of the Tailscale control server</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43563396">23 comments 131 points</a></li>
-<li><a href="https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/"><strong>I maintain a 17 year old ThinkPad</strong> <code>pilledtexts.com</code></a> - <a href="https://news.ycombinator.com/item?id=43564111">93 comments 129 points</a></li>
-<li><a href="https://shwin.co/blog/why-i-dont-discuss-politics-with-friends"><strong>Why I don&#39;t discuss politics with friends</strong> <code>shwin.co</code></a> - <a href="https://news.ycombinator.com/item?id=43559605">288 comments 127 points</a></li>
-<li><a href="https://apnews.com/article/el-salvador-deportation-maryland-man-trump-error-818a0fa1218de714448edcb5be1f7347"><strong>An &#39;administrative error&#39; sent a Maryland man to an El Salvador prison</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=43555724">143 comments 126 points</a></li>
-<li><a href="https://potter-yachters.org/stories/teplow_to_hawaii.htm"><strong>Sailing from Berkeley to Hawaii in a 19ft Sailboat</strong> <code>potter-yachters.org</code></a> - <a href="https://news.ycombinator.com/item?id=43558077">70 comments 119 points</a></li>
-<li><a href="https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of"><strong>When Jorge Luis Borges met one of the founders of AI</strong> <code>resobscura.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43559122">33 comments 118 points</a></li>
-<li><a href="https://phys.org/news/2025-04-einstein-webb.html"><strong>A dramatic Einstein ring seen by Webb</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=43557139">26 comments 117 points</a></li>
-<li><a href="https://arstechnica.com/gaming/2025/04/nintendo-offers-new-details-on-switch-2-hardware-software/"><strong>Nintendo unveils Switch 2 ahead of June 5 launch</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43557524">152 comments 114 points</a></li>
-<li><a href="https://evanconnelly.github.io/post/hacking-call-records/"><strong>Hacking the call records of millions of Americans</strong> <code>evanconnelly.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43558550">19 comments 108 points</a></li>
-<li><a href="https://shd.mit.edu/home/"><strong>MIT 6.5950 Secure Hardware Design – An open-source course on hardware attacks</strong> <code>shd.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43562109">7 comments 108 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
