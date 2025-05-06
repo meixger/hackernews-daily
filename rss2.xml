@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 05 May 2025 06:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 May 2025 06:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-05-05]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/962</link>
+            <guid>962</guid>
+            <pubDate>Mon, 05 May 2025 06:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://claytonwramsey.com/blog/prompt/"><strong>I&#39;d rather read the prompt</strong> <code>claytonwramsey.com</code></a> - <a href="https://news.ycombinator.com/item?id=43888803">497 comments 753 points</a></li>
+<li><a href="https://blog.rahix.de/design-for-3d-printing/"><strong>Design for 3D-Printing</strong> <code>blog.rahix.de</code></a> - <a href="https://news.ycombinator.com/item?id=43888117">137 comments 481 points</a></li>
+<li><a href="https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing"><strong>An Alabama landline that keeps ringing</strong> <code>oxfordamerican.org</code></a> - <a href="https://news.ycombinator.com/item?id=43886243">90 comments 275 points</a></li>
+<li><a href="https://rentry.co/samplers"><strong>Dummy&#39;s Guide to Modern LLM Sampling</strong> <code>rentry.co</code></a> - <a href="https://news.ycombinator.com/item?id=43887637">31 comments 184 points</a></li>
+<li><a href="http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/"><strong>Oberon Pi</strong> <code>pascal.hansotten.com</code></a> - <a href="https://news.ycombinator.com/item?id=43885478">30 comments 176 points</a></li>
+<li><a href="https://text-incubation.com/AI+code+is+legacy+code+from+day+one"><strong>AI code is legacy code?</strong> <code>text-incubation.com</code></a> - <a href="https://news.ycombinator.com/item?id=43888225">148 comments 149 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=43889502"><strong>Ask HN: Hackathons feel fake now</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43889502">98 comments 138 points</a></li>
+<li><a href="https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/"><strong>People are losing loved ones to AI-fueled spiritual fantasies</strong> <code>www.rollingstone.com</code></a> - <a href="https://news.ycombinator.com/item?id=43890649">107 comments 123 points</a></li>
+<li><a href="https://togithub.com/Foreseerr/TScale"><strong>TScale – Distributed training on consumer GPUs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43886601">27 comments 121 points</a></li>
+<li><a href="https://victoriametrics.com/blog/go-graceful-shutdown/index.html"><strong>Graceful Shutdown in Go: Practical Patterns</strong> <code>victoriametrics.com</code></a> - <a href="https://news.ycombinator.com/item?id=43889610">26 comments 120 points</a></li>
+<li><a href="https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera"><strong>On Not Carrying a Camera – Cultivating memories instead of snapshots</strong> <code>hedgehogreview.com</code></a> - <a href="https://news.ycombinator.com/item?id=43890525">102 comments 108 points</a></li>
+<li><a href="https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/"><strong>A Texan who built an empire of ecstasy</strong> <code>www.texasmonthly.com</code></a> - <a href="https://news.ycombinator.com/item?id=43886552">94 comments 102 points</a></li>
+<li><a href="https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/"><strong>The Signal Clone the Trump Admin Uses Was Hacked</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=43890179">17 comments 99 points</a></li>
+<li><a href="https://zeux.io/2025/05/03/load-store-conflicts/"><strong>Load-Store Conflicts</strong> <code>zeux.io</code></a> - <a href="https://news.ycombinator.com/item?id=43888005">5 comments 92 points</a></li>
+<li><a href="https://owentrueblood.com/blog/2025/05/04/helmdar/"><strong>Helmdar: 3D Scanning Brooklyn on Rollerblades</strong> <code>owentrueblood.com</code></a> - <a href="https://news.ycombinator.com/item?id=43889875">11 comments 88 points</a></li>
+<li><a href="https://alhassy.com/TypedLisp.html"><strong>Typed Lisp, a Primer</strong> <code>alhassy.com</code></a> - <a href="https://news.ycombinator.com/item?id=43887998">34 comments 87 points</a></li>
+<li><a href="https://printserver.ink/"><strong>Show HN: Driverless print server for legacy printers, profit goes to open-source</strong> <code>printserver.ink</code></a> - <a href="https://news.ycombinator.com/item?id=43888157">21 comments 84 points</a></li>
+<li><a href="https://ai.jakegaylor.com/"><strong>Show HN: My AI Native Resume</strong> <code>ai.jakegaylor.com</code></a> - <a href="https://news.ycombinator.com/item?id=43891245">54 comments 78 points</a></li>
+<li><a href="https://arxiv.org/abs/2503.23817"><strong>Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=43890538">11 comments 76 points</a></li>
+<li><a href="https://farina00.github.io/essays/nevermind/"><strong>Nevermind, an album on major chords</strong> <code>farina00.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43886368">78 comments 71 points</a></li>
+<li><a href="https://www.theballotboy.com/electing-the-doge"><strong>The complicated business of electing a Doge</strong> <code>www.theballotboy.com</code></a> - <a href="https://news.ycombinator.com/item?id=43888777">35 comments 70 points</a></li>
+<li><a href="https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/"><strong>Orders of Infinity</strong> <code>terrytao.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=43888239">7 comments 70 points</a></li>
+<li><a href="https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/"><strong>Why Flatpak apps use so much disk space on Linux</strong> <code>ostechnix.com</code></a> - <a href="https://news.ycombinator.com/item?id=43887073">114 comments 69 points</a></li>
+<li><a href="https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm"><strong>Minimal Linux Bootloader (2018)</strong> <code>raw.githubusercontent.com</code></a> - <a href="https://news.ycombinator.com/item?id=43887708">17 comments 66 points</a></li>
+<li><a href="https://tippycoco.com/"><strong>Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball</strong> <code>tippycoco.com</code></a> - <a href="https://news.ycombinator.com/item?id=43886213">15 comments 65 points</a></li>
+<li><a href="https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/"><strong>&#39;Bizarro World&#39; (2007)</strong> <code>archive.boston.com</code></a> - <a href="https://news.ycombinator.com/item?id=43886399">7 comments 63 points</a></li>
+<li><a href="https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/"><strong>An appeal to companies doing AI</strong> <code>soatok.blog</code></a> - <a href="https://news.ycombinator.com/item?id=43890502">43 comments 61 points</a></li>
+<li><a href="https://astrobe.com/Modula2/"><strong>Lilith and Modula-2</strong> <code>astrobe.com</code></a> - <a href="https://news.ycombinator.com/item?id=43886271">7 comments 57 points</a></li>
+<li><a href="https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/"><strong>How Riot Games is fighting the war against video game hackers</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=43888501">120 comments 53 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon"><strong>&#39;Dangerous nonsense&#39;: AI-authored books about ADHD for sale on Amazon</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=43888754">23 comments 49 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-05-04]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/961</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://togithub.com/richardhapb/pytest.nvim"><strong>Pytest for Neovim</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43591246">19 comments 68 points</a></li>
 <li><a href="https://www.nbcnews.com/news/us-news/5-nurses-work-floor-massachusetts-hospital-brain-tumors-rcna199798"><strong>Five Nurses who work on the same floor at hospital have brain tumors</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=43597929">37 comments 65 points</a></li>
 <li><a href="https://adnauseam.io/"><strong>AdNauseam: Clicking ads so you don&#39;t have to</strong> <code>adnauseam.io</code></a> - <a href="https://news.ycombinator.com/item?id=43592462">63 comments 64 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-04-05]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/932</link>
-            <guid>932</guid>
-            <pubDate>Sat, 05 Apr 2025 06:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://paulrobertlloyd.com/2025/087/a1/bored/"><strong>Bored of It</strong> <code>paulrobertlloyd.com</code></a> - <a href="https://news.ycombinator.com/item?id=43580449">449 comments 536 points</a></li>
-<li><a href="https://togithub.com/antiwork/gumroad"><strong>Gumroad’s source is available</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43580103">195 comments 451 points</a></li>
-<li><a href="https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/"><strong>Nvidia adds native Python support to CUDA</strong> <code>thenewstack.io</code></a> - <a href="https://news.ycombinator.com/item?id=43581584">169 comments 414 points</a></li>
-<li><a href="https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7"><strong>Trump&#39;s Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=43589231">527 comments 360 points</a></li>
-<li><a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html"><strong>Understanding Machine Learning: From Theory to Algorithms</strong> <code>www.cs.huji.ac.il</code></a> - <a href="https://news.ycombinator.com/item?id=43586073">35 comments 287 points</a></li>
-<li><a href="https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project"><strong>The blissful Zen of a good side project</strong> <code>joshcollinsworth.com</code></a> - <a href="https://news.ycombinator.com/item?id=43587380">72 comments 248 points</a></li>
-<li><a href="https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html"><strong>Dow plunges 2,200 points, Nasdaq enters bear market</strong> <code>finance.yahoo.com</code></a> - <a href="https://news.ycombinator.com/item?id=43587479">348 comments 236 points</a></li>
-<li><a href="https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/"><strong>The &#39;Judicial Black Hole&#39; of El Salvador&#39;s Prisons Is a Warning for Americans</strong> <code>www.rollingstone.com</code></a> - <a href="https://news.ycombinator.com/item?id=43588970">110 comments 233 points</a></li>
-<li><a href="https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux"><strong>An interactive-speed Linux computer made of only 3 8-pin chips</strong> <code>dmitry.gr</code></a> - <a href="https://news.ycombinator.com/item?id=43586654">83 comments 232 points</a></li>
-<li><a href="https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/"><strong>The End of Sierra as We Knew It, Part 1: The Acquisition</strong> <code>www.filfre.net</code></a> - <a href="https://news.ycombinator.com/item?id=43586157">71 comments 198 points</a></li>
-<li><a href="https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor"><strong>Why does Britain feel so poor?</strong> <code>martinrobbins.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43581672">341 comments 181 points</a></li>
-<li><a href="https://simonmonk.org/tyee7"><strong>Learn electricity and electronics fundamentals without taking a formal course</strong> <code>simonmonk.org</code></a> - <a href="https://news.ycombinator.com/item?id=43589776">44 comments 172 points</a></li>
-<li><a href="https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html"><strong>Trump&#39;s Trade War Escalates as China Retaliates with 34% Tariffs</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43580906">197 comments 170 points</a></li>
-<li><a href="https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm"><strong>Kerosene did not save the sperm whale (2024)</strong> <code>edconway.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43584303">54 comments 161 points</a></li>
-<li><a href="https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf"><strong>Growing trade deficit is selling the nation out from under us (2003) [pdf]</strong> <code>faculty.washington.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43579908">179 comments 153 points</a></li>
-<li><a href="https://www.aei.org/economics/president-trumps-tariff-formula-makes-no-economic-sense-its-also-based-on-an-error/"><strong>Trump&#39;s Tariff Formula Makes No Economic Sense. It&#39;s Also Based on an Error</strong> <code>www.aei.org</code></a> - <a href="https://news.ycombinator.com/item?id=43590421">70 comments 153 points</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/"><strong>Doge staffer&#39;s YouTube nickname accidentally revealed his teen hacking activity</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43579925">169 comments 139 points</a></li>
-<li><a href="https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html"><strong>Google announces Sec-Gemini v1 a new experimental cybersecurity model</strong> <code>security.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=43586786">33 comments 131 points</a></li>
-<li><a href="https://danb.me/blog/gumroad-is-not-open-source/"><strong>Gumroad’s license wouldn’t meet the widely regarded definition of open source</strong> <code>danb.me</code></a> - <a href="https://news.ycombinator.com/item?id=43586107">38 comments 117 points</a></li>
-<li><a href="https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/"><strong>The Curse of Ayn Rand&#39;s Heir</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=43584663">217 comments 110 points</a></li>
-<li><a href="https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/"><strong>Wealthy Americans have death rates on par with poor Europeans</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43584156">77 comments 110 points</a></li>
-<li><a href="https://www.barrons.com/livecoverage/stock-market-today-040425"><strong>Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market</strong> <code>www.barrons.com</code></a> - <a href="https://news.ycombinator.com/item?id=43582292">91 comments 100 points</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts"><strong>NOAA Weather will delete websites using Amazon, Google cloud services Saturday</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=43581714">94 comments 96 points</a></li>
-<li><a href="https://www.magicsplat.com/ttpl/index.html"><strong>The Tcl Programming Language: A Comprehensive Guide (2nd Edition)</strong> <code>www.magicsplat.com</code></a> - <a href="https://news.ycombinator.com/item?id=43586561">63 comments 95 points</a></li>
-<li><a href="https://www.att.com/support/article/wireless/KM1061254/"><strong>AT&amp;T Email-to-Text Gateway Service Ending June 17</strong> <code>www.att.com</code></a> - <a href="https://news.ycombinator.com/item?id=43589523">72 comments 92 points</a></li>
-<li><a href="https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/"><strong>Hackers strike Australia&#39;s largest pension funds in coordinated attacks</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43580101">41 comments 92 points</a></li>
-<li><a href="https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/"><strong>A number of electric vehicle, battery factories are being canceled</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=43583249">204 comments 90 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=3t6L-FlfeaI"><strong>I just want to serve 5 terabytes [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=43580439">34 comments 76 points</a></li>
-<li><a href="https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647"><strong>Germany&#39;s &#39;Deutschlandticket&#39; helps environment – study</strong> <code>www.dw.com</code></a> - <a href="https://news.ycombinator.com/item?id=43586182">39 comments 74 points</a></li>
-<li><a href="https://support.apple.com/guide/functions/map-ffa7bf25643c/web"><strong>Mac Numbers now supports LAMBDA functions and MAP</strong> <code>support.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=43581137">50 comments 73 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
