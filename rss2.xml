@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 14 May 2025 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 06:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-05-14]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/971</link>
+            <guid>971</guid>
+            <pubDate>Wed, 14 May 2025 06:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://togithub.com/mozilla-firefox/firefox"><strong>Mozilla Firefox – Official GitHub repo</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43969827">434 comments 791 points</a></li>
+<li><a href="https://twitter.com/ID_AA_Carmack/status/1922100771392520710"><strong>The world could run on older hardware if software optimization was a priority</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=43971464">597 comments 647 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=43970837"><strong>Ask HN: How are you acquiring your first hundred users?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43970837">311 comments 483 points</a></li>
+<li><a href="https://www.openwall.com/lists/oss-security/2025/05/12/1"><strong>Multiple security issues in GNU Screen</strong> <code>www.openwall.com</code></a> - <a href="https://news.ycombinator.com/item?id=43971716">219 comments 364 points</a></li>
+<li><a href="https://comsec.ethz.ch/research/microarch/branch-privilege-injection/"><strong>Branch Privilege Injection: Exploiting branch predictor race conditions</strong> <code>comsec.ethz.ch</code></a> - <a href="https://news.ycombinator.com/item?id=43974891">134 comments 355 points</a></li>
+<li><a href="https://wqtz.bearblog.dev/high-stress-job-relationships/"><strong>In a high-stress work environment, prioritize relationships</strong> <code>wqtz.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43972535">190 comments 303 points</a></li>
+<li><a href="https://www.androidauthority.com/android-desktop-mode-leak-3550321/"><strong>Google is building its own DeX: First look at Android&#39;s Desktop Mode</strong> <code>www.androidauthority.com</code></a> - <a href="https://news.ycombinator.com/item?id=43973395">219 comments 271 points</a></li>
+<li><a href="https://www.marginalia.nu/log/a_119_pdf/"><strong>PDF to Text, a challenging problem</strong> <code>www.marginalia.nu</code></a> - <a href="https://news.ycombinator.com/item?id=43973721">151 comments 261 points</a></li>
+<li><a href="https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/"><strong>Nextcloud cries foul over Google Play Store app rejection</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=43970959">165 comments 249 points</a></li>
+<li><a href="https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/"><strong>Why are banks still getting authentication so wrong?</strong> <code>jamal.haba.sh</code></a> - <a href="https://news.ycombinator.com/item?id=43976359">325 comments 248 points</a></li>
+<li><a href="https://time.com/7285045/resigning-national-science-foundation-library-congress/"><strong>Why I&#39;m resigning from the National Science Foundation</strong> <code>time.com</code></a> - <a href="https://news.ycombinator.com/item?id=43973210">266 comments 223 points</a></li>
+<li><a href="https://corrode.dev/blog/flattening-rusts-learning-curve/"><strong>Flattening Rust’s learning curve</strong> <code>corrode.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43978435">130 comments 181 points</a></li>
+<li><a href="https://bloggeroo.dev/articles/202504031434"><strong>I failed a take-home assignment from Kagi Search</strong> <code>bloggeroo.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43980036">155 comments 176 points</a></li>
+<li><a href="https://zylinski.se/posts/a-programming-language-for-me/"><strong>Odin: A programming language made for me</strong> <code>zylinski.se</code></a> - <a href="https://news.ycombinator.com/item?id=43970800">191 comments 175 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=43972425"><strong>Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43972425">96 comments 172 points</a></li>
+<li><a href="https://duskos.org/"><strong>Dusk OS</strong> <code>duskos.org</code></a> - <a href="https://news.ycombinator.com/item?id=43976862">107 comments 171 points</a></li>
+<li><a href="https://arxiv.org/abs/2504.09246"><strong>Type-constrained code generation with language models</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=43978357">60 comments 166 points</a></li>
+<li><a href="https://www.rifters.com/crawl/?p=11511"><strong>It Awaits Your Experiments</strong> <code>www.rifters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43974005">56 comments 154 points</a></li>
+<li><a href="https://togithub.com/HelixDB/helix-db/"><strong>Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43975423">64 comments 153 points</a></li>
+<li><a href="https://www.ycombinator.com/companies/starcloud"><strong>Starcloud</strong> <code>www.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43977188">285 comments 140 points</a></li>
+<li><a href="https://www.cnbc.com/2025/05/13/microsoft-is-cutting-3percent-of-workers-across-the-software-company.html"><strong>Microsoft is Cutting 3% of All Workers</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43973399">26 comments 125 points</a></li>
+<li><a href="https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/"><strong>Airbnb is in midlife crisis mode</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=43976557">198 comments 119 points</a></li>
+<li><a href="https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/"><strong>Y Combinator says Google is a monopolist, no comment about its OpenAI ties</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=43978224">39 comments 119 points</a></li>
+<li><a href="https://erratique.ch/writings/anti-personnel-computing"><strong>Anti-Personnel Computing (2023)</strong> <code>erratique.ch</code></a> - <a href="https://news.ycombinator.com/item?id=43970637">52 comments 116 points</a></li>
+<li><a href="https://cocoindex.io/blogs/knowledge-graph-for-docs/"><strong>Build real-time knowledge graph for documents with LLM</strong> <code>cocoindex.io</code></a> - <a href="https://news.ycombinator.com/item?id=43976895">18 comments 116 points</a></li>
+<li><a href="https://www.theregister.com/2025/05/13/eu_security_bug_database/"><strong>As US vuln-tracking falters, EU enters with its own security bug database</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=43972438">42 comments 114 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=43971688"><strong>Show HN: Basecoat – shadcn/UI components, no React required</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43971688">66 comments 113 points</a></li>
+<li><a href="https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/"><strong>GOP sneaks decade-long AI regulation ban into spending bill</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43975254">118 comments 108 points</a></li>
+<li><a href="https://www.sixthtone.com/news/1017072"><strong>Bus stops here: Shanghai lets riders design their own routes</strong> <code>www.sixthtone.com</code></a> - <a href="https://news.ycombinator.com/item?id=43980845">54 comments 108 points</a></li>
+<li><a href="https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes"><strong>Fingers wrinkle the same way every time they’re in the water too long</strong> <code>www.binghamton.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43979063">41 comments 106 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-05-13]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/970</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html"><strong>The problem with &quot;vibe coding&quot;</strong> <code>dylanbeattie.net</code></a> - <a href="https://news.ycombinator.com/item?id=43687767">71 comments 96 points</a></li>
 <li><a href="https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106"><strong>She was chatting with friends in a Lyft. Then someone texted her what they said</strong> <code>www.cbc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=43680039">81 comments 94 points</a></li>
 <li><a href="https://www.grumpy-economist.com/p/tariffs-saving-and-investment"><strong>Tariffs, Saving, and Investment</strong> <code>www.grumpy-economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=43678401">72 comments 88 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-04-14]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/941</link>
-            <guid>941</guid>
-            <pubDate>Mon, 14 Apr 2025 06:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://posthuman.blog/this-reddit-post-fried-my-brain/"><strong>A Reddit bot drove me insane</strong> <code>posthuman.blog</code></a> - <a href="https://news.ycombinator.com/item?id=43672139">278 comments 547 points</a></li>
-<li><a href="https://togithub.com/jlevy/og-equity-compensation"><strong>Open guide to equity compensation</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43675126">163 comments 375 points</a></li>
-<li><a href="https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson"><strong>The dark side of the Moomins</strong> <code>www.newstatesman.com</code></a> - <a href="https://news.ycombinator.com/item?id=43672593">77 comments 272 points</a></li>
-<li><a href="https://togithub.com/ariebovenberg/whenever"><strong>Whenever: Typed and DST-safe datetimes for Python</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43671308">126 comments 266 points</a></li>
-<li><a href="https://fennel-lang.org/rationale"><strong>Why Fennel?</strong> <code>fennel-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=43673551">96 comments 214 points</a></li>
-<li><a href="https://blog.sshh.io/p/everything-wrong-with-mcp"><strong>Everything wrong with MCP</strong> <code>blog.sshh.io</code></a> - <a href="https://news.ycombinator.com/item?id=43676771">80 comments 147 points</a></li>
-<li><a href="https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/"><strong>Problems with Go channels (2016)</strong> <code>www.jtolio.com</code></a> - <a href="https://news.ycombinator.com/item?id=43670373">161 comments 140 points</a></li>
-<li><a href="https://loganius.org/2025/04/i-bought-a-mac/"><strong>I bought a Mac</strong> <code>loganius.org</code></a> - <a href="https://news.ycombinator.com/item?id=43677165">77 comments 139 points</a></li>
-<li><a href="https://togithub.com/SkyworkAI/Skywork-OR1"><strong>Skywork-OR1: new SOTA 32B thinking model with open weight</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43673151">28 comments 139 points</a></li>
-<li><a href="https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket"><strong>Writing my own dithering algorithm in Racket</strong> <code>amanvir.com</code></a> - <a href="https://news.ycombinator.com/item?id=43675309">30 comments 133 points</a></li>
-<li><a href="https://www.math.uci.edu/~ndonalds/math13/notes.pdf"><strong>Math 13 – An Introduction to Abstract Mathematics [pdf]</strong> <code>www.math.uci.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43675310">7 comments 125 points</a></li>
-<li><a href="https://worksonmymachine.substack.com/p/wasting-inferences-with-aider"><strong>Wasting Inferences with Aider</strong> <code>worksonmymachine.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43672712">90 comments 116 points</a></li>
-<li><a href="https://www.signalbloom.ai/news/"><strong>Show HN: I made a free tool that analyzes SEC filings and posts detailed reports</strong> <code>www.signalbloom.ai</code></a> - <a href="https://news.ycombinator.com/item?id=43675248">40 comments 116 points</a></li>
-<li><a href="https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/"><strong>Half the men in Seattle are never-married singles, census data shows</strong> <code>www.seattletimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43673125">174 comments 110 points</a></li>
-<li><a href="https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/"><strong>Don&#39;t sell space in your homelab (2023)</strong> <code>grumpy.systems</code></a> - <a href="https://news.ycombinator.com/item?id=43674267">86 comments 109 points</a></li>
-<li><a href="https://alexanderell.is/posts/orange/"><strong>How much oranger do red orange bags make oranges look?</strong> <code>alexanderell.is</code></a> - <a href="https://news.ycombinator.com/item?id=43673761">57 comments 106 points</a></li>
-<li><a href="https://togithub.com/policy-gradient/GRPO-Zero"><strong>Implementing DeepSeek R1&#39;s GRPO algorithm from scratch</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43674825">0 comments 102 points</a></li>
-<li><a href="https://togithub.com/emacs-exwm/exwm"><strong>Exwm: Emacs X Window Manager</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43674233">26 comments 101 points</a></li>
-<li><a href="https://www.computesgazette.com/"><strong>Compute&#39;s Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing</strong> <code>www.computesgazette.com</code></a> - <a href="https://news.ycombinator.com/item?id=43671861">32 comments 86 points</a></li>
-<li><a href="https://www.reddit.com/r/dotnet/s/fhm4TUNhlX"><strong>Making SNES ROMs using C#</strong> <code>www.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=43673011">16 comments 85 points</a></li>
-<li><a href="https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/"><strong>My imaginary children aren&#39;t using your streaming service</strong> <code>shkspr.mobi</code></a> - <a href="https://news.ycombinator.com/item?id=43671098">119 comments 82 points</a></li>
-<li><a href="https://www.polarsparc.com/xhtml/MCP.html"><strong>Quick Primer on MCP Using Ollama and LangChain</strong> <code>www.polarsparc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43676084">13 comments 80 points</a></li>
-<li><a href="https://arxiv.org/abs/2503.24322"><strong>NoProp: Training neural networks without back-propagation or forward-propagation</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=43676837">15 comments 74 points</a></li>
-<li><a href="https://kevintechnology.com/posts/leaf-widget/"><strong>Show HN: Nissan&#39;s Leaf app doesn&#39;t have a home screen widget so I made my own</strong> <code>kevintechnology.com</code></a> - <a href="https://news.ycombinator.com/item?id=43677610">34 comments 72 points</a></li>
-<li><a href="https://www.economist.com/culture/2025/04/10/too-many-adults-are-absolutely-clueless"><strong>&quot;Adulting&quot; courses in America</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=43670737">73 comments 71 points</a></li>
-<li><a href="https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b"><strong>US tech tariff exemption may only be temporary, says Lutnick</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=43673327">55 comments 69 points</a></li>
-<li><a href="https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf"><strong>Why Pascal is not my favorite programming language (1981) [pdf]</strong> <code>doc.cat-v.org</code></a> - <a href="https://news.ycombinator.com/item?id=43672975">69 comments 63 points</a></li>
-<li><a href="https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf"><strong>AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]</strong> <code>git.astron.nl</code></a> - <a href="https://news.ycombinator.com/item?id=43671940">29 comments 60 points</a></li>
-<li><a href="http://www.righto.com/2025/04/commodore-pet-repair.html"><strong>A tricky Commodore PET repair: tracking down 6 1/2 bad chips</strong> <code>www.righto.com</code></a> - <a href="https://news.ycombinator.com/item?id=43673862">21 comments 60 points</a></li>
-<li><a href="https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/"><strong>Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money</strong> <code>www.jalopnik.com</code></a> - <a href="https://news.ycombinator.com/item?id=43673235">103 comments 58 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
