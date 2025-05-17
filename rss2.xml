@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 16 May 2025 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 May 2025 06:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-05-16]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/973</link>
+            <guid>973</guid>
+            <pubDate>Fri, 16 May 2025 06:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html"><strong>Baby is healed with first personalized gene-editing treatment</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43997636">314 comments 736 points</a></li>
+<li><a href="https://dynomight.net/numpy/"><strong>I don&#39;t like NumPy</strong> <code>dynomight.net</code></a> - <a href="https://news.ycombinator.com/item?id=43996431">164 comments 396 points</a></li>
+<li><a href="https://www.clientserver.dev/p/malicious-compliance-by-booking-an"><strong>Malicious compliance by booking an available meeting room</strong> <code>www.clientserver.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43994765">305 comments 329 points</a></li>
+<li><a href="https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html"><strong>Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43996307">351 comments 320 points</a></li>
+<li><a href="https://sketch.dev/blog/agent-loop"><strong>The unreasonable effectiveness of an LLM agent loop with tool use</strong> <code>sketch.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43998472">182 comments 298 points</a></li>
+<li><a href="https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html"><strong>A leap year check in three instructions</strong> <code>hueffner.de</code></a> - <a href="https://news.ycombinator.com/item?id=43999748">89 comments 261 points</a></li>
+<li><a href="https://eoinmurray.info/boltzmann-machine"><strong>A Tiny Boltzmann Machine</strong> <code>eoinmurray.info</code></a> - <a href="https://news.ycombinator.com/item?id=43995005">39 comments 232 points</a></li>
+<li><a href="https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/"><strong>EU ruling: tracking-based advertising [...] across Europe has no legal basis</strong> <code>www.iccl.ie</code></a> - <a href="https://news.ycombinator.com/item?id=43992444">165 comments 220 points</a></li>
+<li><a href="https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/"><strong>NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=44000700">30 comments 203 points</a></li>
+<li><a href="https://arstechnica.com/ai/2025/05/xais-grok-suddenly-cant-stop-bringing-up-white-genocide-in-south-africa/"><strong>XAI&#39;s Grok suddenly can&#39;t stop bringing up &quot;white genocide&quot; in South Africa</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43993332">65 comments 202 points</a></li>
+<li><a href="https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html"><strong>Harvard Law paid $27 for a copy of Magna Carta. It&#39;s an original</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43997830">110 comments 176 points</a></li>
+<li><a href="https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin"><strong>California sent residents&#39; personal health data to LinkedIn</strong> <code>themarkup.org</code></a> - <a href="https://news.ycombinator.com/item?id=43995302">104 comments 170 points</a></li>
+<li><a href="https://togithub.com/marv1nnnnn/llm-min.txt"><strong>Show HN: Min.js style compression of tech docs for LLM context</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43994987">48 comments 165 points</a></li>
+<li><a href="https://blog.tartanllama.xyz/initialization-is-bonkers/"><strong>Initialization in C++ is bonkers (2017)</strong> <code>blog.tartanllama.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=43999492">104 comments 130 points</a></li>
+<li><a href="https://togithub.com/axbycc/LiveSplat"><strong>Show HN: Real-Time Gaussian Splatting</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43994827">46 comments 130 points</a></li>
+<li><a href="https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding"><strong>Pathfinding</strong> <code>juhrjuhr.itch.io</code></a> - <a href="https://news.ycombinator.com/item?id=43994333">40 comments 127 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=43996555"><strong>Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43996555">86 comments 119 points</a></li>
+<li><a href="https://lemmy.ml/post/30100312"><strong>My Engineering Craft Regressed</strong> <code>lemmy.ml</code></a> - <a href="https://news.ycombinator.com/item?id=43994635">70 comments 119 points</a></li>
+<li><a href="https://codeberg.org/unspeaker/tek"><strong>Tek – A music making program for 24-bit Unicode terminals</strong> <code>codeberg.org</code></a> - <a href="https://news.ycombinator.com/item?id=43998707">13 comments 114 points</a></li>
+<li><a href="https://ollama.com/blog/multimodal-models"><strong>Ollama&#39;s new engine for multimodal models</strong> <code>ollama.com</code></a> - <a href="https://news.ycombinator.com/item?id=44001087">16 comments 111 points</a></li>
+<li><a href="https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/"><strong>Stack Overflow is almost dead</strong> <code>blog.pragmaticengineer.com</code></a> - <a href="https://news.ycombinator.com/item?id=43999125">157 comments 109 points</a></li>
+<li><a href="https://ahelwer.ca/post/2025-05-15-tla-dev-status/"><strong>The current state of TLA⁺ development</strong> <code>ahelwer.ca</code></a> - <a href="https://news.ycombinator.com/item?id=43998115">23 comments 107 points</a></li>
+<li><a href="https://teal-language.org/"><strong>Teal – A statically-typed dialect of Lua</strong> <code>teal-language.org</code></a> - <a href="https://news.ycombinator.com/item?id=44000759">50 comments 97 points</a></li>
+<li><a href="https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/"><strong>I was a Theranos whistleblower. Here&#39;s what I think Elizabeth Holmes is up to</strong> <code>www.statnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=44001041">62 comments 96 points</a></li>
+<li><a href="https://undetectag.com/"><strong>Show HN: Undetectag, track stolen items with AirTag</strong> <code>undetectag.com</code></a> - <a href="https://news.ycombinator.com/item?id=43996251">85 comments 93 points</a></li>
+<li><a href="https://www.orsolabs.com/post/refactoring-clojure-1/"><strong>Refactoring Clojure</strong> <code>www.orsolabs.com</code></a> - <a href="https://news.ycombinator.com/item?id=43998423">22 comments 85 points</a></li>
+<li><a href="https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/"><strong>In the US, a rotating detonation rocket engine takes flight</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43993897">61 comments 82 points</a></li>
+<li><a href="https://blog.cloudflare.com/web-bot-auth/"><strong>Forget IPs: using cryptography to verify bot and agent traffic</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=43994779">25 comments 77 points</a></li>
+<li><a href="https://deno.com/blog/an-update-on-fresh"><strong>An Update on Fresh</strong> <code>deno.com</code></a> - <a href="https://news.ycombinator.com/item?id=43996071">55 comments 71 points</a></li>
+<li><a href="https://www.experimental-history.com/p/new-paradigm-for-psychology-just"><strong>“The Mind in the Wheel” lays out a new foundation for the science of mind</strong> <code>www.experimental-history.com</code></a> - <a href="https://news.ycombinator.com/item?id=43997932">56 comments 69 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-05-15]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/972</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://gcve.eu/"><strong>Global, distributed and backwards compatible CVE alternative launched by CERT</strong> <code>gcve.eu</code></a> - <a href="https://news.ycombinator.com/item?id=43703454">5 comments 28 points</a></li>
 <li><a href="https://www.narativ.org/p/whistle-blower-russian-breach-of"><strong>Russian Breach of US Data Through Doge over Starlink &quot;Directly to Russia&quot;</strong> <code>www.narativ.org</code></a> - <a href="https://news.ycombinator.com/item?id=43704481">6 comments 26 points</a></li>
 <li><a href="https://www.bbc.co.uk/news/articles/c99pg13yv32o"><strong>Colossal squid filmed in ocean for the first time</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=43705188">2 comments 24 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-04-16]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/943</link>
-            <guid>943</guid>
-            <pubDate>Wed, 16 Apr 2025 06:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security"><strong>Whistleblower details how DOGE may have taken sensitive NLRB data</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=43691142">411 comments 859 points</a></li>
-<li><a href="https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/"><strong>How to win an argument with a toddler</strong> <code>seths.blog</code></a> - <a href="https://news.ycombinator.com/item?id=43693402">455 comments 625 points</a></li>
-<li><a href="https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html"><strong>CVE program faces swift end after DHS fails to renew contract</strong> <code>www.csoonline.com</code></a> - <a href="https://news.ycombinator.com/item?id=43700607">279 comments 623 points</a></li>
-<li><a href="https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak"><strong>4chan Sharty Hack And Janitor Email Leak</strong> <code>knowyourmeme.com</code></a> - <a href="https://news.ycombinator.com/item?id=43691334">633 comments 503 points</a></li>
-<li><a href="https://filiph.github.io/unsure/"><strong>Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator</strong> <code>filiph.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43690289">80 comments 499 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos"><strong>It&#39;s easier than ever to de-censor videos</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=43695701">143 comments 344 points</a></li>
-<li><a href="https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/"><strong>How the U.S. became a science superpower</strong> <code>steveblank.com</code></a> - <a href="https://news.ycombinator.com/item?id=43692360">313 comments 314 points</a></li>
-<li><a href="https://blog.google/products/gemini/video-generation/"><strong>Generate videos in Gemini and Whisk with Veo 2</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=43695592">91 comments 272 points</a></li>
-<li><a href="https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back"><strong>America underestimates the difficulty of bringing manufacturing back</strong> <code>www.molsonhart.com</code></a> - <a href="https://news.ycombinator.com/item?id=43692677">416 comments 257 points</a></li>
-<li><a href="https://arxiv.org/abs/2410.03730"><strong>Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs (2024)</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=43690955">93 comments 240 points</a></li>
-<li><a href="https://togithub.com/bobschrag/clolog"><strong>Clolog</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43695620">35 comments 210 points</a></li>
-<li><a href="https://togithub.com/ubisoft/Chroma"><strong>Chroma: Ubisoft&#39;s internal tool used to simulate color-blindness</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43692089">59 comments 202 points</a></li>
-<li><a href="https://pgdog.dev/blog/hacking-postgres-wire-protocol"><strong>Hacking the Postgres wire protocol</strong> <code>pgdog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43693326">46 comments 189 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=43692476"><strong>Launch HN: mrge.io (YC X25) – Cursor for code review</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43692476">95 comments 186 points</a></li>
-<li><a href="https://www.theverge.com/openai/648130/openai-social-network-x-competitor"><strong>OpenAI is building a social network?</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=43694877">149 comments 164 points</a></li>
-<li><a href="https://www.newsweek.com/merwil-gutierrez-ice-wrong-teen-el-salvador-2059783"><strong>ICE Agents Realize They Arrested Wrong Teen, Say &#39;Take Him Anyway&#39;</strong> <code>www.newsweek.com</code></a> - <a href="https://news.ycombinator.com/item?id=43693531">83 comments 154 points</a></li>
-<li><a href="https://overreacted.io/jsx-over-the-wire/"><strong>JSX over the Wire</strong> <code>overreacted.io</code></a> - <a href="https://news.ycombinator.com/item?id=43694681">98 comments 150 points</a></li>
-<li><a href="https://mcyoung.xyz/2025/04/14/target-triples/"><strong>What the hell is a target triple?</strong> <code>mcyoung.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=43696756">115 comments 144 points</a></li>
-<li><a href="https://spectrum.ieee.org/lely-dairy-robots"><strong>How dairy robots are changing work for cows and farmers</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=43699188">92 comments 143 points</a></li>
-<li><a href="https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/"><strong>Homeland Security funding for CVE program expires</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=43700258">6 comments 136 points</a></li>
-<li><a href="https://dailynous.com/2025/04/15/philosophy-major-snatched-by-ice-during-citizenship-interview/"><strong>Philosophy Major Snatched by ICE During Citizenship Interview</strong> <code>dailynous.com</code></a> - <a href="https://news.ycombinator.com/item?id=43693375">88 comments 130 points</a></li>
-<li><a href="https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066"><strong>The case of the UI thread that hung in a kernel call</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=43695723">30 comments 117 points</a></li>
-<li><a href="https://www.nytimes.com/2025/04/13/us/politics/doge-contracts-savings.html"><strong>Doge Is Far Short of Its Goal, and Still Overstating Its Progress</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43693584">37 comments 112 points</a></li>
-<li><a href="https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/"><strong>You cannot have our user&#39;s data</strong> <code>sourcehut.org</code></a> - <a href="https://news.ycombinator.com/item?id=43692998">101 comments 110 points</a></li>
-<li><a href="https://a.weird.one"><strong>WEIRD – a way to be on the web</strong> <code>a.weird.one</code></a> - <a href="https://news.ycombinator.com/item?id=43691891">56 comments 108 points</a></li>
-<li><a href="https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"><strong>TLS certificate lifetimes will officially reduce to 47 days</strong> <code>www.digicert.com</code></a> - <a href="https://news.ycombinator.com/item?id=43693900">177 comments 102 points</a></li>
-<li><a href="https://cdm.link/benn-jordan-ai-poison-pill/"><strong>Benn Jordan&#39;s AI poison pill and the weird world of adversarial noise</strong> <code>cdm.link</code></a> - <a href="https://news.ycombinator.com/item?id=43695401">166 comments 102 points</a></li>
-<li><a href="https://scottaaronson.blog/?p=8805"><strong>I speak at Harvard as it faces its biggest crisis since 1636</strong> <code>scottaaronson.blog</code></a> - <a href="https://news.ycombinator.com/item?id=43696010">101 comments 97 points</a></li>
-<li><a href="https://arstechnica.com/health/2025/04/ct-scans-could-cause-5-of-cancers-study-finds-experts-note-uncertainty/"><strong>CT scans could cause 5% of cancers, study finds; experts note uncertainty</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43692390">115 comments 90 points</a></li>
-<li><a href="https://cohere.com/blog/embed-4"><strong>Cohere Launches Embed 4</strong> <code>cohere.com</code></a> - <a href="https://news.ycombinator.com/item?id=43694546">42 comments 90 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
