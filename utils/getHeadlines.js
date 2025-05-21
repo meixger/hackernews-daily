@@ -9,7 +9,7 @@ function githubReplaceRenovatebotRedirector(value) {
 }
 
 function escapeHTML(value) {
-    return value.replace(
+    return (value?.replace(
         /[&<>'"]/g,
         tag => ({
             '&': '&amp;',
@@ -17,7 +17,7 @@ function escapeHTML(value) {
             '>': '&gt;',
             "'": '&#39;',
             '"': '&quot;'
-        }[tag] || tag)
+        }[tag] || tag)) ?? ""
     );
 }
 
