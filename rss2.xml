@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 20 May 2025 06:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 07:00:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-05-20]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/977</link>
+            <guid>977</guid>
+            <pubDate>Tue, 20 May 2025 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/"><strong>The Windows Subsystem for Linux is now open source</strong> <code>blogs.windows.com</code></a> - <a href="https://news.ycombinator.com/item?id=44031385">790 comments 1229 points</a></li>
+<li><a href="https://zod.dev/v4"><strong>Zod 4</strong> <code>zod.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44030850">193 comments 644 points</a></li>
+<li><a href="https://vitonsky.net/blog/2025/05/17/language-detection/"><strong>Don&#39;t guess my language</strong> <code>vitonsky.net</code></a> - <a href="https://news.ycombinator.com/item?id=44028153">342 comments 611 points</a></li>
+<li><a href="https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/"><strong>Have I Been Pwned 2.0</strong> <code>www.troyhunt.com</code></a> - <a href="https://news.ycombinator.com/item?id=44035158">143 comments 461 points</a></li>
+<li><a href="https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/"><strong>GitHub Copilot Coding Agent</strong> <code>github.blog</code></a> - <a href="https://news.ycombinator.com/item?id=44031432">230 comments 394 points</a></li>
+<li><a href="https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/"><strong>Dilbert creator Scott Adams says he will die soon from same cancer as Joe Biden</strong> <code>www.thewrap.com</code></a> - <a href="https://news.ycombinator.com/item?id=44031917">382 comments 341 points</a></li>
+<li><a href="https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/"><strong>DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage</strong> <code>micahflee.com</code></a> - <a href="https://news.ycombinator.com/item?id=44036647">75 comments 324 points</a></li>
+<li><a href="https://docs.anthropic.com/en/docs/claude-code/sdk"><strong>Claude Code SDK</strong> <code>docs.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=44032777">143 comments 319 points</a></li>
+<li><a href="https://jules.google/"><strong>Jules: An Asynchronous Coding Agent</strong> <code>jules.google</code></a> - <a href="https://news.ycombinator.com/item?id=44034918">115 comments 284 points</a></li>
+<li><a href="https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech"><strong>European Investment Bank to inject €70B in European tech</strong> <code>ioplus.nl</code></a> - <a href="https://news.ycombinator.com/item?id=44031297">306 comments 280 points</a></li>
+<li><a href="https://ncase.me/trust/"><strong>Game theory illustrated by an animated cartoon game</strong> <code>ncase.me</code></a> - <a href="https://news.ycombinator.com/item?id=44031535">41 comments 256 points</a></li>
+<li><a href="https://naeemnur.com/side-projects/"><strong>Side projects I&#39;ve built since 2009</strong> <code>naeemnur.com</code></a> - <a href="https://news.ycombinator.com/item?id=44027867">135 comments 249 points</a></li>
+<li><a href="https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/"><strong>Microsoft&#39;s ICC blockade: digital dependence comes at a cost</strong> <code>www.techzine.eu</code></a> - <a href="https://news.ycombinator.com/item?id=44032717">128 comments 245 points</a></li>
+<li><a href="https://www.npmjs.com/package/is-even-ai"><strong>Is-even-ai – Check if a number is even using the power of AI</strong> <code>www.npmjs.com</code></a> - <a href="https://news.ycombinator.com/item?id=44036438">112 comments 231 points</a></li>
+<li><a href="https://devblogs.microsoft.com/commandline/edit-is-now-open-source/"><strong>Edit is now open source</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=44031529">112 comments 226 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron"><strong>23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=44030873">111 comments 203 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=44030492"><strong>Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44030492">79 comments 202 points</a></li>
+<li><a href="https://togithub.com/clawsoftware/clawPDF"><strong>ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44029142">24 comments 184 points</a></li>
+<li><a href="https://corp.band"><strong>Show HN: Windows 98 themed website in 1 HTML file for my post punk band</strong> <code>corp.band</code></a> - <a href="https://news.ycombinator.com/item?id=44032470">38 comments 178 points</a></li>
+<li><a href="http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html"><strong>The forbidden railway: Vienna-Pyongyang (2008)</strong> <code>vienna-pyongyang.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=44033310">44 comments 167 points</a></li>
+<li><a href="https://flak.tedunangst.com/post/too-much-go-misdirection"><strong>Too Much Go Misdirection</strong> <code>flak.tedunangst.com</code></a> - <a href="https://news.ycombinator.com/item?id=44031009">77 comments 161 points</a></li>
+<li><a href="https://togithub.com/aspizu/goboscript"><strong>Show HN: Goboscript, text-based programming language, compiles to Scratch</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44026799">56 comments 154 points</a></li>
+<li><a href="https://www.seangoedecke.com/diffusion-models-explained/"><strong>Diffusion models explained simply</strong> <code>www.seangoedecke.com</code></a> - <a href="https://news.ycombinator.com/item?id=44029435">26 comments 138 points</a></li>
+<li><a href="https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy"><strong>Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy</strong> <code>chipsandcheese.com</code></a> - <a href="https://news.ycombinator.com/item?id=44028250">60 comments 126 points</a></li>
+<li><a href="https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/"><strong>xAI&#39;s Grok 3 comes to Microsoft Azure</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=44031387">108 comments 121 points</a></li>
+<li><a href="https://www.datagubbe.se/winter/"><strong>Is Winter Coming? (2024)</strong> <code>www.datagubbe.se</code></a> - <a href="https://news.ycombinator.com/item?id=44028384">125 comments 119 points</a></li>
+<li><a href="https://togithub.com/antirez/kilo"><strong>Kilo: A text editor in less than 1000 LOC with syntax highlight and search</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44034459">14 comments 110 points</a></li>
+<li><a href="https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/"><strong>Fabric Is Just Plain Unreliable, and Microsoft&#39;s Hiding It</strong> <code>www.brentozar.com</code></a> - <a href="https://news.ycombinator.com/item?id=44029566">9 comments 110 points</a></li>
+<li><a href="https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor"><strong>Microsoft Open Sources Copilot</strong> <code>code.visualstudio.com</code></a> - <a href="https://news.ycombinator.com/item?id=44031344">12 comments 104 points</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2025/05/fcc-chair-brendan-carr-is-letting-isps-merge-as-long-as-they-end-dei-programs/"><strong>FCC Chair Brendan Carr is letting ISPs merge–as long as they end DEI programs</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=44034536">99 comments 103 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-05-19]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/976</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve"><strong>What the hell is an elliptic curve?</strong> <code>onlynv.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43742722">34 comments 65 points</a></li>
 <li><a href="https://www.well-typed.com/blog/2023/04/falsify/"><strong>Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)</strong> <code>www.well-typed.com</code></a> - <a href="https://news.ycombinator.com/item?id=43746017">12 comments 65 points</a></li>
 <li><a href="https://www.isthistechdead.com"><strong>Show HN: &quot;Is This Tech Dead?&quot; A snarky autopsy engine for your dead frameworks</strong> <code>www.isthistechdead.com</code></a> - <a href="https://news.ycombinator.com/item?id=43747733">49 comments 44 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-04-20]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/947</link>
-            <guid>947</guid>
-            <pubDate>Sun, 20 Apr 2025 06:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://bradmontague.substack.com/p/librarians-are-dangerous"><strong>Librarians are dangerous</strong> <code>bradmontague.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43736791">442 comments 454 points</a></li>
-<li><a href="https://www.anthropic.com/engineering/claude-code-best-practices"><strong>Claude Code: Best practices for agentic coding</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=43735550">179 comments 392 points</a></li>
-<li><a href="https://togithub.com/PiLiDAR/PiLiDAR"><strong>Raspberry Pi Lidar Scanner</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43738561">110 comments 384 points</a></li>
-<li><a href="https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/"><strong>The Web Is Broken – Botnet Part 2</strong> <code>jan.wildeboer.net</code></a> - <a href="https://news.ycombinator.com/item?id=43738603">178 comments 314 points</a></li>
-<li><a href="https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/"><strong>Android phones will soon reboot themselves after sitting unused for three days</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43735902">243 comments 308 points</a></li>
-<li><a href="https://togithub.com/JustAman62/undercut-f1"><strong>Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43734910">66 comments 264 points</a></li>
-<li><a href="https://lllyasviel.github.io/frame_pack_gitpage/"><strong>Packing Input Frame Context in Next-Frame Prediction Models for Video Generation</strong> <code>lllyasviel.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43736193">26 comments 234 points</a></li>
-<li><a href="https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d"><strong>Show HN: Goldbach Conjecture up to 4<em>10^18+7</em>10^13</strong> <code>medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=43734583">126 comments 228 points</a></li>
-<li><a href="https://togithub.com/The-Pocket/Tutorial-Codebase-Knowledge"><strong>Show HN: I built an AI that turns GitHub codebases into easy tutorials</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43739456">40 comments 211 points</a></li>
-<li><a href="https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/"><strong>A Map of British Dialects (2023)</strong> <code>starkeycomics.com</code></a> - <a href="https://news.ycombinator.com/item?id=43734953">155 comments 205 points</a></li>
-<li><a href="https://philwip.com/2025/04/14/galaxian-3-project-revival/"><strong>Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine</strong> <code>philwip.com</code></a> - <a href="https://news.ycombinator.com/item?id=43735239">45 comments 204 points</a></li>
-<li><a href="https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for"><strong>Vibe Coding is not an excuse for low-quality work</strong> <code>addyo.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43739037">139 comments 184 points</a></li>
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1961406"><strong>Ssl.com: DCV bypass and issue fake certificates for any MX hostname</strong> <code>bugzilla.mozilla.org</code></a> - <a href="https://news.ycombinator.com/item?id=43738485">43 comments 179 points</a></li>
-<li><a href="https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/"><strong>Don&#39;t force your kids to do math</strong> <code>blog.avocados.ovh</code></a> - <a href="https://news.ycombinator.com/item?id=43738195">91 comments 115 points</a></li>
-<li><a href="https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html"><strong>How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)</strong> <code>alexarmbr.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43736739">13 comments 115 points</a></li>
-<li><a href="https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html"><strong>A unique sound alleviates motion sickness</strong> <code>www.nagoya-u.ac.jp</code></a> - <a href="https://news.ycombinator.com/item?id=43740021">42 comments 112 points</a></li>
-<li><a href="https://www.lexaloffle.com/bbs/?pid=145596"><strong>Demo &quot;The Mind&quot; by Haujobb and Sweet16</strong> <code>www.lexaloffle.com</code></a> - <a href="https://news.ycombinator.com/item?id=43735592">10 comments 103 points</a></li>
-<li><a href="https://qradiolink.org/open-source-DMR-transceiver-implementation.html"><strong>Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2</strong> <code>qradiolink.org</code></a> - <a href="https://news.ycombinator.com/item?id=43735945">14 comments 97 points</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups"><strong>Unpowered SSD endurance investigation finds data loss and performance issues</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=43739028">63 comments 95 points</a></li>
-<li><a href="https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/"><strong>An image of the Australian desert illuminates satellite pollution</strong> <code>www.thisiscolossal.com</code></a> - <a href="https://news.ycombinator.com/item?id=43737469">63 comments 95 points</a></li>
-<li><a href="https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html"><strong>The Art of Assembly Language (2010)</strong> <code>www.plantation-productions.com</code></a> - <a href="https://news.ycombinator.com/item?id=43739285">14 comments 94 points</a></li>
-<li><a href="https://simonwillison.net/2025/Apr/19/claude-code-best-practices/"><strong>Ultrathink is a Claude Code a magic word</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=43739997">33 comments 91 points</a></li>
-<li><a href="https://ohadravid.github.io/posts/2025-04-19-frank/"><strong>Frankenstein&#39;s <code>__init__</code></strong> <code>ohadravid.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=43735724">66 comments 90 points</a></li>
-<li><a href="https://smarimccarthy.is/posts/2024-11-25-voting-system/"><strong>The Icelandic Voting System (2024)</strong> <code>smarimccarthy.is</code></a> - <a href="https://news.ycombinator.com/item?id=43738675">65 comments 87 points</a></li>
-<li><a href="https://www.wired.com/story/inside-arxiv-most-transformative-code-science/"><strong>Inside ArXiv</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=43738478">13 comments 85 points</a></li>
-<li><a href="https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001"><strong>Electromagnetism as a Purely Geometric Theory</strong> <code>iopscience.iop.org</code></a> - <a href="https://news.ycombinator.com/item?id=43739529">26 comments 84 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/c20xq5nd8jeo"><strong>Anxiety at US colleges as foreign students are detained and visas revoked</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43735089">8 comments 84 points</a></li>
-<li><a href="https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer"><strong>Against Transparency</strong> <code>pluralistic.net</code></a> - <a href="https://news.ycombinator.com/item?id=43736718">15 comments 74 points</a></li>
-<li><a href="https://togithub.com/satellitecomponent/Neurite"><strong>Neurite</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43735693">12 comments 74 points</a></li>
-<li><a href="https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/"><strong>A star appears to have collapsed straight into a black hole without supernova (2017)</strong> <code>science.nasa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=43735170">31 comments 72 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
