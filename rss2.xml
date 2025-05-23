@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 22 May 2025 06:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 06:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-05-22]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/979</link>
+            <guid>979</guid>
+            <pubDate>Thu, 22 May 2025 06:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/"><strong>Watching AI drive Microsoft employees insane</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=44050152">505 comments 939 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal"><strong>OpenAI to buy AI startup from Jony Ive</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=44053518">923 comments 698 points</a></li>
+<li><a href="https://signal.org/blog/signal-doesnt-recall/"><strong>By default, Signal doesn&#39;t recall</strong> <code>signal.org</code></a> - <a href="https://news.ycombinator.com/item?id=44053364">381 comments 461 points</a></li>
+<li><a href="https://mistral.ai/news/devstral"><strong>Devstral</strong> <code>mistral.ai</code></a> - <a href="https://news.ycombinator.com/item?id=44051733">103 comments 457 points</a></li>
+<li><a href="https://simonwillison.net/2025/May/21/gemini-diffusion/"><strong>Gemini Diffusion</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=44057820">69 comments 366 points</a></li>
+<li><a href="http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/"><strong>Animated Factorization (2012)</strong> <code>www.datapointed.net</code></a> - <a href="https://news.ycombinator.com/item?id=44051958">54 comments 242 points</a></li>
+<li><a href="https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/"><strong>For algorithms, a little memory outweighs a lot of time</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=44055347">59 comments 236 points</a></li>
+<li><a href="https://mattweidner.com/2025/05/21/text-without-crdts.html"><strong>Collaborative Text Editing Without CRDTs or OT</strong> <code>mattweidner.com</code></a> - <a href="https://news.ycombinator.com/item?id=44053560">59 comments 216 points</a></li>
+<li><a href="https://jngiam.bearblog.dev/mcp-large-data/"><strong>LLM function calls don&#39;t scale; code orchestration is simpler, more effective</strong> <code>jngiam.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44053744">76 comments 209 points</a></li>
+<li><a href="https://ai.meta.com/blog/llama-startup-program/?_fb_noscript=1"><strong>Introducing the Llama Startup Program</strong> <code>ai.meta.com</code></a> - <a href="https://news.ycombinator.com/item?id=44052984">65 comments 168 points</a></li>
+<li><a href="https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/"><strong>Roto: A Compiled Scripting Language for Rust</strong> <code>blog.nlnetlabs.nl</code></a> - <a href="https://news.ycombinator.com/item?id=44050222">111 comments 146 points</a></li>
+<li><a href="https://shopify.dev/docs/api/storefront-web-components"><strong>Storefront Web Components</strong> <code>shopify.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44053603">39 comments 139 points</a></li>
+<li><a href="https://arxiv.org/abs/2502.00627"><strong>Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44052041">154 comments 136 points</a></li>
+<li><a href="https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/"><strong>An upgraded dev experience in Google AI Studio</strong> <code>developers.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=44054185">82 comments 134 points</a></li>
+<li><a href="https://www.minorplanetcenter.net/mpec/K25/K25K47.html"><strong>Possible new dwarf planet found in our solar system</strong> <code>www.minorplanetcenter.net</code></a> - <a href="https://news.ycombinator.com/item?id=44054620">82 comments 126 points</a></li>
+<li><a href="https://rockylinux.org/news/rockylinux-support-for-riscv"><strong>Rocky Linux 10 Will Support RISC-V</strong> <code>rockylinux.org</code></a> - <a href="https://news.ycombinator.com/item?id=44056104">50 comments 123 points</a></li>
+<li><a href="https://togithub.com/derekeder/csv-to-html-table"><strong>Show HN: Display any CSV file as a searchable, filterable, pretty HTML table</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44057612">21 comments 120 points</a></li>
+<li><a href="https://blog.greg.technology/2025/05/20/tinnitus.html"><strong>I have tinnitus. I don&#39;t recommend it</strong> <code>blog.greg.technology</code></a> - <a href="https://news.ycombinator.com/item?id=44057044">109 comments 108 points</a></li>
+<li><a href="https://clipjs.vercel.app/"><strong>Show HN: ClipJS – Edit your videos from a PC or phone</strong> <code>clipjs.vercel.app</code></a> - <a href="https://news.ycombinator.com/item?id=44055542">43 comments 108 points</a></li>
+<li><a href="https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/"><strong>Things that have a bigger impact than coding assistants</strong> <code>codemanship.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=44050843">57 comments 105 points</a></li>
+<li><a href="https://www.wheresyoured.at/the-era-of-the-business-idiot/"><strong>The Era of the Business Idiot</strong> <code>www.wheresyoured.at</code></a> - <a href="https://news.ycombinator.com/item?id=44053328">123 comments 102 points</a></li>
+<li><a href="https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/"><strong>ZEUS – A new two-petawatt laser facility at the University of Michigan</strong> <code>news.engin.umich.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44052418">98 comments 101 points</a></li>
+<li><a href="https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/"><strong>The curious tale of Bhutan&#39;s playable record postage stamps (2015)</strong> <code>thevinylfactory.com</code></a> - <a href="https://news.ycombinator.com/item?id=44054775">11 comments 101 points</a></li>
+<li><a href="https://twitter.com/RnaudBertrand/status/1925029185052917791"><strong>EU startups fail because their press refuses to hype them up</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=44049909">89 comments 100 points</a></li>
+<li><a href="https://iment.com/maida/computer/redref/"><strong>Overview of the Ada Computer Language Competition (1979)</strong> <code>iment.com</code></a> - <a href="https://news.ycombinator.com/item?id=44048775">13 comments 99 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=44051755"><strong>Ask HN: How do you promote your personal projects with a limited budget?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44051755">72 comments 98 points</a></li>
+<li><a href="http://shouldiblockicmp.com/"><strong>Should I Block ICMP?</strong> <code>shouldiblockicmp.com</code></a> - <a href="https://news.ycombinator.com/item?id=44057219">66 comments 98 points</a></li>
+<li><a href="https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/"><strong>Mitochondria Are More Than Powerhouses–They&#39;re the Motherboard of the Cell</strong> <code>www.scientificamerican.com</code></a> - <a href="https://news.ycombinator.com/item?id=44052909">44 comments 96 points</a></li>
+<li><a href="https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/"><strong>&#39;Turbocharged&#39; Mitochondria Power Birds&#39; Epic Migratory Journeys</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=44051652">72 comments 92 points</a></li>
+<li><a href="https://arxiv.org/abs/2505.12540"><strong>Harnessing the Universal Geometry of Embeddings</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44054425">36 comments 92 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-05-21]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/978</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://jonathanalland.com/old-osx-projects.html"><strong>Projects for Old OS X</strong> <code>jonathanalland.com</code></a> - <a href="https://news.ycombinator.com/item?id=43767944">14 comments 81 points</a></li>
 <li><a href="https://math.ucr.edu/home/baez/surprises.html"><strong>Surprises in Logic (2016)</strong> <code>math.ucr.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43763291">37 comments 79 points</a></li>
 <li><a href="https://talesoftimesforgotten.com/2019/03/26/the-truth-about-atlantis/"><strong>The Truth about Atlantis (2019)</strong> <code>talesoftimesforgotten.com</code></a> - <a href="https://news.ycombinator.com/item?id=43764783">114 comments 78 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-04-22]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/949</link>
-            <guid>949</guid>
-            <pubDate>Tue, 22 Apr 2025 06:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://philiplaine.com/posts/getting-forked-by-microsoft/"><strong>Getting forked by Microsoft</strong> <code>philiplaine.com</code></a> - <a href="https://news.ycombinator.com/item?id=43750535">879 comments 1660 points</a></li>
-<li><a href="https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/"><strong>Pope Francis has died</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=43749405">632 comments 846 points</a></li>
-<li><a href="https://togithub.com/nari-labs/dia"><strong>Show HN: Dia, an open-weights TTS model for generating realistic dialogue</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43754124">139 comments 437 points</a></li>
-<li><a href="https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/"><strong>Blog hosted on a Nintendo Wii</strong> <code>blog.infected.systems</code></a> - <a href="https://news.ycombinator.com/item?id=43754953">87 comments 436 points</a></li>
-<li><a href="https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices"><strong>FTC takes action against Uber for deceptive billing and cancellation practices</strong> <code>www.ftc.gov</code></a> - <a href="https://news.ycombinator.com/item?id=43754274">210 comments 368 points</a></li>
-<li><a href="https://togithub.com/ericjenott/Evertop"><strong>Evertop: E-ink IBM XT clone with 100+ hours of battery life</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43757037">112 comments 337 points</a></li>
-<li><a href="https://herecomesthemoon.net/2025/04/pipelining/"><strong>Pipelining might be my favorite programming language feature</strong> <code>herecomesthemoon.net</code></a> - <a href="https://news.ycombinator.com/item?id=43751076">263 comments 298 points</a></li>
-<li><a href="https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/"><strong>Fossil fuels fall below 50% of US electricity for the first month on record</strong> <code>ember-energy.org</code></a> - <a href="https://news.ycombinator.com/item?id=43750617">287 comments 294 points</a></li>
-<li><a href="https://spectrum.ieee.org/data-center-energy-consumption"><strong>Reworking 30 lines of Linux code could cut power use by up to 30 percent</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=43749271">104 comments 290 points</a></li>
-<li><a href="https://bsky.social/about/blog/04-21-2025-verification"><strong>A new form of verification on Bluesky</strong> <code>bsky.social</code></a> - <a href="https://news.ycombinator.com/item?id=43753651">195 comments 281 points</a></li>
-<li><a href="https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human"><strong>LLM-powered tools amplify developer capabilities rather than replacing them</strong> <code>matthewsinclair.com</code></a> - <a href="https://news.ycombinator.com/item?id=43752492">158 comments 252 points</a></li>
-<li><a href="https://www.bbc.co.uk/news/live/crknlnzlrzdt"><strong>Pope Francis has died</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=43749449">18 comments 221 points</a></li>
-<li><a href="https://simonwillison.net/2025/Apr/21/ai-assisted-search/"><strong>AI assisted search-based research works now</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=43752262">83 comments 187 points</a></li>
-<li><a href="https://phys.org/news/2025-04-astronomers-lone-black-hole.html"><strong>Astronomers confirm the existence of a lone black hole</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=43755017">110 comments 149 points</a></li>
-<li><a href="https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational"><strong>Out of the Fog</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=43752532">31 comments 139 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=43752176"><strong>Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43752176">84 comments 138 points</a></li>
-<li><a href="https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia"><strong>The Future of Compute: Nvidia&#39;s Crown Is Slipping</strong> <code>mohitdagarwal.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43757017">93 comments 127 points</a></li>
-<li><a href="https://windsurf.com/blog/pricing-v2"><strong>An update to our pricing</strong> <code>windsurf.com</code></a> - <a href="https://news.ycombinator.com/item?id=43755321">81 comments 123 points</a></li>
-<li><a href="https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry"><strong>The campaign to subvert Africa&#39;s internet registry</strong> <code>www.capeindependent.com</code></a> - <a href="https://news.ycombinator.com/item?id=43753738">28 comments 113 points</a></li>
-<li><a href="https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/"><strong>A M.2 HDMI capture card</strong> <code>interfacinglinux.com</code></a> - <a href="https://news.ycombinator.com/item?id=43755286">40 comments 110 points</a></li>
-<li><a href="https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf"><strong>Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]</strong> <code>whistlebloweraid.org</code></a> - <a href="https://news.ycombinator.com/item?id=43755298">13 comments 109 points</a></li>
-<li><a href="https://www.psypost.org/handwriting-activates-broader-brain-networks-than-typing-study-shows/"><strong>Handwriting activates broader brain networks than typing</strong> <code>www.psypost.org</code></a> - <a href="https://news.ycombinator.com/item?id=43752433">44 comments 108 points</a></li>
-<li><a href="https://togithub.com/dimonomid/nerdlog"><strong>Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43750765">39 comments 108 points</a></li>
-<li><a href="https://sam.elborai.me/articles/tabular-programming/"><strong>Tabular Programming: A New Paradigm for Expressive Computing</strong> <code>sam.elborai.me</code></a> - <a href="https://news.ycombinator.com/item?id=43751168">25 comments 101 points</a></li>
-<li><a href="https://mcyoung.xyz/2025/04/21/go-arenas/"><strong>Cheating the Reaper in Go</strong> <code>mcyoung.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=43756871">13 comments 97 points</a></li>
-<li><a href="https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a"><strong>Official abuse of state security has always been bad, now it&#39;s horrifying</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=43750144">10 comments 94 points</a></li>
-<li><a href="https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/"><strong>Thieves took their iPhones. Apple won&#39;t give their digital lives back</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=43755753">86 comments 92 points</a></li>
-<li><a href="https://www.epic.com/visiting/"><strong>Visiting Us</strong> <code>www.epic.com</code></a> - <a href="https://news.ycombinator.com/item?id=43756309">86 comments 90 points</a></li>
-<li><a href="https://togithub.com/stefanrodrigues2/Prolog-Adventure-game"><strong>Prolog Adventure Game</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43757916">8 comments 78 points</a></li>
-<li><a href="https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/"><strong>Is 1 Prime, and Does It Matter?</strong> <code>mathenchant.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=43755506">124 comments 77 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
