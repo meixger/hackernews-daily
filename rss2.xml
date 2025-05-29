@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 28 May 2025 06:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 May 2025 06:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-05-28]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/985</link>
+            <guid>985</guid>
+            <pubDate>Wed, 28 May 2025 06:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://aaronson.org/blog/square-theory"><strong>Square Theory</strong> <code>aaronson.org</code></a> - <a href="https://news.ycombinator.com/item?id=44107942">102 comments 517 points</a></li>
+<li><a href="https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting"><strong>How a hawk learned to use traffic signals to hunt more successfully</strong> <code>www.frontiersin.org</code></a> - <a href="https://news.ycombinator.com/item?id=44105965">108 comments 372 points</a></li>
+<li><a href="https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/"><strong>The Myth of Developer Obsolescence</strong> <code>alonso.network</code></a> - <a href="https://news.ycombinator.com/item?id=44105592">345 comments 318 points</a></li>
+<li><a href="https://simonwillison.net/2025/May/27/llm-tools/"><strong>Show HN: My LLM CLI tool can run tools now, from Python code or plugins</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=44110584">110 comments 298 points</a></li>
+<li><a href="https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/"><strong>Pyrefly vs. Ty: Comparing Python&#39;s two new Rust-based type checkers</strong> <code>blog.edward-li.com</code></a> - <a href="https://news.ycombinator.com/item?id=44107655">114 comments 295 points</a></li>
+<li><a href="https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident"><strong>BGP handling bug causes widespread internet routing instability</strong> <code>blog.benjojo.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=44105796">129 comments 279 points</a></li>
+<li><a href="https://indyweek.com/culture/duke-students-dumpster-diving/"><strong>I salvaged $6k of luxury items discarded by Duke students</strong> <code>indyweek.com</code></a> - <a href="https://news.ycombinator.com/item?id=44108207">273 comments 238 points</a></li>
+<li><a href="https://ducklake.select/"><strong>DuckLake is an integrated data lake and catalog format</strong> <code>ducklake.select</code></a> - <a href="https://news.ycombinator.com/item?id=44106934">89 comments 231 points</a></li>
+<li><a href="https://lumosql.org/src/lumosql/doc/trunk/README.md"><strong>LumoSQL</strong> <code>lumosql.org</code></a> - <a href="https://news.ycombinator.com/item?id=44105619">81 comments 224 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=44112326"><strong>Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44112326">15 comments 156 points</a></li>
+<li><a href="https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing"><strong>Why Cline doesn&#39;t index your codebase</strong> <code>cline.bot</code></a> - <a href="https://news.ycombinator.com/item?id=44106944">108 comments 152 points</a></li>
+<li><a href="https://512pixels.net/2025/05/original-macintosh-resolution/"><strong>Why the original Macintosh had a screen resolution of 512×324</strong> <code>512pixels.net</code></a> - <a href="https://news.ycombinator.com/item?id=44110219">99 comments 150 points</a></li>
+<li><a href="https://mistral.ai/news/agents-api"><strong>Mistral Agents API</strong> <code>mistral.ai</code></a> - <a href="https://news.ycombinator.com/item?id=44107187">20 comments 144 points</a></li>
+<li><a href="https://livestore.dev"><strong>LiveStore: State management based on reactive SQLite and built-in sync engine</strong> <code>livestore.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44105412">38 comments 139 points</a></li>
+<li><a href="https://actamachina.com/posts/annotated-benter-paper"><strong>Revisiting the algorithm that changed horse race betting (2023)</strong> <code>actamachina.com</code></a> - <a href="https://news.ycombinator.com/item?id=44105470">53 comments 120 points</a></li>
+<li><a href="https://nathan.rs/posts/gpu-shader-programming/"><strong>Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming</strong> <code>nathan.rs</code></a> - <a href="https://news.ycombinator.com/item?id=44109257">31 comments 119 points</a></li>
+<li><a href="https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/"><strong>The Art of Fugue – Contrapunctus I (2021)</strong> <code>www.ethanhein.com</code></a> - <a href="https://news.ycombinator.com/item?id=44106764">52 comments 118 points</a></li>
+<li><a href="https://www.politico.com/news/2025/05/27/trump-team-orders-stop-to-new-student-visa-interviews-as-it-weighs-expanding-social-media-vetting-00370501"><strong>US pauses new student visa interviews as it mulls expanding social media vetting</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=44109253">171 comments 116 points</a></li>
+<li><a href="https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html"><strong>Just make it scale: An Aurora DSQL story</strong> <code>www.allthingsdistributed.com</code></a> - <a href="https://news.ycombinator.com/item?id=44105878">34 comments 115 points</a></li>
+<li><a href="https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles"><strong>Look ma, no bubbles designing a low-latency megakernel for Llama-1B</strong> <code>hazyresearch.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44111673">17 comments 110 points</a></li>
+<li><a href="https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution"><strong>A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS</strong> <code>roderickkhan.com</code></a> - <a href="https://news.ycombinator.com/item?id=44111609">21 comments 103 points</a></li>
+<li><a href="https://malai.sh/hello-tcp/"><strong>Show HN: Malai – securely share local TCP services (database/SSH) with others</strong> <code>malai.sh</code></a> - <a href="https://news.ycombinator.com/item?id=44107393">42 comments 102 points</a></li>
+<li><a href="https://arxiv.org/abs/2505.17989"><strong>Outcome-Based Reinforcement Learning to Predict the Future</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44106842">14 comments 91 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=44108206"><strong>Launch HN: Relace (YC W23) – Models for fast and reliable codegen</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44108206">44 comments 86 points</a></li>
+<li><a href="https://togithub.com/UCSBarchlab/OpenTPU"><strong>OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44111452">12 comments 75 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=okOzxHN9NOA"><strong>Starship Flight 9 booster explodes on impact [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=44111616">108 comments 67 points</a></li>
+<li><a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html"><strong>Using Logic in Writing</strong> <code>owl.purdue.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44105089">18 comments 63 points</a></li>
+<li><a href="https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam"><strong>In Vietnam, an unlikely outpost for Chicano culture</strong> <code>www.latimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44110270">43 comments 62 points</a></li>
+<li><a href="https://3dvf.com/en/he-has-powered-his-house-for-8-years-using-laptop-batteries/"><strong>He has powered his house for 8 years using laptop batteries</strong> <code>3dvf.com</code></a> - <a href="https://news.ycombinator.com/item?id=44104740">59 comments 54 points</a></li>
+<li><a href="https://girard.perso.math.cnrs.fr/mustard/article.html"><strong>Mustard Watches (1990)</strong> <code>girard.perso.math.cnrs.fr</code></a> - <a href="https://news.ycombinator.com/item?id=44110931">22 comments 53 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-05-27]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/984</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://togithub.com/Operative-Sh/web-eval-agent"><strong>Show HN: Web-eval-agent – Let the coding agent debug itself</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43822659">11 comments 66 points</a></li>
 <li><a href="https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232"><strong>Show HN: Heart Rate Zones Plus – The first iOS app I developed</strong> <code>apps.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=43824583">39 comments 64 points</a></li>
 <li><a href="https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/"><strong>Backblaze responds to claims of &quot;sham accounting&quot;, &quot;customer backups at risk&quot;</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43827236">41 comments 60 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-04-28]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/955</link>
-            <guid>955</guid>
-            <pubDate>Mon, 28 Apr 2025 06:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://internet-in-a-box.org/"><strong>Internet in a Box</strong> <code>internet-in-a-box.org</code></a> - <a href="https://news.ycombinator.com/item?id=43814433">114 comments 399 points</a></li>
-<li><a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads"><strong>We&#39;re building a dystopia just to make people click on ads [video]</strong> <code>www.ted.com</code></a> - <a href="https://news.ycombinator.com/item?id=43812379">230 comments 273 points</a></li>
-<li><a href="https://gitlab.com/sephalon/deathstar_lamp"><strong>Show HN: Remote-Controlled IKEA Deathstar Lamp</strong> <code>gitlab.com</code></a> - <a href="https://news.ycombinator.com/item?id=43809841">51 comments 268 points</a></li>
-<li><a href="https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone"><strong>How a single line of code could brick your iPhone</strong> <code>rambo.codes</code></a> - <a href="https://news.ycombinator.com/item?id=43814360">67 comments 251 points</a></li>
-<li><a href="https://blog.julik.nl/2025/04/a-can-of-shardines"><strong>Shardines: SQLite3 Database-per-Tenant with ActiveRecord</strong> <code>blog.julik.nl</code></a> - <a href="https://news.ycombinator.com/item?id=43811400">67 comments 231 points</a></li>
-<li><a href="https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/"><strong>Business co-founders in tech startups are less valuable than they think</strong> <code>verdikapuku.com</code></a> - <a href="https://news.ycombinator.com/item?id=43814497">176 comments 218 points</a></li>
-<li><a href="https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/"><strong>Read the Obits</strong> <code>thereader.mitpress.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43813175">80 comments 210 points</a></li>
-<li><a href="https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures"><strong>Chongqing, the Largest City – In Pictures</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=43809915">194 comments 208 points</a></li>
-<li><a href="https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/"><strong>Reverse geocoding is hard</strong> <code>shkspr.mobi</code></a> - <a href="https://news.ycombinator.com/item?id=43812323">97 comments 202 points</a></li>
-<li><a href="https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/"><strong>U.S. autism data project sparks uproar over ethics, privacy and intent</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=43810561">225 comments 198 points</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Wikipedia:Database_download"><strong>Wikipedia: Database Download</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=43811732">89 comments 193 points</a></li>
-<li><a href="https://zetier.com/5g-imsi-catcher/"><strong>Did 5G kill the IMSI catcher?</strong> <code>zetier.com</code></a> - <a href="https://news.ycombinator.com/item?id=43813083">66 comments 182 points</a></li>
-<li><a href="https://togithub.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md"><strong>Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43812995">109 comments 162 points</a></li>
-<li><a href="https://ahl.dtrace.org/2016/06/15/apple_and_zfs/"><strong>ZFS: Apple&#39;s new filesystem that wasn&#39;t (2016)</strong> <code>ahl.dtrace.org</code></a> - <a href="https://news.ycombinator.com/item?id=43810566">150 comments 159 points</a></li>
-<li><a href="https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply"><strong>The coming knowledge-work supply-chain crisis</strong> <code>worksonmymachine.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=43812459">95 comments 155 points</a></li>
-<li><a href="https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate"><strong>AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate</strong> <code>today.ucsd.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43815591">64 comments 148 points</a></li>
-<li><a href="https://www.fastcompany.com/91323835/virginia-will-use-technology-to-slow-chronic-speeders-cars-and-other-states-are-rushing-to-join-in"><strong>Virginia passes law to enforce maximum vehicle speeds for repeat speeders</strong> <code>www.fastcompany.com</code></a> - <a href="https://news.ycombinator.com/item?id=43812856">330 comments 139 points</a></li>
-<li><a href="https://www.screenrecorder.me"><strong>Show HN: I made a web-based, free alternative to Screen Studio</strong> <code>www.screenrecorder.me</code></a> - <a href="https://news.ycombinator.com/item?id=43816419">36 comments 136 points</a></li>
-<li><a href="https://tmuxai.dev/"><strong>TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant</strong> <code>tmuxai.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43812646">41 comments 135 points</a></li>
-<li><a href="https://www.zachbellay.com/daily/i-just-want-to-code/"><strong>I just want to code (2023)</strong> <code>www.zachbellay.com</code></a> - <a href="https://news.ycombinator.com/item?id=43814708">49 comments 131 points</a></li>
-<li><a href="https://www.openbsd.org/77.html"><strong>OpenBSD 7.7 Released</strong> <code>www.openbsd.org</code></a> - <a href="https://news.ycombinator.com/item?id=43814058">22 comments 124 points</a></li>
-<li><a href="https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/"><strong>Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=43810724">22 comments 110 points</a></li>
-<li><a href="https://togithub.com/zumerlab/snapdom"><strong>Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43813330">36 comments 95 points</a></li>
-<li><a href="https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph"><strong>How NASA Is Using Graph Technology and LLMs to Build a People Knowledge Graph</strong> <code>memgraph.com</code></a> - <a href="https://news.ycombinator.com/item?id=43813036">37 comments 93 points</a></li>
-<li><a href="https://www.doliver.org/articles/programming-is-a-thinkers-game"><strong>AI Coding assistants provide little value because a programmer&#39;s job is to think</strong> <code>www.doliver.org</code></a> - <a href="https://news.ycombinator.com/item?id=43815033">163 comments 92 points</a></li>
-<li><a href="https://evchargingstations.com/chargingnews/exclusive-walmart-ev-charging-network/"><strong>Walmart plans EV Charging network which will blanket the US within a few years</strong> <code>evchargingstations.com</code></a> - <a href="https://news.ycombinator.com/item?id=43814380">82 comments 88 points</a></li>
-<li><a href="https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0"><strong>New material gives copper superalloy-like strength</strong> <code>news.lehigh.edu</code></a> - <a href="https://news.ycombinator.com/item?id=43816327">54 comments 88 points</a></li>
-<li><a href="https://bird.makeup/users/paulg/statuses/1913338841068404903"><strong>YC founder points out that jobs exist outside of working for police state</strong> <code>bird.makeup</code></a> - <a href="https://news.ycombinator.com/item?id=43813389">48 comments 88 points</a></li>
-<li><a href="https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world"><strong>Time to quit your pointless job, become morally ambitious and change the world</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=43812318">92 comments 87 points</a></li>
-<li><a href="https://bhvr.dev"><strong>Show HN: Bhvr, a Bun and Hono and Vite and React Starter</strong> <code>bhvr.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43811016">70 comments 84 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
