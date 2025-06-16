@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 15 Jun 2025 06:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 06:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-06-15]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1003</link>
+            <guid>1003</guid>
+            <pubDate>Sun, 15 Jun 2025 06:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://togithub.com/yousef-rafat/miniDiffusion"><strong>I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44276476">69 comments 377 points</a></li>
+<li><a href="https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple"><strong>Seven replies to the viral Apple reasoning paper and why they fall short</strong> <code>garymarcus.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44278403">192 comments 257 points</a></li>
+<li><a href="https://inria.hal.science/hal-04776866v1"><strong>Last fifty years of integer linear programming: Recent practical advances</strong> <code>inria.hal.science</code></a> - <a href="https://news.ycombinator.com/item?id=44274567">55 comments 185 points</a></li>
+<li><a href="https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW"><strong>Google Cloud Incident Report – 2025-06-13</strong> <code>status.cloud.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=44274563">158 comments 176 points</a></li>
+<li><a href="https://www.righto.com/2025/06/inside-apollo-fdai.html"><strong>Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)</strong> <code>www.righto.com</code></a> - <a href="https://news.ycombinator.com/item?id=44277051">25 comments 138 points</a></li>
+<li><a href="https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/"><strong>Waymo&#39;s market share in San Francisco exceeds Lyft&#39;s</strong> <code>underscoresf.com</code></a> - <a href="https://news.ycombinator.com/item?id=44277355">102 comments 135 points</a></li>
+<li><a href="https://www.mathpages.com/home/kmath668/kmath668.htm"><strong>Infinite Grid of Resistors</strong> <code>www.mathpages.com</code></a> - <a href="https://news.ycombinator.com/item?id=44279181">52 comments 130 points</a></li>
+<li><a href="https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d"><strong>Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix</strong> <code>netflixtechblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=44275575">94 comments 129 points</a></li>
+<li><a href="https://arxiv.org/abs/2506.10139"><strong>Unsupervised Elicitation of Language Models</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44276041">16 comments 125 points</a></li>
+<li><a href="https://togithub.com/zachlatta/sshtron"><strong>SSHTron: A multiplayer lightcycle game that runs through SSH</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44277245">12 comments 103 points</a></li>
+<li><a href="https://www.cbc.ca/news/world/minnesota-lawmakers-shot-1.7561491"><strong>2 Minnesota lawmakers shot in politically motivated killings, governor says</strong> <code>www.cbc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=44276916">18 comments 88 points</a></li>
+<li><a href="https://seohong.me/blog/q-learning-is-not-yet-scalable/"><strong>Q-learning is not yet scalable</strong> <code>seohong.me</code></a> - <a href="https://news.ycombinator.com/item?id=44279850">16 comments 79 points</a></li>
+<li><a href="https://blog.exitgroup.us/p/cheap-drones-will-realize-the-promise"><strong>Drones will realize the promise of suicide terrorism</strong> <code>blog.exitgroup.us</code></a> - <a href="https://news.ycombinator.com/item?id=44277708">129 comments 75 points</a></li>
+<li><a href="https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e"><strong>Saab achieves AI milestone with Gripen E</strong> <code>www.saab.com</code></a> - <a href="https://news.ycombinator.com/item?id=44274883">53 comments 71 points</a></li>
+<li><a href="https://arxiv.org/pdf/2504.18919"><strong>Clinical knowledge in LLMs does not translate to human interactions</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44279209">32 comments 71 points</a></li>
+<li><a href="https://osf.io/preprints/thesiscommons/wehmg_v1"><strong>How to Build Conscious Machines</strong> <code>osf.io</code></a> - <a href="https://news.ycombinator.com/item?id=44275559">67 comments 65 points</a></li>
+<li><a href="https://www.pagetable.com/?p=1810"><strong>How the Final Cartridge III Freezer Works</strong> <code>www.pagetable.com</code></a> - <a href="https://news.ycombinator.com/item?id=44277431">12 comments 65 points</a></li>
+<li><a href="https://www.theregister.com/2025/06/13/danish_department_dump_microsoft/"><strong>Danish department determined to dump Microsoft</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=44275066">17 comments 57 points</a></li>
+<li><a href="https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios"><strong>AMD&#39;s AI Future Is Rack Scale &#39;Helios&#39;</strong> <code>morethanmoore.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44278746">26 comments 54 points</a></li>
+<li><a href="https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/"><strong>Strace Tips for Better Debugging</strong> <code>rrampage.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44274784">1 comments 46 points</a></li>
+<li><a href="https://arxiv.org/abs/2505.23836"><strong>Large language models often know when they are being evaluated</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44280113">52 comments 42 points</a></li>
+<li><a href="https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6"><strong>AI agent startups at Y Combinator’s Spring ’25 Demo Day</strong> <code>www.businessinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=44274447">38 comments 37 points</a></li>
+<li><a href="https://it4sec.substack.com/p/a-flaw-in-infineons-security-microcontrollers"><strong>Infineon security microcontroller flaw enabled extraction of TPM secret keys</strong> <code>it4sec.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44277764">4 comments 36 points</a></li>
+<li><a href="https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm"><strong>Sperm are very different from all other cells</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=44279978">21 comments 30 points</a></li>
+<li><a href="https://www.vidmakerpro.com/"><strong>I used ChatGPT to learn programming from zero and built a video generation SaaS</strong> <code>www.vidmakerpro.com</code></a> - <a href="https://news.ycombinator.com/item?id=44279325">17 comments 28 points</a></li>
+<li><a href="https://www.twz.com/air/department-of-homeland-security-q-9-reaper-drones-are-orbiting-over-los-angeles"><strong>Department of Homeland Security Predator B Drones Are Orbiting over Los Angeles</strong> <code>www.twz.com</code></a> - <a href="https://news.ycombinator.com/item?id=44278554">3 comments 27 points</a></li>
+<li><a href="https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/"><strong>Fixing the mechanics of my bullet chess</strong> <code>jacobbrazeal.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=44279579">15 comments 26 points</a></li>
+<li><a href="https://willcrichton.net/notes/systems-programming/"><strong>What is systems programming, really? (2018)</strong> <code>willcrichton.net</code></a> - <a href="https://news.ycombinator.com/item?id=44278689">11 comments 26 points</a></li>
+<li><a href="https://www.washingtonpost.com/nation/2025/06/14/minnesota-lawmakers-targeted-shootings/"><strong>Minnesota lawmaker killed in &#39;politically motivated assassination&#39; governor says</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=44277177">5 comments 25 points</a></li>
+<li><a href="https://futurism.com/man-killed-police-chatgpt"><strong>Man Killed by Police After Spiraling into ChatGPT-Driven Psychosis</strong> <code>futurism.com</code></a> - <a href="https://news.ycombinator.com/item?id=44275551">40 comments 24 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-06-14]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1002</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/"><strong>Beyond Text: On-Demand UI Generation for Better Conversational Experiences</strong> <code>blog.fka.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44003347">37 comments 72 points</a></li>
 <li><a href="https://grimoiremanor.substack.com/p/the-problem-with-teens-isnt-smartphones"><strong>The Problem with Teens Isn&#39;t Smartphones–It&#39;s Their Families</strong> <code>grimoiremanor.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44003885">63 comments 69 points</a></li>
 <li><a href="https://togithub.com/A2-ai/rv"><strong>Show HN: Rv, a Package Manager for R</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44006735">29 comments 68 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-05-16]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/973</link>
-            <guid>973</guid>
-            <pubDate>Fri, 16 May 2025 06:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html"><strong>Baby is healed with first personalized gene-editing treatment</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43997636">314 comments 736 points</a></li>
-<li><a href="https://dynomight.net/numpy/"><strong>I don&#39;t like NumPy</strong> <code>dynomight.net</code></a> - <a href="https://news.ycombinator.com/item?id=43996431">164 comments 396 points</a></li>
-<li><a href="https://www.clientserver.dev/p/malicious-compliance-by-booking-an"><strong>Malicious compliance by booking an available meeting room</strong> <code>www.clientserver.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43994765">305 comments 329 points</a></li>
-<li><a href="https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html"><strong>Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=43996307">351 comments 320 points</a></li>
-<li><a href="https://sketch.dev/blog/agent-loop"><strong>The unreasonable effectiveness of an LLM agent loop with tool use</strong> <code>sketch.dev</code></a> - <a href="https://news.ycombinator.com/item?id=43998472">182 comments 298 points</a></li>
-<li><a href="https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html"><strong>A leap year check in three instructions</strong> <code>hueffner.de</code></a> - <a href="https://news.ycombinator.com/item?id=43999748">89 comments 261 points</a></li>
-<li><a href="https://eoinmurray.info/boltzmann-machine"><strong>A Tiny Boltzmann Machine</strong> <code>eoinmurray.info</code></a> - <a href="https://news.ycombinator.com/item?id=43995005">39 comments 232 points</a></li>
-<li><a href="https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/"><strong>EU ruling: tracking-based advertising [...] across Europe has no legal basis</strong> <code>www.iccl.ie</code></a> - <a href="https://news.ycombinator.com/item?id=43992444">165 comments 220 points</a></li>
-<li><a href="https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/"><strong>NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=44000700">30 comments 203 points</a></li>
-<li><a href="https://arstechnica.com/ai/2025/05/xais-grok-suddenly-cant-stop-bringing-up-white-genocide-in-south-africa/"><strong>XAI&#39;s Grok suddenly can&#39;t stop bringing up &quot;white genocide&quot; in South Africa</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43993332">65 comments 202 points</a></li>
-<li><a href="https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html"><strong>Harvard Law paid $27 for a copy of Magna Carta. It&#39;s an original</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=43997830">110 comments 176 points</a></li>
-<li><a href="https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin"><strong>California sent residents&#39; personal health data to LinkedIn</strong> <code>themarkup.org</code></a> - <a href="https://news.ycombinator.com/item?id=43995302">104 comments 170 points</a></li>
-<li><a href="https://togithub.com/marv1nnnnn/llm-min.txt"><strong>Show HN: Min.js style compression of tech docs for LLM context</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43994987">48 comments 165 points</a></li>
-<li><a href="https://blog.tartanllama.xyz/initialization-is-bonkers/"><strong>Initialization in C++ is bonkers (2017)</strong> <code>blog.tartanllama.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=43999492">104 comments 130 points</a></li>
-<li><a href="https://togithub.com/axbycc/LiveSplat"><strong>Show HN: Real-Time Gaussian Splatting</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=43994827">46 comments 130 points</a></li>
-<li><a href="https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding"><strong>Pathfinding</strong> <code>juhrjuhr.itch.io</code></a> - <a href="https://news.ycombinator.com/item?id=43994333">40 comments 127 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=43996555"><strong>Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=43996555">86 comments 119 points</a></li>
-<li><a href="https://lemmy.ml/post/30100312"><strong>My Engineering Craft Regressed</strong> <code>lemmy.ml</code></a> - <a href="https://news.ycombinator.com/item?id=43994635">70 comments 119 points</a></li>
-<li><a href="https://codeberg.org/unspeaker/tek"><strong>Tek – A music making program for 24-bit Unicode terminals</strong> <code>codeberg.org</code></a> - <a href="https://news.ycombinator.com/item?id=43998707">13 comments 114 points</a></li>
-<li><a href="https://ollama.com/blog/multimodal-models"><strong>Ollama&#39;s new engine for multimodal models</strong> <code>ollama.com</code></a> - <a href="https://news.ycombinator.com/item?id=44001087">16 comments 111 points</a></li>
-<li><a href="https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/"><strong>Stack Overflow is almost dead</strong> <code>blog.pragmaticengineer.com</code></a> - <a href="https://news.ycombinator.com/item?id=43999125">157 comments 109 points</a></li>
-<li><a href="https://ahelwer.ca/post/2025-05-15-tla-dev-status/"><strong>The current state of TLA⁺ development</strong> <code>ahelwer.ca</code></a> - <a href="https://news.ycombinator.com/item?id=43998115">23 comments 107 points</a></li>
-<li><a href="https://teal-language.org/"><strong>Teal – A statically-typed dialect of Lua</strong> <code>teal-language.org</code></a> - <a href="https://news.ycombinator.com/item?id=44000759">50 comments 97 points</a></li>
-<li><a href="https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/"><strong>I was a Theranos whistleblower. Here&#39;s what I think Elizabeth Holmes is up to</strong> <code>www.statnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=44001041">62 comments 96 points</a></li>
-<li><a href="https://undetectag.com/"><strong>Show HN: Undetectag, track stolen items with AirTag</strong> <code>undetectag.com</code></a> - <a href="https://news.ycombinator.com/item?id=43996251">85 comments 93 points</a></li>
-<li><a href="https://www.orsolabs.com/post/refactoring-clojure-1/"><strong>Refactoring Clojure</strong> <code>www.orsolabs.com</code></a> - <a href="https://news.ycombinator.com/item?id=43998423">22 comments 85 points</a></li>
-<li><a href="https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/"><strong>In the US, a rotating detonation rocket engine takes flight</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=43993897">61 comments 82 points</a></li>
-<li><a href="https://blog.cloudflare.com/web-bot-auth/"><strong>Forget IPs: using cryptography to verify bot and agent traffic</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=43994779">25 comments 77 points</a></li>
-<li><a href="https://deno.com/blog/an-update-on-fresh"><strong>An Update on Fresh</strong> <code>deno.com</code></a> - <a href="https://news.ycombinator.com/item?id=43996071">55 comments 71 points</a></li>
-<li><a href="https://www.experimental-history.com/p/new-paradigm-for-psychology-just"><strong>“The Mind in the Wheel” lays out a new foundation for the science of mind</strong> <code>www.experimental-history.com</code></a> - <a href="https://news.ycombinator.com/item?id=43997932">56 comments 69 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
