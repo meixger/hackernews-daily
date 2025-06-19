@@ -22,7 +22,9 @@ export const openIssue = async ({ owner, repo, title, body }) => {
 }
 
 export const getIssues = async ({ owner, repo, take }) => {
-  const octokit = new Octokit();
+  const octokit = new Octokit({
+    authStrategy: createActionAuth
+  });
   const res = await octokit.request('GET /repos/{owner}/{repo}/issues', {
     owner,
     repo,
