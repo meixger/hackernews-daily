@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 27 Jun 2025 06:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 06:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-06-27]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1015</link>
+            <guid>1015</guid>
+            <pubDate>Fri, 27 Jun 2025 06:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"><strong>AlphaGenome: AI for better understanding the genome</strong> <code>deepmind.google</code></a> - <a href="https://news.ycombinator.com/item?id=44387659">135 comments 425 points</a></li>
+<li><a href="https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/"><strong>Introducing Gemma 3n</strong> <code>developers.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=44389202">142 comments 325 points</a></li>
+<li><a href="https://apnews.com/article/economy-tariffs-trump-gdp-shrink-86d1f15e66c646ac4ce88ffc0a956942"><strong>US economy shrank 0.5% in the first quarter, worse than earlier estimates</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=44390454">134 comments 325 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=44387828"><strong>Launch HN: Issen (YC F24) – Personal AI language tutor</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44387828">218 comments 246 points</a></li>
+<li><a href="https://www.worksinprogress.news/p/the-first-non-opioid-painkiller"><strong>The first non-opoid painkiller</strong> <code>www.worksinprogress.news</code></a> - <a href="https://news.ycombinator.com/item?id=44385612">197 comments 235 points</a></li>
+<li><a href="https://snowemu.com/"><strong>Snow - Classic Macintosh emulator</strong> <code>snowemu.com</code></a> - <a href="https://news.ycombinator.com/item?id=44385562">79 comments 228 points</a></li>
+<li><a href="https://jaysthoughts.com/aithoughts1"><strong>LLM code generation may lead to an erosion of trust</strong> <code>jaysthoughts.com</code></a> - <a href="https://news.ycombinator.com/item?id=44384610">237 comments 221 points</a></li>
+<li><a href="https://alternativelayoutsystem.com/scripts/#same-sizer"><strong>Alternative Layout System</strong> <code>alternativelayoutsystem.com</code></a> - <a href="https://news.ycombinator.com/item?id=44390501">21 comments 196 points</a></li>
+<li><a href="https://warontherocks.com/2025/06/i-fought-in-ukraine-and-heres-why-fpv-drones-kind-of-suck/"><strong>I fought in Ukraine and here&#39;s why FPV drones kind of suck</strong> <code>warontherocks.com</code></a> - <a href="https://news.ycombinator.com/item?id=44385892">275 comments 181 points</a></li>
+<li><a href="https://www.cubic.dev/blog/learnings-from-building-ai-agents"><strong>Learnings from building AI agents</strong> <code>www.cubic.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44386887">58 comments 163 points</a></li>
+<li><a href="https://matrix.org/blog/2025/06/26/matrix-v1.15-release/"><strong>Matrix v1.15</strong> <code>matrix.org</code></a> - <a href="https://news.ycombinator.com/item?id=44390740">53 comments 160 points</a></li>
+<li><a href="https://sharnoff.io/blog/why-rust-compiler-slow"><strong>“Why is the Rust compiler so slow?”</strong> <code>sharnoff.io</code></a> - <a href="https://news.ycombinator.com/item?id=44390488">183 comments 159 points</a></li>
+<li><a href="https://thedabbler.patatas.ca/pages/ai-is-dehumanization-technology.html"><strong>AI Is Dehumanization Technology</strong> <code>thedabbler.patatas.ca</code></a> - <a href="https://news.ycombinator.com/item?id=44390576">163 comments 148 points</a></li>
+<li><a href="https://togithub.com/metabase/dataset-generator"><strong>Show HN: I built an AI dataset generator</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44388093">27 comments 134 points</a></li>
+<li><a href="https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/"><strong>The time is right for a DOM templating API</strong> <code>justinfagnani.com</code></a> - <a href="https://news.ycombinator.com/item?id=44390452">75 comments 127 points</a></li>
+<li><a href="https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue"><strong>Lateralized sleeping positions in domestic cats</strong> <code>www.cell.com</code></a> - <a href="https://news.ycombinator.com/item?id=44390072">54 comments 127 points</a></li>
+<li><a href="https://bfl.ai/announcements/flux-1-kontext-dev"><strong>FLUX.1 Kontext [Dev] – Open Weights for Image Editing</strong> <code>bfl.ai</code></a> - <a href="https://news.ycombinator.com/item?id=44388387">38 comments 127 points</a></li>
+<li><a href="https://apptainer.org/"><strong>Apptainer: Application Containers for Linux</strong> <code>apptainer.org</code></a> - <a href="https://news.ycombinator.com/item?id=44385742">78 comments 105 points</a></li>
+<li><a href="https://www.adhdhelp.app/en"><strong>I built an ADHD app with interactive coping tools, noise mixer and self-test</strong> <code>www.adhdhelp.app</code></a> - <a href="https://news.ycombinator.com/item?id=44387563">94 comments 94 points</a></li>
+<li><a href="https://openai.com/index/robots-that-learn/"><strong>Robots that learn</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=44390915">25 comments 94 points</a></li>
+<li><a href="https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/"><strong>Muvera: Making multi-vector retrieval as fast as single-vector search</strong> <code>research.google</code></a> - <a href="https://news.ycombinator.com/item?id=44385981">7 comments 94 points</a></li>
+<li><a href="https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html"><strong>Biomolecular shifts occur in our 40s and 60s (2024)</strong> <code>med.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44393547">21 comments 91 points</a></li>
+<li><a href="https://togithub.com/magnitudedev/magnitude"><strong>Show HN: Magnitude – Open-source AI browser automation framework</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44390005">31 comments 87 points</a></li>
+<li><a href="https://angadh.com/space-data-centers-1"><strong>Starcloud can’t put a data centre in space at $8.2M in one Starship</strong> <code>angadh.com</code></a> - <a href="https://news.ycombinator.com/item?id=44390781">114 comments 82 points</a></li>
+<li><a href="https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes"><strong>Memory safety is table stakes</strong> <code>www.usenix.org</code></a> - <a href="https://news.ycombinator.com/item?id=44390527">100 comments 82 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=44393304"><strong>Ask HN: Is anyone else just done with the industry?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44393304">63 comments 80 points</a></li>
+<li><a href="https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/"><strong>Apple announces App Store changes in the EU</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=44390668">81 comments 75 points</a></li>
+<li><a href="https://www.mdpi.com/2226-4310/12/6/519"><strong>A Review of Aerospike Nozzles: Current Trends in Aerospace Applications</strong> <code>www.mdpi.com</code></a> - <a href="https://news.ycombinator.com/item?id=44388395">39 comments 75 points</a></li>
+<li><a href="https://www.isc.org/blogs/kea-3-0/"><strong>Kea 3.0, our first LTS version</strong> <code>www.isc.org</code></a> - <a href="https://news.ycombinator.com/item?id=44390962">26 comments 75 points</a></li>
+<li><a href="https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/"><strong>Senators reintroduce App Store bill to rein in &#39;gatekeeper power&#39;</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=44391711">52 comments 71 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-06-26]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1014</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://voiden.md"><strong>Show HN: Voiden – a free, offline, Git-native API Client</strong> <code>voiden.md</code></a> - <a href="https://news.ycombinator.com/item?id=44115467">62 comments 74 points</a></li>
 <li><a href="https://www.mooncake.dev/blog/htap-is-dead"><strong>HTAP is Dead</strong> <code>www.mooncake.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44121177">40 comments 74 points</a></li>
 <li><a href="https://togithub.com/livingbio/typed-ffmpeg"><strong>Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44123098">7 comments 67 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-05-28]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/985</link>
-            <guid>985</guid>
-            <pubDate>Wed, 28 May 2025 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://aaronson.org/blog/square-theory"><strong>Square Theory</strong> <code>aaronson.org</code></a> - <a href="https://news.ycombinator.com/item?id=44107942">102 comments 517 points</a></li>
-<li><a href="https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting"><strong>How a hawk learned to use traffic signals to hunt more successfully</strong> <code>www.frontiersin.org</code></a> - <a href="https://news.ycombinator.com/item?id=44105965">108 comments 372 points</a></li>
-<li><a href="https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/"><strong>The Myth of Developer Obsolescence</strong> <code>alonso.network</code></a> - <a href="https://news.ycombinator.com/item?id=44105592">345 comments 318 points</a></li>
-<li><a href="https://simonwillison.net/2025/May/27/llm-tools/"><strong>Show HN: My LLM CLI tool can run tools now, from Python code or plugins</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=44110584">110 comments 298 points</a></li>
-<li><a href="https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/"><strong>Pyrefly vs. Ty: Comparing Python&#39;s two new Rust-based type checkers</strong> <code>blog.edward-li.com</code></a> - <a href="https://news.ycombinator.com/item?id=44107655">114 comments 295 points</a></li>
-<li><a href="https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident"><strong>BGP handling bug causes widespread internet routing instability</strong> <code>blog.benjojo.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=44105796">129 comments 279 points</a></li>
-<li><a href="https://indyweek.com/culture/duke-students-dumpster-diving/"><strong>I salvaged $6k of luxury items discarded by Duke students</strong> <code>indyweek.com</code></a> - <a href="https://news.ycombinator.com/item?id=44108207">273 comments 238 points</a></li>
-<li><a href="https://ducklake.select/"><strong>DuckLake is an integrated data lake and catalog format</strong> <code>ducklake.select</code></a> - <a href="https://news.ycombinator.com/item?id=44106934">89 comments 231 points</a></li>
-<li><a href="https://lumosql.org/src/lumosql/doc/trunk/README.md"><strong>LumoSQL</strong> <code>lumosql.org</code></a> - <a href="https://news.ycombinator.com/item?id=44105619">81 comments 224 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=44112326"><strong>Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44112326">15 comments 156 points</a></li>
-<li><a href="https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing"><strong>Why Cline doesn&#39;t index your codebase</strong> <code>cline.bot</code></a> - <a href="https://news.ycombinator.com/item?id=44106944">108 comments 152 points</a></li>
-<li><a href="https://512pixels.net/2025/05/original-macintosh-resolution/"><strong>Why the original Macintosh had a screen resolution of 512×324</strong> <code>512pixels.net</code></a> - <a href="https://news.ycombinator.com/item?id=44110219">99 comments 150 points</a></li>
-<li><a href="https://mistral.ai/news/agents-api"><strong>Mistral Agents API</strong> <code>mistral.ai</code></a> - <a href="https://news.ycombinator.com/item?id=44107187">20 comments 144 points</a></li>
-<li><a href="https://livestore.dev"><strong>LiveStore: State management based on reactive SQLite and built-in sync engine</strong> <code>livestore.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44105412">38 comments 139 points</a></li>
-<li><a href="https://actamachina.com/posts/annotated-benter-paper"><strong>Revisiting the algorithm that changed horse race betting (2023)</strong> <code>actamachina.com</code></a> - <a href="https://news.ycombinator.com/item?id=44105470">53 comments 120 points</a></li>
-<li><a href="https://nathan.rs/posts/gpu-shader-programming/"><strong>Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming</strong> <code>nathan.rs</code></a> - <a href="https://news.ycombinator.com/item?id=44109257">31 comments 119 points</a></li>
-<li><a href="https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/"><strong>The Art of Fugue – Contrapunctus I (2021)</strong> <code>www.ethanhein.com</code></a> - <a href="https://news.ycombinator.com/item?id=44106764">52 comments 118 points</a></li>
-<li><a href="https://www.politico.com/news/2025/05/27/trump-team-orders-stop-to-new-student-visa-interviews-as-it-weighs-expanding-social-media-vetting-00370501"><strong>US pauses new student visa interviews as it mulls expanding social media vetting</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=44109253">171 comments 116 points</a></li>
-<li><a href="https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html"><strong>Just make it scale: An Aurora DSQL story</strong> <code>www.allthingsdistributed.com</code></a> - <a href="https://news.ycombinator.com/item?id=44105878">34 comments 115 points</a></li>
-<li><a href="https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles"><strong>Look ma, no bubbles designing a low-latency megakernel for Llama-1B</strong> <code>hazyresearch.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44111673">17 comments 110 points</a></li>
-<li><a href="https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution"><strong>A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS</strong> <code>roderickkhan.com</code></a> - <a href="https://news.ycombinator.com/item?id=44111609">21 comments 103 points</a></li>
-<li><a href="https://malai.sh/hello-tcp/"><strong>Show HN: Malai – securely share local TCP services (database/SSH) with others</strong> <code>malai.sh</code></a> - <a href="https://news.ycombinator.com/item?id=44107393">42 comments 102 points</a></li>
-<li><a href="https://arxiv.org/abs/2505.17989"><strong>Outcome-Based Reinforcement Learning to Predict the Future</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44106842">14 comments 91 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=44108206"><strong>Launch HN: Relace (YC W23) – Models for fast and reliable codegen</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44108206">44 comments 86 points</a></li>
-<li><a href="https://togithub.com/UCSBarchlab/OpenTPU"><strong>OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44111452">12 comments 75 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=okOzxHN9NOA"><strong>Starship Flight 9 booster explodes on impact [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=44111616">108 comments 67 points</a></li>
-<li><a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html"><strong>Using Logic in Writing</strong> <code>owl.purdue.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44105089">18 comments 63 points</a></li>
-<li><a href="https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam"><strong>In Vietnam, an unlikely outpost for Chicano culture</strong> <code>www.latimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44110270">43 comments 62 points</a></li>
-<li><a href="https://3dvf.com/en/he-has-powered-his-house-for-8-years-using-laptop-batteries/"><strong>He has powered his house for 8 years using laptop batteries</strong> <code>3dvf.com</code></a> - <a href="https://news.ycombinator.com/item?id=44104740">59 comments 54 points</a></li>
-<li><a href="https://girard.perso.math.cnrs.fr/mustard/article.html"><strong>Mustard Watches (1990)</strong> <code>girard.perso.math.cnrs.fr</code></a> - <a href="https://news.ycombinator.com/item?id=44110931">22 comments 53 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
