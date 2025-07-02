@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 01 Jul 2025 06:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jul 2025 06:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-07-01]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1019</link>
+            <guid>1019</guid>
+            <pubDate>Tue, 01 Jul 2025 06:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.philschmid.de/context-engineering"><strong>The new skill in AI is not prompting, it&#39;s context engineering</strong> <code>www.philschmid.de</code></a> - <a href="https://news.ycombinator.com/item?id=44427757">270 comments 513 points</a></li>
+<li><a href="https://www.xfinity.com/support/articles/wifi-motion"><strong>Xfinity using WiFi signals in your house to detect motion</strong> <code>www.xfinity.com</code></a> - <a href="https://news.ycombinator.com/item?id=44426726">327 comments 496 points</a></li>
+<li><a href="https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only"><strong>There are no new ideas in AI only new datasets</strong> <code>blog.jxmo.io</code></a> - <a href="https://news.ycombinator.com/item?id=44423983">188 comments 382 points</a></li>
+<li><a href="https://proton.me/blog/apple-lawsuit"><strong>Proton joins suit against Apple for practices that harm developers and consumers</strong> <code>proton.me</code></a> - <a href="https://news.ycombinator.com/item?id=44426128">317 comments 287 points</a></li>
+<li><a href="https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/"><strong>I write type-safe generic data structures in C</strong> <code>danielchasehooper.com</code></a> - <a href="https://news.ycombinator.com/item?id=44425461">98 comments 267 points</a></li>
+<li><a href="https://togithub.com/M4THYOU/TokenDagger"><strong>Show HN: TokenDagger – A tokenizer faster than OpenAI&#39;s Tiktoken</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44422480">71 comments 255 points</a></li>
+<li><a href="https://untested.sonnet.io/notes/new-enso-first-public-beta/"><strong>Show HN: New Ensō – first public beta</strong> <code>untested.sonnet.io</code></a> - <a href="https://news.ycombinator.com/item?id=44421776">81 comments 234 points</a></li>
+<li><a href="https://jsgroth.dev/blog/posts/dkc2-open-bus/"><strong>Donkey Kong Country 2 and Open Bus</strong> <code>jsgroth.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44424194">52 comments 213 points</a></li>
+<li><a href="https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/"><strong>The provenance memory model for C</strong> <code>gustedt.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=44421185">113 comments 211 points</a></li>
+<li><a href="https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8"><strong>Melbourne man discovers extensive model train network underneath house</strong> <code>www.sbs.com.au</code></a> - <a href="https://news.ycombinator.com/item?id=44429182">50 comments 191 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=44426233"><strong>Ask HN: What&#39;s the 2025 stack for a self-hosted photo library with local AI?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44426233">82 comments 185 points</a></li>
+<li><a href="https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html"><strong>Want to meet people, try charging them for it?</strong> <code>notes.eatonphil.com</code></a> - <a href="https://news.ycombinator.com/item?id=44419986">87 comments 183 points</a></li>
+<li><a href="https://docs.anthropic.com/en/docs/claude-code/hooks"><strong>Claude Code now supports Hooks</strong> <code>docs.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=44429225">51 comments 165 points</a></li>
+<li><a href="https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/"><strong>The hidden JTAG in a Qualcomm/Snapdragon device’s USB port</strong> <code>www.linaro.org</code></a> - <a href="https://news.ycombinator.com/item?id=44426428">22 comments 143 points</a></li>
+<li><a href="https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/"><strong>Datadog&#39;s $65M/year customer mystery solved</strong> <code>blog.pragmaticengineer.com</code></a> - <a href="https://news.ycombinator.com/item?id=44426399">38 comments 126 points</a></li>
+<li><a href="https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/"><strong>Entry-level jobs down by a third since launch of ChatGPT</strong> <code>www.personneltoday.com</code></a> - <a href="https://news.ycombinator.com/item?id=44422040">172 comments 120 points</a></li>
+<li><a href="https://www.erasmatazz.com/personal/self/end-of-an-era.html"><strong>End of an Era</strong> <code>www.erasmatazz.com</code></a> - <a href="https://news.ycombinator.com/item?id=44426845">31 comments 116 points</a></li>
+<li><a href="https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/"><strong>Price of rice in Japan falls below ¥4k per 5kg</strong> <code>www.japantimes.co.jp</code></a> - <a href="https://news.ycombinator.com/item?id=44427147">150 comments 94 points</a></li>
+<li><a href="https://www.nullpt.rs/reversing-botid"><strong>Reverse Engineering Vercel&#39;s BotID</strong> <code>www.nullpt.rs</code></a> - <a href="https://news.ycombinator.com/item?id=44422356">18 comments 93 points</a></li>
+<li><a href="https://forwardemail.net/en/blog/docs/email-startup-graveyard-why-80-percent-email-companies-fail"><strong>The Email Startup Graveyard: Why 80%+ of Email Companies Fail</strong> <code>forwardemail.net</code></a> - <a href="https://news.ycombinator.com/item?id=44429457">43 comments 92 points</a></li>
+<li><a href="https://kevinboone.me/dtc-700.html"><strong>They don&#39;t make &#39;em like that any more: Sony DTC-700 audio DAT player/recorder</strong> <code>kevinboone.me</code></a> - <a href="https://news.ycombinator.com/item?id=44426171">71 comments 84 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt"><strong>Apple weighs using Anthropic or OpenAI to power Siri</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=44426643">81 comments 81 points</a></li>
+<li><a href="https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/"><strong>The original LZEXE (A.K.A. Kosinski) compressor source code has been released</strong> <code>clownacy.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=44426864">4 comments 80 points</a></li>
+<li><a href="https://www.theatlantic.com/ideas/archive/2025/06/customer-service-sludge/683340/"><strong>That Dropped Call with Customer Service? It Was on Purpose</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=44419753">56 comments 78 points</a></li>
+<li><a href="https://www.sigops.org/2025/the-academic-pipeline-stall-why-industry-must-stand-for-academia/"><strong>The Academic Pipeline Stall: Why Industry Must Stand for Academia</strong> <code>www.sigops.org</code></a> - <a href="https://news.ycombinator.com/item?id=44424712">140 comments 76 points</a></li>
+<li><a href="https://tesseral.com/blog/b2b-auth-isnt-that-similar-to-b2c-auth"><strong>Auth for B2B SaaS: it&#39;s not like auth for consumer software</strong> <code>tesseral.com</code></a> - <a href="https://news.ycombinator.com/item?id=44424256">42 comments 72 points</a></li>
+<li><a href="https://spectrum.ieee.org/carmax-used-pcs"><strong>A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=44425253">78 comments 68 points</a></li>
+<li><a href="https://tucson-josh.com/posts/rust-clap-cli/"><strong>Rust CLIs with Clap</strong> <code>tucson-josh.com</code></a> - <a href="https://news.ycombinator.com/item?id=44429695">55 comments 67 points</a></li>
+<li><a href="https://spectrum.ieee.org/3d-printing-smart-objects"><strong>Printegrated Circuits: Merging 3D Printing and Electronics</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=44421978">27 comments 67 points</a></li>
+<li><a href="https://sfg.media/en/a/if-ai-lets-us-do-more-in-less-time/"><strong>If AI Lets Us Do More in Less Time–Why Not Shorten the Workweek?</strong> <code>sfg.media</code></a> - <a href="https://news.ycombinator.com/item?id=44421254">156 comments 65 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-06-30]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1018</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.bloomberg.com/news/features/2025-05-28/youtube-creators-compete-with-hollywood-studio-sitcoms"><strong>YouTube Is Swallowing TV Whole, and It&#39;s Coming for the Sitcom</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=44151139">116 comments 49 points</a></li>
 <li><a href="https://mertbulan.com/2025/06/01/the-american-vs-european-mindset-on-life/"><strong>The American vs. European Mindset on Life</strong> <code>mertbulan.com</code></a> - <a href="https://news.ycombinator.com/item?id=44149009">44 comments 49 points</a></li>
 <li><a href="https://www.alexwest.co/book-one"><strong>Making $1M from my personal projects</strong> <code>www.alexwest.co</code></a> - <a href="https://news.ycombinator.com/item?id=44153795">30 comments 49 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-06-01]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/989</link>
-            <guid>989</guid>
-            <pubDate>Sun, 01 Jun 2025 06:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://mitxela.com/projects/precision_clock_mk_iv"><strong>Precision Clock Mk IV</strong> <code>mitxela.com</code></a> - <a href="https://news.ycombinator.com/item?id=44144750">110 comments 443 points</a></li>
-<li><a href="https://simonbyrne.github.io/notes/fastmath/"><strong>Beware of Fast-Math</strong> <code>simonbyrne.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44142472">200 comments 296 points</a></li>
-<li><a href="https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/"><strong>A Lean companion to Analysis I</strong> <code>terrytao.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=44145517">21 comments 198 points</a></li>
-<li><a href="https://lambdacreate.com/posts/68"><strong>Using lots of little tools to aggressively reject the bots</strong> <code>lambdacreate.com</code></a> - <a href="https://news.ycombinator.com/item?id=44142761">107 comments 190 points</a></li>
-<li><a href="https://www.os2museum.com/wp/ai-responses-may-include-mistakes/"><strong>AI Responses May Include Mistakes</strong> <code>www.os2museum.com</code></a> - <a href="https://news.ycombinator.com/item?id=44142113">184 comments 178 points</a></li>
-<li><a href="https://overreacted.io/progressive-json/"><strong>Progressive JSON</strong> <code>overreacted.io</code></a> - <a href="https://news.ycombinator.com/item?id=44147945">73 comments 169 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=44144473"><strong>Ask HN: Anyone making a living from a paid API?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44144473">118 comments 157 points</a></li>
-<li><a href="https://www.mattkeeter.com/blog/2025-05-14-gradients/"><strong>Gradients Are the New Intervals</strong> <code>www.mattkeeter.com</code></a> - <a href="https://news.ycombinator.com/item?id=44142266">50 comments 137 points</a></li>
-<li><a href="https://www.nytimes.com/2025/05/29/business/toto-toilet-japan-bidet.html"><strong>The Rise of the Japanese Toilet</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44144730">230 comments 122 points</a></li>
-<li><a href="https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/"><strong>Oniux: Kernel-level Tor isolation for any Linux app</strong> <code>blog.torproject.org</code></a> - <a href="https://news.ycombinator.com/item?id=44146830">29 comments 121 points</a></li>
-<li><a href="https://www.thetimes.com/us/american-politics/article/usaid-doge-deaths-children-cuts-7nb83dfkp"><strong>Doge cuts to USAid blamed for 300k deaths – most of them children</strong> <code>www.thetimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44142790">61 comments 114 points</a></li>
-<li><a href="https://togithub.com/volution/punchcard-key-backup"><strong>Show HN: PunchCard Key Backup</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44145202">39 comments 114 points</a></li>
-<li><a href="https://arxiv.org/abs/2401.17270"><strong>YOLO-World: Real-Time Open-Vocabulary Object Detection</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44146858">33 comments 113 points</a></li>
-<li><a href="https://timestripe.com/magazine/blog/timezone/"><strong>My five-year experiment with UTC</strong> <code>timestripe.com</code></a> - <a href="https://news.ycombinator.com/item?id=44144224">128 comments 102 points</a></li>
-<li><a href="https://togithub.com/robertjakob/rigorous"><strong>Show HN: AI Peer Reviewer – Multiagent system for scientific manuscript analysis</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44144280">79 comments 99 points</a></li>
-<li><a href="https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html"><strong>CCD co-inventor George E. Smith dies at 95</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44146619">7 comments 95 points</a></li>
-<li><a href="https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/"><strong>The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity</strong> <code>jamesoclaire.com</code></a> - <a href="https://news.ycombinator.com/item?id=44142839">14 comments 93 points</a></li>
-<li><a href="https://patio.so"><strong>Show HN: Patio – Rent tools, learn DIY, reduce waste</strong> <code>patio.so</code></a> - <a href="https://news.ycombinator.com/item?id=44147803">59 comments 92 points</a></li>
-<li><a href="https://togithub.com/jchester/bobotw"><strong>Web dev is still fun if you want it to be</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44142254">87 comments 90 points</a></li>
-<li><a href="https://kolektiva.social/@beka_valentine/114600567753999701"><strong>The NFS 4 Freezer Spacer In Science Fiction Sets</strong> <code>kolektiva.social</code></a> - <a href="https://news.ycombinator.com/item?id=44147631">12 comments 79 points</a></li>
-<li><a href="https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/"><strong>Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar</strong> <code>www.bu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44143432">132 comments 78 points</a></li>
-<li><a href="https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/"><strong>New adaptive optics shows details of our star&#39;s atmosphere</strong> <code>nso.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44147573">6 comments 77 points</a></li>
-<li><a href="https://aartaka.me/this-post-is-ed.html"><strong>Using Ed(1) as My Static Site Generator</strong> <code>aartaka.me</code></a> - <a href="https://news.ycombinator.com/item?id=44144308">30 comments 75 points</a></li>
-<li><a href="https://microsoft.github.io/renderformer/"><strong>RenderFormer: Neural rendering of triangle meshes with global illumination</strong> <code>microsoft.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44148524">12 comments 75 points</a></li>
-<li><a href="https://togithub.com/trimstray/the-book-of-secret-knowledge"><strong>The Book of Secret Knowledge</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44142852">3 comments 68 points</a></li>
-<li><a href="https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html"><strong>Plutonium Powered Pacemaker (From 1974)</strong> <code>www.orau.org</code></a> - <a href="https://news.ycombinator.com/item?id=44146847">25 comments 55 points</a></li>
-<li><a href="https://fontofweb.com"><strong>Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)</strong> <code>fontofweb.com</code></a> - <a href="https://news.ycombinator.com/item?id=44144451">18 comments 55 points</a></li>
-<li><a href="https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d"><strong>Sguaba: Hard-to-misuse rigid body transforms for engineers</strong> <code>blog.helsing.ai</code></a> - <a href="https://news.ycombinator.com/item?id=44146744">14 comments 55 points</a></li>
-<li><a href="https://susam.net/two-ideals-of-fields.html"><strong>The Two Ideals of Fields</strong> <code>susam.net</code></a> - <a href="https://news.ycombinator.com/item?id=44144331">41 comments 50 points</a></li>
-<li><a href="http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html"><strong>Of course the Apple Network Server can be hacked into running Doom</strong> <code>oldvcr.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=44148179">8 comments 44 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
