@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 06 Jul 2025 06:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 06:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-07-06]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1024</link>
+            <guid>1024</guid>
+            <pubDate>Sun, 06 Jul 2025 06:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.inkandswitch.com/essay/local-first/"><strong>Local-first software (2019)</strong> <code>www.inkandswitch.com</code></a> - <a href="https://news.ycombinator.com/item?id=44473135">208 comments 647 points</a></li>
+<li><a href="https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability"><strong>Hidden interface controls are affecting usability</strong> <code>interactions.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=44476297">164 comments 316 points</a></li>
+<li><a href="https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon"><strong>The Prime Reasons to Avoid Amazon</strong> <code>blog.thenewoil.org</code></a> - <a href="https://news.ycombinator.com/item?id=44475297">190 comments 188 points</a></li>
+<li><a href="https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry"><strong>Problems the AI industry is not addressing adequately</strong> <code>www.thealgorithmicbridge.com</code></a> - <a href="https://news.ycombinator.com/item?id=44471695">205 comments 187 points</a></li>
+<li><a href="https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0"><strong>Stop Killing Games</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=44470632">136 comments 176 points</a></li>
+<li><a href="https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched"><strong>Europe&#39;s first geostationary sounder satellite is launched</strong> <code>www.eumetsat.int</code></a> - <a href="https://news.ycombinator.com/item?id=44472992">38 comments 176 points</a></li>
+<li><a href="https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers"><strong>&#39;Positive review only&#39;: Researchers hide AI prompts in papers</strong> <code>asia.nikkei.com</code></a> - <a href="https://news.ycombinator.com/item?id=44473319">124 comments 173 points</a></li>
+<li><a href="https://basicappleguy.com/basicappleblog/macos-icon-history"><strong>macOS Icon History</strong> <code>basicappleguy.com</code></a> - <a href="https://news.ycombinator.com/item?id=44473400">66 comments 163 points</a></li>
+<li><a href="https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale"><strong>Local-First Software Is Easier to Scale</strong> <code>elijahpotter.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44473590">73 comments 162 points</a></li>
+<li><a href="https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/"><strong>Eastern Baltic cod grow much smaller than they did due to overfishing</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=44474759">52 comments 158 points</a></li>
+<li><a href="https://initcoder.com/posts/37-year-old-learning-cs/"><strong>A 37-year-old wanting to learn computer science</strong> <code>initcoder.com</code></a> - <a href="https://news.ycombinator.com/item?id=44471190">157 comments 154 points</a></li>
+<li><a href="https://www.lemonde.fr/en/france/article/2025/07/05/seine-reopens-to-paris-swimmers-after-century-long-ban_6743058_7.html"><strong>Seine reopens to Paris swimmers after century-long ban</strong> <code>www.lemonde.fr</code></a> - <a href="https://news.ycombinator.com/item?id=44474297">73 comments 130 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing"><strong>Why Tesla’s cars keep crashing</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=44470503">69 comments 128 points</a></li>
+<li><a href="https://aginfer.bearblog.dev/how-to-network-as-an-introvert/"><strong>How to Network as an Introvert</strong> <code>aginfer.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44475537">57 comments 125 points</a></li>
+<li><a href="https://mynoise.net/blog.php"><strong>What a Hacker Stole from Me</strong> <code>mynoise.net</code></a> - <a href="https://news.ycombinator.com/item?id=44476115">30 comments 113 points</a></li>
+<li><a href="https://arxiv.org/abs/2503.14283"><strong>Techno-Feudalism and the Rise of AGI: A Future Without Economic Rights?</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44475634">90 comments 108 points</a></li>
+<li><a href="https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql"><strong>Speeding up PostgreSQL dump/restore snapshots</strong> <code>xata.io</code></a> - <a href="https://news.ycombinator.com/item?id=44473888">22 comments 106 points</a></li>
+<li><a href="https://mrsteinberg.com/how-to-not-pay-your-taxes-legally-apparently/"><strong>How to not pay your taxes legally, apparently</strong> <code>mrsteinberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=44474531">109 comments 105 points</a></li>
+<li><a href="https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/"><strong>The messy reality of SIMD (vector) functions</strong> <code>johnnysswlab.com</code></a> - <a href="https://news.ycombinator.com/item?id=44470464">66 comments 103 points</a></li>
+<li><a href="https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/"><strong>Cops in [Spain] think everyone using a Google Pixel must be a drug dealer</strong> <code>www.androidauthority.com</code></a> - <a href="https://news.ycombinator.com/item?id=44473694">62 comments 88 points</a></li>
+<li><a href="https://simonwillison.net/2025/Jul/5/cgi-bin-performance/"><strong>Serving 200M requests per day with a CGI-bin</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=44476716">50 comments 83 points</a></li>
+<li><a href="https://www.gamingonlinux.com/2025/07/happy-birthday-gamingonlinux-16-years-today/"><strong>Happy Birthday, GamingOnLinux – 16 years today</strong> <code>www.gamingonlinux.com</code></a> - <a href="https://news.ycombinator.com/item?id=44473063">7 comments 81 points</a></li>
+<li><a href="https://www.techradar.com/vpn/vpn-privacy-security/the-eu-wants-to-decrypt-your-private-data-by-2030"><strong>The EU wants to decrypt your private data by 2030</strong> <code>www.techradar.com</code></a> - <a href="https://news.ycombinator.com/item?id=44472794">40 comments 79 points</a></li>
+<li><a href="https://www.euronews.com/next/2025/06/22/takes-away-our-safest-option-adult-creators-react-to-law-banning-online-sex-purchases-in-s"><strong>A new law in Sweden makes it illegal to buy custom adult content</strong> <code>www.euronews.com</code></a> - <a href="https://news.ycombinator.com/item?id=44474663">90 comments 78 points</a></li>
+<li><a href="https://viksit.substack.com/p/optimizing-tool-selection-for-llm"><strong>Optimizing Tool Selection for LLM Workflows with Differentiable Programming</strong> <code>viksit.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44475453">32 comments 78 points</a></li>
+<li><a href="https://www.lawfaremedia.org/article/goodbye-to-all-that"><strong>Goodbye to All That – My Resignation from the FBI</strong> <code>www.lawfaremedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=44473677">27 comments 78 points</a></li>
+<li><a href="https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine"><strong>Heart attacks aren&#39;t as fatal as they used to be</strong> <code>www.vox.com</code></a> - <a href="https://news.ycombinator.com/item?id=44473409">74 comments 77 points</a></li>
+<li><a href="https://www.nature.com/articles/s41598-025-03727-9"><strong>Pet ownership and cognitive functioning in later adulthood across pet types</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=44474894">27 comments 77 points</a></li>
+<li><a href="https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/"><strong>A new, faster DeepSeek R1-0528 variant appears from German lab</strong> <code>venturebeat.com</code></a> - <a href="https://news.ycombinator.com/item?id=44470746">22 comments 75 points</a></li>
+<li><a href="https://lukesmith.xyz/articles/everyone-should-be-avoiding-docker/"><strong>Basically Everyone Should Be Avoiding Docker</strong> <code>lukesmith.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=44477452">67 comments 74 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-07-05]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1023</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://torrentfreak.com/major-vpn-providers-ordered-to-block-pirate-sports-streaming-sites-250516/"><strong>VPN providers in France ordered to block pirate sports IPTV</strong> <code>torrentfreak.com</code></a> - <a href="https://news.ycombinator.com/item?id=44201857">89 comments 108 points</a></li>
 <li><a href="https://ratfactor.com/cards/pl-small"><strong>Small Programs and Languages</strong> <code>ratfactor.com</code></a> - <a href="https://news.ycombinator.com/item?id=44200797">40 comments 108 points</a></li>
 <li><a href="https://esham.io/2025/05/shell-history"><strong>Curate your shell history</strong> <code>esham.io</code></a> - <a href="https://news.ycombinator.com/item?id=44200870">67 comments 107 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-06-06]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/994</link>
-            <guid>994</guid>
-            <pubDate>Fri, 06 Jun 2025 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/"><strong>The impossible predicament of the death newts</strong> <code>crookedtimber.org</code></a> - <a href="https://news.ycombinator.com/item?id=44191620">154 comments 437 points</a></li>
-<li><a href="https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/"><strong>Google restricts Android sideloading</strong> <code>puri.sm</code></a> - <a href="https://news.ycombinator.com/item?id=44193198">290 comments 403 points</a></li>
-<li><a href="https://networkedartifacts.com/airlab/simulator"><strong>Air Lab – A portable and open air quality measuring device</strong> <code>networkedartifacts.com</code></a> - <a href="https://news.ycombinator.com/item?id=44189329">161 comments 376 points</a></li>
-<li><a href="https://deepmind.google/models/gemini/pro/"><strong>Gemini-2.5-pro-preview-06-05</strong> <code>deepmind.google</code></a> - <a href="https://news.ycombinator.com/item?id=44193328">199 comments 317 points</a></li>
-<li><a href="https://daringfireball.net/linked/2025/06/04/apple-notes-markdown"><strong>Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts</strong> <code>daringfireball.net</code></a> - <a href="https://news.ycombinator.com/item?id=44191558">171 comments 293 points</a></li>
-<li><a href="https://elevenlabs.io/v3"><strong>Eleven v3</strong> <code>elevenlabs.io</code></a> - <a href="https://news.ycombinator.com/item?id=44194521">105 comments 209 points</a></li>
-<li><a href="https://togithub.com/hyperdxio/hyperdx"><strong>Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44194082">46 comments 204 points</a></li>
-<li><a href="https://mjg59.dreamwidth.org/71646.html"><strong>Twitter&#39;s new encrypted DMs aren&#39;t better than the old ones</strong> <code>mjg59.dreamwidth.org</code></a> - <a href="https://news.ycombinator.com/item?id=44191591">186 comments 203 points</a></li>
-<li><a href="https://defector.com/seven-days-at-the-bin-store"><strong>Seven Days at the Bin Store</strong> <code>defector.com</code></a> - <a href="https://news.ycombinator.com/item?id=44192995">81 comments 166 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful"><strong>Self-hosting your own media considered harmful according to YouTube</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=44197932">37 comments 157 points</a></li>
-<li><a href="https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine"><strong>I do not remember my life and it&#39;s fine</strong> <code>aethermug.com</code></a> - <a href="https://news.ycombinator.com/item?id=44196576">110 comments 152 points</a></li>
-<li><a href="https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html"><strong>I think I&#39;m done thinking about GenAI for now</strong> <code>blog.glyph.im</code></a> - <a href="https://news.ycombinator.com/item?id=44193018">105 comments 149 points</a></li>
-<li><a href="https://scalingintelligence.stanford.edu/blogs/tokasaurus/"><strong>Tokasaurus: An LLM inference engine for high-throughput workloads</strong> <code>scalingintelligence.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44195961">19 comments 147 points</a></li>
-<li><a href="https://openai.com/index/response-to-nyt-data-demands/"><strong>How we’re responding to The NYT’s data demands in order to protect user privacy</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=44196850">137 comments 139 points</a></li>
-<li><a href="https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078"><strong>Rare black iceberg spotted off Labrador coast could be 100k years old</strong> <code>www.cbc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=44193120">61 comments 128 points</a></li>
-<li><a href="https://tably.com/tably/10-years-of-betting-on-rust"><strong>10 Years of Betting on Rust</strong> <code>tably.com</code></a> - <a href="https://news.ycombinator.com/item?id=44190190">47 comments 113 points</a></li>
-<li><a href="https://arxiv.org/abs/2505.17117"><strong>From tokens to thoughts: How LLMs and humans trade compression for meaning</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44189426">22 comments 110 points</a></li>
-<li><a href="https://togithub.com/bearstech/phptop"><strong>Phptop: Simple PHP ressource profiler, safe and useful for production sites</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44189741">13 comments 98 points</a></li>
-<li><a href="https://www.joindns4.eu/for-public"><strong>DNS4EU for Public Is Available</strong> <code>www.joindns4.eu</code></a> - <a href="https://news.ycombinator.com/item?id=44190071">69 comments 95 points</a></li>
-<li><a href="https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/"><strong>Anthropic co-founder on cutting access to Windsurf</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=44196807">82 comments 88 points</a></li>
-<li><a href="https://www.nature.com/articles/s42255-025-01297-8"><strong>Cysteine depletion triggers adipose tissue thermogenesis and weight loss</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=44193225">59 comments 88 points</a></li>
-<li><a href="https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/"><strong>X changes its terms to bar training of AI models using its content</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=44193390">84 comments 87 points</a></li>
-<li><a href="https://togithub.com/possibilities/claude-composer"><strong>Show HN: Claude Composer</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44196417">43 comments 85 points</a></li>
-<li><a href="https://www.thescreentimenetwork.com/api/"><strong>Show HN: iOS Screen Time from a REST API</strong> <code>www.thescreentimenetwork.com</code></a> - <a href="https://news.ycombinator.com/item?id=44194120">43 comments 85 points</a></li>
-<li><a href="https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says"><strong>Millions in west don&#39;t know they have aggressive fatty liver disease, study says</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=44193970">93 comments 83 points</a></li>
-<li><a href="https://scharenbroch.dev/projects/apl-interpreter/"><strong>APL Interpreter – An implementation of APL, written in Haskell (2024)</strong> <code>scharenbroch.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44195931">30 comments 83 points</a></li>
-<li><a href="https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html"><strong>Aurora, a foundation model for the Earth system</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44194871">16 comments 76 points</a></li>
-<li><a href="https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/"><strong>SkyRoof: New Ham Satellite Tracking and SDR Receiver Software</strong> <code>www.rtl-sdr.com</code></a> - <a href="https://news.ycombinator.com/item?id=44194859">6 comments 76 points</a></li>
-<li><a href="https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim"><strong>What a developer needs to know about SCIM</strong> <code>tesseral.com</code></a> - <a href="https://news.ycombinator.com/item?id=44196393">15 comments 71 points</a></li>
-<li><a href="https://fossa.com/blog/understanding-purl-specification-package-url/"><strong>Understanding the PURL Specification (Package URL)</strong> <code>fossa.com</code></a> - <a href="https://news.ycombinator.com/item?id=44192955">52 comments 70 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
