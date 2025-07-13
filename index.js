@@ -8,7 +8,7 @@ const takeHeadlines = 30;
 
 const contents = await getHeadlines(date, takeHeadlines);
 if (!contents) {
-    core.warning("no content - skip issue creation");
+    core.error("no content - skip issue creation");
     process.exit(1);
 }
 core.info(contents);

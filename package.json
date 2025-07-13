@@ -16,10 +16,10 @@
   "homepage": "https://github.com/meixger/hackernews-daily#readme",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@octokit/auth-action": "^5.1.1",
-    "@octokit/auth-app": "^7.1.5",
-    "@octokit/core": "^6.1.4",
-    "dayjs": "^1.11.13",
+    "@octokit/auth-action": "^6.0.1",
+    "@octokit/auth-token": "^6.0.0",
+    "@octokit/core": "^7.0.3",
+    "dayjs": "^1.11.12",
     "feed": "^4.2.2",
     "marked": "^15.0.7",
     "timeago.js": "^4.0.2"
