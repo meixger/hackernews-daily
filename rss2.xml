@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 16 Jul 2025 06:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 06:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-07-16]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1034</link>
+            <guid>1034</guid>
+            <pubDate>Wed, 16 Jul 2025 06:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://calv.info/openai-reflections"><strong>Reflections on OpenAI</strong> <code>calv.info</code></a> - <a href="https://news.ycombinator.com/item?id=44573195">257 comments 483 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=44571740"><strong>Ask HN: Is it time to fork HN into AI/LLM and &quot;Everything else/other?&quot;</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44571740">343 comments 437 points</a></li>
+<li><a href="https://www.matthieulc.com/posts/shoggoth-mini"><strong>Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL</strong> <code>www.matthieulc.com</code></a> - <a href="https://news.ycombinator.com/item?id=44572377">86 comments 437 points</a></li>
+<li><a href="https://www.blender.org/download/releases/4-5/"><strong>Blender 4.5 LTS</strong> <code>www.blender.org</code></a> - <a href="https://news.ycombinator.com/item?id=44571917">87 comments 297 points</a></li>
+<li><a href="https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/"><strong>To be a better programmer, write little proofs in your head</strong> <code>the-nerve-blog.ghost.io</code></a> - <a href="https://news.ycombinator.com/item?id=44573409">123 comments 295 points</a></li>
+<li><a href="https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world"><strong>NIST ion clock sets new record for most accurate clock</strong> <code>www.nist.gov</code></a> - <a href="https://news.ycombinator.com/item?id=44572499">102 comments 288 points</a></li>
+<li><a href="https://helix-editor.com/news/release-25-07-highlights/"><strong>Helix Editor 25.07</strong> <code>helix-editor.com</code></a> - <a href="https://news.ycombinator.com/item?id=44574815">127 comments 285 points</a></li>
+<li><a href="https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/"><strong>Cloudflare starts blocking pirate sites for UK users</strong> <code>torrentfreak.com</code></a> - <a href="https://news.ycombinator.com/item?id=44571563">224 comments 215 points</a></li>
+<li><a href="https://requilence.any.org/open-ai-vulnerability-responsible-disclosure"><strong>OpenAI – vulnerability responsible disclosure</strong> <code>requilence.any.org</code></a> - <a href="https://news.ycombinator.com/item?id=44577018">61 comments 199 points</a></li>
+<li><a href="https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/"><strong>Code highlighting extension for Cursor AI used for $500k theft</strong> <code>securelist.com</code></a> - <a href="https://news.ycombinator.com/item?id=44569619">150 comments 171 points</a></li>
+<li><a href="https://togithub.com/trymirai/uzu"><strong>Show HN: We made our own inference engine for Apple Silicon</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44570048">44 comments 151 points</a></li>
+<li><a href="https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094"><strong>Where&#39;s Firefox going next?</strong> <code>connect.mozilla.org</code></a> - <a href="https://news.ycombinator.com/item?id=44575794">191 comments 147 points</a></li>
+<li><a href="https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/"><strong>My Family and the Flood</strong> <code>www.texasmonthly.com</code></a> - <a href="https://news.ycombinator.com/item?id=44576352">37 comments 141 points</a></li>
+<li><a href="https://www.nubero.ch/blog/015/"><strong>Designing for the Eye: Optical corrections in architecture and typography</strong> <code>www.nubero.ch</code></a> - <a href="https://news.ycombinator.com/item?id=44573887">21 comments 141 points</a></li>
+<li><a href="https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/"><strong>Plasma Bigscreen rises from the dead with a better UI</strong> <code>www.neowin.net</code></a> - <a href="https://news.ycombinator.com/item?id=44573752">48 comments 140 points</a></li>
+<li><a href="https://gpuhammer.com/"><strong>GPUHammer: Rowhammer attacks on GPU memories are practical</strong> <code>gpuhammer.com</code></a> - <a href="https://news.ycombinator.com/item?id=44577268">40 comments 140 points</a></li>
+<li><a href="https://www.anthropic.com/news/claude-for-financial-services"><strong>Claude for Financial Services</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=44576312">72 comments 131 points</a></li>
+<li><a href="https://words.filippo.io/passkey-encryption/"><strong>Encrypting files with passkeys and age</strong> <code>words.filippo.io</code></a> - <a href="https://news.ycombinator.com/item?id=44574095">2 comments 128 points</a></li>
+<li><a href="https://go.dev/blog/fips140"><strong>The FIPS 140-3 Go Cryptographic Module</strong> <code>go.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44575607">43 comments 125 points</a></li>
+<li><a href="https://www.propublica.org/article/trump-irs-share-tax-records-ice-dhs-deportations"><strong>The IRS Is Building a System to Share Taxpayers&#39; Data with ICE</strong> <code>www.propublica.org</code></a> - <a href="https://news.ycombinator.com/item?id=44572432">118 comments 108 points</a></li>
+<li><a href="https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers"><strong>A little-known Microsoft program could expose the Defense Department to hackers</strong> <code>www.propublica.org</code></a> - <a href="https://news.ycombinator.com/item?id=44570363">46 comments 104 points</a></li>
+<li><a href="https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/"><strong>Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=44573574">99 comments 98 points</a></li>
+<li><a href="https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/"><strong>Congress moves to reject bulk of White House&#39;s proposed NASA cuts</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=44578255">46 comments 88 points</a></li>
+<li><a href="https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/"><strong>Cloudflare 1.1.1.1 Incident on July 14, 2025</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=44578490">23 comments 88 points</a></li>
+<li><a href="https://www.theregister.com/2025/07/15/oracle_java_users_audited/"><strong>Nearly 3 out of 4 Oracle Java users say they&#39;ve been audited in the past 3 years</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=44573326">20 comments 85 points</a></li>
+<li><a href="https://www.derekthompson.org/p/what-caused-the-baby-boom-what-would"><strong>What caused the &#39;baby boom&#39;? What would it take to have another?</strong> <code>www.derekthompson.org</code></a> - <a href="https://news.ycombinator.com/item?id=44572527">546 comments 84 points</a></li>
+<li><a href="https://geminiprotocol.net/news/2025_06_20.gmi"><strong>Six Years of Gemini</strong> <code>geminiprotocol.net</code></a> - <a href="https://news.ycombinator.com/item?id=44578143">19 comments 83 points</a></li>
+<li><a href="https://www.liberalcurrents.com/marc-andreessen-is-a-traitor/"><strong>Marc Andreessen Is a Traitor</strong> <code>www.liberalcurrents.com</code></a> - <a href="https://news.ycombinator.com/item?id=44572593">25 comments 81 points</a></li>
+<li><a href="https://www.juliascope.com/"><strong>Show HN: Beyond Z²+C, Plot Any Fractal</strong> <code>www.juliascope.com</code></a> - <a href="https://news.ycombinator.com/item?id=44574318">24 comments 81 points</a></li>
+<li><a href="https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"><strong>Adding lookbehinds to rust-lang/regex</strong> <code>systemf.epfl.ch</code></a> - <a href="https://news.ycombinator.com/item?id=44572273">31 comments 75 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-07-15]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1033</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://diskuv.com/dk/help/latest/"><strong>Show HN: dk – A script runner and cross-compiler, written in OCaml</strong> <code>diskuv.com</code></a> - <a href="https://news.ycombinator.com/item?id=44290121">8 comments 60 points</a></li>
 <li><a href="https://personal.math.ubc.ca/~cass/graphics/text/www/"><strong>Mathematical Illustrations: A Manual of Geometry and PostScript</strong> <code>personal.math.ubc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=44289705">21 comments 58 points</a></li>
 <li><a href="https://www.openculture.com/2025/06/an-introduction-to-george-orwells-1984-and-how-power-manufactures-truth.html"><strong>George Orwell&#39;s 1984 and How Power Manufactures Truth</strong> <code>www.openculture.com</code></a> - <a href="https://news.ycombinator.com/item?id=44294629">54 comments 57 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-06-16]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1004</link>
-            <guid>1004</guid>
-            <pubDate>Mon, 16 Jun 2025 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/"><strong>How to modify Starlink Mini to run without the built-in WiFi router</strong> <code>olegkutkov.me</code></a> - <a href="https://news.ycombinator.com/item?id=44282017">77 comments 282 points</a></li>
-<li><a href="https://togithub.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md"><strong>Datalog in Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44281727">28 comments 269 points</a></li>
-<li><a href="https://canyonmid.com/"><strong>Canyon.mid</strong> <code>canyonmid.com</code></a> - <a href="https://news.ycombinator.com/item?id=44282177">155 comments 264 points</a></li>
-<li><a href="https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html"><strong>Why SSL was renamed to TLS in late 90s (2014)</strong> <code>tim.dierks.org</code></a> - <a href="https://news.ycombinator.com/item?id=44282378">118 comments 247 points</a></li>
-<li><a href="https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x"><strong>Journalists wary of travelling to US due to Palantir surveillance</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=44282754">179 comments 222 points</a></li>
-<li><a href="https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/"><strong>Modifying an HDMI dummy plug&#39;s EDID using a Raspberry Pi</strong> <code>www.downtowndougbrown.com</code></a> - <a href="https://news.ycombinator.com/item?id=44282998">59 comments 221 points</a></li>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2308706120"><strong>Social anxiety disorder-associated gut microbiota increases social fear</strong> <code>www.pnas.org</code></a> - <a href="https://news.ycombinator.com/item?id=44283095">120 comments 193 points</a></li>
-<li><a href="https://ourworldindata.org/childhood-leukemia-treatment-history"><strong>Childhood leukemia: how a deadly cancer became treatable</strong> <code>ourworldindata.org</code></a> - <a href="https://news.ycombinator.com/item?id=44282143">47 comments 184 points</a></li>
-<li><a href="https://visionbook.mit.edu"><strong>Foundations of Computer Vision</strong> <code>visionbook.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44281506">7 comments 179 points</a></li>
-<li><a href="https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7"><strong>David Attenborough at 99: &#39;I will not see how the story ends&#39;</strong> <code>www.thetimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44285054">85 comments 176 points</a></li>
-<li><a href="https://www.dreamsongs.com/ArtOfLisp.html"><strong>The Art of Lisp and Writing (2003)</strong> <code>www.dreamsongs.com</code></a> - <a href="https://news.ycombinator.com/item?id=44281016">68 comments 173 points</a></li>
-<li><a href="https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting"><strong>It’s nearly impossible to buy an original Bob Ross painting (2021)</strong> <code>thehustle.co</code></a> - <a href="https://news.ycombinator.com/item?id=44284723">118 comments 125 points</a></li>
-<li><a href="https://linuxgazette.net/165/laycock.html"><strong>GNOME and Red Hat Linux eleven years ago (2009)</strong> <code>linuxgazette.net</code></a> - <a href="https://news.ycombinator.com/item?id=44283047">64 comments 118 points</a></li>
-<li><a href="https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent"><strong>Meta&#39;s Llama 3.1 can recall 42 percent of the first Harry Potter book</strong> <code>www.understandingai.org</code></a> - <a href="https://news.ycombinator.com/item?id=44281812">149 comments 112 points</a></li>
-<li><a href="https://telephone-exchanges.org.uk/"><strong>Telephone Exchanges in the UK</strong> <code>telephone-exchanges.org.uk</code></a> - <a href="https://news.ycombinator.com/item?id=44284466">36 comments 110 points</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created"><strong>Nvidia CEO criticizes Anthropic boss over his statements on AI</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=44282657">171 comments 109 points</a></li>
-<li><a href="https://arxiv.org/abs/2506.08872"><strong>Accumulation of cognitive debt when using an AI assistant for essay writing task</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44286277">58 comments 109 points</a></li>
-<li><a href="https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html"><strong>Simplest C++ Callback, from SumatraPDF</strong> <code>blog.kowalczyk.info</code></a> - <a href="https://news.ycombinator.com/item?id=44283614">82 comments 108 points</a></li>
-<li><a href="https://www.japantimes.co.jp/culture/2025/06/06/film/ghibli-anniversary-40/"><strong>Studio Ghibli marks 40 years, but future looks uncertain</strong> <code>www.japantimes.co.jp</code></a> - <a href="https://news.ycombinator.com/item?id=44283354">71 comments 102 points</a></li>
-<li><a href="https://www.jsbarretto.com/blog/software-is-joy/"><strong>Writing Toy Software Is a Joy</strong> <code>www.jsbarretto.com</code></a> - <a href="https://news.ycombinator.com/item?id=44284291">22 comments 97 points</a></li>
-<li><a href="https://tikt.com/"><strong>Show HN: Tikt.com – Remove the &quot;OK&quot; from TikTok URL&#39;s to Download as MP3 or MP4</strong> <code>tikt.com</code></a> - <a href="https://news.ycombinator.com/item?id=44283876">34 comments 92 points</a></li>
-<li><a href="https://deosjr.github.io/dynamicland/datalog.html"><strong>Datalog in miniKanren</strong> <code>deosjr.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44283093">8 comments 92 points</a></li>
-<li><a href="https://togithub.com/Kuberwastaken/meow"><strong>Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44281958">75 comments 90 points</a></li>
-<li><a href="https://developer.chrome.com/blog/permission-element-origin-trial"><strong>An origin trial for a new HTML &lt;permission&gt; element (2024)</strong> <code>developer.chrome.com</code></a> - <a href="https://news.ycombinator.com/item?id=44281633">78 comments 84 points</a></li>
-<li><a href="https://hexhowells.com/posts/journey.html"><strong>I want to be a Journey Programmer Again</strong> <code>hexhowells.com</code></a> - <a href="https://news.ycombinator.com/item?id=44283388">71 comments 84 points</a></li>
-<li><a href="https://togithub.com/cosmos72/twin"><strong>Twin – A Textmode WINdow Environment</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44284657">11 comments 78 points</a></li>
-<li><a href="https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/"><strong>Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate</strong> <code>insideclimatenews.org</code></a> - <a href="https://news.ycombinator.com/item?id=44283008">53 comments 76 points</a></li>
-<li><a href="https://togithub.com/tanelp/tiny-diffusion"><strong>Tiny-diffusion: A minimal implementation of probabilistic diffusion models</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44281148">3 comments 74 points</a></li>
-<li><a href="https://strangemachine.tv/safespace/popov/"><strong>The experience continues until you stop experiencing it</strong> <code>strangemachine.tv</code></a> - <a href="https://news.ycombinator.com/item?id=44283239">22 comments 72 points</a></li>
-<li><a href="https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual"><strong>Let&#39;s Talk About ChatGPT-Induced Spiritual Psychosis</strong> <code>default.blog</code></a> - <a href="https://news.ycombinator.com/item?id=44285426">55 comments 71 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
