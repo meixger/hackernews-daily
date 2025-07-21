@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 20 Jul 2025 06:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jul 2025 06:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-07-20]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1038</link>
+            <guid>1038</guid>
+            <pubDate>Sun, 20 Jul 2025 06:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/"><strong>A 14kb page can load much faster than a 15kb page (2022)</strong> <code>endtimes.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44613625">287 comments 453 points</a></li>
+<li><a href="https://twitter.com/alexwei_/status/1946477742855532918"><strong>OpenAI claims gold-medal performance at IMO 2025</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=44613840">654 comments 440 points</a></li>
+<li><a href="https://fstrings.wtf/"><strong>Fstrings.wtf</strong> <code>fstrings.wtf</code></a> - <a href="https://news.ycombinator.com/item?id=44614370">125 comments 393 points</a></li>
+<li><a href="https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai"><strong>Nobody knows how to build with AI yet</strong> <code>worksonmymachine.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44616479">246 comments 309 points</a></li>
+<li><a href="https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/"><strong>It&#39;s rude to show AI output to people</strong> <code>distantprovince.by</code></a> - <a href="https://news.ycombinator.com/item?id=44617172">226 comments 289 points</a></li>
+<li><a href="https://davebarry.substack.com/p/death-by-ai"><strong>Death by AI</strong> <code>davebarry.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44615801">90 comments 244 points</a></li>
+<li><a href="https://evanhahn.com/local-llms-versus-offline-wikipedia/"><strong>Local LLMs versus offline Wikipedia</strong> <code>evanhahn.com</code></a> - <a href="https://news.ycombinator.com/item?id=44617078">115 comments 216 points</a></li>
+<li><a href="https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance"><strong>Ring introducing new feature to allow police to live-stream access to cameras</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=44620002">103 comments 216 points</a></li>
+<li><a href="https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/"><strong>Make Your Own Backup System – Part 1: Strategy Before Scripts</strong> <code>it-notes.dragas.net</code></a> - <a href="https://news.ycombinator.com/item?id=44618687">76 comments 216 points</a></li>
+<li><a href="https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/"><strong>YouTube No Translation</strong> <code>addons.mozilla.org</code></a> - <a href="https://news.ycombinator.com/item?id=44613491">95 comments 207 points</a></li>
+<li><a href="https://viralinstruction.com/posts/borrowchecker/"><strong>The borrowchecker is what I like the least about Rust</strong> <code>viralinstruction.com</code></a> - <a href="https://news.ycombinator.com/item?id=44618535">257 comments 181 points</a></li>
+<li><a href="https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html"><strong>Pimping My Casio: Part Deux</strong> <code>blog.jgc.org</code></a> - <a href="https://news.ycombinator.com/item?id=44613486">53 comments 173 points</a></li>
+<li><a href="https://lifehacky.net/prompt-0b953c089b44"><strong>I avoid using LLMs as a publisher and writer</strong> <code>lifehacky.net</code></a> - <a href="https://news.ycombinator.com/item?id=44614365">119 comments 169 points</a></li>
+<li><a href="https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583"><strong>TSMC to start building four new plants with 1.4nm technology</strong> <code>www.taipeitimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44618762">110 comments 164 points</a></li>
+<li><a href="https://colab.research.google.com/github/satwikkansal/wtfpython/blob/master/irrelevant/wtf.ipynb"><strong>What the Fuck Python</strong> <code>colab.research.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=44618335">152 comments 154 points</a></li>
+<li><a href="https://forgecode.dev/blog/prevent-attacks-on-mcp/"><strong>MCP Security Vulnerabilities and Attack Vectors</strong> <code>forgecode.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44617910">16 comments 154 points</a></li>
+<li><a href="https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/"><strong>Rethinking CLI interfaces for AI</strong> <code>www.notcheckmark.com</code></a> - <a href="https://news.ycombinator.com/item?id=44617184">70 comments 149 points</a></li>
+<li><a href="https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/"><strong>Linux and Secure Boot certificate expiration</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=44613629">3 comments 137 points</a></li>
+<li><a href="https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/"><strong>Felix Baumgartner, who jumped from stratosphere, dies in Italy</strong> <code>www.theinternational.at</code></a> - <a href="https://news.ycombinator.com/item?id=44614292">91 comments 108 points</a></li>
+<li><a href="https://newatlas.com/cancer/universal-cancer-vaccine/"><strong>&#39;Universal cancer vaccine&#39; trains the immune system to kill any tumor</strong> <code>newatlas.com</code></a> - <a href="https://news.ycombinator.com/item?id=44618595">37 comments 106 points</a></li>
+<li><a href="https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/"><strong>Giving Up on Element and Matrix.org</strong> <code>xn--gckvb8fzb.com</code></a> - <a href="https://news.ycombinator.com/item?id=44617309">96 comments 96 points</a></li>
+<li><a href="https://www.etany.org/statements/impeding-progress-costing-riders-opto"><strong>New York’s bill banning One-Person Train Operation</strong> <code>www.etany.org</code></a> - <a href="https://news.ycombinator.com/item?id=44621119">107 comments 82 points</a></li>
+<li><a href="https://thejpster.org.uk/blog/blog-2025-07-19/"><strong>The curious case of the Unix workstation layout</strong> <code>thejpster.org.uk</code></a> - <a href="https://news.ycombinator.com/item?id=44616760">26 comments 80 points</a></li>
+<li><a href="https://matharena.ai/imo/"><strong>Evaluating publicly available LLMs on IMO 2025</strong> <code>matharena.ai</code></a> - <a href="https://news.ycombinator.com/item?id=44615695">87 comments 73 points</a></li>
+<li><a href="https://infrastructurereportcard.org/"><strong>2025 Infrastructure Report Card</strong> <code>infrastructurereportcard.org</code></a> - <a href="https://news.ycombinator.com/item?id=44618679">30 comments 69 points</a></li>
+<li><a href="https://escapecollective.com/threaded-43-every-part-on-a-bike-is-safety-critical/"><strong>Every part on a bicycle is safety critical</strong> <code>escapecollective.com</code></a> - <a href="https://news.ycombinator.com/item?id=44613419">57 comments 68 points</a></li>
+<li><a href="https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology"><strong>The tech that the US Post Office gave us</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=44618576">19 comments 67 points</a></li>
+<li><a href="https://nypost.com/2025/07/18/world-news/us-revokes-visas-of-brazilian-justices-after-its-top-court-cracks-down-on-ex-president-bolsonaro/"><strong>US revokes visas of Brazilian judges after crack down on ex-president Bolsonaro</strong> <code>nypost.com</code></a> - <a href="https://news.ycombinator.com/item?id=44613114">59 comments 65 points</a></li>
+<li><a href="https://www.emailprivacytester.com/badClients"><strong>Known Bad Email Clients</strong> <code>www.emailprivacytester.com</code></a> - <a href="https://news.ycombinator.com/item?id=44616595">63 comments 60 points</a></li>
+<li><a href="https://twitter.com/btibor91/status/1946532308896628748"><strong>GPT-5-reasoning alpha found in the wild</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=44614644">47 comments 60 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-07-19]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1037</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://togithub.com/NickTikhonov/snap-ql"><strong>Show HN: SnapQL – Desktop app to query Postgres with AI</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44326620">55 comments 89 points</a></li>
 <li><a href="http://www.jazzyear.com/article_info.html?id=1352"><strong>Jürgen Schmidhuber：the Father of Generative AI Without Turing Award</strong> <code>www.jazzyear.com</code></a> - <a href="https://news.ycombinator.com/item?id=44330850">47 comments 89 points</a></li>
 <li><a href="https://physics.stackexchange.com/questions/338912/how-would-a-passing-gravitational-wave-look-or-feel"><strong>How would a passing gravitational wave look or feel? (2017)</strong> <code>physics.stackexchange.com</code></a> - <a href="https://news.ycombinator.com/item?id=44326388">30 comments 86 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-06-20]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1008</link>
-            <guid>1008</guid>
-            <pubDate>Fri, 20 Jun 2025 06:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://scottaaronson.blog/?p=8908"><strong>Guess I&#39;m a Rationalist Now</strong> <code>scottaaronson.blog</code></a> - <a href="https://news.ycombinator.com/item?id=44317180">748 comments 254 points</a></li>
-<li><a href="https://endof10.org/"><strong>End of 10: Upgrade your old Windows 10 computer to Linux</strong> <code>endof10.org</code></a> - <a href="https://news.ycombinator.com/item?id=44318420">207 comments 235 points</a></li>
-<li><a href="https://togithub.com/Maciek-roboblog/Claude-Code-Usage-Monitor"><strong>Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44317012">118 comments 217 points</a></li>
-<li><a href="https://togithub.com/Dahrkael/ExTracker"><strong>Show HN: I wrote a new BitTorrent tracker in Elixir</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44323253">24 comments 216 points</a></li>
-<li><a href="https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/"><strong>Juneteenth in Photos</strong> <code>texashighways.com</code></a> - <a href="https://news.ycombinator.com/item?id=44320851">175 comments 203 points</a></li>
-<li><a href="https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17"><strong>Compiling LLMs into a MegaKernel: A path to low-latency inference</strong> <code>zhihaojia.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=44321672">58 comments 199 points</a></li>
-<li><a href="https://matduggan.com/what-would-a-kubernetes-2-0-look-like/"><strong>What would a Kubernetes 2.0 look like</strong> <code>matduggan.com</code></a> - <a href="https://news.ycombinator.com/item?id=44317825">276 comments 186 points</a></li>
-<li><a href="https://erikdemaine.org/curved/"><strong>Curved-Crease Sculpture</strong> <code>erikdemaine.org</code></a> - <a href="https://news.ycombinator.com/item?id=44318874">28 comments 168 points</a></li>
-<li><a href="https://togithub.com/krustowski/rou2exOS"><strong>Show HN: A DOS-like hobby OS written in Rust and x86 assembly</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44318588">41 comments 164 points</a></li>
-<li><a href="https://smoothbrains.net/posts/2025-06-15-estrogen.html"><strong>Estrogen: A Trip Report</strong> <code>smoothbrains.net</code></a> - <a href="https://news.ycombinator.com/item?id=44322153">132 comments 144 points</a></li>
-<li><a href="https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/"><strong>In praise of “normal” engineers</strong> <code>charity.wtf</code></a> - <a href="https://news.ycombinator.com/item?id=44320806">104 comments 139 points</a></li>
-<li><a href="https://blog.persistent.info/2025/03/infinite-mac-os-x.html"><strong>Infinite Mac OS X</strong> <code>blog.persistent.info</code></a> - <a href="https://news.ycombinator.com/item?id=44323719">47 comments 139 points</a></li>
-<li><a href="https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent"><strong>From LLM to AI Agent: What&#39;s the Real Journey Behind AI System Development?</strong> <code>www.codelink.io</code></a> - <a href="https://news.ycombinator.com/item?id=44316909">41 comments 128 points</a></li>
-<li><a href="https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/"><strong>Base44 sells to Wix for $80M cash</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=44316920">112 comments 122 points</a></li>
-<li><a href="https://togithub.com/featureform/enrichmcp"><strong>Show HN: EnrichMCP – A Python ORM for Agents</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44320772">27 comments 101 points</a></li>
-<li><a href="https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html"><strong>How OpenElections uses LLMs</strong> <code>thescoop.org</code></a> - <a href="https://news.ycombinator.com/item?id=44320001">40 comments 99 points</a></li>
-<li><a href="https://howdnssec.works/why-do-we-need-dnssec/"><strong>Why do we need DNSSEC?</strong> <code>howdnssec.works</code></a> - <a href="https://news.ycombinator.com/item?id=44320497">156 comments 88 points</a></li>
-<li><a href="https://krzysckh.org/b/Homegrown-closures-for-uxn.html"><strong>Homegrown Closures for Uxn</strong> <code>krzysckh.org</code></a> - <a href="https://news.ycombinator.com/item?id=44320747">9 comments 86 points</a></li>
-<li><a href="https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html"><strong>Open source can&#39;t coordinate</strong> <code>matklad.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44323904">75 comments 85 points</a></li>
-<li><a href="https://togithub.com/zyedidia/Literate"><strong>Literate programming tool for any language</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44323045">43 comments 83 points</a></li>
-<li><a href="https://public.resource.org/ntis.gov/index.html"><strong>FedFlix — Public Domain Stock Footage Library</strong> <code>public.resource.org</code></a> - <a href="https://news.ycombinator.com/item?id=44323914">2 comments 67 points</a></li>
-<li><a href="https://togithub.com/Orange-OpenSource/hurl"><strong>Hurl: Run and test HTTP requests with plain text</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44324592">19 comments 64 points</a></li>
-<li><a href="https://www.howclosetoblackmirror.com/"><strong>How Close to Black Mirror Are We?</strong> <code>www.howclosetoblackmirror.com</code></a> - <a href="https://news.ycombinator.com/item?id=44317663">40 comments 59 points</a></li>
-<li><a href="https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy"><strong>Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=44323389">13 comments 51 points</a></li>
-<li><a href="https://www.theregister.com/2025/06/18/is_ai_changing_our_brains/"><strong>Brain activity much lower when using AI chatbots, MIT boffins find</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=44317709">70 comments 48 points</a></li>
-<li><a href="http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html"><strong>Posit floating point numbers: thin triangles and other tricks (2019)</strong> <code>marc-b-reynolds.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44319144">35 comments 48 points</a></li>
-<li><a href="https://mastodon.gamedev.place/@pikuma/114711138512697712"><strong>Sunsonic 986-II – A Thai Famicom clone with keyboard and mini CRT built-in</strong> <code>mastodon.gamedev.place</code></a> - <a href="https://news.ycombinator.com/item?id=44323411">6 comments 46 points</a></li>
-<li><a href="https://www.newyorker.com/news/letter-from-the-southwest/the-scheme-that-broke-the-texas-lottery"><strong>The Scheme That Broke the Texas Lottery</strong> <code>www.newyorker.com</code></a> - <a href="https://news.ycombinator.com/item?id=44318305">20 comments 43 points</a></li>
-<li><a href="https://www.newyorker.com/news/the-lede/how-my-reporting-on-the-columbia-protests-led-to-my-deportation"><strong>How My Reporting on the Columbia Protests Led to My Deportation</strong> <code>www.newyorker.com</code></a> - <a href="https://news.ycombinator.com/item?id=44318330">18 comments 42 points</a></li>
-<li><a href="https://linmob.net/liberux-nexx-an-interview-with-liberux/"><strong>Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone</strong> <code>linmob.net</code></a> - <a href="https://news.ycombinator.com/item?id=44316665">18 comments 39 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
