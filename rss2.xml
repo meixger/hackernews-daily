@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 23 Jul 2025 06:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 06:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-07-23]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1041</link>
+            <guid>1041</guid>
+            <pubDate>Wed, 23 Jul 2025 06:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://kau.sh/blog/how-to-firefox/"><strong>How to Firefox</strong> <code>kau.sh</code></a> - <a href="https://news.ycombinator.com/item?id=44645353">413 comments 713 points</a></li>
+<li><a href="https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco"><strong>The United States withdraws from UNESCO</strong> <code>www.state.gov</code></a> - <a href="https://news.ycombinator.com/item?id=44647112">763 comments 585 points</a></li>
+<li><a href="https://www.bbc.co.uk/news/live/cn0qq5nyxn0t"><strong>Ozzy Osbourne has died</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=44651066">125 comments 539 points</a></li>
+<li><a href="https://togithub.com/openai/whisper/discussions/2608"><strong>Complete silence is always hallucinated as &quot;ترجمة نانسي قنقر&quot; in Arabic</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44643564">311 comments 535 points</a></li>
+<li><a href="https://qwenlm.github.io/blog/qwen3-coder/"><strong>Qwen3-Coder: Agentic coding in the world</strong> <code>qwenlm.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44653072">161 comments 470 points</a></li>
+<li><a href="https://www.myvolvoex90.com/"><strong>Unsafe and Unpredictable: My Volvo EX90 Experience</strong> <code>www.myvolvoex90.com</code></a> - <a href="https://news.ycombinator.com/item?id=44652374">315 comments 350 points</a></li>
+<li><a href="https://sophiebits.com/2025/07/21/todos-arent-for-doing"><strong>TODOs aren&#39;t for doing</strong> <code>sophiebits.com</code></a> - <a href="https://news.ycombinator.com/item?id=44646801">185 comments 319 points</a></li>
+<li><a href="https://vasily.cc/blog/facts-dont-change-minds/"><strong>Facts don&#39;t change minds, structure does</strong> <code>vasily.cc</code></a> - <a href="https://news.ycombinator.com/item?id=44648728">189 comments 310 points</a></li>
+<li><a href="https://abc.decontextualize.com/more-than-you-wanted-to-know/"><strong>More than you wanted to know about how Game Boy cartridges work</strong> <code>abc.decontextualize.com</code></a> - <a href="https://news.ycombinator.com/item?id=44651770">28 comments 267 points</a></li>
+<li><a href="https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248"><strong>Swift-erlang-actor-system</strong> <code>forums.swift.org</code></a> - <a href="https://news.ycombinator.com/item?id=44651539">54 comments 259 points</a></li>
+<li><a href="https://maalvika.substack.com/p/compression-culture-is-making-you"><strong>Compression culture is making you stupid and uninteresting</strong> <code>maalvika.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44648288">186 comments 250 points</a></li>
+<li><a href="https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/"><strong>Android Earthquake Alerts: A global system for early warning</strong> <code>research.google</code></a> - <a href="https://news.ycombinator.com/item?id=44651092">69 comments 243 points</a></li>
+<li><a href="https://daisyui.com/"><strong>DaisyUI: Tailwind CSS Components</strong> <code>daisyui.com</code></a> - <a href="https://news.ycombinator.com/item?id=44646869">161 comments 199 points</a></li>
+<li><a href="https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html"><strong>Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code</strong> <code>www.anthes.is</code></a> - <a href="https://news.ycombinator.com/item?id=44647190">128 comments 196 points</a></li>
+<li><a href="https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped"><strong>We built an air-gapped Jira alternative for regulated industries</strong> <code>plane.so</code></a> - <a href="https://news.ycombinator.com/item?id=44651766">119 comments 196 points</a></li>
+<li><a href="https://www.theregister.com/2025/07/22/trump_shoots_climate_messenger/"><strong>Killing the Mauna Loa observatory over irrefutable evidence of increasing CO2</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=44647489">147 comments 194 points</a></li>
+<li><a href="https://www.wheresyoured.at/the-haters-gui/"><strong>The Hater&#39;s Guide to the AI Bubble</strong> <code>www.wheresyoured.at</code></a> - <a href="https://news.ycombinator.com/item?id=44645391">129 comments 191 points</a></li>
+<li><a href="https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7"><strong>Replit&#39;s CEO apologizes after its AI agent wiped a company&#39;s code base</strong> <code>www.businessinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=44646151">157 comments 167 points</a></li>
+<li><a href="https://togithub.com/pmarreck/yt-transcriber"><strong>Yt-transcriber – Give a YouTube URL and get a transcription</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44646901">54 comments 162 points</a></li>
+<li><a href="https://anuraag2601.github.io/gemini_cli_disaster.html"><strong>I watched Gemini CLI hallucinate and delete my files</strong> <code>anuraag2601.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44651485">160 comments 156 points</a></li>
+<li><a href="https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html"><strong>OSS Rebuild: open-source, rebuilt to last</strong> <code>security.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=44646925">51 comments 154 points</a></li>
+<li><a href="https://alignment.anthropic.com/2025/subliminal-learning/"><strong>Subliminal learning: Models transmit behaviors via hidden signals in data</strong> <code>alignment.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=44650840">33 comments 149 points</a></li>
+<li><a href="https://www.lesswrong.com/posts/2pkNCvBtK6G6FKoNn/so-you-think-you-ve-awoken-chatgpt"><strong>So you think you&#39;ve awoken ChatGPT</strong> <code>www.lesswrong.com</code></a> - <a href="https://news.ycombinator.com/item?id=44646797">166 comments 144 points</a></li>
+<li><a href="https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html"><strong>CBA hiring Indian ICT workers after firing Australians</strong> <code>ia.acs.org.au</code></a> - <a href="https://news.ycombinator.com/item?id=44644645">105 comments 143 points</a></li>
+<li><a href="https://lemire.github.io/talks/2025/sea/sea2025.html"><strong>Algorithms for Modern Processor Architectures</strong> <code>lemire.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44653965">14 comments 142 points</a></li>
+<li><a href="https://blip.net/"><strong>Blip: Peer-to-peer massive file sharing</strong> <code>blip.net</code></a> - <a href="https://news.ycombinator.com/item?id=44648772">106 comments 141 points</a></li>
+<li><a href="https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html"><strong>Many lung cancers are now in nonsmokers</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44648144">174 comments 139 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2025-07-22/us-companies-and-consumers-are-paying-for-trump-s-tariffs"><strong>US companies, consumers are paying for tariffs, not foreign firms</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=44651616">137 comments 136 points</a></li>
+<li><a href="https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor"><strong>Tiny Code Reader: a $7 QR code sensor</strong> <code>excamera.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44649319">39 comments 130 points</a></li>
+<li><a href="https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients"><strong>Fun with gzip bombs and email clients</strong> <code>www.grepular.com</code></a> - <a href="https://news.ycombinator.com/item?id=44651536">41 comments 123 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-07-22]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1040</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p"><strong>Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%</strong> <code>www.phoronix.com</code></a> - <a href="https://news.ycombinator.com/item?id=44353182">18 comments 82 points</a></li>
 <li><a href="https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence"><strong>Environmental Impacts of Artificial Intelligence</strong> <code>www.greenpeace.de</code></a> - <a href="https://news.ycombinator.com/item?id=44359229">78 comments 79 points</a></li>
 <li><a href="https://docs.google.com/document/d/1gfFoe2xVoS9GzmmcbGUjTVVtss1Jwh4Yi-73C6Trn-I/edit?usp=sharing"><strong>The Last of Us Part II – Seattle Locations Tour</strong> <code>docs.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=44356888">50 comments 77 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-06-23]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1011</link>
-            <guid>1011</guid>
-            <pubDate>Mon, 23 Jun 2025 06:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://fellerts.no/projects/epoch.html"><strong>Mechanical Watch: Exploded View</strong> <code>fellerts.no</code></a> - <a href="https://news.ycombinator.com/item?id=44347425">97 comments 758 points</a></li>
-<li><a href="https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/"><strong>Git Notes: Git&#39;s coolest, most unloved­ feature (2022)</strong> <code>tylercipriani.com</code></a> - <a href="https://news.ycombinator.com/item?id=44345334">119 comments 495 points</a></li>
-<li><a href="https://libredirect.github.io"><strong>LibRedirect – Redirects popular sites to alternative privacy-friendly frontends</strong> <code>libredirect.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44344246">99 comments 401 points</a></li>
-<li><a href="https://fransskarman.com/phd_thesis_in_typst.html"><strong>I wrote my PhD Thesis in Typst</strong> <code>fransskarman.com</code></a> - <a href="https://news.ycombinator.com/item?id=44350322">125 comments 243 points</a></li>
-<li><a href="https://mazzo.li/posts/fast-pipes.html"><strong>How fast are Linux pipes anyway?</strong> <code>mazzo.li</code></a> - <a href="https://news.ycombinator.com/item?id=44344708">31 comments 199 points</a></li>
-<li><a href="https://www.kleinbottle.com/Amazon_Brand_Hijacking.html"><strong>Klein Bottle Amazon Brand Hijacking (2021)</strong> <code>www.kleinbottle.com</code></a> - <a href="https://news.ycombinator.com/item?id=44349525">75 comments 182 points</a></li>
-<li><a href="https://www.romanklasen.com/blog/beating-brainrot-by-button/"><strong>Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot</strong> <code>www.romanklasen.com</code></a> - <a href="https://news.ycombinator.com/item?id=44350002">89 comments 180 points</a></li>
-<li><a href="https://www.washingtonpost.com/business/2025/06/21/trump-usps-trucks-taxes/"><strong>GOP omnibus bill would sell off USPS&#39;s EVs</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=44350097">93 comments 150 points</a></li>
-<li><a href="https://oyyy.substack.com/p/the-cultural-decline-of-literary"><strong>The cultural decline of literary fiction</strong> <code>oyyy.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44347973">259 comments 142 points</a></li>
-<li><a href="https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971"><strong>Show HN: Report idling vehicles in NYC (and get a cut of the fines) with AI</strong> <code>apps.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=44348448">180 comments 137 points</a></li>
-<li><a href="https://www.neilchen.co/blog/kasa"><strong>Using an $8 smart outlet to avoid brainrot</strong> <code>www.neilchen.co</code></a> - <a href="https://news.ycombinator.com/item?id=44346450">74 comments 127 points</a></li>
-<li><a href="https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/"><strong>Denmark Is Switching to Linux</strong> <code>www.pcgamer.com</code></a> - <a href="https://news.ycombinator.com/item?id=44346120">77 comments 114 points</a></li>
-<li><a href="https://philarchive.org/archive/SCHAIM-14"><strong>AGI is Mathematically Impossible 2: When Entropy Returns</strong> <code>philarchive.org</code></a> - <a href="https://news.ycombinator.com/item?id=44348813">157 comments 106 points</a></li>
-<li><a href="https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla"><strong>Why do all browsers&#39; user agents start with &quot;Mozilla/&quot;? (2008)</strong> <code>stackoverflow.com</code></a> - <a href="https://news.ycombinator.com/item?id=44349845">55 comments 98 points</a></li>
-<li><a href="https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887"><strong>Show HN: I&#39;m a doctor and built a responsive breathing app for anxiety and sleep</strong> <code>apps.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=44345451">38 comments 88 points</a></li>
-<li><a href="https://codeforces.com/blog/entry/143279"><strong>Finding a billion factorials in 60 ms with SIMD</strong> <code>codeforces.com</code></a> - <a href="https://news.ycombinator.com/item?id=44351068">5 comments 84 points</a></li>
-<li><a href="https://www.jdemeta.net/p/avoiding-the-global-lobotomy"><strong>Avoiding the Global Lobotomy</strong> <code>www.jdemeta.net</code></a> - <a href="https://news.ycombinator.com/item?id=44344621">67 comments 79 points</a></li>
-<li><a href="https://nautil.us/the-father-of-modern-metal-235939/"><strong>Harry Brearley, the creator of stainless steel (2016)</strong> <code>nautil.us</code></a> - <a href="https://news.ycombinator.com/item?id=44346529">29 comments 79 points</a></li>
-<li><a href="https://togithub.com/c12i/bunge-bits"><strong>Show HN: A Tool to Summarize Kenya&#39;s Parliament with Rust, Whisper, and LLMs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44348649">11 comments 74 points</a></li>
-<li><a href="https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/"><strong>Announcing the Clippy feature freeze</strong> <code>blog.rust-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=44344601">8 comments 72 points</a></li>
-<li><a href="https://radio.garden/?2025"><strong>Radio Garden</strong> <code>radio.garden</code></a> - <a href="https://news.ycombinator.com/item?id=44350450">10 comments 71 points</a></li>
-<li><a href="https://www.currentaffairs.org/news/wait-why-is-israel-allowed-to-have-nukes"><strong>Wait, Why Is Israel Allowed to Have Nukes?</strong> <code>www.currentaffairs.org</code></a> - <a href="https://news.ycombinator.com/item?id=44350437">17 comments 70 points</a></li>
-<li><a href="https://www.theregister.com/2025/06/22/ai_search_starves_publishers/"><strong>The AIpocalypse is here for web sites as search referrals plunge</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=44345670">73 comments 68 points</a></li>
-<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2506549"><strong>10 out of 12 people cured in Type 1 Diabetes Study</strong> <code>www.nejm.org</code></a> - <a href="https://news.ycombinator.com/item?id=44351341">19 comments 61 points</a></li>
-<li><a href="https://www.theguardian.com/society/2025/jun/11/children-sedentary-scrolling-alone-lack-of-play-england"><strong>Children in England growing up &#39;sedentary, scrolling and alone&#39;, say experts</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=44350597">70 comments 56 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=44346359"><strong>Ask HN: How to regain the ability to read with focus and learn</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44346359">25 comments 53 points</a></li>
-<li><a href="https://www.laphamsquarterly.org/content/episode-3-francine-prose"><strong>Interview with Francine Prose on early-1970s San Francisco [audio]</strong> <code>www.laphamsquarterly.org</code></a> - <a href="https://news.ycombinator.com/item?id=44349761">7 comments 51 points</a></li>
-<li><a href="https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/"><strong>Discover C++26&#39;s compile-time reflection</strong> <code>lemire.me</code></a> - <a href="https://news.ycombinator.com/item?id=44348565">31 comments 49 points</a></li>
-<li><a href="http://www.hawaiihighways.com/"><strong>Hawaii Highways</strong> <code>www.hawaiihighways.com</code></a> - <a href="https://news.ycombinator.com/item?id=44350978">14 comments 49 points</a></li>
-<li><a href="https://www.popsci.com/science/can-we-land-on-jupiter-saturn/"><strong>What would happen if you tried to land on a gas giant?</strong> <code>www.popsci.com</code></a> - <a href="https://news.ycombinator.com/item?id=44349662">20 comments 48 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
