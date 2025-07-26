@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 25 Jul 2025 06:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jul 2025 06:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-07-25]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1043</link>
+            <guid>1043</guid>
+            <pubDate>Fri, 25 Jul 2025 06:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.ralfj.de/blog/2025/07/24/memory-safety.html"><strong>There is no memory safety without thread safety</strong> <code>www.ralfj.de</code></a> - <a href="https://news.ycombinator.com/item?id=44672003">285 comments 320 points</a></li>
+<li><a href="https://lwn.net/SubscriberLink/1030004/898017c7953c0946/"><strong>Graphene OS: a security-enhanced Android build</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=44676691">115 comments 303 points</a></li>
+<li><a href="https://itch.io/updates/update-on-nsfw-content"><strong>Itch.io: Update on NSFW Content</strong> <code>itch.io</code></a> - <a href="https://news.ycombinator.com/item?id=44667667">289 comments 299 points</a></li>
+<li><a href="https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly"><strong>Visa and Mastercard: The global payment duopoly (2024)</strong> <code>quartr.com</code></a> - <a href="https://news.ycombinator.com/item?id=44676559">173 comments 299 points</a></li>
+<li><a href="https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019"><strong>Scientists may have found a way to eliminate chromosome linked to Down syndrome</strong> <code>academic.oup.com</code></a> - <a href="https://news.ycombinator.com/item?id=44676817">209 comments 263 points</a></li>
+<li><a href="https://www.starlink.com/us"><strong>Starlink is currently experiencing a service outage</strong> <code>www.starlink.com</code></a> - <a href="https://news.ycombinator.com/item?id=44674960">263 comments 261 points</a></li>
+<li><a href="https://www.dzombak.com/blog/2025/07/use-your-type-system/"><strong>Use Your Type System</strong> <code>www.dzombak.com</code></a> - <a href="https://news.ycombinator.com/item?id=44671484">256 comments 254 points</a></li>
+<li><a href="https://avi.im/blag/2025/sqlite-wal-checksum/"><strong>PSA: SQLite WAL checksums fail silently and may lose data</strong> <code>avi.im</code></a> - <a href="https://news.ycombinator.com/item?id=44671373">112 comments 254 points</a></li>
+<li><a href="https://togithub.com/wixtoolset/issues/issues/8974"><strong>Open Source Maintenance Fee</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44669858">174 comments 250 points</a></li>
+<li><a href="https://calnewport.com/no-one-knows-anything-about-ai/"><strong>Two narratives about AI</strong> <code>calnewport.com</code></a> - <a href="https://news.ycombinator.com/item?id=44672414">224 comments 246 points</a></li>
+<li><a href="https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"><strong>Web fingerprinting is worse than I thought (2023)</strong> <code>www.bitestring.com</code></a> - <a href="https://news.ycombinator.com/item?id=44669853">198 comments 244 points</a></li>
+<li><a href="https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees"><strong>Intel CEO Letter to Employees</strong> <code>morethanmoore.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44675965">406 comments 229 points</a></li>
+<li><a href="https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition"><strong>Diet, not lack of exercise, drives obesity, a new study finds</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=44670590">321 comments 229 points</a></li>
+<li><a href="https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html"><strong>UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage</strong> <code>www.the-independent.com</code></a> - <a href="https://news.ycombinator.com/item?id=44670326">86 comments 213 points</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative"><strong>AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=44670624">2 comments 192 points</a></li>
+<li><a href="https://togithub.com/vet-run/vet"><strong>Vet is a safety net for the curl | bash pattern</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44669998">172 comments 187 points</a></li>
+<li><a href="https://www.anthropic.com/news/how-anthropic-teams-use-claude-code"><strong>How Anthropic teams use Claude Code</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=44678535">117 comments 158 points</a></li>
+<li><a href="https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death"><strong>Air Force unit suspends use of Sig Sauer pistol after shooting death of airman</strong> <code>www.nhpr.org</code></a> - <a href="https://news.ycombinator.com/item?id=44674123">255 comments 150 points</a></li>
+<li><a href="https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places"><strong>A list of changes to make it easier to build beautiful and walkable places</strong> <code>chrisbarber.co</code></a> - <a href="https://news.ycombinator.com/item?id=44671472">162 comments 131 points</a></li>
+<li><a href="https://www.ipnsig.org"><strong>Inter-Planetary Network Special Interest Group</strong> <code>www.ipnsig.org</code></a> - <a href="https://news.ycombinator.com/item?id=44675553">31 comments 128 points</a></li>
+<li><a href="https://ache.one/notes/html_zip_bomb"><strong>A valid HTML zip bomb</strong> <code>ache.one</code></a> - <a href="https://news.ycombinator.com/item?id=44670319">33 comments 124 points</a></li>
+<li><a href="https://fortune.com/2025/07/24/north-korean-it-workers-chapman-nike/"><strong>American sentenced for helping North Koreans get jobs at U.S. firms</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=44675691">97 comments 119 points</a></li>
+<li><a href="https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html"><strong>Psilocybin treatment extends cellular lifespan, improves survival of aged mice</strong> <code>news.emory.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44675708">84 comments 112 points</a></li>
+<li><a href="https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"><strong>Major quantum computing advance made obsolete by teenager (2018)</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=44672859">48 comments 112 points</a></li>
+<li><a href="https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad"><strong>OpenAI prepares to launch GPT-5 in August</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=44672450">68 comments 93 points</a></li>
+<li><a href="https://ziglang.org/devlog/2025/#2025-07-23"><strong>New Aarch64 Back End</strong> <code>ziglang.org</code></a> - <a href="https://news.ycombinator.com/item?id=44676315">28 comments 91 points</a></li>
+<li><a href="https://twitter.com/premqnair/status/1948420769945682413"><strong>Windsurf employee #2: I was given a payout of only 1% what my shares where worth</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=44673296">40 comments 90 points</a></li>
+<li><a href="https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7"><strong>When swiping supplants scissors: The hidden cost of touchscreens</strong> <code>caseorganic.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=44672145">75 comments 88 points</a></li>
+<li><a href="https://djpardis.medium.com/revisiting-moneyball-074fc2435b07"><strong>Revisiting Moneyball</strong> <code>djpardis.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=44676348">31 comments 84 points</a></li>
+<li><a href="https://newleftreview.org/sidecar/posts/everything-else"><strong>Everything Else</strong> <code>newleftreview.org</code></a> - <a href="https://news.ycombinator.com/item?id=44671804">20 comments 84 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-07-24]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1042</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.bloomberg.com/news/articles/2025-06-25/jane-street-s-rob-granieri-says-he-was-duped-into-funding-south-sudan-coup-plot"><strong>Jane Street Boss Says He Was Duped into Funding AK-47s for Coup</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=44375822">67 comments 95 points</a></li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Translator"><strong>Web Translator API</strong> <code>developer.mozilla.org</code></a> - <a href="https://news.ycombinator.com/item?id=44374748">54 comments 95 points</a></li>
 <li><a href="https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks"><strong>Microsoft Dependency Has Risks</strong> <code>blog.miloslavhomer.cz</code></a> - <a href="https://news.ycombinator.com/item?id=44381358">92 comments 94 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-06-25]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1013</link>
-            <guid>1013</guid>
-            <pubDate>Wed, 25 Jun 2025 06:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://blog.jsbarretto.com/post/software-is-joy"><strong>Writing toy software is a joy</strong> <code>blog.jsbarretto.com</code></a> - <a href="https://news.ycombinator.com/item?id=44367084">239 comments 604 points</a></li>
-<li><a href="https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059"><strong>Man &#39;refused entry into US&#39; as border control catch him with bald JD Vance meme</strong> <code>www.dublinlive.ie</code></a> - <a href="https://news.ycombinator.com/item?id=44369140">452 comments 504 points</a></li>
-<li><a href="https://starship.rs/"><strong>Starship: The minimal, fast, and customizable prompt for any shell</strong> <code>starship.rs</code></a> - <a href="https://news.ycombinator.com/item?id=44364874">184 comments 409 points</a></li>
-<li><a href="https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723"><strong>Fun with uv and PEP 723</strong> <code>www.cottongeeks.com</code></a> - <a href="https://news.ycombinator.com/item?id=44369388">127 comments 403 points</a></li>
-<li><a href="https://www.plasticlist.org/"><strong>PlasticList – Plastic Levels in Foods</strong> <code>www.plasticlist.org</code></a> - <a href="https://news.ycombinator.com/item?id=44366548">150 comments 346 points</a></li>
-<li><a href="https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/"><strong>Finding a 27-year-old easter egg in the Power Mac G3 ROM</strong> <code>www.downtowndougbrown.com</code></a> - <a href="https://news.ycombinator.com/item?id=44365806">94 comments 336 points</a></li>
-<li><a href="https://www.archives.gov/college-park"><strong>National Archives at College Park, MD, will become a restricted federal facility</strong> <code>www.archives.gov</code></a> - <a href="https://news.ycombinator.com/item?id=44371169">82 comments 279 points</a></li>
-<li><a href="https://damek.github.io/random/basic-facts-about-gpus/"><strong>Basic Facts about GPUs</strong> <code>damek.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=44365320">60 comments 271 points</a></li>
-<li><a href="https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse"><strong>The NO FAKES act has changed, and it&#39;s worse</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=44363106">110 comments 264 points</a></li>
-<li><a href="https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app"><strong>Switching Pip to Uv in a Dockerized Flask / Django App</strong> <code>nickjanetakis.com</code></a> - <a href="https://news.ycombinator.com/item?id=44364406">144 comments 241 points</a></li>
-<li><a href="https://lucalp.dev/bitter-lesson-tokenization-and-blt/"><strong>The bitter lesson is coming for tokenization</strong> <code>lucalp.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44366494">102 comments 241 points</a></li>
-<li><a href="https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed"><strong>Ancient X11 scaling technology</strong> <code>flak.tedunangst.com</code></a> - <a href="https://news.ycombinator.com/item?id=44369646">160 comments 215 points</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry"><strong>ChatGPT&#39;s enterprise success against Copilot fuels OpenAI/Microsoft rivalry</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=44367638">176 comments 207 points</a></li>
-<li><a href="https://xbow.com/blog/top-1-how-xbow-did-it/"><strong>XBOW, an autonomous penetration tester, has reached the top spot on HackerOne</strong> <code>xbow.com</code></a> - <a href="https://news.ycombinator.com/item?id=44367548">92 comments 199 points</a></li>
-<li><a href="https://togithub.com/microsoft/edit"><strong>Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44372380">72 comments 176 points</a></li>
-<li><a href="https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/"><strong>Gemini Robotics On-Device brings AI to local robotic devices</strong> <code>deepmind.google</code></a> - <a href="https://news.ycombinator.com/item?id=44366409">72 comments 175 points</a></li>
-<li><a href="https://www.cnn.com/2025/06/24/health/microplastics-food-packaging-study-wellness"><strong>Microplastics shed by food packaging are contaminating our food, study finds</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=44364526">178 comments 169 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=44363262"><strong>Tell HN: Meta developer account suspended</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44363262">75 comments 167 points</a></li>
-<li><a href="https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/"><strong>iPhone customers upset by Apple Wallet ad pushing F1 movie</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=44368854">121 comments 162 points</a></li>
-<li><a href="https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/"><strong>A federal judge sides with Anthropic in lawsuit over training AI on books</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=44367850">171 comments 155 points</a></li>
-<li><a href="https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282"><strong>SourceHut moves business operations from US to Europe</strong> <code>lists.sr.ht</code></a> - <a href="https://news.ycombinator.com/item?id=44365246">98 comments 154 points</a></li>
-<li><a href="https://www.programmax.net/articles/png-is-back/"><strong>PNG Is Back</strong> <code>www.programmax.net</code></a> - <a href="https://news.ycombinator.com/item?id=44373504">23 comments 141 points</a></li>
-<li><a href="https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding"><strong>The German automotive industry wants to develop open-source software together</strong> <code>www.vda.de</code></a> - <a href="https://news.ycombinator.com/item?id=44370494">66 comments 127 points</a></li>
-<li><a href="https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html"><strong>Subsecond: A runtime hotpatching engine for Rust hot-reloading</strong> <code>docs.rs</code></a> - <a href="https://news.ycombinator.com/item?id=44369642">19 comments 124 points</a></li>
-<li><a href="https://togithub.com/useautumn/autumn"><strong>Show HN: Autumn – Open-source infra over Stripe</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44365620">34 comments 121 points</a></li>
-<li><a href="https://togithub.com/justbuchanan/oasis"><strong>Show HN: Oasis – An open-source, 3D-printed smart terrarium</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44366395">18 comments 120 points</a></li>
-<li><a href="https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault"><strong>Nordic Semiconductor Acquires Memfault</strong> <code>www.nordicsemi.com</code></a> - <a href="https://news.ycombinator.com/item?id=44367071">43 comments 118 points</a></li>
-<li><a href="https://atuin.sh"><strong>Atuin – Magical Shell History</strong> <code>atuin.sh</code></a> - <a href="https://news.ycombinator.com/item?id=44364186">67 comments 116 points</a></li>
-<li><a href="https://shanrauf.com/archive/how-to-think-about-time-in-programming"><strong>How to Think About Time in Programming</strong> <code>shanrauf.com</code></a> - <a href="https://news.ycombinator.com/item?id=44370426">33 comments 110 points</a></li>
-<li><a href="https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e"><strong>Thnickels</strong> <code>thick-coins.net</code></a> - <a href="https://news.ycombinator.com/item?id=44372424">27 comments 109 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
