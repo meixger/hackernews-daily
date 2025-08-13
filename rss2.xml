@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 12 Aug 2025 06:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 06:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-08-12]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1061</link>
+            <guid>1061</guid>
+            <pubDate>Tue, 12 Aug 2025 06:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition"><strong>GitHub is no longer independent at Microsoft after CEO resignation</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=44865560">802 comments 1099 points</a></li>
+<li><a href="https://www.al3rez.com/todo-txt-journey"><strong>I tried every todo app and ended up with a .txt file</strong> <code>www.al3rez.com</code></a> - <a href="https://news.ycombinator.com/item?id=44864134">564 comments 947 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/cjr11qqvvwlo"><strong>Wikipedia loses challenge against Online Safety Act</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=44866208">545 comments 720 points</a></li>
+<li><a href="https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/"><strong>Wikimedia Foundation Challenges UK Online Safety Act Regulations</strong> <code>wikimediafoundation.org</code></a> - <a href="https://news.ycombinator.com/item?id=44863487">3 comments 627 points</a></li>
+<li><a href="https://dwyer.co.za/static/claude-code-is-all-you-need.html"><strong>Claude Code is all you need</strong> <code>dwyer.co.za</code></a> - <a href="https://news.ycombinator.com/item?id=44864185">315 comments 578 points</a></li>
+<li><a href="https://issues.chromium.org/issues/412578726"><strong>The Chrome VRP Panel has decided to award $250k for this report</strong> <code>issues.chromium.org</code></a> - <a href="https://news.ycombinator.com/item?id=44861106">255 comments 493 points</a></li>
+<li><a href="https://archive.org/details/meta_leaks_part_1"><strong>Meta Leaks Part 1: Israel and Meta</strong> <code>archive.org</code></a> - <a href="https://news.ycombinator.com/item?id=44864419">157 comments 438 points</a></li>
+<li><a href="https://www.openssh.com/pq.html"><strong>OpenSSH Post-Quantum Cryptography</strong> <code>www.openssh.com</code></a> - <a href="https://news.ycombinator.com/item?id=44863242">103 comments 385 points</a></li>
+<li><a href="https://www.nytimes.com/live/2025/08/11/us/trump-news"><strong>Trump Orders National Guard to Washington and Takeover of Capital’s Police</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44864192">405 comments 348 points</a></li>
+<li><a href="https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/"><strong>GPT-OSS-120B runs on just 8GB VRAM &amp; 64GB+ system RAM</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=44862542">75 comments 232 points</a></li>
+<li><a href="https://pricingpages.design/"><strong>Pricing Pages – A Curated Gallery of Pricing Page Designs</strong> <code>pricingpages.design</code></a> - <a href="https://news.ycombinator.com/item?id=44863409">59 comments 209 points</a></li>
+<li><a href="https://aman.ai/primers/ai/"><strong>Hand-picked selection of articles on AI fundamentals/concepts</strong> <code>aman.ai</code></a> - <a href="https://news.ycombinator.com/item?id=44862112">18 comments 204 points</a></li>
+<li><a href="https://planetscale.com/blog/announcing-neki"><strong>Neki – sharded Postgres by the team behind Vitess</strong> <code>planetscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=44867374">26 comments 182 points</a></li>
+<li><a href="https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html"><strong>AOL to discontinue dial-up internet</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44861521">183 comments 179 points</a></li>
+<li><a href="https://aarol.dev/posts/zig-simd-substr/"><strong>Faster substring search with SIMD in Zig</strong> <code>aarol.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44862414">54 comments 179 points</a></li>
+<li><a href="https://www.arxiv.org/pdf/2508.06471"><strong>GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]</strong> <code>www.arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44871337">16 comments 175 points</a></li>
+<li><a href="https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev"><strong>Token growth indicates future AI spend per dev</strong> <code>blog.kilocode.ai</code></a> - <a href="https://news.ycombinator.com/item?id=44867312">139 comments 173 points</a></li>
+<li><a href="https://github.blog/news-insights/company-news/goodbye-github/"><strong>Auf Wiedersehen, GitHub</strong> <code>github.blog</code></a> - <a href="https://news.ycombinator.com/item?id=44864929">101 comments 168 points</a></li>
+<li><a href="https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the"><strong>Claude is the drug, Cursor is the dealer</strong> <code>middlelayer.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44865813">96 comments 151 points</a></li>
+<li><a href="https://timharford.com/2025/05/the-value-of-institutional-memory/"><strong>The value of institutional memory</strong> <code>timharford.com</code></a> - <a href="https://news.ycombinator.com/item?id=44866500">74 comments 137 points</a></li>
+<li><a href="https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false"><strong>36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens</strong> <code>academic.oup.com</code></a> - <a href="https://news.ycombinator.com/item?id=44864680">93 comments 132 points</a></li>
+<li><a href="https://togithub.com/ollama/ollama/issues/11714"><strong>Ollama and gguf</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44867238">53 comments 125 points</a></li>
+<li><a href="https://twitter.com/KeithSakata/status/1954884361695719474"><strong>I&#39;ve seen 12 people hospitalized after losing touch with reality because of AI</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=44869323">76 comments 116 points</a></li>
+<li><a href="https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/"><strong>Japan&#39;s largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations</strong> <code>www.niemanlab.org</code></a> - <a href="https://news.ycombinator.com/item?id=44870895">42 comments 113 points</a></li>
+<li><a href="https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit"><strong>Reddit will block the Internet Archive</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=44866698">33 comments 112 points</a></li>
+<li><a href="https://opuslabs.substack.com/p/learn-reflect-apply-prepare"><strong>Learn, Reflect, Apply, Prepare: The Four Daily Practices That Changed How I Live</strong> <code>opuslabs.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44865834">16 comments 106 points</a></li>
+<li><a href="https://togithub.com/danterolle/tilf"><strong>Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44870137">15 comments 104 points</a></li>
+<li><a href="https://www.cnbc.com/2025/08/11/trump-washington-crime-fed-national-guard-homeless.html"><strong>Washington, DC police put under federal control, National Guard deployed</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=44867494">11 comments 98 points</a></li>
+<li><a href="https://deanebarker.net/tech/blog/custom-elements-markdown/"><strong>The Joy of Mixing Custom Elements, Web Components, and Markdown</strong> <code>deanebarker.net</code></a> - <a href="https://news.ycombinator.com/item?id=44865997">35 comments 96 points</a></li>
+<li><a href="https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf"><strong>The demographic future of humanity: facts and consequences [pdf]</strong> <code>www.sas.upenn.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44866621">254 comments 95 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-08-11]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1060</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent"><strong>Hypercapitalism and the AI talent wars</strong> <code>blog.johnluttig.com</code></a> - <a href="https://news.ycombinator.com/item?id=44553257">24 comments 71 points</a></li>
 <li><a href="https://www.italpassion.fr/en/stellantis/stellantis-declares-bankruptcy-in-china-with-1-billion-in-debts/"><strong>Stellantis declares bankruptcy in China, with $1B in debts</strong> <code>www.italpassion.fr</code></a> - <a href="https://news.ycombinator.com/item?id=44555836">35 comments 70 points</a></li>
 <li><a href="https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539"><strong>Hungary&#39;s oldest library fighting to save 100k books from a beetle infestation</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=44552362">24 comments 70 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-07-13]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1031</link>
-            <guid>1031</guid>
-            <pubDate>Sun, 13 Jul 2025 06:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://blog.decryption.net.au/posts/macpaint.html"><strong>MacPaint Art from the Mid-80s Still Looks Great Today</strong> <code>blog.decryption.net.au</code></a> - <a href="https://news.ycombinator.com/item?id=44540402">178 comments 836 points</a></li>
-<li><a href="https://0x44.xyz/blog/web-request-blocking/"><strong>Bypassing Google&#39;s big anti-adblock update</strong> <code>0x44.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=44544266">492 comments 567 points</a></li>
-<li><a href="https://ellsberg.substack.com/p/free-speech"><strong>Supreme Court&#39;s ruling practically wipes out free speech for sex writing online</strong> <code>ellsberg.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44543865">684 comments 543 points</a></li>
-<li><a href="https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/"><strong>Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions</strong> <code>skyandtelescope.org</code></a> - <a href="https://news.ycombinator.com/item?id=44543150">189 comments 327 points</a></li>
-<li><a href="https://jsdate.wtf"><strong>New Date(&quot;wtf&quot;) – How well do you know JavaScript&#39;s Date class?</strong> <code>jsdate.wtf</code></a> - <a href="https://news.ycombinator.com/item?id=44540241">173 comments 310 points</a></li>
-<li><a href="https://togithub.com/MoonshotAI/Kimi-K2"><strong>Kimi k2 largest open source SOTA model?</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44543508">75 comments 299 points</a></li>
-<li><a href="https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html"><strong>Arizona resident dies from the plague less than 24 hours after showing symptoms</strong> <code>www.independent.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=44543368">127 comments 234 points</a></li>
-<li><a href="https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/"><strong>Malware found in official gravityforms plugin indicating supply chain breach</strong> <code>patchstack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44539879">43 comments 209 points</a></li>
-<li><a href="https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/"><strong>The fish kick may be the fastest subsurface swim stroke yet (2015)</strong> <code>nautil.us</code></a> - <a href="https://news.ycombinator.com/item?id=44541576">134 comments 201 points</a></li>
-<li><a href="https://americansunlight.substack.com/cp/168074209"><strong>Bad Actors Are Grooming LLMs to Produce Falsehoods</strong> <code>americansunlight.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44540052">256 comments 184 points</a></li>
-<li><a href="https://www.commodore.net"><strong>Commodore 64 Ultimate</strong> <code>www.commodore.net</code></a> - <a href="https://news.ycombinator.com/item?id=44540589">114 comments 155 points</a></li>
-<li><a href="https://inventwithpython.com/blog/lost-av-chapter.html"><strong>Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python</strong> <code>inventwithpython.com</code></a> - <a href="https://news.ycombinator.com/item?id=44543240">8 comments 141 points</a></li>
-<li><a href="https://www.theregister.com/2025/07/11/afrinic_election_annulled_why/"><strong>ICANN fumes as AFRINIC offers no explanation for annulled election</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=44540858">51 comments 137 points</a></li>
-<li><a href="https://atomic14.substack.com/p/vibe-coding-a-pcb-surprisingly-good"><strong>Vibe-Coding a PCB – surprisingly good</strong> <code>atomic14.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44542880">60 comments 136 points</a></li>
-<li><a href="https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/"><strong>Working through &#39;Writing A C Compiler&#39;</strong> <code>jollygoodsw.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=44541565">32 comments 133 points</a></li>
-<li><a href="https://kristoff.it/blog/zig-new-async-io/"><strong>Zig&#39;s New Async I/O</strong> <code>kristoff.it</code></a> - <a href="https://news.ycombinator.com/item?id=44545949">75 comments 106 points</a></li>
-<li><a href="https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1"><strong>Light exposure at night predicts incidence of cardiovascular diseases</strong> <code>www.medrxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=44545858">60 comments 93 points</a></li>
-<li><a href="https://simonwillison.net/2025/Jul/12/grok-4-heavy/"><strong>Grok 4 Heavy Protects it&#39;s System prompt</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=44543590">56 comments 78 points</a></li>
-<li><a href="https://togithub.com/jtang613/GhidrAssistMCP"><strong>A better Ghidra MCP server – GhidrAssistMCP</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44543913">13 comments 77 points</a></li>
-<li><a href="https://togithub.com/efecan0/binaryrpc-framework"><strong>Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44543156">34 comments 72 points</a></li>
-<li><a href="https://www.designarena.ai/"><strong>Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX</strong> <code>www.designarena.ai</code></a> - <a href="https://news.ycombinator.com/item?id=44542578">20 comments 69 points</a></li>
-<li><a href="https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html"><strong>Hacking Coroutines into C</strong> <code>wiomoc.de</code></a> - <a href="https://news.ycombinator.com/item?id=44546640">15 comments 67 points</a></li>
-<li><a href="https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp"><strong>&#39;Starter packs&#39; have played a central role in Bluesky&#39;s rapid growth</strong> <code>www.tu-darmstadt.de</code></a> - <a href="https://news.ycombinator.com/item?id=44544388">51 comments 60 points</a></li>
-<li><a href="https://old.reddit.com/r/ProductManagement/comments/1lw9r9h/i_messed_up_my_google_pm_vibe_coding_interview/"><strong>I Messed Up My Google PM Vibe Coding Interview</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=44544367">33 comments 55 points</a></li>
-<li><a href="https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68"><strong>XAI seeks up to $200B valuation in next fundraising</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=44543113">68 comments 52 points</a></li>
-<li><a href="https://www.washingtonpost.com/technology/2025/07/12/marc-andreessen-private-chat-universities-diversity/"><strong>Marc Andreesen says universities will &#39;pay the price&#39; for DEI</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=44541246">38 comments 52 points</a></li>
-<li><a href="https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/"><strong>Stone–Wales Transformations</strong> <code>johncarlosbaez.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=44542170">6 comments 44 points</a></li>
-<li><a href="https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests"><strong>MoonPay executives may have sent $250k to Nigerian scammer</strong> <code>www.theblock.co</code></a> - <a href="https://news.ycombinator.com/item?id=44546422">6 comments 42 points</a></li>
-<li><a href="https://www.cnbc.com/2025/07/09/openai-to-release-web-browser-in-challenge-to-google-chrome.html"><strong>OpenAI to release web browser in challenge to Google Chrome</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=44540876">53 comments 41 points</a></li>
-<li><a href="https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html"><strong>A.I. Is Making Sure You Pay for That Ding on Your Rental Car</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44546707">55 comments 39 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
