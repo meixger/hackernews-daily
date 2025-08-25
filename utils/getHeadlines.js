@@ -2,10 +2,10 @@ import core from "@actions/core";
 import { EOL } from "os";
 import { exit } from "process";
 
-function githubReplaceRenovatebotRedirector(value) {
-    // avoid creating a GitHub issue reference by using renovatebot redirector
-    // ref: https://github.com/renovatebot/renovate/blob/main/lib/modules/platform/github/index.ts
-    return value.replace(/https?:\/\/(www\.)?github.com\//g, 'https://togithub.com/');
+function githubAvoidingBacklinksToLinkedReferences(value) {
+    // Avoiding backlinks to linked references
+    // ref: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#avoiding-backlinks-to-linked-references
+    return value.replace(/https?:\/\/(www\.)?github.com\//g, 'https://redirect.github.com/');
 }
 
 function escapeHTML(value) {
@@ -52,7 +52,7 @@ export const getHeadlines = async (date, take) => {
                 const ycombinatorUrl = `https://news.ycombinator.com/item?id=${objectID}`;
                 if (!url) url = ycombinatorUrl;
                 const domain = url ? `<code>${new URL(url).hostname}</code>` : '';
-                url = githubReplaceRenovatebotRedirector(url);
+                url = githubAvoidingBacklinksToLinkedReferences(url);
                 const titleAndDomain = `[**${escapeHTML(title)}** ${domain}](${url})`;
                 const commentsAndPoints = `[${num_comments} comments ${points} points](${ycombinatorUrl})`;
                 return `${i + 1}. ${titleAndDomain} - ${commentsAndPoints}`;
