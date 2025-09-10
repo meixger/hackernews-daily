@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 09 Sep 2025 06:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Sep 2025 06:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-09-09]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1088</link>
+            <guid>1088</guid>
+            <pubDate>Tue, 09 Sep 2025 06:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised"><strong>NPM debug and chalk packages compromised</strong> <code>www.aikido.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45169657">584 comments 1076 points</a></li>
+<li><a href="https://signal.org/blog/introducing-secure-backups/"><strong>Signal Secure Backups</strong> <code>signal.org</code></a> - <a href="https://news.ycombinator.com/item?id=45170515">332 comments 716 points</a></li>
+<li><a href="https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/"><strong>Chat Control Must Be Stopped</strong> <code>www.privacyguides.org</code></a> - <a href="https://news.ycombinator.com/item?id=45173277">203 comments 655 points</a></li>
+<li><a href="https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/"><strong>14 Killed in anti-government protests in Nepal</strong> <code>www.tribuneindia.com</code></a> - <a href="https://news.ycombinator.com/item?id=45166972">420 comments 544 points</a></li>
+<li><a href="https://redirect.github.com/immich-app/immich"><strong>Immich – High performance self-hosted photo and video management</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45165684">167 comments 493 points</a></li>
+<li><a href="https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/"><strong>Meta suppressed research on child safety, employees say</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=45167705">308 comments 482 points</a></li>
+<li><a href="https://stopa.io/post/297"><strong>iPhone dumbphone</strong> <code>stopa.io</code></a> - <a href="https://news.ycombinator.com/item?id=45171200">254 comments 379 points</a></li>
+<li><a href="https://blog.6nok.org/experimenting-with-local-llms-on-macos/"><strong>Experimenting with Local LLMs on macOS</strong> <code>blog.6nok.org</code></a> - <a href="https://news.ycombinator.com/item?id=45168953">189 comments 290 points</a></li>
+<li><a href="https://buttondown.com/blog/rss-vs-ice"><strong>How RSS beat Microsoft</strong> <code>buttondown.com</code></a> - <a href="https://news.ycombinator.com/item?id=45166750">158 comments 283 points</a></li>
+<li><a href="https://maurycyz.com/misc/ads/"><strong>No adblocker detected</strong> <code>maurycyz.com</code></a> - <a href="https://news.ycombinator.com/item?id=45176206">100 comments 248 points</a></li>
+<li><a href="https://www.theregister.com/2025/09/08/vmware_in_court_opinion/"><strong>VMware&#39;s in court again. Customer relationships rarely go this wrong</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=45167239">184 comments 240 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp"><strong>Ex-WhatsApp cybersecurity head says Meta endangered billions of users</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=45174221">115 comments 231 points</a></li>
+<li><a href="https://openwrt.org/"><strong>OpenWrt: A Linux OS targeting embedded devices</strong> <code>openwrt.org</code></a> - <a href="https://news.ycombinator.com/item?id=45170087">152 comments 229 points</a></li>
+<li><a href="https://rustcurious.com/elements/"><strong>A clickable visual guide to the Rust type system</strong> <code>rustcurious.com</code></a> - <a href="https://news.ycombinator.com/item?id=45167401">36 comments 212 points</a></li>
+<li><a href="https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/"><strong>Tesla market share in US drops to lowest since 2017</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=45175588">205 comments 196 points</a></li>
+<li><a href="https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them"><strong>Will Amazon S3 Vectors kill vector databases or save them?</strong> <code>zilliz.com</code></a> - <a href="https://news.ycombinator.com/item?id=45169624">98 comments 194 points</a></li>
+<li><a href="https://remyhax.xyz/posts/clankers-die-on-christmas/"><strong>Clankers Die on Christmas</strong> <code>remyhax.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=45169275">141 comments 183 points</a></li>
+<li><a href="https://news.artnet.com/market/intelligence-report-storm-2025-2684512"><strong>The Storm Hits the Art Market</strong> <code>news.artnet.com</code></a> - <a href="https://news.ycombinator.com/item?id=45175628">125 comments 179 points</a></li>
+<li><a href="https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html"><strong>Google gets away almost scot-free in US search antitrust case</strong> <code>www.computerworld.com</code></a> - <a href="https://news.ycombinator.com/item?id=45169584">114 comments 178 points</a></li>
+<li><a href="https://kube.io/blog/liquid-glass-css-svg/"><strong>Liquid Glass in the Browser: Refraction with CSS and SVG</strong> <code>kube.io</code></a> - <a href="https://news.ycombinator.com/item?id=45174297">40 comments 167 points</a></li>
+<li><a href="https://micahflee.com/iceblock-handled-my-vulnerability-report-in-the-worst-possible-way/"><strong>ICEBlock handled my vulnerability report in the worst possible way</strong> <code>micahflee.com</code></a> - <a href="https://news.ycombinator.com/item?id=45167534">89 comments 149 points</a></li>
+<li><a href="https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology"><strong>AI might yet follow the path of previous technological revolutions</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=45167625">198 comments 144 points</a></li>
+<li><a href="https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86"><strong>AMD claims Arm ISA doesn&#39;t offer efficiency advantage over x86</strong> <code>www.techpowerup.com</code></a> - <a href="https://news.ycombinator.com/item?id=45168854">260 comments 140 points</a></li>
+<li><a href="https://www.nber.org/papers/w34215"><strong>Job mismatch and early career success</strong> <code>www.nber.org</code></a> - <a href="https://news.ycombinator.com/item?id=45169892">67 comments 135 points</a></li>
+<li><a href="https://teslacoilapps.com/nova/solong.html"><strong>I have left Branch and am no longer involved with Nova Launcher</strong> <code>teslacoilapps.com</code></a> - <a href="https://news.ycombinator.com/item?id=45170000">49 comments 119 points</a></li>
+<li><a href="https://bjo.bmj.com/content/early/2025/08/17/bjo-2024-326872"><strong>Dietary omega-3 polyunsaturated fatty acids as a protective factor of myopia</strong> <code>bjo.bmj.com</code></a> - <a href="https://news.ycombinator.com/item?id=45169157">106 comments 118 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=oYjYmSniQyM"><strong>How inaccurate are Nintendo&#39;s official emulators? [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=45166711">55 comments 117 points</a></li>
+<li><a href="https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic"><strong>YouTube views are down (don&#39;t panic)</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=45173455">106 comments 111 points</a></li>
+<li><a href="https://www.cnn.com/2025/09/03/economy/us-jolts-job-openings-layoffs-july"><strong>America is in a serious jobs slump</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=45171418">117 comments 109 points</a></li>
+<li><a href="https://www.alterego.io/"><strong>Alterego: Thought to Text</strong> <code>www.alterego.io</code></a> - <a href="https://news.ycombinator.com/item?id=45174125">79 comments 109 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-09-08]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1087</link>
@@ -1135,45 +1174,6 @@
 <li><a href="http://blog.tolki.dev/posts/2025/08-07-llms/"><strong>The current state of LLM-driven development</strong> <code>blog.tolki.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44847741">61 comments 91 points</a></li>
 <li><a href="http://www.tribblix.org/"><strong>Tribblix – The Retro Illumos Distribution</strong> <code>www.tribblix.org</code></a> - <a href="https://news.ycombinator.com/item?id=44844561">31 comments 89 points</a></li>
 <li><a href="https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi"><strong>I prefer human-readable file formats</strong> <code>adele.pollux.casa</code></a> - <a href="https://news.ycombinator.com/item?id=44845112">70 comments 86 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-08-09]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1058</link>
-            <guid>1058</guid>
-            <pubDate>Sat, 09 Aug 2025 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://togithub.com/Nicholas-L-Johnson/flip-card"><strong>Ultrathin business card runs a fluid simulation</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44835879">188 comments 929 points</a></li>
-<li><a href="https://instavm.io/blog/building-my-offline-ai-workspace"><strong>I want everything local – Building my offline AI workspace</strong> <code>instavm.io</code></a> - <a href="https://news.ycombinator.com/item?id=44840013">168 comments 602 points</a></li>
-<li><a href="https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/"><strong>Jim Lovell, Apollo 13 commander, has died</strong> <code>www.nasa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=44840582">91 comments 453 points</a></li>
-<li><a href="https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/"><strong>Linear sent me down a local-first rabbit hole</strong> <code>bytemash.net</code></a> - <a href="https://news.ycombinator.com/item?id=44833834">197 comments 423 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=44840728"><strong>Ask HN: How can ChatGPT serve 700M users when I can&#39;t run one GPT-4 locally?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=44840728">245 comments 367 points</a></li>
-<li><a href="https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/"><strong>The surprise deprecation of GPT-4o for ChatGPT consumers</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=44839842">316 comments 335 points</a></li>
-<li><a href="https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/"><strong>Getting good results from Claude Code</strong> <code>www.dzombak.com</code></a> - <a href="https://news.ycombinator.com/item?id=44836879">124 comments 304 points</a></li>
-<li><a href="https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/"><strong>Food, housing, &amp; health care costs are a source of major stress for many people</strong> <code>apnorc.org</code></a> - <a href="https://news.ycombinator.com/item?id=44836219">509 comments 291 points</a></li>
-<li><a href="https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/"><strong>Tor: How a military project became a lifeline for privacy</strong> <code>thereader.mitpress.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44838378">137 comments 287 points</a></li>
-<li><a href="https://www.france24.com/en/live-news/20250807-us-to-rewrite-its-past-national-climate-reports"><strong>US to rewrite its past national climate reports</strong> <code>www.france24.com</code></a> - <a href="https://news.ycombinator.com/item?id=44835287">173 comments 238 points</a></li>
-<li><a href="https://radar.com/blog/high-performance-geocoding-in-rust"><strong>How we replaced Elasticsearch and MongoDB with Rust and RocksDB</strong> <code>radar.com</code></a> - <a href="https://news.ycombinator.com/item?id=44836463">56 comments 218 points</a></li>
-<li><a href="https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing"><strong>AI is impressive because we&#39;ve failed at personal computing</strong> <code>rakhim.exotext.com</code></a> - <a href="https://news.ycombinator.com/item?id=44837783">177 comments 197 points</a></li>
-<li><a href="https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist"><strong>Astronomy Photographer of the Year 2025 shortlist</strong> <code>www.rmg.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=44837434">28 comments 197 points</a></li>
-<li><a href="https://theahura.substack.com/p/tech-things-genies-lamp-openai-cant"><strong>Google&#39;s Genie is more impressive than GPT5</strong> <code>theahura.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=44837646">71 comments 194 points</a></li>
-<li><a href="https://hanlab.mit.edu/blog/streamingllm"><strong>How attention sinks keep language models stable</strong> <code>hanlab.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=44834918">27 comments 174 points</a></li>
-<li><a href="https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet"><strong>GPT-5 vs. Sonnet: Complex Agentic Coding</strong> <code>elite-ai-assisted-coding.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44838303">135 comments 160 points</a></li>
-<li><a href="https://help.aol.com/articles/dial-up-internet-to-be-discontinued"><strong>Dial-up Internet to be discontinued</strong> <code>help.aol.com</code></a> - <a href="https://news.ycombinator.com/item?id=44843369">74 comments 150 points</a></li>
-<li><a href="https://newsroom.intel.com/corporate/my-commitment-to-you-and-our-company"><strong>A message from Intel CEO Lip-Bu Tan to all company employees</strong> <code>newsroom.intel.com</code></a> - <a href="https://news.ycombinator.com/item?id=44839705">197 comments 143 points</a></li>
-<li><a href="https://passo.uno/from-tech-writers-to-ai-context-curators/"><strong>AI must RTFM: Why tech writers are becoming context curators</strong> <code>passo.uno</code></a> - <a href="https://news.ycombinator.com/item?id=44837875">65 comments 137 points</a></li>
-<li><a href="https://www.dbos.dev/blog/why-postgres-durable-execution"><strong>Build durable workflows with Postgres</strong> <code>www.dbos.dev</code></a> - <a href="https://news.ycombinator.com/item?id=44840693">41 comments 113 points</a></li>
-<li><a href="https://togithub.com/steveyegge/efrit"><strong>Efrit: A native elisp coding agent running in Emacs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=44840654">16 comments 106 points</a></li>
-<li><a href="https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief"><strong>Someone keeps stealing, flying, fixing and returning this man&#39;s 1958 Cessna</strong> <code>www.latimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=44839681">115 comments 100 points</a></li>
-<li><a href="https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/"><strong>M5 MacBook Pro No Longer Coming in 2025</strong> <code>www.macrumors.com</code></a> - <a href="https://news.ycombinator.com/item?id=44840281">129 comments 96 points</a></li>
-<li><a href="https://www.bloomberg.com/opinion/articles/2025-08-08/the-bls-can-t-be-replaced-by-the-private-sector"><strong>The BLS can&#39;t be replaced by the private sector</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=44836414">93 comments 94 points</a></li>
-<li><a href="https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/"><strong>HRT&#39;s Python fork: Leveraging PEP 690 for faster imports</strong> <code>www.hudsonrivertrading.com</code></a> - <a href="https://news.ycombinator.com/item?id=44838687">87 comments 82 points</a></li>
-<li><a href="https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/"><strong>Open SWE: An open-source asynchronous coding agent</strong> <code>blog.langchain.com</code></a> - <a href="https://news.ycombinator.com/item?id=44838733">19 comments 81 points</a></li>
-<li><a href="https://blog.charliemeyer.co/the-gpt-5-launch-was-concerning/"><strong>The GPT-5 Launch Was Concerning</strong> <code>blog.charliemeyer.co</code></a> - <a href="https://news.ycombinator.com/item?id=44835827">88 comments 79 points</a></li>
-<li><a href="https://www.nber.org/papers/w34072"><strong>What Does Consulting Do?</strong> <code>www.nber.org</code></a> - <a href="https://news.ycombinator.com/item?id=44836972">60 comments 79 points</a></li>
-<li><a href="https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60"><strong>Little-known leguminous plant can increase beef production by 60% (2022)</strong> <code>www.embrapa.br</code></a> - <a href="https://news.ycombinator.com/item?id=44842700">46 comments 77 points</a></li>
-<li><a href="https://electrek.co/2025/08/08/tesla-used-car-prices-keep-plumetting-now-literrally-cheaper-than-average-used-car/"><strong>Tesla used car prices keep plumetting, dips below average used car</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=44843842">86 comments 76 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
