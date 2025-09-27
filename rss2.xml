@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 26 Sep 2025 06:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Sep 2025 06:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-09-26]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1105</link>
+            <guid>1105</guid>
+            <pubDate>Fri, 26 Sep 2025 06:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/"><strong>ChatControl: EU wants to scan all private messages, even in encrypted apps</strong> <code>metalhearf.fr</code></a> - <a href="https://news.ycombinator.com/item?id=45374500">502 comments 907 points</a></li>
+<li><a href="https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians"><strong>Microsoft blocks Israel’s use of its tech in mass surveillance of Palestinians</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=45373564">690 comments 802 points</a></li>
+<li><a href="https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211"><strong>Death rates rose in hospital ERs after private equity firms took over</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=45372442">460 comments 729 points</a></li>
+<li><a href="https://blog.cloudflare.com/email-service/"><strong>Cloudflare Email Service: private beta</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=45373081">408 comments 525 points</a></li>
+<li><a href="https://www.wired.com/story/oral-history-doge-federal-workers/"><strong>The story of DOGE, as told by federal workers</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=45373102">407 comments 459 points</a></li>
+<li><a href="https://openai.com/index/introducing-chatgpt-pulse/"><strong>ChatGPT Pulse</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=45375477">443 comments 453 points</a></li>
+<li><a href="https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/"><strong>Improved Gemini 2.5 Flash and Flash-Lite</strong> <code>developers.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=45375845">223 comments 423 points</a></li>
+<li><a href="https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/"><strong>Bundler Belongs to the Ruby Community</strong> <code>andre.arko.net</code></a> - <a href="https://news.ycombinator.com/item?id=45371061">62 comments 356 points</a></li>
+<li><a href="https://t0mpr1c3.github.io/knotty/index.html"><strong>Knotty: A domain-specific language for knitting patterns</strong> <code>t0mpr1c3.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45369768">51 comments 335 points</a></li>
+<li><a href="https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists"><strong>Demand for human radiologists is at an all-time high</strong> <code>www.worksinprogress.news</code></a> - <a href="https://news.ycombinator.com/item?id=45372335">305 comments 319 points</a></li>
+<li><a href="https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon"><strong>Amazon fined $2.5B for using deceptive methods to sign up consumers for Prime</strong> <code>www.ftc.gov</code></a> - <a href="https://news.ycombinator.com/item?id=45374064">155 comments 311 points</a></li>
+<li><a href="https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/"><strong>Raspberry Pi 500+</strong> <code>www.raspberrypi.com</code></a> - <a href="https://news.ycombinator.com/item?id=45370304">197 comments 295 points</a></li>
+<li><a href="https://redirect.github.com/electron/electron/issues/48311"><strong>Electron-based apps cause system-wide lag on macOS 26 Tahoe</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45376977">171 comments 261 points</a></li>
+<li><a href="https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/"><strong>Athlon 64: How AMD turned the tables on Intel</strong> <code>dfarq.homeip.net</code></a> - <a href="https://news.ycombinator.com/item?id=45376605">165 comments 235 points</a></li>
+<li><a href="https://ollama.com/blog/web-search"><strong>Ollama Web Search</strong> <code>ollama.com</code></a> - <a href="https://news.ycombinator.com/item?id=45377641">121 comments 229 points</a></li>
+<li><a href="https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review"><strong>The Theatre of Pull Requests and Code Review</strong> <code>meks.quest</code></a> - <a href="https://news.ycombinator.com/item?id=45371283">364 comments 226 points</a></li>
+<li><a href="https://stevedylandev.bearblog.dev/resurrect-the-old-web/"><strong>Resurrect the Old Web</strong> <code>stevedylandev.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45372113">182 comments 204 points</a></li>
+<li><a href="https://www.axios.com/2025/03/20/us-new-low-world-happiness-report"><strong>U.S. hits new low in World Happiness Report</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=45378896">224 comments 200 points</a></li>
+<li><a href="https://servo.org/blog/2025/09/25/this-month-in-servo/"><strong>This month in Servo: variable fonts, network tools, SVG</strong> <code>servo.org</code></a> - <a href="https://news.ycombinator.com/item?id=45373501">31 comments 164 points</a></li>
+<li><a href="https://www.reuters.com/world/austria-hails-brain-gain-luring-25-academics-away-us-after-cuts-2025-09-25/"><strong>Austria hails &#39;brain gain&#39; in luring 25 academics away from US after cuts</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=45375450">102 comments 148 points</a></li>
+<li><a href="https://doc.redox-os.org/book/redoxfs.html"><strong>RedoxFS is the default filesystem of Redox OS, inspired by ZFS</strong> <code>doc.redox-os.org</code></a> - <a href="https://news.ycombinator.com/item?id=45379325">84 comments 147 points</a></li>
+<li><a href="https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting"><strong>Some interesting stuff I found on IX LANs</strong> <code>blog.benjojo.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=45370882">28 comments 142 points</a></li>
+<li><a href="https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/"><strong>As many as 2M Cisco devices affected by actively exploited 0-day</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=45372361">44 comments 141 points</a></li>
+<li><a href="https://toao.com/blog/can-we-really-see-brambles-from-space"><strong>Can a model trained on satellite data really find brambles on the ground?</strong> <code>toao.com</code></a> - <a href="https://news.ycombinator.com/item?id=45377748">36 comments 120 points</a></li>
+<li><a href="https://www.learnui.design/tools/data-color-picker.html"><strong>Data Viz Color Palette Generator (For Charts and Dashboards)</strong> <code>www.learnui.design</code></a> - <a href="https://news.ycombinator.com/item?id=45372286">26 comments 114 points</a></li>
+<li><a href="https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/"><strong>Redis is fast – I&#39;ll cache in Postgres</strong> <code>dizzy.zone</code></a> - <a href="https://news.ycombinator.com/item?id=45380699">96 comments 113 points</a></li>
+<li><a href="https://www.postgresql.org/about/news/postgresql-18-released-3142/"><strong>PostgreSQL 18 Released</strong> <code>www.postgresql.org</code></a> - <a href="https://news.ycombinator.com/item?id=45372283">20 comments 107 points</a></li>
+<li><a href="https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041"><strong>All British adults to require a digital ID &#39;Brit Card&#39;</strong> <code>news.sky.com</code></a> - <a href="https://news.ycombinator.com/item?id=45381810">67 comments 99 points</a></li>
+<li><a href="https://wordsrightman.beehiiv.com/p/rto-wtaf"><strong>RTO: WTAF</strong> <code>wordsrightman.beehiiv.com</code></a> - <a href="https://news.ycombinator.com/item?id=45370678">135 comments 87 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=45373008"><strong>Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=45373008">49 comments 87 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-09-25]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1104</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.bbc.com/news/articles/c0j9l08902eo"><strong>Denmark summons top US diplomat over alleged Greenland influence operation</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45036957">172 comments 143 points</a></li>
 <li><a href="https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/"><strong>Researchers find evidence of ChatGPT buzzwords turning up in everyday speech</strong> <code>news.fsu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=45045500">223 comments 141 points</a></li>
 <li><a href="https://asciiflow.com/"><strong>ASCIIFlow</strong> <code>asciiflow.com</code></a> - <a href="https://news.ycombinator.com/item?id=45038565">34 comments 140 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-08-27]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1075</link>
-            <guid>1075</guid>
-            <pubDate>Wed, 27 Aug 2025 06:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"><strong>Gemini 2.5 Flash Image</strong> <code>developers.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=45026719">407 comments 868 points</a></li>
-<li><a href="https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/"><strong>We regret but have to temporary suspend the shipments to USA</strong> <code>olimex.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=45029579">568 comments 566 points</a></li>
-<li><a href="https://www.anthropic.com/news/claude-for-chrome"><strong>Claude for Chrome</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=45030760">303 comments 565 points</a></li>
-<li><a href="https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific"><strong>Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment</strong> <code>reclaimthenet.org</code></a> - <a href="https://news.ycombinator.com/item?id=45029764">87 comments 445 points</a></li>
-<li><a href="https://stratechery.com/2025/u-s-intel/"><strong>US Intel</strong> <code>stratechery.com</code></a> - <a href="https://news.ycombinator.com/item?id=45024786">440 comments 423 points</a></li>
-<li><a href="https://frame.work/ro/en/laptop16?tab=whats-new"><strong>Framework Laptop 16</strong> <code>frame.work</code></a> - <a href="https://news.ycombinator.com/item?id=45027725">331 comments 390 points</a></li>
-<li><a href="https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html"><strong>Proposal to Ban Ghost Jobs</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45028785">198 comments 378 points</a></li>
-<li><a href="https://byte.tsundoku.io"><strong>Show HN: A zoomable, searchable archive of BYTE magazine</strong> <code>byte.tsundoku.io</code></a> - <a href="https://news.ycombinator.com/item?id=45028002">61 comments 356 points</a></li>
-<li><a href="https://rosenzweig.io/blog/asahi-gpu-part-n.html"><strong>Dissecting the Apple M1 GPU, the end</strong> <code>rosenzweig.io</code></a> - <a href="https://news.ycombinator.com/item?id=45034537">53 comments 305 points</a></li>
-<li><a href="https://www.spacex.com/"><strong>Starship&#39;s Tenth Flight Test</strong> <code>www.spacex.com</code></a> - <a href="https://news.ycombinator.com/item?id=45033563">145 comments 286 points</a></li>
-<li><a href="https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all"><strong>One universal antiviral to rule them all?</strong> <code>www.cuimc.columbia.edu</code></a> - <a href="https://news.ycombinator.com/item?id=45026792">121 comments 278 points</a></li>
-<li><a href="https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html"><strong>A teen was suicidal. ChatGPT was the friend he confided in</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=45026886">181 comments 226 points</a></li>
-<li><a href="https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/"><strong>Rv, a new kind of Ruby management tool</strong> <code>andre.arko.net</code></a> - <a href="https://news.ycombinator.com/item?id=45023730">67 comments 226 points</a></li>
-<li><a href="https://www.bmj.com/content/384/bmj-2023-076902"><strong>Undisclosed financial conflicts of interest in DSM-5 (2024)</strong> <code>www.bmj.com</code></a> - <a href="https://news.ycombinator.com/item?id=45029241">134 comments 204 points</a></li>
-<li><a href="https://artanis.dev/index.html"><strong>GNU Artanis – A fast web application framework for Scheme</strong> <code>artanis.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45031673">31 comments 198 points</a></li>
-<li><a href="https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/"><strong>SSL certificate requirements are becoming obnoxious</strong> <code>www.chrislockard.net</code></a> - <a href="https://news.ycombinator.com/item?id=45025835">276 comments 190 points</a></li>
-<li><a href="https://markdown-ui.com/"><strong>Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step</strong> <code>markdown-ui.com</code></a> - <a href="https://news.ycombinator.com/item?id=45024532">92 comments 184 points</a></li>
-<li><a href="https://www.intofarlands.com/map-of-pauls-journeys"><strong>Interactive map of Paul&#39;s first century travels in Roman world</strong> <code>www.intofarlands.com</code></a> - <a href="https://news.ycombinator.com/item?id=45023071">116 comments 175 points</a></li>
-<li><a href="https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html"><strong>Why do people keep writing about the imaginary compound Cr2Gr2Te6?</strong> <code>www.righto.com</code></a> - <a href="https://news.ycombinator.com/item?id=45030144">85 comments 154 points</a></li>
-<li><a href="https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/"><strong>Do I not like Ruby anymore? (2024)</strong> <code>sgt.hootr.club</code></a> - <a href="https://news.ycombinator.com/item?id=45023176">165 comments 142 points</a></li>
-<li><a href="https://www.seangoedecke.com/dangerous-advice/"><strong>Dangerous advice for software engineers</strong> <code>www.seangoedecke.com</code></a> - <a href="https://news.ycombinator.com/item?id=45022874">127 comments 140 points</a></li>
-<li><a href="https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/"><strong>Silicon Valley is pouring millions into pro-AI PACs to sway midterms</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=45027904">126 comments 138 points</a></li>
-<li><a href="https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561"><strong>The “Wow!” signal was likely from extraterrestrial source, and more powerful</strong> <code>www.iflscience.com</code></a> - <a href="https://news.ycombinator.com/item?id=45033114">136 comments 128 points</a></li>
-<li><a href="https://redirect.github.com/pandax381/xv6-riscv-net"><strong>Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45022931">12 comments 127 points</a></li>
-<li><a href="https://www.nytimes.com/2025/08/26/us/politics/doge-social-security-data.html"><strong>DOGE Put Critical Social Security Data at Risk, Whistle-Blower Says</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=45026372">51 comments 124 points</a></li>
-<li><a href="https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host"><strong>What happens when ambassadors are summoned by the host country?</strong> <code>politics.stackexchange.com</code></a> - <a href="https://news.ycombinator.com/item?id=45031496">79 comments 121 points</a></li>
-<li><a href="https://www.theregister.com/2025/08/26/trump_tech_tax_threat/"><strong>US threatens extra tariffs, export bans, for nations that regulate Big Tech</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=45025099">181 comments 117 points</a></li>
-<li><a href="https://fortune.com/2025/08/24/meta-data-center-rural-louisiana-framework-ai-power-boom/"><strong>Meta is spending $10B in rural Louisiana to build its largest data center</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=45026833">144 comments 109 points</a></li>
-<li><a href="https://hermiene.net/essays-trans/relativity_of_wrong.html"><strong>The Relativity of Wrong (1988)</strong> <code>hermiene.net</code></a> - <a href="https://news.ycombinator.com/item?id=45025600">69 comments 93 points</a></li>
-<li><a href="https://trackerninja.codeberg.page/post/windows-7-power-256-threads-192-gb-ram"><strong>Windows 7 x64 Extended Support Page</strong> <code>trackerninja.codeberg.page</code></a> - <a href="https://news.ycombinator.com/item?id=45028078">69 comments 86 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
