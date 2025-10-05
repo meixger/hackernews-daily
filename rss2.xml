@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sat, 04 Oct 2025 06:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 06:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-10-04]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1113</link>
+            <guid>1113</guid>
+            <pubDate>Sat, 04 Oct 2025 06:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://signal.org/blog/pdfs/germany-chat-control.pdf"><strong>Germany must stand firmly against client-side scanning in Chat Control [pdf]</strong> <code>signal.org</code></a> - <a href="https://news.ycombinator.com/item?id=45464921">121 comments 520 points</a></li>
+<li><a href="https://redirect.github.com/YaLTeR/niri"><strong>Niri – A scrollable-tiling Wayland compositor</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45461500">216 comments 433 points</a></li>
+<li><a href="https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/"><strong>Offline card payments should be possible no later than 1 July 2026</strong> <code>www.riksbank.se</code></a> - <a href="https://news.ycombinator.com/item?id=45467500">316 comments 320 points</a></li>
+<li><a href="https://pep-previews--4622.org.readthedocs.build/pep-0810/"><strong>PEP 810 – Explicit lazy imports</strong> <code>pep-previews--4622.org.readthedocs.build</code></a> - <a href="https://news.ycombinator.com/item?id=45466086">162 comments 290 points</a></li>
+<li><a href="https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/"><strong>I turned the Lego Game Boy into a working Game Boy</strong> <code>blog.nataliethenerd.com</code></a> - <a href="https://news.ycombinator.com/item?id=45463319">17 comments 228 points</a></li>
+<li><a href="https://chrislakin.blog/p/social-anxiety"><strong>Social anxiety isn&#39;t about being liked</strong> <code>chrislakin.blog</code></a> - <a href="https://news.ycombinator.com/item?id=45463656">158 comments 205 points</a></li>
+<li><a href="https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html"><strong>Anduril and Palantir battlefield communication system has flaws, Army memo says</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45464269">89 comments 203 points</a></li>
+<li><a href="https://www.wheresyoured.at/sora2-openai/"><strong>OpenAI Is Just Another Boring, Desperate AI Startup</strong> <code>www.wheresyoured.at</code></a> - <a href="https://news.ycombinator.com/item?id=45464849">228 comments 202 points</a></li>
+<li><a href="https://sunshowers.io/posts/cancelling-async-rust/"><strong>Cancelling async Rust</strong> <code>sunshowers.io</code></a> - <a href="https://news.ycombinator.com/item?id=45464632">69 comments 185 points</a></li>
+<li><a href="https://www.cnbc.com/2025/10/01/microsoft-wants-to-mainly-use-its-own-ai-chips-in-the-future.html"><strong>Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45463642">125 comments 179 points</a></li>
+<li><a href="https://mitchellh.com/writing/zig-builds-getting-faster"><strong>Zig builds are getting faster</strong> <code>mitchellh.com</code></a> - <a href="https://news.ycombinator.com/item?id=45468698">62 comments 179 points</a></li>
+<li><a href="https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/"><strong>ICE Wants to Build Out a 24/7 Social Media Surveillance Team</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=45465964">115 comments 177 points</a></li>
+<li><a href="https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr"><strong>The Faroes</strong> <code>photoblog.nk412.com</code></a> - <a href="https://news.ycombinator.com/item?id=45462297">82 comments 160 points</a></li>
+<li><a href="https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job"><strong>The collapse of the econ PhD job market</strong> <code>www.chrisbrunet.com</code></a> - <a href="https://news.ycombinator.com/item?id=45464984">225 comments 147 points</a></li>
+<li><a href="https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html"><strong>Jeff Bezos says AI is in a bubble but society will get &#39;gigantic&#39; benefits</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45464429">261 comments 132 points</a></li>
+<li><a href="https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/"><strong>Interstellar Object 3I/Atlas Passed Mars Last Night</strong> <code>earthsky.org</code></a> - <a href="https://news.ycombinator.com/item?id=45467543">90 comments 131 points</a></li>
+<li><a href="https://jules.google/docs/changelog/"><strong>Jules, remote coding agent from Google Labs, announces API</strong> <code>jules.google</code></a> - <a href="https://news.ycombinator.com/item?id=45466588">21 comments 130 points</a></li>
+<li><a href="https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own"><strong>Ants trapped in a Soviet nuclear bunker survived for years (2019)</strong> <code>www.sciencealert.com</code></a> - <a href="https://news.ycombinator.com/item?id=45465091">25 comments 123 points</a></li>
+<li><a href="https://redirect.github.com/jmsdnns/webbol"><strong>Webbol: A minimal static web server written in COBOL</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45463251">46 comments 119 points</a></li>
+<li><a href="https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up"><strong>When private practices merge with hospital systems, costs go up</strong> <code>insights.som.yale.edu</code></a> - <a href="https://news.ycombinator.com/item?id=45468781">64 comments 117 points</a></li>
+<li><a href="https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core"><strong>AMD&#39;s EPYC 9355P: Inside a 32 Core Zen 5 Server Chip</strong> <code>chipsandcheese.com</code></a> - <a href="https://news.ycombinator.com/item?id=45467166">14 comments 108 points</a></li>
+<li><a href="https://dlo.me/archives/2025/10/03/you-should-be-worried/"><strong>Be Worried</strong> <code>dlo.me</code></a> - <a href="https://news.ycombinator.com/item?id=45465098">93 comments 100 points</a></li>
+<li><a href="https://www.worldpoliticsreview.com/europe-russia-drones-hybrid-war/"><strong>Europe Can No Longer Ignore That It&#39;s Under Russian Attack</strong> <code>www.worldpoliticsreview.com</code></a> - <a href="https://news.ycombinator.com/item?id=45461472">167 comments 95 points</a></li>
+<li><a href="https://www.governance.fyi/p/california-needs-to-learn-from-houston"><strong>California needs to learn from Houston and Dallas about homelessness</strong> <code>www.governance.fyi</code></a> - <a href="https://news.ycombinator.com/item?id=45462863">163 comments 94 points</a></li>
+<li><a href="https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack"><strong>Discord customer service data breach leaks user info and scanned photo IDs</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=45469436">16 comments 91 points</a></li>
+<li><a href="https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/"><strong>Apple removes ICEBlock and similar tracking apps from the App Store</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=45463111">12 comments 89 points</a></li>
+<li><a href="https://www.axios.com/2025/10/03/ai-bubble-meta-oracle-microsoft"><strong>The biggest sign of an AI bubble is starting to appear – debt</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=45461975">120 comments 84 points</a></li>
+<li><a href="https://avarayr.github.io/shamelectron/"><strong>Track which Electron apps slow down macOS 26 Tahoe</strong> <code>avarayr.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45469468">50 comments 79 points</a></li>
+<li><a href="https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/"><strong>WireGuard topologies for self-hosting at home</strong> <code>garrido.io</code></a> - <a href="https://news.ycombinator.com/item?id=45466980">36 comments 78 points</a></li>
+<li><a href="https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/"><strong>Arbitrary code execution in Unity Runtime</strong> <code>flatt.tech</code></a> - <a href="https://news.ycombinator.com/item?id=45462713">26 comments 78 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-10-03]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1112</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://money.usnews.com/investing/news/articles/2025-09-04/ai-not-affecting-job-market-much-so-far-new-york-fed-says"><strong>AI not affecting job market much so far, New York Fed says</strong> <code>money.usnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=45129267">111 comments 103 points</a></li>
 <li><a href="https://www.debuisne.com/writing/geo-tiles/"><strong>How to build vector tiles from scratch</strong> <code>www.debuisne.com</code></a> - <a href="https://news.ycombinator.com/item?id=45126586">28 comments 99 points</a></li>
 <li><a href="https://spectrum.ieee.org/electrochemistry-for-eye-surgeries"><strong>Electromechanical reshaping offers safer eye surgery</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=45125816">75 comments 97 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-09-04]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1083</link>
-            <guid>1083</guid>
-            <pubDate>Thu, 04 Sep 2025 06:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://zed.dev/blog/claude-code-via-acp"><strong>Claude Code: Now in Beta in Zed</strong> <code>zed.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45116688">340 comments 549 points</a></li>
-<li><a href="https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/"><strong>MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline</strong> <code>publichealthpolicyjournal.com</code></a> - <a href="https://news.ycombinator.com/item?id=45114753">522 comments 538 points</a></li>
-<li><a href="https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding"><strong>Where&#39;s the shovelware? Why AI coding claims don&#39;t add up</strong> <code>mikelovesrobots.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=45120517">268 comments 430 points</a></li>
-<li><a href="https://microsoft.github.io/VibeVoice/"><strong>VibeVoice: A Frontier Open-Source Text-to-Speech Model</strong> <code>microsoft.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45114245">155 comments 409 points</a></li>
-<li><a href="https://redirect.github.com/Tencent-Hunyuan/HunyuanWorld-Voyager"><strong>Voyager – An interactive video generation model with realtime 3D reconstruction</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45114379">209 comments 307 points</a></li>
-<li><a href="https://redirect.github.com/nukeop/nuclear"><strong>Nuclear: Desktop music player focused on streaming from free sources</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45117230">185 comments 296 points</a></li>
-<li><a href="https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/"><strong>The 16-year odyssey it took to emulate the Pioneer LaserActive</strong> <code>www.readonlymemo.com</code></a> - <a href="https://news.ycombinator.com/item?id=45114003">67 comments 285 points</a></li>
-<li><a href="https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying"><strong>Evidence that AI is destroying jobs for young people</strong> <code>www.derekthompson.org</code></a> - <a href="https://news.ycombinator.com/item?id=45121342">232 comments 266 points</a></li>
-<li><a href="https://lit.dev"><strong>Lit: a library for building fast, lightweight web components</strong> <code>lit.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45112720">156 comments 245 points</a></li>
-<li><a href="https://redirect.github.com/microsoft/BASIC-M6502"><strong>Microsoft BASIC for 6502 Microprocessor – Version 1.1</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45118392">168 comments 244 points</a></li>
-<li><a href="https://pluralistic.net/2025/09/03/unpunishing-process/"><strong>The worst possible antitrust outcome</strong> <code>pluralistic.net</code></a> - <a href="https://news.ycombinator.com/item?id=45120050">124 comments 224 points</a></li>
-<li><a href="https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html"><strong>Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel</strong> <code>a13xp0p0v.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45112996">35 comments 222 points</a></li>
-<li><a href="https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/"><strong>Finnish City Inaugurates 1 MW/100 MWh Sand Battery</strong> <code>cleantechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=45112653">161 comments 182 points</a></li>
-<li><a href="https://vgel.me/posts/c500/"><strong>Writing a C compiler in 500 lines of Python (2023)</strong> <code>vgel.me</code></a> - <a href="https://news.ycombinator.com/item?id=45117668">42 comments 178 points</a></li>
-<li><a href="https://rti.github.io/gptvis/"><strong>Understanding Transformers Using a Minimal Example</strong> <code>rti.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45116957">8 comments 177 points</a></li>
-<li><a href="https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/"><strong>Who Owns, Operates, and Develops Your VPN Matters</strong> <code>www.opentech.fund</code></a> - <a href="https://news.ycombinator.com/item?id=45117974">149 comments 176 points</a></li>
-<li><a href="https://remarkable.com/products/remarkable-paper/pro-move"><strong>ReMarkable Paper Pro Move</strong> <code>remarkable.com</code></a> - <a href="https://news.ycombinator.com/item?id=45121721">195 comments 172 points</a></li>
-<li><a href="https://edwardtufte.github.io/tufte-css/"><strong>Tufte CSS</strong> <code>edwardtufte.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45119103">40 comments 165 points</a></li>
-<li><a href="https://gimletlabs.ai/blog/ai-generated-metal-kernels"><strong>Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels</strong> <code>gimletlabs.ai</code></a> - <a href="https://news.ycombinator.com/item?id=45118111">25 comments 157 points</a></li>
-<li><a href="https://www.alexcodes.app/blog/alex-team-joins-openai"><strong>We&#39;re Joining OpenAI</strong> <code>www.alexcodes.app</code></a> - <a href="https://news.ycombinator.com/item?id=45119076">97 comments 151 points</a></li>
-<li><a href="https://redirect.github.com/polarsys/b612"><strong>Airbus B612 Cockpit Font</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45115942">84 comments 150 points</a></li>
-<li><a href="https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/"><strong>John Coltrane&#39;s Tone Circle</strong> <code>roelsworld.eu</code></a> - <a href="https://news.ycombinator.com/item?id=45115004">59 comments 150 points</a></li>
-<li><a href="https://www.energydashboard.co.uk/map"><strong>UK Electricity Generation Map</strong> <code>www.energydashboard.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=45114277">87 comments 149 points</a></li>
-<li><a href="https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama"><strong>Finding thousands of exposed Ollama instances using Shodan</strong> <code>blogs.cisco.com</code></a> - <a href="https://news.ycombinator.com/item?id=45113418">64 comments 149 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=vEr2CJruwEM"><strong>Building the most accurate DIY CNC lathe in the world [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=45115760">58 comments 146 points</a></li>
-<li><a href="https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F"><strong>What is it like to be a bat?</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=45118592">198 comments 134 points</a></li>
-<li><a href="https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"><strong>Poor man&#39;s bitemporal data system in SQLite and Clojure</strong> <code>www.evalapply.org</code></a> - <a href="https://news.ycombinator.com/item?id=45118585">35 comments 132 points</a></li>
-<li><a href="https://blog.tomayac.com/2025/09/03/for-all-thats-holy-can-you-just-leverage-the-web-please/"><strong>For all that&#39;s holy, can you just leverage the Web, please?</strong> <code>blog.tomayac.com</code></a> - <a href="https://news.ycombinator.com/item?id=45115550">167 comments 125 points</a></li>
-<li><a href="https://arxiv.org/abs/2507.19703"><strong>The wall confronting large language models</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=45114579">111 comments 119 points</a></li>
-<li><a href="https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/"><strong>A Random Walk in 10 Dimensions (2021)</strong> <code>galileo-unbound.blog</code></a> - <a href="https://news.ycombinator.com/item?id=45116849">16 comments 107 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
