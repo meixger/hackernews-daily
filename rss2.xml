@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 15 Oct 2025 06:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 06:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-10-15]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1124</link>
+            <guid>1124</guid>
+            <pubDate>Wed, 15 Oct 2025 06:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.fsf.org/news/librephone-project"><strong>FSF announces Librephone project</strong> <code>www.fsf.org</code></a> - <a href="https://news.ycombinator.com/item?id=45586339">234 comments 601 points</a></li>
+<li><a href="https://ourworldindata.org/does-the-news-reflect-what-we-die-from"><strong>What Americans die from vs. what the news reports on</strong> <code>ourworldindata.org</code></a> - <a href="https://news.ycombinator.com/item?id=45583336">278 comments 494 points</a></li>
+<li><a href="https://www.lighthousereports.com/investigation/surveillance-secrets/"><strong>Surveillance data challenges what we thought we knew about location tracking</strong> <code>www.lighthousereports.com</code></a> - <a href="https://news.ycombinator.com/item?id=45584498">87 comments 370 points</a></li>
+<li><a href="https://boydkane.com/essays/boss"><strong>Beliefs that are true for regular software but false when applied to AI</strong> <code>boydkane.com</code></a> - <a href="https://news.ycombinator.com/item?id=45583180">241 comments 323 points</a></li>
+<li><a href="https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154"><strong>Why the push for Agentic when models can barely follow a simple instruction?</strong> <code>forum.cursor.com</code></a> - <a href="https://news.ycombinator.com/item?id=45577080">338 comments 304 points</a></li>
+<li><a href="https://adsb.exposed/"><strong>ADS-B Exposed</strong> <code>adsb.exposed</code></a> - <a href="https://news.ycombinator.com/item?id=45578383">75 comments 296 points</a></li>
+<li><a href="https://kde.org/fundraisers/yearend2025/"><strong>KDE celebrates the 29th birthday and kicks off the yearly fundraiser</strong> <code>kde.org</code></a> - <a href="https://news.ycombinator.com/item?id=45578117">178 comments 268 points</a></li>
+<li><a href="https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/"><strong>GrapheneOS is ready to break free from Pixels</strong> <code>www.androidauthority.com</code></a> - <a href="https://news.ycombinator.com/item?id=45585869">101 comments 258 points</a></li>
+<li><a href="https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/"><strong>America Is Sliding Toward Illiteracy</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=45583730">313 comments 243 points</a></li>
+<li><a href="https://excamera.substack.com/p/how-bad-can-a-297-adc-be"><strong>How bad can a $2.97 ADC be?</strong> <code>excamera.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=45582462">120 comments 221 points</a></li>
+<li><a href="https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x"><strong>Astronomers &#39;image&#39; a mysterious dark object in the distant Universe</strong> <code>www.mpg.de</code></a> - <a href="https://news.ycombinator.com/item?id=45580699">115 comments 214 points</a></li>
+<li><a href="https://accent-explorer.boldvoice.com/"><strong>How AI hears accents: An audible visualization of accent clusters</strong> <code>accent-explorer.boldvoice.com</code></a> - <a href="https://news.ycombinator.com/item?id=45581735">78 comments 198 points</a></li>
+<li><a href="https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization"><strong>GPT-5o-mini hallucinates medical residency applicant grades</strong> <code>www.thalamusgme.com</code></a> - <a href="https://news.ycombinator.com/item?id=45581029">118 comments 189 points</a></li>
+<li><a href="https://pyrefly.org/?featured_on=talkpython"><strong>Pyrefly: Python type checker and language server in Rust</strong> <code>pyrefly.org</code></a> - <a href="https://news.ycombinator.com/item?id=45579275">131 comments 185 points</a></li>
+<li><a href="https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/"><strong>Unpacking Cloudflare Workers CPU Performance Benchmarks</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=45584281">27 comments 181 points</a></li>
+<li><a href="https://smolbsd.org"><strong>SmolBSD – build your own minimal BSD system</strong> <code>smolbsd.org</code></a> - <a href="https://news.ycombinator.com/item?id=45582758">11 comments 171 points</a></li>
+<li><a href="https://dissentinbloom.substack.com/p/half-of-americas-voting-machines"><strong>Half of America&#39;s Voting Machines Are Now Owned by a MAGA Oligarch</strong> <code>dissentinbloom.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=45584295">127 comments 166 points</a></li>
+<li><a href="https://www.sqlite.org/whyc.html"><strong>Why Is SQLite Coded In C</strong> <code>www.sqlite.org</code></a> - <a href="https://news.ycombinator.com/item?id=45584464">190 comments 162 points</a></li>
+<li><a href="https://people.csail.mit.edu/rachit/post/why-study-programming-languages/"><strong>Why study programming languages (2022)</strong> <code>people.csail.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=45576623">110 comments 156 points</a></li>
+<li><a href="https://ktye.github.io/"><strong>Zoo of array languages</strong> <code>ktye.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45578540">46 comments 156 points</a></li>
+<li><a href="https://www.benedelman.org/applovin-nonconsensual-installs/"><strong>AppLovin nonconsensual installs</strong> <code>www.benedelman.org</code></a> - <a href="https://news.ycombinator.com/item?id=45584226">51 comments 152 points</a></li>
+<li><a href="https://www.nature.com/articles/d41586-025-03307-x"><strong>CRISPR-like tools that finally can edit mitochondria DNA</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=45579708">43 comments 147 points</a></li>
+<li><a href="https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/"><strong>Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)</strong> <code>nuxx.net</code></a> - <a href="https://news.ycombinator.com/item?id=45580315">21 comments 126 points</a></li>
+<li><a href="https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/"><strong>How to turn liquid glass into a solid interface</strong> <code>tidbits.com</code></a> - <a href="https://news.ycombinator.com/item?id=45583787">87 comments 123 points</a></li>
+<li><a href="https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml"><strong>Let&#39;s Not Encrypt (2019)</strong> <code>michael.orlitzky.com</code></a> - <a href="https://news.ycombinator.com/item?id=45579968">233 comments 107 points</a></li>
+<li><a href="https://electrek.co/2025/10/14/tesla-is-at-risk-of-lossing-subsidies-in-korea-over-widespread-battery-failures/"><strong>Tesla is at risk of losing subsidies in Korea over widespread battery failures</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=45580818">134 comments 99 points</a></li>
+<li><a href="https://tosc.iacr.org/index.php/ToSC/article/view/10302"><strong>Subverting Telegram&#39;s end-to-end encryption (2023)</strong> <code>tosc.iacr.org</code></a> - <a href="https://news.ycombinator.com/item?id=45581146">84 comments 99 points</a></li>
+<li><a href="https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071"><strong>Interior cancels largest solar project in North America</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=45586282">83 comments 96 points</a></li>
+<li><a href="https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/"><strong>Hold Off on Litestream 0.5.0</strong> <code>mtlynch.io</code></a> - <a href="https://news.ycombinator.com/item?id=45581761">17 comments 90 points</a></li>
+<li><a href="https://quillette.com/2025/09/17/rfk-jr-must-go-hhs-health-vaccines/"><strong>RFK Jr. Must Go</strong> <code>quillette.com</code></a> - <a href="https://news.ycombinator.com/item?id=45581088">86 comments 88 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-10-14]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1123</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://news.ycombinator.com/item?id=45250553"><strong>Paid $2400 to Cloudflare, support refuses to help</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=45250553">22 comments 119 points</a></li>
 <li><a href="https://iaziz786.com/blog/boring-work-needs-tension/"><strong>Boring work needs tension</strong> <code>iaziz786.com</code></a> - <a href="https://news.ycombinator.com/item?id=45251093">60 comments 111 points</a></li>
 <li><a href="https://english.hani.co.kr/arti/english_edition/english_editorials/1218475.html"><strong>Imperial Tyranny, Korean Humiliation</strong> <code>english.hani.co.kr</code></a> - <a href="https://news.ycombinator.com/item?id=45255132">65 comments 104 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-09-15]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1094</link>
-            <guid>1094</guid>
-            <pubDate>Mon, 15 Sep 2025 06:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="http://stations.albertguillaumes.cat/"><strong>Models of European metro stations</strong> <code>stations.albertguillaumes.cat</code></a> - <a href="https://news.ycombinator.com/item?id=45238055">143 comments 688 points</a></li>
-<li><a href="https://disobey.net/@yawnbox/115203365485529363"><strong>ChatControl update: blocking minority held but Denmark is moving forward anyway</strong> <code>disobey.net</code></a> - <a href="https://news.ycombinator.com/item?id=45242458">345 comments 487 points</a></li>
-<li><a href="https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2"><strong>Repetitive negative thinking associated with cognitive decline in older adults</strong> <code>bmcpsychiatry.biomedcentral.com</code></a> - <a href="https://news.ycombinator.com/item?id=45239085">158 comments 397 points</a></li>
-<li><a href="https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water"><strong>EPA Seeks to Eliminate Critical PFAS Drinking Water Protections</strong> <code>earthjustice.org</code></a> - <a href="https://news.ycombinator.com/item?id=45239803">441 comments 367 points</a></li>
-<li><a href="https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058"><strong>Betty Crocker broke recipes by shrinking boxes</strong> <code>www.cubbyathome.com</code></a> - <a href="https://news.ycombinator.com/item?id=45243635">311 comments 308 points</a></li>
-<li><a href="https://behavioralscientist.org/why-we-spiral/"><strong>Why We Spiral</strong> <code>behavioralscientist.org</code></a> - <a href="https://news.ycombinator.com/item?id=45240146">72 comments 272 points</a></li>
-<li><a href="https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/"><strong>Writing an operating system kernel from scratch</strong> <code>popovicu.com</code></a> - <a href="https://news.ycombinator.com/item?id=45240682">49 comments 271 points</a></li>
-<li><a href="https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem"><strong>Grapevine canes can be converted into plastic-like material that will decompose</strong> <code>www.sdstate.edu</code></a> - <a href="https://news.ycombinator.com/item?id=45243803">163 comments 266 points</a></li>
-<li><a href="https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/"><strong>Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud</strong> <code>www.thaienquirer.com</code></a> - <a href="https://news.ycombinator.com/item?id=45240304">175 comments 210 points</a></li>
-<li><a href="https://www.opengroup.org/openbrand/certificates/1223p.pdf"><strong>macOS Tahoe is certified Unix 03 [pdf]</strong> <code>www.opengroup.org</code></a> - <a href="https://news.ycombinator.com/item?id=45238930">184 comments 199 points</a></li>
-<li><a href="https://mo42.bearblog.dev/read-to-forget/"><strong>Read to forget</strong> <code>mo42.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45239601">46 comments 168 points</a></li>
-<li><a href="http://ewaste.fka.wtf/"><strong>Website is hosted on a disposable vape</strong> <code>ewaste.fka.wtf</code></a> - <a href="https://news.ycombinator.com/item?id=45243800">90 comments 166 points</a></li>
-<li><a href="https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life"><strong>OCSP Service Has Reached End of Life</strong> <code>letsencrypt.org</code></a> - <a href="https://news.ycombinator.com/item?id=45242591">46 comments 160 points</a></li>
-<li><a href="http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html"><strong>Refurb Weekend: Silicon Graphics Indigo² Impact 10000</strong> <code>oldvcr.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=45237717">70 comments 150 points</a></li>
-<li><a href="https://svg.nicubunu.ro/"><strong>Nicu&#39;s test website made with SVG (2007)</strong> <code>svg.nicubunu.ro</code></a> - <a href="https://news.ycombinator.com/item?id=45240391">84 comments 149 points</a></li>
-<li><a href="https://redirect.github.com/BICLab/SpikingBrain-7B"><strong>SpikingBrain 7B – More efficient than classic LLMs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45237754">40 comments 144 points</a></li>
-<li><a href="https://cataquariums.com/"><strong>Cat Aquariums</strong> <code>cataquariums.com</code></a> - <a href="https://news.ycombinator.com/item?id=45237970">37 comments 139 points</a></li>
-<li><a href="https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html"><strong>Cannabis use associated with quadrupled risk of developing type 2 diabetes</strong> <code>medicalxpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=45243867">74 comments 136 points</a></li>
-<li><a href="https://wiki.gentoo.org/wiki/Project:Council/AI_policy"><strong>Gentoo AI Policy</strong> <code>wiki.gentoo.org</code></a> - <a href="https://news.ycombinator.com/item?id=45244295">99 comments 126 points</a></li>
-<li><a href="https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition"><strong>Fukushima insects tested for cognition</strong> <code>news.cnrs.fr</code></a> - <a href="https://news.ycombinator.com/item?id=45238836">61 comments 125 points</a></li>
-<li><a href="https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/"><strong>Vibe coding has turned senior devs into &#39;AI babysitters&#39;</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=45242788">93 comments 109 points</a></li>
-<li><a href="https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/"><strong>My thoughts on renting versus buying</strong> <code>milesbarr.me</code></a> - <a href="https://news.ycombinator.com/item?id=45243019">244 comments 98 points</a></li>
-<li><a href="https://www.bbc.com/future/article/20250912-how-grey-divorce-affects-adult-children"><strong>How older parents divorce affects their adult children</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45242337">51 comments 89 points</a></li>
-<li><a href="https://redirect.github.com/CorentinJ/Real-Time-Voice-Cloning"><strong>CorentinJ: Real-Time Voice Cloning (2021)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45239016">21 comments 84 points</a></li>
-<li><a href="https://webhosting.today/2025/09/12/cvc-acquires-majority-stake-in-namecheap-for-1-5-billion/"><strong>CVC acquires majority stake in Namecheap for $1.5B</strong> <code>webhosting.today</code></a> - <a href="https://news.ycombinator.com/item?id=45243123">45 comments 81 points</a></li>
-<li><a href="https://geminiquickst.art/"><strong>Gemini (2023)</strong> <code>geminiquickst.art</code></a> - <a href="https://news.ycombinator.com/item?id=45238536">38 comments 80 points</a></li>
-<li><a href="https://theintercept.com/2025/09/13/marco-rubio-revoke-us-passports-terrorism/"><strong>New Bill Would Give Marco Rubio &quot;Thought Police&quot; Power to Revoke U.S. Passports</strong> <code>theintercept.com</code></a> - <a href="https://news.ycombinator.com/item?id=45238520">29 comments 79 points</a></li>
-<li><a href="https://www.theguardian.com/society/2025/sep/14/eye-drops-could-replace-glasses-surgery-longsighted-study"><strong>Eye drops could replace glasses or surgery for longsightedness, study says</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=45241861">28 comments 79 points</a></li>
-<li><a href="https://www.newsguardtech.com/ai-monitor/august-2025-ai-false-claim-monitor/"><strong>AI False information rate for news nearly doubles in one year</strong> <code>www.newsguardtech.com</code></a> - <a href="https://news.ycombinator.com/item?id=45244985">69 comments 78 points</a></li>
-<li><a href="https://www.politico.com/news/2025/09/13/california-advances-effort-to-check-kids-ages-online-amid-safety-concerns-00563005"><strong>California age verification bill backed by Google, Meta, OpenAI heads to Newsom</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=45244049">64 comments 69 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
