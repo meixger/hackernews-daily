@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 22 Oct 2025 05:48:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 05:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-10-22]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1131</link>
+            <guid>1131</guid>
+            <pubDate>Wed, 22 Oct 2025 05:48:56 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://chatgpt.com/atlas"><strong>ChatGPT Atlas</strong> <code>chatgpt.com</code></a> - <a href="https://news.ycombinator.com/item?id=45658479">587 comments 621 points</a></li>
+<li><a href="https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/"><strong>Replacing a $3000/mo Heroku bill with a $55/mo server</strong> <code>disco.cloud</code></a> - <a href="https://news.ycombinator.com/item?id=45661253">369 comments 526 points</a></li>
+<li><a href="https://www.nan.fyi/database"><strong>Build your own database</strong> <code>www.nan.fyi</code></a> - <a href="https://news.ycombinator.com/item?id=45657827">65 comments 443 points</a></li>
+<li><a href="https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html"><strong>Foreign hackers breached a US nuclear weapons plant via SharePoint flaws</strong> <code>www.csoonline.com</code></a> - <a href="https://news.ycombinator.com/item?id=45657287">245 comments 352 points</a></li>
+<li><a href="https://kyutai.org/next/codec-explainer"><strong>Neural audio codecs: how to get audio into LLMs</strong> <code>kyutai.org</code></a> - <a href="https://news.ycombinator.com/item?id=45655161">103 comments 348 points</a></li>
+<li><a href="https://llm-brain-rot.github.io/"><strong>LLMs can get &quot;brain rot&quot;</strong> <code>llm-brain-rot.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45656223">193 comments 339 points</a></li>
+<li><a href="https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy"><strong>NASA chief suggests SpaceX may be booted from moon mission</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=45655188">768 comments 271 points</a></li>
+<li><a href="https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/"><strong>Apple alerts exploit developer that his iPhone was targeted with gov spyware</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=45657302">127 comments 260 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=45657345"><strong>Ask HN: Our AWS account got compromised after their outage</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=45657345">63 comments 246 points</a></li>
+<li><a href="https://electrek.co/2025/10/20/tesla-heading-into-multi-billion-dollar-iceberg-of-own-making/"><strong>Tesla is heading into multi-billion-dollar iceberg of its own making</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=45654635">318 comments 232 points</a></li>
+<li><a href="https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide"><strong>Fallout from the AWS outage: Smart mattresses go rogue</strong> <code>quasa.io</code></a> - <a href="https://news.ycombinator.com/item?id=45658056">228 comments 221 points</a></li>
+<li><a href="https://windbornesystems.com/blog/ua-1093"><strong>UA 1093</strong> <code>windbornesystems.com</code></a> - <a href="https://news.ycombinator.com/item?id=45656044">105 comments 217 points</a></li>
+<li><a href="https://hojberg.xyz/the-programmer-identity-crisis/"><strong>The Programmer Identity Crisis</strong> <code>hojberg.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=45658019">202 comments 213 points</a></li>
+<li><a href="https://tawandamunongo.dev/posts/2025/10/ai-work-more"><strong>AI is making us work more</strong> <code>tawandamunongo.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45656916">233 comments 201 points</a></li>
+<li><a href="https://www.voting.works/news/public-trust-demands-open-source-voting-systems"><strong>Public trust demands open-source voting systems</strong> <code>www.voting.works</code></a> - <a href="https://news.ycombinator.com/item?id=45657431">239 comments 198 points</a></li>
+<li><a href="https://doomsday.march1studios.com/"><strong>Doomsday scoreboard</strong> <code>doomsday.march1studios.com</code></a> - <a href="https://news.ycombinator.com/item?id=45661084">94 comments 196 points</a></li>
+<li><a href="https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html"><strong>StarGrid: A new Palm OS strategy game</strong> <code>quarters.captaintouch.com</code></a> - <a href="https://news.ycombinator.com/item?id=45654660">48 comments 195 points</a></li>
+<li><a href="https://spectrum.ieee.org/diamond-thermal-conductivity"><strong>Diamond Thermal Conductivity: A New Era in Chip Cooling</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=45654512">59 comments 179 points</a></li>
+<li><a href="https://www.marginalia.nu/log/a_126_multilingual/"><strong>Language Support for Marginalia Search</strong> <code>www.marginalia.nu</code></a> - <a href="https://news.ycombinator.com/item?id=45653143">14 comments 166 points</a></li>
+<li><a href="https://www.lawfaremedia.org/article/anna--lindsey-halligan-here"><strong>&quot;Anna, Lindsey Halligan Here.&quot; My Signal exchange with the interim U.S. attorney</strong> <code>www.lawfaremedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=45662053">66 comments 163 points</a></li>
+<li><a href="https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/"><strong>Is Sora the beginning of the end for OpenAI?</strong> <code>calnewport.com</code></a> - <a href="https://news.ycombinator.com/item?id=45657428">179 comments 162 points</a></li>
+<li><a href="https://heiwiper.com/posts/magit-is-awesome/"><strong>Magit Is Amazing</strong> <code>heiwiper.com</code></a> - <a href="https://news.ycombinator.com/item?id=45659812">80 comments 160 points</a></li>
+<li><a href="https://justuse.org/curl/"><strong>Just Use Curl</strong> <code>justuse.org</code></a> - <a href="https://news.ycombinator.com/item?id=45655121">138 comments 156 points</a></li>
+<li><a href="https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/"><strong>Rectal oxygen delivery might soon be a real medical treatment</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=45662831">26 comments 151 points</a></li>
+<li><a href="https://redirect.github.com/raysan5/raylib/blob/master/src/external/rlsw.h"><strong>rlsw – Raylib software OpenGL renderer in less than 5k LOC</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45661638">31 comments 148 points</a></li>
+<li><a href="https://practical-scheme.net/index.html#docs"><strong>Practical Scheme</strong> <code>practical-scheme.net</code></a> - <a href="https://news.ycombinator.com/item?id=45652859">53 comments 141 points</a></li>
+<li><a href="https://www.theregister.com/2025/10/21/spacex_is_behind_schedule_so/"><strong>SpaceX is behind schedule, so NASA will open Artemis III contract to competition</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=45655081">2 comments 139 points</a></li>
+<li><a href="https://redirect.github.com/bilinearlabs/rs-merkle-tree"><strong>Our modular, high-performance Merkle Tree library for Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45655190">26 comments 129 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c15pz8vpjp9o"><strong>US chess grandmaster Daniel Naroditsky dies aged 29</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45654382">2 comments 125 points</a></li>
+<li><a href="https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT"><strong>OpenBSD 7.8</strong> <code>cdn.openbsd.org</code></a> - <a href="https://news.ycombinator.com/item?id=45664147">26 comments 118 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-10-21]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1130</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive"><strong>M4.6 Earthquake – 2 km ESE of Berkeley, CA</strong> <code>earthquake.usgs.gov</code></a> - <a href="https://news.ycombinator.com/item?id=45331213">92 comments 141 points</a></li>
 <li><a href="https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4"><strong>Delete FROM users WHERE location = &#39;Iran&#39;;</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45343108">77 comments 141 points</a></li>
 <li><a href="https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en"><strong>Show HN: Software Freelancers Contract Template</strong> <code>sopimusgeneraattori.ohjelmistofriikit.fi</code></a> - <a href="https://news.ycombinator.com/item?id=45330198">47 comments 136 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-09-22]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1101</link>
-            <guid>1101</guid>
-            <pubDate>Mon, 22 Sep 2025 06:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://press.uchicago.edu/Misc/Chicago/511928.html"><strong>They Thought They Were Free (1955)</strong> <code>press.uchicago.edu</code></a> - <a href="https://news.ycombinator.com/item?id=45321663">447 comments 572 points</a></li>
-<li><a href="https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company"><strong>Meta exposé author faces $50k fine per breach of non-disparagement agreement</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=45322050">328 comments 430 points</a></li>
-<li><a href="https://redirect.github.com/rxi/sj.h"><strong>Sj.h: A tiny little JSON parsing library in ~150 lines of C99</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45324349">184 comments 370 points</a></li>
-<li><a href="https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions"><strong>LaLiga&#39;s Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain</strong> <code>reclaimthenet.org</code></a> - <a href="https://news.ycombinator.com/item?id=45323856">161 comments 342 points</a></li>
-<li><a href="https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/"><strong>Oxford loses top 3 university ranking in the UK</strong> <code>hotminute.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=45323793">364 comments 246 points</a></li>
-<li><a href="https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/"><strong>DXGI debugging: Microsoft put me on a list</strong> <code>slugcat.systems</code></a> - <a href="https://news.ycombinator.com/item?id=45323207">70 comments 243 points</a></li>
-<li><a href="https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/"><strong>Vibe coding cleanup as a service</strong> <code>donado.co</code></a> - <a href="https://news.ycombinator.com/item?id=45320431">135 comments 230 points</a></li>
-<li><a href="https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in"><strong>I forced myself to spend a week in Instagram instead of Xcode</strong> <code>www.pixelpusher.club</code></a> - <a href="https://news.ycombinator.com/item?id=45322819">84 comments 221 points</a></li>
-<li><a href="https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank"><strong>Why your outdoorsy friend suddenly has a gummy bear power bank</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=45322135">239 comments 201 points</a></li>
-<li><a href="https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live"><strong>UK, Canada and Australia formally recognise Palestinian state</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=45322919">183 comments 177 points</a></li>
-<li><a href="https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner"><strong>How I, a beginner developer, read the tutorial you, a developer, wrote for me</strong> <code>anniemueller.com</code></a> - <a href="https://news.ycombinator.com/item?id=45328247">88 comments 173 points</a></li>
-<li><a href="https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/"><strong>Universities should be more than toll gates</strong> <code>www.waliddib.com</code></a> - <a href="https://news.ycombinator.com/item?id=45320759">130 comments 134 points</a></li>
-<li><a href="https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html"><strong>South Korea&#39;s President says US investment demands would spark financial crisis</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45328579">95 comments 131 points</a></li>
-<li><a href="https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295"><strong>Apple Silicon GPU Support in Mojo</strong> <code>forum.modular.com</code></a> - <a href="https://news.ycombinator.com/item?id=45326388">45 comments 130 points</a></li>
-<li><a href="https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america"><strong>Rail travel is booming in America</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=45326230">148 comments 118 points</a></li>
-<li><a href="https://redirect.github.com/google/timesketch"><strong>Timesketch: Collaborative forensic timeline analysis</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45324343">10 comments 113 points</a></li>
-<li><a href="https://www.thenile.dev/blog/uuidv7"><strong>UUIDv7 Comes to PostgreSQL 18</strong> <code>www.thenile.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45323008">60 comments 111 points</a></li>
-<li><a href="https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/"><strong>Disk Utility still can&#39;t check and repair APFS volumes and containers (2021)</strong> <code>eclecticlight.co</code></a> - <a href="https://news.ycombinator.com/item?id=45322623">53 comments 106 points</a></li>
-<li><a href="https://brianmckenna.org/blog/howtostopfp"><strong>How to stop functional programming (2016)</strong> <code>brianmckenna.org</code></a> - <a href="https://news.ycombinator.com/item?id=45323297">95 comments 103 points</a></li>
-<li><a href="https://www.npr.org/2025/09/20/nx-s1-5548532/newsom-trump-masked-ice-agents"><strong>California bans masks meant to hide law enforcement officers&#39; identities</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=45324102">65 comments 100 points</a></li>
-<li><a href="https://redirect.github.com/ziglang/zig/pull/25299"><strong>Zig got a new ELF linker and it&#39;s fast</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45327318">28 comments 100 points</a></li>
-<li><a href="https://www.sciencedaily.com/releases/2025/09/250919085242.htm"><strong>New thermoelectric cooling breakthrough nearly doubles efficiency</strong> <code>www.sciencedaily.com</code></a> - <a href="https://news.ycombinator.com/item?id=45323187">52 comments 99 points</a></li>
-<li><a href="https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/"><strong>Why is Venus hell and Earth an Eden?</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=45327417">120 comments 96 points</a></li>
-<li><a href="https://arxiv.org/abs/2203.09638"><strong>Lightweight, highly accurate line and paragraph detection</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=45326740">11 comments 95 points</a></li>
-<li><a href="https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/"><strong>The link between trauma, drug use, and our search to feel better</strong> <code>lithub.com</code></a> - <a href="https://news.ycombinator.com/item?id=45324365">92 comments 92 points</a></li>
-<li><a href="https://arxiv.org/abs/2503.05136"><strong>Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=45323027">13 comments 89 points</a></li>
-<li><a href="https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true"><strong>DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024)</strong> <code>www.psychiatrymargins.com</code></a> - <a href="https://news.ycombinator.com/item?id=45328537">33 comments 87 points</a></li>
-<li><a href="https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"><strong>Be careful with Go struct embedding</strong> <code>mattjhall.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=45327531">63 comments 85 points</a></li>
-<li><a href="https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating"><strong>How can I influence others without manipulating them?</strong> <code>andiroberts.com</code></a> - <a href="https://news.ycombinator.com/item?id=45327199">55 comments 79 points</a></li>
-<li><a href="https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668"><strong>The US Is Tracking 14 Potential Rabies Outbreaks in 20 States</strong> <code>www.accuweather.com</code></a> - <a href="https://news.ycombinator.com/item?id=45328881">42 comments 73 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
