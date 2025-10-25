@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 24 Oct 2025 05:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 05:48:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-10-24]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1133</link>
+            <guid>1133</guid>
+            <pubDate>Fri, 24 Oct 2025 05:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63"><strong>Trump pardons convicted Binance founder</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=45683152">850 comments 836 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/cqx30vnwd4do"><strong>US axes website for reporting human rights abuses by US-armed foreign forces</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45682169">395 comments 731 points</a></li>
+<li><a href="https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988"><strong>VST3 audio plugin format is now MIT</strong> <code>forums.steinberg.net</code></a> - <a href="https://news.ycombinator.com/item?id=45678549">163 comments 629 points</a></li>
+<li><a href="https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html"><strong>What happened to Apple&#39;s legendary attention to detail?</strong> <code>blog.johnozbay.com</code></a> - <a href="https://news.ycombinator.com/item?id=45685551">420 comments 622 points</a></li>
+<li><a href="https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/"><strong>Armed police swarm student after AI mistakes bag of Doritos for a weapon</strong> <code>www.dexerto.com</code></a> - <a href="https://news.ycombinator.com/item?id=45684934">348 comments 558 points</a></li>
+<li><a href="https://joshmoody.org/blog/programming-with-less-than-nothing/"><strong>Programming with Less Than Nothing</strong> <code>joshmoody.org</code></a> - <a href="https://news.ycombinator.com/item?id=45678511">142 comments 432 points</a></li>
+<li><a href="https://www.anthropic.com/news/memory"><strong>Claude Memory</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=45684134">237 comments 414 points</a></li>
+<li><a href="https://pytorch.org/blog/introducing-pytorch-monarch/"><strong>PyTorch Monarch</strong> <code>pytorch.org</code></a> - <a href="https://news.ycombinator.com/item?id=45680237">41 comments 328 points</a></li>
+<li><a href="https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"><strong>I spent a year making an ASN.1 compiler in D</strong> <code>bradley.chatha.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45681200">174 comments 259 points</a></li>
+<li><a href="https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"><strong>/dev/null is an ACID compliant database</strong> <code>jyu.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45687458">101 comments 245 points</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/"><strong>SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=45680547">211 comments 229 points</a></li>
+<li><a href="https://lcamtuf.substack.com/p/radios-how-do-they-work"><strong>Radios, how do they work? (2024)</strong> <code>lcamtuf.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=45678603">62 comments 223 points</a></li>
+<li><a href="https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/"><strong>Apple loses UK App Store monopoly case, penalty might near $2B</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=45688006">211 comments 222 points</a></li>
+<li><a href="https://redirect.github.com/CaptainYouz/FocusTube"><strong>FocusTube: A Chrome extension that hides YouTube Shorts</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45687227">135 comments 177 points</a></li>
+<li><a href="https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/"><strong>The game theory of how algorithms can drive up prices</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=45680695">135 comments 175 points</a></li>
+<li><a href="https://redirect.github.com/OpenMaxIO/openmaxio-object-browser"><strong>OpenMaxIO: Forked UI for MinIO Object Storage</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45684736">38 comments 173 points</a></li>
+<li><a href="https://redirect.github.com/minio/minio/issues/21647"><strong>MinIO declines to release Docker builds resolving CVE-2025-62506</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45684035">2 comments 171 points</a></li>
+<li><a href="https://apnews.com/article/trump-treasury-debt-ceiling-bessent-09575f13ca95c2f1beb38234b2cbe85b"><strong>US hits $38T in debt. Fastest accumulation of $1T outside pandemic</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=45682671">255 comments 161 points</a></li>
+<li><a href="https://openai.com/index/openai-acquires-software-applications-incorporated"><strong>OpenAI acquires Sky.app</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=45684236">99 comments 155 points</a></li>
+<li><a href="https://deadstack.net/recent"><strong>Show HN: I built a tech news aggregator that works the way my brain does</strong> <code>deadstack.net</code></a> - <a href="https://news.ycombinator.com/item?id=45684689">82 comments 147 points</a></li>
+<li><a href="https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/"><strong>New updates and more access to Google Earth AI</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=45684155">41 comments 135 points</a></li>
+<li><a href="https://prog21.dadgum.com/210.html"><strong>Computer science courses that don&#39;t exist, but should (2015)</strong> <code>prog21.dadgum.com</code></a> - <a href="https://news.ycombinator.com/item?id=45690045">91 comments 132 points</a></li>
+<li><a href="https://lwn.net/Articles/1043103/"><strong>Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=45686919">116 comments 129 points</a></li>
+<li><a href="https://www.volts.wtf/p/can-second-life-ev-batteries-work"><strong>Can “second life” EV batteries work as grid-scale energy storage?</strong> <code>www.volts.wtf</code></a> - <a href="https://news.ycombinator.com/item?id=45685007">145 comments 127 points</a></li>
+<li><a href="https://lemmings.info/c64-blood-money/"><strong>C64 Blood Money</strong> <code>lemmings.info</code></a> - <a href="https://news.ycombinator.com/item?id=45679638">32 comments 125 points</a></li>
+<li><a href="https://redirect.github.com/deta/surf"><strong>Show HN: Deta Surf – An open source and local-first AI notebook</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45680937">39 comments 118 points</a></li>
+<li><a href="https://adrs-ucb.notion.site/moe-load-balancing"><strong>Automating Algorithm Discovery: A Case Study in MoE Load Balancing</strong> <code>adrs-ucb.notion.site</code></a> - <a href="https://news.ycombinator.com/item?id=45688236">54 comments 109 points</a></li>
+<li><a href="https://phong.bearblog.dev/be-careful-with-obsidian/"><strong>Be Careful with Obsidian</strong> <code>phong.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45678941">132 comments 102 points</a></li>
+<li><a href="https://www.henrikkarlsson.xyz/p/wordless-thought"><strong>When is it better to think without words?</strong> <code>www.henrikkarlsson.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=45687441">43 comments 102 points</a></li>
+<li><a href="https://arxiv.org/abs/2510.15061"><strong>Antislop: A framework for eliminating repetitive patterns in language models</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=45683897">92 comments 95 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-10-23]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1132</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.ycombinator.com/early-decision"><strong>Do YC after you graduate: Early decision for students</strong> <code>www.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=45367046">114 comments 100 points</a></li>
 <li><a href="https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite"><strong>Snapdragon X2 Elite ARM Laptop CPU</strong> <code>www.qualcomm.com</code></a> - <a href="https://news.ycombinator.com/item?id=45366474">129 comments 98 points</a></li>
 <li><a href="https://redirect.github.com/goudvuur/sonyshell"><strong>SonyShell – An effort to “SSH into my Sony DSLR”</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45365878">47 comments 96 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-09-24]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1103</link>
-            <guid>1103</guid>
-            <pubDate>Wed, 24 Sep 2025 06:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4"><strong>Delete FROM users WHERE location = &#39;Iran&#39;;</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45343108">749 comments 877 points</a></li>
-<li><a href="https://sharif.io/anna-alexei"><strong>Always Invite Anna</strong> <code>sharif.io</code></a> - <a href="https://news.ycombinator.com/item?id=45348495">89 comments 764 points</a></li>
-<li><a href="https://walzr.com/sf-parking/"><strong>Find SF parking cops</strong> <code>walzr.com</code></a> - <a href="https://news.ycombinator.com/item?id=45350690">363 comments 631 points</a></li>
-<li><a href="https://mitchellh.com/writing/libghostty-is-coming"><strong>Libghostty is coming</strong> <code>mitchellh.com</code></a> - <a href="https://news.ycombinator.com/item?id=45347117">187 comments 625 points</a></li>
-<li><a href="https://joel.drapper.me/p/rubygems-takeover/"><strong>Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover</strong> <code>joel.drapper.me</code></a> - <a href="https://news.ycombinator.com/item?id=45348390">318 comments 504 points</a></li>
-<li><a href="https://go-review.googlesource.com/c/go/+/674077"><strong>Go has added Valgrind support</strong> <code>go-review.googlesource.com</code></a> - <a href="https://news.ycombinator.com/item?id=45344708">123 comments 496 points</a></li>
-<li><a href="https://bbbprograms.org/media/newsroom/decisions/mrbeast-feastables"><strong>MrBeast Failed to Disclose Ads and Improperly Collected Children&#39;s Data</strong> <code>bbbprograms.org</code></a> - <a href="https://news.ycombinator.com/item?id=45346950">166 comments 321 points</a></li>
-<li><a href="https://redirect.github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md"><strong>Getting AI to work in complex codebases</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45347532">275 comments 317 points</a></li>
-<li><a href="https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9"><strong>YouTube says it&#39;ll bring back creators banned for Covid and election content</strong> <code>www.businessinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=45352213">647 comments 298 points</a></li>
-<li><a href="https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html"><strong>Restrictions on house sharing by unrelated roommates</strong> <code>marginalrevolution.com</code></a> - <a href="https://news.ycombinator.com/item?id=45347043">369 comments 291 points</a></li>
-<li><a href="https://larian.com/support/faqs/steam-deck-native-version_121"><strong>Baldur&#39;s Gate 3 Steam Deck – Native Version</strong> <code>larian.com</code></a> - <a href="https://news.ycombinator.com/item?id=45354644">173 comments 275 points</a></li>
-<li><a href="https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html"><strong>Cache of devices capable of crashing cell network is found in NYC</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=45345514">262 comments 273 points</a></li>
-<li><a href="https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list"><strong>Qwen3-VL</strong> <code>qwen.ai</code></a> - <a href="https://news.ycombinator.com/item?id=45352672">63 comments 257 points</a></li>
-<li><a href="https://www.scottsmitelli.com/articles/altoids-by-the-fistful/"><strong>Altoids by the Fistful</strong> <code>www.scottsmitelli.com</code></a> - <a href="https://news.ycombinator.com/item?id=45343449">120 comments 247 points</a></li>
-<li><a href="https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/"><strong>Denmark wants to push through Chat Control</strong> <code>netzpolitik.org</code></a> - <a href="https://news.ycombinator.com/item?id=45351405">135 comments 238 points</a></li>
-<li><a href="https://parthsareen.com/blog.html#sampling.md"><strong>Sampling and structured outputs in LLMs</strong> <code>parthsareen.com</code></a> - <a href="https://news.ycombinator.com/item?id=45345207">88 comments 211 points</a></li>
-<li><a href="https://www.x402.org/"><strong>x402 — An open protocol for internet-native payments</strong> <code>www.x402.org</code></a> - <a href="https://news.ycombinator.com/item?id=45347335">116 comments 210 points</a></li>
-<li><a href="https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it"><strong>Mesh: I tried Htmx, then ditched it</strong> <code>ajmoon.com</code></a> - <a href="https://news.ycombinator.com/item?id=45345950">139 comments 206 points</a></li>
-<li><a href="https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell"><strong>YAML document from hell (2023)</strong> <code>ruudvanasseldonk.com</code></a> - <a href="https://news.ycombinator.com/item?id=45344554">130 comments 206 points</a></li>
-<li><a href="https://consumed.today/"><strong>consumed.today</strong> <code>consumed.today</code></a> - <a href="https://news.ycombinator.com/item?id=45351446">38 comments 194 points</a></li>
-<li><a href="https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca"><strong>I&#39;m leaving Ruby Central</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45352432">106 comments 193 points</a></li>
-<li><a href="https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/"><strong>Zig feels more practical than Rust for real-world CLI tools</strong> <code>dayvster.com</code></a> - <a href="https://news.ycombinator.com/item?id=45346387">324 comments 187 points</a></li>
-<li><a href="https://cate.blog/2025/09/23/getting-more-strategic/"><strong>Getting More Strategic</strong> <code>cate.blog</code></a> - <a href="https://news.ycombinator.com/item?id=45346219">25 comments 165 points</a></li>
-<li><a href="https://questdb.com/blog/rust-fetch-max-compiler-journey/"><strong>From Rust to reality: The hidden journey of fetch_max</strong> <code>questdb.com</code></a> - <a href="https://news.ycombinator.com/item?id=45352944">30 comments 160 points</a></li>
-<li><a href="https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/"><strong>NYC Telecom Raid: What&#39;s Up with Those Weird SIM Banks?</strong> <code>tedium.co</code></a> - <a href="https://news.ycombinator.com/item?id=45354262">97 comments 155 points</a></li>
-<li><a href="https://framinghamsource.com/index.php/2025/09/22/linda-m-brossi-murphy/"><strong>If you are reading this obituary, it looks like I&#39;m dead</strong> <code>framinghamsource.com</code></a> - <a href="https://news.ycombinator.com/item?id=45348700">63 comments 145 points</a></li>
-<li><a href="https://verialabs.com/blog/from-mcp-to-shell/"><strong>From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more</strong> <code>verialabs.com</code></a> - <a href="https://news.ycombinator.com/item?id=45348183">36 comments 134 points</a></li>
-<li><a href="https://blog.google/products/photos/android-conversational-editing-google-photos/"><strong>Android users can now use conversational editing in Google Photos</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=45349848">120 comments 124 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=45347914"><strong>Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=45347914">62 comments 124 points</a></li>
-<li><a href="https://podman-desktop.io/blog/3-million"><strong>Podman Desktop celebrates 3M downloads</strong> <code>podman-desktop.io</code></a> - <a href="https://news.ycombinator.com/item?id=45352460">30 comments 112 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
