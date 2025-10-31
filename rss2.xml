@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 30 Oct 2025 05:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 05:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-10-30]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1139</link>
+            <guid>1139</guid>
+            <pubDate>Thu, 30 Oct 2025 05:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://emily.space/posts/251023-uv"><strong>Uv is the best thing to happen to the Python ecosystem in a decade</strong> <code>emily.space</code></a> - <a href="https://news.ycombinator.com/item?id=45751400">763 comments 1386 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=45748661"><strong>Tell HN: Azure outage</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=45748661">657 comments 703 points</a></li>
+<li><a href="https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view"><strong>AWS to bare metal two years later: Answering your questions about leaving AWS</strong> <code>oneuptime.com</code></a> - <a href="https://news.ycombinator.com/item?id=45745281">441 comments 647 points</a></li>
+<li><a href="https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition"><strong>Minecraft removing obfuscation in Java Edition</strong> <code>www.minecraft.net</code></a> - <a href="https://news.ycombinator.com/item?id=45748879">229 comments 640 points</a></li>
+<li><a href="https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/"><strong>YouTube is taking down videos on performing nonstandard Windows 11 installs</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=45744503">434 comments 468 points</a></li>
+<li><a href="https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html"><strong>Who needs Graphviz when you can build it yourself?</strong> <code>spidermonkey.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45742907">90 comments 443 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=45748799"><strong>Tell HN: Azure Outage</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=45748799">2 comments 435 points</a></li>
+<li><a href="https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"><strong>Kafka is Fast – I&#39;ll use Postgres</strong> <code>topicpartition.io</code></a> - <a href="https://news.ycombinator.com/item?id=45747018">257 comments 344 points</a></li>
+<li><a href="https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/"><strong>ICE and CBP agents are scanning faces on the street to verify citizenship</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=45749781">300 comments 329 points</a></li>
+<li><a href="https://tailscale.com/blog/peer-relays-beta"><strong>Tailscale Peer Relays</strong> <code>tailscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=45749017">82 comments 281 points</a></li>
+<li><a href="https://visualrambling.space/dithering-part-1/"><strong>Dithering – Part 1</strong> <code>visualrambling.space</code></a> - <a href="https://news.ycombinator.com/item?id=45750954">60 comments 261 points</a></li>
+<li><a href="https://ergaster.org/posts/2025/10/29-vscode-to-helix/"><strong>From VS Code to Helix</strong> <code>ergaster.org</code></a> - <a href="https://news.ycombinator.com/item?id=45746478">120 comments 237 points</a></li>
+<li><a href="https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/"><strong>Crunchyroll is destroying its subtitles</strong> <code>daiz.moe</code></a> - <a href="https://news.ycombinator.com/item?id=45754509">78 comments 237 points</a></li>
+<li><a href="https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy"><strong>The end of the rip-off economy: consumers use LLMs against information asymmetry</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=45748195">179 comments 222 points</a></li>
+<li><a href="https://www.axios.com/2025/10/29/aol-bending-spoons-deal"><strong>AOL to be sold to Bending Spoons for $1.5B</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=45749161">184 comments 215 points</a></li>
+<li><a href="https://stopcitingai.com/"><strong>Responses from LLMs are not facts</strong> <code>stopcitingai.com</code></a> - <a href="https://news.ycombinator.com/item?id=45753422">128 comments 195 points</a></li>
+<li><a href="https://herman.bearblog.dev/agressive-bots/"><strong>Aggressive bots ruined my weekend</strong> <code>herman.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45745072">97 comments 189 points</a></li>
+<li><a href="https://cursor.com/blog/composer"><strong>Composer: Building a fast frontier model with RL</strong> <code>cursor.com</code></a> - <a href="https://news.ycombinator.com/item?id=45748725">137 comments 185 points</a></li>
+<li><a href="https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c"><strong>OpenAI’s promise to stay in California helped clear the path for its IPO</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=45750425">231 comments 175 points</a></li>
+<li><a href="https://www.atomic14.com/2025/10/29/CH32V003-talking"><strong>I made a 10¢ MCU Talk</strong> <code>www.atomic14.com</code></a> - <a href="https://news.ycombinator.com/item?id=45747112">45 comments 175 points</a></li>
+<li><a href="https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules"><strong>Meta and TikTok are obstructing researchers&#39; access to data, EU commission rules</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=45754165">73 comments 160 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=45748570"><strong>Tell HN: Twilio support replies with hallucinated features</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=45748570">31 comments 136 points</a></li>
+<li><a href="https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code"><strong>Israel demanded Google and Amazon use secret &#39;wink&#39; to sidestep legal orders</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=45746482">74 comments 131 points</a></li>
+<li><a href="https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en"><strong>The Internet runs on free and open source software and so does the DNS</strong> <code>www.icann.org</code></a> - <a href="https://news.ycombinator.com/item?id=45750875">10 comments 128 points</a></li>
+<li><a href="https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/"><strong>Grammarly rebrands to &#39;Superhuman,&#39; launches a new AI assistant</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=45746401">97 comments 126 points</a></li>
+<li><a href="https://go.dev/blog/greenteagc"><strong>The Green Tea Garbage Collector</strong> <code>go.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45749746">14 comments 119 points</a></li>
+<li><a href="https://extropic.ai/"><strong>Extropic is building thermodynamic computing hardware</strong> <code>extropic.ai</code></a> - <a href="https://news.ycombinator.com/item?id=45750995">79 comments 109 points</a></li>
+<li><a href="https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/"><strong>A century of reforestation helped keep the eastern US cool (2024)</strong> <code>news.agu.org</code></a> - <a href="https://news.ycombinator.com/item?id=45754390">13 comments 106 points</a></li>
+<li><a href="https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet"><strong>Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet</strong> <code>www.elektormagazine.com</code></a> - <a href="https://news.ycombinator.com/item?id=45754439">28 comments 104 points</a></li>
+<li><a href="https://www.learngermanwithgames.com/"><strong>Show HN: Learn German with Games</strong> <code>www.learngermanwithgames.com</code></a> - <a href="https://news.ycombinator.com/item?id=45745566">74 comments 98 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-10-29]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1138</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://redirect.github.com/airweave-ai/airweave"><strong>Launch HN: Airweave (YC X25) – Let agents search any app</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45427482">22 comments 140 points</a></li>
 <li><a href="https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract"><strong>How has mathematics gotten so abstract?</strong> <code>lcamtuf.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=45424648">181 comments 122 points</a></li>
 <li><a href="https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/"><strong>Heavy codes of conduct are unnecessary for open source projects</strong> <code>shujisado.org</code></a> - <a href="https://news.ycombinator.com/item?id=45423014">175 comments 119 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-09-30]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1109</link>
-            <guid>1109</guid>
-            <pubDate>Tue, 30 Sep 2025 06:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.anthropic.com/news/claude-sonnet-4-5"><strong>Claude Sonnet 4.5</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=45415962">631 comments 1225 points</a></li>
-<li><a href="https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/"><strong>What if I don&#39;t want videos of my hobby time available to the world?</strong> <code>neilzone.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=45412419">674 comments 630 points</a></li>
-<li><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code"><strong>Claude Code 2.0</strong> <code>www.npmjs.com</code></a> - <a href="https://news.ycombinator.com/item?id=45416228">243 comments 629 points</a></li>
-<li><a href="https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b"><strong>Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%</strong> <code>lightcapai.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=45413481">156 comments 343 points</a></li>
-<li><a href="https://www.seangoedecke.com/taste/"><strong>What is “good taste” in software engineering?</strong> <code>www.seangoedecke.com</code></a> - <a href="https://news.ycombinator.com/item?id=45410940">214 comments 315 points</a></li>
-<li><a href="https://loadmo.re"><strong>Loadmo.re: design inspiration for unconventional web</strong> <code>loadmo.re</code></a> - <a href="https://news.ycombinator.com/item?id=45415207">41 comments 311 points</a></li>
-<li><a href="https://redirect.github.com/deepseek-ai/DeepSeek-V3.2-Exp"><strong>DeepSeek-v3.2-Exp</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45412098">48 comments 296 points</a></li>
-<li><a href="https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/"><strong>California governor signs AI transparency bill into law</strong> <code>www.gov.ca.gov</code></a> - <a href="https://news.ycombinator.com/item?id=45418428">162 comments 269 points</a></li>
-<li><a href="https://ir.ea.com/press-releases/press-release-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx"><strong>EA Announces Agreement to be Acquired by PIF, Silver Lake, and Affinity Partners</strong> <code>ir.ea.com</code></a> - <a href="https://news.ycombinator.com/item?id=45413083">234 comments 249 points</a></li>
-<li><a href="https://www.thebriefing.ie/google-just-erased-7-years-of-our-political-history/"><strong>Google appears to have deleted its political ad archive for the EU</strong> <code>www.thebriefing.ie</code></a> - <a href="https://news.ycombinator.com/item?id=45411332">129 comments 249 points</a></li>
-<li><a href="https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html"><strong>FCC Accidentally Leaked iPhone Schematics</strong> <code>www.engadget.com</code></a> - <a href="https://news.ycombinator.com/item?id=45416231">107 comments 227 points</a></li>
-<li><a href="https://antonz.org/write-code/"><strong>Write the damn code</strong> <code>antonz.org</code></a> - <a href="https://news.ycombinator.com/item?id=45415232">69 comments 199 points</a></li>
-<li><a href="https://fortune.com/2025/09/28/larry-ellison-ai-surveillance-oracle-tiktok-deal-social-media/"><strong>Larry Ellison – &#39;citizens will be on their best behavior&#39; amid nonstop recording</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=45413090">195 comments 197 points</a></li>
-<li><a href="https://openai.com/index/buy-it-in-chatgpt/"><strong>Instant Checkout and the Agentic Commerce Protocol</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=45416080">288 comments 190 points</a></li>
-<li><a href="https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/"><strong>Optimizing a 6502 image decoder, from 70 minutes to 1 minute</strong> <code>www.colino.net</code></a> - <a href="https://news.ycombinator.com/item?id=45412022">28 comments 185 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=45418675"><strong>Ask HN: What are you working on? (September 2025)</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=45418675">493 comments 169 points</a></li>
-<li><a href="https://jameelur.com/blog/overcoming-friction-leads-to-growth"><strong>Why friction is necessary for growth</strong> <code>jameelur.com</code></a> - <a href="https://news.ycombinator.com/item?id=45413654">75 comments 152 points</a></li>
-<li><a href="https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/"><strong>Vertical Solar Panels Are Out Standing</strong> <code>hackaday.com</code></a> - <a href="https://news.ycombinator.com/item?id=45414215">98 comments 151 points</a></li>
-<li><a href="https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/"><strong>FAA decides it trusts Boeing enough to certify safety of its own planes again</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=45420327">61 comments 149 points</a></li>
-<li><a href="https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies"><strong>There is a huge pool of exceptional junior engineers</strong> <code>workweave.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45421564">171 comments 143 points</a></li>
-<li><a href="https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47"><strong>Remember: Kurt Vonnegut Was 47</strong> <code>www.joanwestenberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=45418269">63 comments 138 points</a></li>
-<li><a href="https://www.theregister.com/2025/09/25/google_android_chromeos/"><strong>Google to merge Android and ChromeOS in 2026</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=45418918">45 comments 120 points</a></li>
-<li><a href="https://infohash.lol/"><strong>Show HN: Every single torrent is on this website</strong> <code>infohash.lol</code></a> - <a href="https://news.ycombinator.com/item?id=45415539">79 comments 110 points</a></li>
-<li><a href="https://www.wsj.com/business/deals/electronic-arts-to-go-private-in-55-billion-deal-a4a4479c"><strong>Electronic Arts Goes Private for $52.5B in Largest LBO</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=45413767">110 comments 109 points</a></li>
-<li>[**ML on Apple ]<a href="https://mdcramer.github.io/apple-2-blog/k-means/">+** <code>mdcramer.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45415510">24 comments 108 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal"><strong>Not all OCuLink eGPU docks are created equal</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=45414479">29 comments 105 points</a></li>
-<li><a href="https://emschwartz.me/subtleties-of-sqlite-indexes/"><strong>Subtleties of SQLite Indexes</strong> <code>emschwartz.me</code></a> - <a href="https://news.ycombinator.com/item?id=45415332">50 comments 102 points</a></li>
-<li><a href="https://twitter.com/rauchg/status/1972669025525158031"><strong>Vercel CEO meets with Netanyahu to discuss AI education</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=45416353">38 comments 100 points</a></li>
-<li><a href="https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/"><strong>Marissa Mayer will close her old AI startup, sell assets to her new AI startup</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=45415428">104 comments 99 points</a></li>
-<li><a href="https://chatgpt.com/merchants"><strong>Instant Checkout for Merchants in ChatGPT</strong> <code>chatgpt.com</code></a> - <a href="https://news.ycombinator.com/item?id=45416572">1 comments 98 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
