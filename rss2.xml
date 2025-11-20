@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 19 Nov 2025 06:53:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 06:52:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-11-19]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1159</link>
+            <guid>1159</guid>
+            <pubDate>Wed, 19 Nov 2025 06:53:08 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7"><strong>Cloudflare Global Network experiencing issues</strong> <code>www.cloudflarestatus.com</code></a> - <a href="https://news.ycombinator.com/item?id=45963780">1600 comments 2348 points</a></li>
+<li><a href="https://blog.google/products/gemini/gemini-3/"><strong>Gemini 3</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=45967211">838 comments 1330 points</a></li>
+<li><a href="https://antigravity.google/"><strong>Google Antigravity</strong> <code>antigravity.google</code></a> - <a href="https://news.ycombinator.com/item?id=45967814">810 comments 825 points</a></li>
+<li><a href="https://blog.cloudflare.com/18-november-2025-outage/"><strong>Cloudflare outage on November 18, 2025 post mortem</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=45973709">430 comments 762 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c1j8ewy1p86o"><strong>Nearly all UK drivers say headlights are too bright</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45966251">729 comments 723 points</a></li>
+<li><a href="https://www.blender.org/download/releases/5-0/"><strong>Blender 5.0</strong> <code>www.blender.org</code></a> - <a href="https://news.ycombinator.com/item?id=45972519">194 comments 661 points</a></li>
+<li><a href="https://fabiensanglard.net/quake_chunnel/index.html"><strong>How Quake.exe got its TCP/IP stack</strong> <code>fabiensanglard.net</code></a> - <a href="https://news.ycombinator.com/item?id=45962654">127 comments 479 points</a></li>
+<li><a href="https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont"><strong>Do not put your site behind Cloudflare if you don&#39;t need to</strong> <code>huijzer.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=45965060">335 comments 459 points</a></li>
+<li><a href="https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/"><strong>I am stepping down as the CEO of Mastodon</strong> <code>blog.joinmastodon.org</code></a> - <a href="https://news.ycombinator.com/item?id=45969909">293 comments 430 points</a></li>
+<li><a href="https://pixeldrain.com/u/hwgaNKeH"><strong>Gemini 3 Pro Model Card</strong> <code>pixeldrain.com</code></a> - <a href="https://news.ycombinator.com/item?id=45963836">2 comments 429 points</a></li>
+<li><a href="https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/"><strong>Pebble, Rebble, and a path forward</strong> <code>ericmigi.com</code></a> - <a href="https://news.ycombinator.com/item?id=45969250">176 comments 376 points</a></li>
+<li><a href="https://blog.google/technology/developers/gemini-3-developers/"><strong>Gemini 3 for developers: New reasoning, agentic capabilities</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=45968043">1 comments 361 points</a></li>
+<li><a href="https://www.githubstatus.com/incidents/5q7nmlxz30sk"><strong>GitHub: Git operation failures</strong> <code>www.githubstatus.com</code></a> - <a href="https://news.ycombinator.com/item?id=45971726">289 comments 351 points</a></li>
+<li><a href="https://blog.google/products/gemini/gemini-3/"><strong>Gemini 3</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=45967999">1 comments 344 points</a></li>
+<li><a href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7"><strong>Cloudflare Global Network experiencing issues</strong> <code>www.cloudflarestatus.com</code></a> - <a href="https://news.ycombinator.com/item?id=45963949">6 comments 303 points</a></li>
+<li><a href="https://www.ft.com/content/064bbca0-1cb2-45ab-85f4-25fdfc318d89"><strong>Oracle is underwater on its $300B OpenAI deal</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=45971601">153 comments 225 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/cwy7vrd8k4eo"><strong>Google boss says AI investment boom has &#39;elements of irrationality&#39;</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=45961886">403 comments 224 points</a></li>
+<li><a href="https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf"><strong>Gemini 3 Pro Model Card [pdf]</strong> <code>storage.googleapis.com</code></a> - <a href="https://news.ycombinator.com/item?id=45963670">314 comments 208 points</a></li>
+<li><a href="https://antigravity.google/blog/introducing-google-antigravity"><strong>Google Antigravity</strong> <code>antigravity.google</code></a> - <a href="https://news.ycombinator.com/item?id=45968065">3 comments 193 points</a></li>
+<li><a href="https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/"><strong>Ruby 4.0.0 Preview2</strong> <code>www.ruby-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=45965664">76 comments 191 points</a></li>
+<li><a href="https://corecursive.com/doomed-to-fail-with-burger-becky/"><strong>Rebecca Heineman – from homelessness to porting Doom (2022)</strong> <code>corecursive.com</code></a> - <a href="https://news.ycombinator.com/item?id=45973573">26 comments 180 points</a></li>
+<li><a href="https://arxiv.org/abs/2511.09030"><strong>Solving a million-step LLM task with zero errors</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=45968362">52 comments 170 points</a></li>
+<li><a href="https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/"><strong>A day at Hetzner Online in the Falkenstein data center</strong> <code>www.igorslab.de</code></a> - <a href="https://news.ycombinator.com/item?id=45968235">70 comments 169 points</a></li>
+<li><a href="https://countercraft.substack.com/p/short-little-difficult-books"><strong>Short Little Difficult Books</strong> <code>countercraft.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=45966435">94 comments 165 points</a></li>
+<li><a href="https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down"><strong>Monotype font licencing shake-down</strong> <code>www.insanityworks.org</code></a> - <a href="https://news.ycombinator.com/item?id=45973261">39 comments 150 points</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/18/gemini-3/"><strong>Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=45970519">48 comments 147 points</a></li>
+<li><a href="https://scf.green/story-of-worgl-and-others/"><strong>The Miracle of Wörgl</strong> <code>scf.green</code></a> - <a href="https://news.ycombinator.com/item?id=45963583">76 comments 145 points</a></li>
+<li><a href="https://bbenchoff.github.io/pages/OrthoRoute.html"><strong>OrthoRoute – GPU-accelerated autorouting for KiCad</strong> <code>bbenchoff.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45970391">17 comments 145 points</a></li>
+<li><a href="https://compellingsciencefiction.com/posts/the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html"><strong>The code and open-source tools I used to produce a science fiction anthology</strong> <code>compellingsciencefiction.com</code></a> - <a href="https://news.ycombinator.com/item?id=45968121">14 comments 127 points</a></li>
+<li><a href="https://techreport.com/news/new-eu-chat-control-proposal-privacy-experts-see-dangerous-backdoor/"><strong>New EU Chat Control proposal moves forward</strong> <code>techreport.com</code></a> - <a href="https://news.ycombinator.com/item?id=45970663">20 comments 125 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-11-18]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1158</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html"><strong>Peanut allergies have plummeted in children</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=45647133">107 comments 121 points</a></li>
 <li><a href="https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals"><strong>Building a message queue with only two UNIX signals</strong> <code>leandronsp.com</code></a> - <a href="https://news.ycombinator.com/item?id=45650178">51 comments 121 points</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Beaver-engineered_dam_in_the_Czech_Republic"><strong>Beaver-engineered dam in the Czech Republic</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=45642562">57 comments 115 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-10-20]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1129</link>
-            <guid>1129</guid>
-            <pubDate>Mon, 20 Oct 2025 06:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://replacement.ai"><strong>Replacement.ai</strong> <code>replacement.ai</code></a> - <a href="https://news.ycombinator.com/item?id=45634095">616 comments 933 points</a></li>
-<li><a href="https://cs.stanford.edu/people/karpathy/advice.html"><strong>Doing well in your courses: Andrej&#39;s advice for success (2013)</strong> <code>cs.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=45635533">152 comments 481 points</a></li>
-<li><a href="https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/"><strong>OpenAI researcher announced GPT-5 math breakthrough that never happened</strong> <code>the-decoder.com</code></a> - <a href="https://news.ycombinator.com/item?id=45633482">210 comments 385 points</a></li>
-<li><a href="https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/"><strong>Xubuntu.org Might Be Compromised</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=45634367">136 comments 331 points</a></li>
-<li><a href="https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake"><strong>Novo Nordisk&#39;s Canadian Mistake</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=45637744">156 comments 321 points</a></li>
-<li><a href="https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/"><strong>Airliner hit by possible space debris</strong> <code>avbrief.com</code></a> - <a href="https://news.ycombinator.com/item?id=45636285">144 comments 274 points</a></li>
-<li><a href="https://usa-status.com/"><strong>US Government Uptime Monitor</strong> <code>usa-status.com</code></a> - <a href="https://news.ycombinator.com/item?id=45637049">59 comments 193 points</a></li>
-<li><a href="https://demo.duckui.com"><strong>Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB</strong> <code>demo.duckui.com</code></a> - <a href="https://news.ycombinator.com/item?id=45633453">57 comments 191 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=45635940"><strong>Ask HN: What are people doing to get off of VMware?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=45635940">111 comments 159 points</a></li>
-<li><a href="https://welovesota.com/article/the-case-for-the-return-of-fine-tuning"><strong>The case for the return of fine-tuning</strong> <code>welovesota.com</code></a> - <a href="https://news.ycombinator.com/item?id=45633081">75 comments 154 points</a></li>
-<li><a href="https://zenodo.org/records/14179366"><strong>Entire Linux Network stack diagram (2024)</strong> <code>zenodo.org</code></a> - <a href="https://news.ycombinator.com/item?id=45639995">11 comments 149 points</a></li>
-<li><a href="https://apnews.com/article/france-louvre-museum-robbery-a3687f330a43e0aaff68c732c4b2585b"><strong>Thieves steal crown jewels in 4 minutes from Louvre Museum</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=45635528">133 comments 147 points</a></li>
-<li><a href="https://www.techpowerup.com/342032/windows-11-25h2-october-update-bug-renders-recovery-environment-unusable"><strong>Windows 11 25H2 October Update Bug Renders Recovery Environment Unusable</strong> <code>www.techpowerup.com</code></a> - <a href="https://news.ycombinator.com/item?id=45635287">100 comments 141 points</a></li>
-<li><a href="https://sbc.compare/"><strong>Compare Single Board Computers</strong> <code>sbc.compare</code></a> - <a href="https://news.ycombinator.com/item?id=45636365">55 comments 141 points</a></li>
-<li><a href="https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/"><strong>Look at how unhinged GPU box art was in the 2000s (2024)</strong> <code>www.xda-developers.com</code></a> - <a href="https://news.ycombinator.com/item?id=45639498">46 comments 141 points</a></li>
-<li><a href="https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/"><strong>Abandoned land drives dangerous heat in Houston, study finds</strong> <code>stories.tamu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=45634026">131 comments 140 points</a></li>
-<li><a href="https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom"><strong>Why an abundance of choice is not the same as freedom</strong> <code>aeon.co</code></a> - <a href="https://news.ycombinator.com/item?id=45634641">99 comments 138 points</a></li>
-<li><a href="https://redirect.github.com/Gillou68310/DukeNukemZeroHour"><strong>Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45637880">48 comments 138 points</a></li>
-<li><a href="https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"><strong>GNU Octave Meets JupyterLite: Compute Anywhere, Anytime</strong> <code>blog.jupyter.org</code></a> - <a href="https://news.ycombinator.com/item?id=45635069">36 comments 124 points</a></li>
-<li><a href="https://cmaiolino.wordpress.com/dosbian/"><strong>Dosbian: Boot to DOSBox on Raspberry Pi</strong> <code>cmaiolino.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=45637133">49 comments 117 points</a></li>
-<li><a href="https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/"><strong>The zipper is getting its first major upgrade in 100 years</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=45634797">122 comments 114 points</a></li>
-<li><a href="https://whathappenedin2007.com/"><strong>What Happened in 2007?</strong> <code>whathappenedin2007.com</code></a> - <a href="https://news.ycombinator.com/item?id=45633426">74 comments 113 points</a></li>
-<li><a href="https://ackreq.github.io/posts/what-are-rfcs/"><strong>RFCs: Blueprints of the Internet</strong> <code>ackreq.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45634678">84 comments 112 points</a></li>
-<li><a href="https://ratfactor.com/forth/the_programming_language_that_writes_itself.html"><strong>Forth: The programming language that writes itself</strong> <code>ratfactor.com</code></a> - <a href="https://news.ycombinator.com/item?id=45639250">35 comments 112 points</a></li>
-<li><a href="https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/"><strong>With deadline looming 4 of 9 universities reject Trumps pact to remake higher ed</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=45634774">119 comments 110 points</a></li>
-<li><a href="https://twitter.com/ericmigi/status/1979576965494710564"><strong>Pebble is officially back on iOS and Android</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=45633591">14 comments 106 points</a></li>
-<li><a href="https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html"><strong>A Tower on Billionaires&#39; Row Is Full of Cracks. Who&#39;s to Blame?</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=45633711">83 comments 100 points</a></li>
-<li><a href="https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/"><strong>How to Assemble an Electric Heating Element from Scratch</strong> <code>solar.lowtechmagazine.com</code></a> - <a href="https://news.ycombinator.com/item?id=45633958">56 comments 96 points</a></li>
-<li><a href="https://finance.yahoo.com/news/gofundme-ceo-says-economy-bad-182843671.html"><strong>GoFundMe CEO: economy is so bad his customers crowdfund to pay for groceries</strong> <code>finance.yahoo.com</code></a> - <a href="https://news.ycombinator.com/item?id=45632262">88 comments 93 points</a></li>
-<li><a href="https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/"><strong>Improving PixelMelt&#39;s Kindle Web Deobfuscator</strong> <code>shkspr.mobi</code></a> - <a href="https://news.ycombinator.com/item?id=45633642">14 comments 93 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
