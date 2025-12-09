@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 08 Dec 2025 06:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 06:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2025-12-08]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1178</link>
+            <guid>1178</guid>
+            <pubDate>Mon, 08 Dec 2025 06:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html"><strong>The state of Schleswig-Holstein is consistently relying on open source</strong> <code>www.heise.de</code></a> - <a href="https://news.ycombinator.com/item?id=46181491">246 comments 539 points</a></li>
+<li><a href="https://gptzero.me/news/iclr-2026/"><strong>Over fifty new hallucinations in ICLR 2026 submissions</strong> <code>gptzero.me</code></a> - <a href="https://news.ycombinator.com/item?id=46181466">376 comments 474 points</a></li>
+<li><a href="https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/"><strong>Google Titans architecture, helping AI have long-term memory</strong> <code>research.google</code></a> - <a href="https://news.ycombinator.com/item?id=46181231">151 comments 457 points</a></li>
+<li><a href="https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/"><strong>I failed to recreate the 1996 Space Jam website with Claude</strong> <code>j0nah.com</code></a> - <a href="https://news.ycombinator.com/item?id=46183294">331 comments 398 points</a></li>
+<li><a href="https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs"><strong>Dollar-stores overcharge customers while promising low prices</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46181962">489 comments 350 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=Gv4sDL9Ljww"><strong>The C++ standard for the F-35 Fighter Jet [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=46183657">238 comments 232 points</a></li>
+<li><a href="https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/"><strong>The Anatomy of a macOS App</strong> <code>eclecticlight.co</code></a> - <a href="https://news.ycombinator.com/item?id=46181268">59 comments 219 points</a></li>
+<li><a href="https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html"><strong>Scala 3 slowed us down?</strong> <code>kmaliszewski9.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46182202">129 comments 208 points</a></li>
+<li><a href="https://thorsell.io/2025/12/07/estimates.html"><strong>Estimates are difficult for developers and product owners</strong> <code>thorsell.io</code></a> - <a href="https://news.ycombinator.com/item?id=46184229">191 comments 187 points</a></li>
+<li><a href="https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html"><strong>Java Hello World, LLVM Edition</strong> <code>www.javaadvent.com</code></a> - <a href="https://news.ycombinator.com/item?id=46181076">67 comments 172 points</a></li>
+<li><a href="https://troubled.engineer/posts/no-ads/"><strong>How I block all online ads</strong> <code>troubled.engineer</code></a> - <a href="https://news.ycombinator.com/item?id=46185816">123 comments 151 points</a></li>
+<li><a href="https://redirect.github.com/researchxxl/syncthing-android/issues/16"><strong>Syncthing-Android have had a change of owner/maintainer</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46184730">29 comments 136 points</a></li>
+<li><a href="https://twitter.com/kenchangh/status/1994854381267947640"><strong>I wasted years of my life in crypto</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46181371">197 comments 134 points</a></li>
+<li><a href="https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us"><strong>Bag of words, have mercy on us</strong> <code>www.experimental-history.com</code></a> - <a href="https://news.ycombinator.com/item?id=46185957">136 comments 133 points</a></li>
+<li><a href="https://www.cnn.com/2025/12/06/tech/apple-tim-cook-leadership-changes"><strong>What the heck is going on at Apple?</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=46183088">152 comments 116 points</a></li>
+<li><a href="https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"><strong>Nested Learning: A new ML paradigm for continual learning</strong> <code>research.google</code></a> - <a href="https://news.ycombinator.com/item?id=46182031">2 comments 108 points</a></li>
+<li><a href="https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going"><strong>The AI wildfire is coming. it&#39;s going to be painful and healthy</strong> <code>ceodinner.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=46183011">188 comments 107 points</a></li>
+<li><a href="https://www.nber.org/papers/w34495"><strong>Evidence from the One Laptop per Child program in rural Peru</strong> <code>www.nber.org</code></a> - <a href="https://news.ycombinator.com/item?id=46184575">104 comments 107 points</a></li>
+<li><a href="https://en.wikipedia.org/wiki/XKeyscore"><strong>XKeyscore</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=46185060">90 comments 105 points</a></li>
+<li><a href="https://www.science.org/doi/10.1126/sciadv.adw6833"><strong>Mechanical power generation using Earth&#39;s ambient radiation</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=46185576">34 comments 101 points</a></li>
+<li><a href="https://redirect.github.com/iced-rs/iced/releases/tag/0.14.0"><strong>Iced 0.14 has been released (Rust GUI library)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46185323">39 comments 81 points</a></li>
+<li><a href="https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/"><strong>Proxmox delivers its software-defined datacenter contender and VMware escape</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=46185317">1 comments 72 points</a></li>
+<li><a href="https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/"><strong>OpenAI disables ChatGPT app suggestions that looked like ads</strong> <code>techoreon.com</code></a> - <a href="https://news.ycombinator.com/item?id=46182582">55 comments 66 points</a></li>
+<li><a href="https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin"><strong>Spinlocks vs. Mutexes: When to Spin and When to Sleep</strong> <code>howtech.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=46186997">15 comments 65 points</a></li>
+<li><a href="https://www.thepavement.xyz/p/the-era-of-jobs-is-ending"><strong>The era of jobs is ending</strong> <code>www.thepavement.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=46186900">73 comments 61 points</a></li>
+<li><a href="https://lucasvance.github.io/2100/history/"><strong>Socialist ends by market means: A history</strong> <code>lucasvance.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46187645">52 comments 61 points</a></li>
+<li><a href="https://habr.com/en/companies/postgrespro/articles/504498/"><strong>Locks in PostgreSQL: 3. Other locks (2020)</strong> <code>habr.com</code></a> - <a href="https://news.ycombinator.com/item?id=46182496">6 comments 60 points</a></li>
+<li><a href="https://www.wakeuptopolitics.com/p/millions-of-americans-mess-up-their"><strong>Millions of Americans mess up their taxes, but a new law will help</strong> <code>www.wakeuptopolitics.com</code></a> - <a href="https://news.ycombinator.com/item?id=46184128">46 comments 59 points</a></li>
+<li><a href="https://caseymuratori.com/blog_0015"><strong>Semantic Compression (2014)</strong> <code>caseymuratori.com</code></a> - <a href="https://news.ycombinator.com/item?id=46183091">5 comments 55 points</a></li>
+<li><a href="https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/"><strong>How the Disappearance of Flight 19 Fueled the Legend of the Bermuda Triangle</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=46181237">20 comments 52 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2025-12-07]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1177</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.hrw.org/news/2025/11/07/china-authorities-shut-down-film-festival-in-new-york"><strong>IndieChina Film Festival shut down after harassment from Chinese authorities</strong> <code>www.hrw.org</code></a> - <a href="https://news.ycombinator.com/item?id=45857449">18 comments 81 points</a></li>
 <li><a href="https://redirect.github.com/opencloud-eu/opencloud"><strong>Opencloud – An alternative to Nextcloud written in Go</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45857988">17 comments 80 points</a></li>
 <li><a href="https://www.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl"><strong>Facebook enables gender discrimination in job ads: European human rights body</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=45859160">124 comments 74 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-11-08]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1148</link>
-            <guid>1148</guid>
-            <pubDate>Sat, 08 Nov 2025 06:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html"><strong>Leaving Meta and PyTorch</strong> <code>soumith.ch</code></a> - <a href="https://news.ycombinator.com/item?id=45843948">165 comments 682 points</a></li>
-<li><a href="https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/"><strong>Meta projected 10% of 2024 revenue came from scams</strong> <code>sherwood.news</code></a> - <a href="https://news.ycombinator.com/item?id=45845772">484 comments 658 points</a></li>
-<li><a href="https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/"><strong>YouTube Removes Windows 11 Bypass Tutorials, Claims &#39;Risk of Physical Harm&#39;</strong> <code>news.itsfoss.com</code></a> - <a href="https://news.ycombinator.com/item?id=45850963">187 comments 536 points</a></li>
-<li><a href="https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/"><strong>Rockstar employee shares account of the company&#39;s union-busting efforts</strong> <code>gtaforums.com</code></a> - <a href="https://news.ycombinator.com/item?id=45849281">314 comments 471 points</a></li>
-<li><a href="https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4"><strong>Denmark&#39;s government aims to ban access to social media for children under 15</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=45848083">321 comments 443 points</a></li>
-<li><a href="https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/"><strong>Vodafone Germany is killing the open internet – one peering connection at a time</strong> <code>coffee.link</code></a> - <a href="https://news.ycombinator.com/item?id=45848484">173 comments 440 points</a></li>
-<li><a href="https://mccd.space/posts/ocaml-the-worlds-best/"><strong>Why I love OCaml (2023)</strong> <code>mccd.space</code></a> - <a href="https://news.ycombinator.com/item?id=45846517">215 comments 314 points</a></li>
-<li><a href="https://fsfe.org/news/2025/news-20251107-01.en.html"><strong>VLC&#39;s Jean-Baptiste Kempf Receives the European SFS Award 2025</strong> <code>fsfe.org</code></a> - <a href="https://news.ycombinator.com/item?id=45850751">50 comments 291 points</a></li>
-<li><a href="https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/"><strong>Apple is crossing a Steve Jobs red line</strong> <code>kensegall.com</code></a> - <a href="https://news.ycombinator.com/item?id=45850430">254 comments 283 points</a></li>
-<li><a href="https://www.nytimes.com/2025/11/07/science/james-watson-dead.html"><strong>James Watson has died</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=45850069">156 comments 283 points</a></li>
-<li><a href="https://openmw.org/2025/openmw-0-50-0-released/"><strong>OpenMW 0.50.0 Released – open-source Morrowind reimplementation</strong> <code>openmw.org</code></a> - <a href="https://news.ycombinator.com/item?id=45846090">92 comments 275 points</a></li>
-<li><a href="https://nilostolte.github.io/tech/articles/ZigCool.html"><strong>Why is Zig so cool?</strong> <code>nilostolte.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=45852328">137 comments 259 points</a></li>
-<li><a href="https://prison.josh.mn/lessons"><strong>Lessons from Growing a Piracy Streaming Site</strong> <code>prison.josh.mn</code></a> - <a href="https://news.ycombinator.com/item?id=45844197">176 comments 258 points</a></li>
-<li><a href="https://redirect.github.com/sayyadirfanali/Myna"><strong>Myna: Monospace typeface designed for symbol-heavy programming languages</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45849342">100 comments 240 points</a></li>
-<li><a href="https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/"><strong>AI is Dunning-Kruger as a service</strong> <code>christianheilmann.com</code></a> - <a href="https://news.ycombinator.com/item?id=45851483">180 comments 230 points</a></li>
-<li><a href="https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/"><strong>Gmail AI gets more intrusive</strong> <code>daveverse.org</code></a> - <a href="https://news.ycombinator.com/item?id=45848504">140 comments 224 points</a></li>
-<li><a href="https://newsletter.masilotti.com/p/ruby-already-solved-my-problem"><strong>Ruby Solved My Problem</strong> <code>newsletter.masilotti.com</code></a> - <a href="https://news.ycombinator.com/item?id=45849528">78 comments 210 points</a></li>
-<li><a href="https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html"><strong>A.I. and Social Media Contribute to &#39;Brain Rot&#39;</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=45847465">174 comments 205 points</a></li>
-<li><a href="https://how-did-i-get-here.net/"><strong>How did I get here?</strong> <code>how-did-i-get-here.net</code></a> - <a href="https://news.ycombinator.com/item?id=45850382">34 comments 193 points</a></li>
-<li><a href="https://redirect.github.com/Snapchat/Valdi"><strong>Snapchat open-sources Valdi a cross-platform UI framework</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=45852854">43 comments 189 points</a></li>
-<li><a href="https://rona.substack.com/p/becoming-a-compiler-engineer"><strong>Becoming a Compiler Engineer</strong> <code>rona.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=45851495">78 comments 182 points</a></li>
-<li><a href="https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on"><strong>Sam Altman&#39;s pants are on fire</strong> <code>garymarcus.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=45853292">75 comments 159 points</a></li>
-<li><a href="https://stategraph.dev/blog/why-we-chose-ocaml"><strong>We chose OCaml to write Stategraph</strong> <code>stategraph.dev</code></a> - <a href="https://news.ycombinator.com/item?id=45845958">109 comments 151 points</a></li>
-<li><a href="https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown"><strong>FAA to restrict commercial rocket launches to overnight hours</strong> <code>www.space.com</code></a> - <a href="https://news.ycombinator.com/item?id=45852275">64 comments 128 points</a></li>
-<li><a href="https://www.jeanyang.com/posts/angel-investors-a-field-guide/"><strong>Angel Investors, a Field Guide</strong> <code>www.jeanyang.com</code></a> - <a href="https://news.ycombinator.com/item?id=45848468">27 comments 128 points</a></li>
-<li><a href="https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta"><strong>Mullvad: Shutting down our search proxy Leta</strong> <code>mullvad.net</code></a> - <a href="https://news.ycombinator.com/item?id=45852974">49 comments 103 points</a></li>
-<li><a href="https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html"><strong>Toxic Salton Sea dust triggers changes in lung microbiome after just one week</strong> <code>phys.org</code></a> - <a href="https://news.ycombinator.com/item?id=45848341">43 comments 101 points</a></li>
-<li><a href="https://codemanship.wordpress.com/2025/11/07/is-software-the-ufology-of-engineering-disciplines/"><strong>Is Software the UFOlogy of Engineering Disciplines?</strong> <code>codemanship.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=45845948">167 comments 95 points</a></li>
-<li><a href="https://edition.cnn.com/2025/11/06/us/openai-chatgpt-suicide-lawsuit-invs-vis"><strong>Parents say ChatGPT encouraged son to kill himself</strong> <code>edition.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=45845709">108 comments 77 points</a></li>
-<li><a href="https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need"><strong>I&#39;m making a small RPG and I need feeback regarding performance</strong> <code>jslegenddev.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=45846360">64 comments 76 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
