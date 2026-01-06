@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 05 Jan 2026 07:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 06:59:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-01-05]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1206</link>
+            <guid>1206</guid>
+            <pubDate>Mon, 05 Jan 2026 07:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://addyosmani.com/blog/21-lessons/"><strong>Lessons from 14 years at Google</strong> <code>addyosmani.com</code></a> - <a href="https://news.ycombinator.com/item?id=46488819">470 comments 1087 points</a></li>
+<li><a href="https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/"><strong>The unbearable joy of sitting alone in a café</strong> <code>candost.blog</code></a> - <a href="https://news.ycombinator.com/item?id=46488355">328 comments 547 points</a></li>
+<li><a href="https://ma.ttias.be/web-development-is-fun-again/"><strong>Web development is fun again</strong> <code>ma.ttias.be</code></a> - <a href="https://news.ycombinator.com/item?id=46488576">426 comments 358 points</a></li>
+<li><a href="https://fabiensanglard.net/sf2_warrier/"><strong>Street Fighter II, the World Warrier (2021)</strong> <code>fabiensanglard.net</code></a> - <a href="https://news.ycombinator.com/item?id=46488278">59 comments 349 points</a></li>
+<li><a href="https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/"><strong>Can I start using Wayland in 2026?</strong> <code>michael.stapelberg.ch</code></a> - <a href="https://news.ycombinator.com/item?id=46485989">248 comments 285 points</a></li>
+<li><a href="https://granda.org/en/2026/01/02/claude-code-on-the-go/"><strong>Claude Code On-the-Go</strong> <code>granda.org</code></a> - <a href="https://news.ycombinator.com/item?id=46491486">183 comments 284 points</a></li>
+<li><a href="https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/"><strong>Anti-aging injection regrows knee cartilage and prevents arthritis</strong> <code>scitechdaily.com</code></a> - <a href="https://news.ycombinator.com/item?id=46488711">102 comments 278 points</a></li>
+<li><a href="https://redirect.github.com/huseyinbabal/taws"><strong>Show HN: Terminal UI for AWS</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46491749">126 comments 265 points</a></li>
+<li><a href="https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/"><strong>Jeffgeerling.com has been migrated to Hugo</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=46487498">195 comments 221 points</a></li>
+<li><a href="https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple"><strong>Why does a least squares fit appear to have a bias when applied to simple data?</strong> <code>stats.stackexchange.com</code></a> - <a href="https://news.ycombinator.com/item?id=46491821">51 comments 215 points</a></li>
+<li><a href="https://howbrowserswork.com/"><strong>Show HN: An interactive guide to how browsers work</strong> <code>howbrowserswork.com</code></a> - <a href="https://news.ycombinator.com/item?id=46488654">31 comments 215 points</a></li>
+<li><a href="http://www.skyhunter.com/marcs/GentleSeduction.html"><strong>The Gentle Seduction (1989)</strong> <code>www.skyhunter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46486135">73 comments 201 points</a></li>
+<li><a href="https://www.hillelwayne.com/post/what-comments/"><strong>Maybe comments should explain &#39;what&#39; (2017)</strong> <code>www.hillelwayne.com</code></a> - <a href="https://news.ycombinator.com/item?id=46486780">185 comments 194 points</a></li>
+<li><a href="https://consumer.drop.privacy.ca.gov/"><strong>California residents can now request all data brokers delete personal info</strong> <code>consumer.drop.privacy.ca.gov</code></a> - <a href="https://news.ycombinator.com/item?id=46495220">45 comments 185 points</a></li>
+<li><a href="https://zoo.js.org/"><strong>JavaScript engines zoo – Compare every JavaScript engine</strong> <code>zoo.js.org</code></a> - <a href="https://news.ycombinator.com/item?id=46486978">73 comments 180 points</a></li>
+<li><a href="https://lists.busybox.net/pipermail/busybox/2010-December/074114.html"><strong>Understanding the bin, sbin, usr/bin, usr/sbin split (2010)</strong> <code>lists.busybox.net</code></a> - <a href="https://news.ycombinator.com/item?id=46487921">128 comments 175 points</a></li>
+<li><a href="https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/"><strong>FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers</strong> <code>rtfm.co.ua</code></a> - <a href="https://news.ycombinator.com/item?id=46487120">9 comments 156 points</a></li>
+<li><a href="https://www.bbc.com/future/article/20260102-how-i-changed-my-personality-in-six-weeks"><strong>I changed my personality in six weeks</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46491623">143 comments 155 points</a></li>
+<li><a href="https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer"><strong>Moiré Explorer</strong> <code>play.ertdfgcvb.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=46487472">19 comments 152 points</a></li>
+<li><a href="https://bismarcktribune.com/news/local/government-politics/article_515812a0-d29a-4161-91f1-3e53003e2911.html"><strong>North Dakota law lists fake critical minerals based on coal lawyers&#39; names</strong> <code>bismarcktribune.com</code></a> - <a href="https://news.ycombinator.com/item?id=46492161">107 comments 141 points</a></li>
+<li><a href="https://www.theguardian.com/world/2026/jan/04/greenland-denmark-us-venezuela-nicolas-maduro-donald-trump"><strong>US attack on Venezuela raises fears of future Greenland takeover</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46487444">138 comments 139 points</a></li>
+<li><a href="https://sparkbox.com/foundry/helene_and_mobile_web_performance"><strong>During Helene, I just wanted a plain text website</strong> <code>sparkbox.com</code></a> - <a href="https://news.ycombinator.com/item?id=46494734">71 comments 125 points</a></li>
+<li><a href="https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/"><strong>Eurostar AI vulnerability: When a chatbot goes off the rails</strong> <code>www.pentestpartners.com</code></a> - <a href="https://news.ycombinator.com/item?id=46492063">31 comments 117 points</a></li>
+<li><a href="https://ripplegame.app/"><strong>Ripple, a puzzle game about 2nd and 3rd order effects</strong> <code>ripplegame.app</code></a> - <a href="https://news.ycombinator.com/item?id=46490323">25 comments 108 points</a></li>
+<li><a href="https://redirect.github.com/nibzard/awesome-agentic-patterns"><strong>Agentic Patterns</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46491244">14 comments 106 points</a></li>
+<li><a href="https://mattwie.se/hinge-command-control-c2"><strong>Using Hinge as a Command and Control Server</strong> <code>mattwie.se</code></a> - <a href="https://news.ycombinator.com/item?id=46488101">46 comments 98 points</a></li>
+<li><a href="https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify"><strong>How I archived 10 years of memories using Spotify</strong> <code>notes.xdavidhu.me</code></a> - <a href="https://news.ycombinator.com/item?id=46488696">44 comments 94 points</a></li>
+<li><a href="https://twitter.com/jasonkpargin/status/2007659047663874120"><strong>OneDrive just deleted all of my files</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46493506">36 comments 88 points</a></li>
+<li><a href="https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/"><strong>Stop Forwarding Errors, Start Designing Them</strong> <code>fast.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46491051">49 comments 85 points</a></li>
+<li><a href="https://www.latacora.com/blog/2019/07/16/the-pgp-problem/"><strong>The PGP problem (2019)</strong> <code>www.latacora.com</code></a> - <a href="https://news.ycombinator.com/item?id=46486326">112 comments 83 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-01-04]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1205</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters"><strong>Saving Japan&#39;s exceptionally rare &#39;snow monsters&#39;</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46177418">3 comments 60 points</a></li>
 <li><a href="https://jonathan.protzenko.fr/2025/10/28/eurydice.html"><strong>Eurydice: a Rust to C compiler (yes)</strong> <code>jonathan.protzenko.fr</code></a> - <a href="https://news.ycombinator.com/item?id=46178442">11 comments 58 points</a></li>
 <li><a href="https://www.bbc.com/news/articles/cx2pvxdn9v4o"><strong>&#39;Life being stressful is not an illness&#39; – GPs on mental health over-diagnosis</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46172682">115 comments 57 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-12-06]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1176</link>
-            <guid>1176</guid>
-            <pubDate>Sat, 06 Dec 2025 06:51:17 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://about.netflix.com/en/news/netflix-to-acquire-warner-bros"><strong>Netflix to Acquire Warner Bros</strong> <code>about.netflix.com</code></a> - <a href="https://news.ycombinator.com/item?id=46160315">1177 comments 1546 points</a></li>
-<li><a href="https://www.cloudflare.com/"><strong>Cloudflare was down</strong> <code>www.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=46158191">518 comments 814 points</a></li>
-<li><a href="https://blog.cloudflare.com/5-december-2025-outage/"><strong>Cloudflare outage on December 5, 2025</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=46162656">456 comments 610 points</a></li>
-<li><a href="https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/"><strong>The US polluters that are rewriting the EU&#39;s human rights and climate law</strong> <code>www.somo.nl</code></a> - <a href="https://news.ycombinator.com/item?id=46159193">250 comments 423 points</a></li>
-<li><a href="https://blog.google/technology/developers/gemini-3-pro-vision/"><strong>Gemini 3 Pro: the frontier of vision AI</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=46163308">208 comments 412 points</a></li>
-<li><a href="https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html"><strong>Most technical problems are people problems</strong> <code>blog.joeschrag.com</code></a> - <a href="https://news.ycombinator.com/item?id=46160773">274 comments 370 points</a></li>
-<li><a href="https://blog.ui.com/article/introducing-unifi-5g"><strong>UniFi 5G</strong> <code>blog.ui.com</code></a> - <a href="https://news.ycombinator.com/item?id=46157594">290 comments 358 points</a></li>
-<li><a href="https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80"><strong>Kenyan court declares law banning seed sharing unconstitutional</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46158578">100 comments 311 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=46158200"><strong>Cloudflare Down Again – and DownDetector Is Also Down</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46158200">163 comments 306 points</a></li>
-<li><a href="https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html"><strong>Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit</strong> <code>www.notebookcheck.net</code></a> - <a href="https://news.ycombinator.com/item?id=46162872">138 comments 294 points</a></li>
-<li><a href="https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html"><strong>Influential study on glyphosate safety retracted 25 years after publication</strong> <code>www.lemonde.fr</code></a> - <a href="https://news.ycombinator.com/item?id=46161125">236 comments 259 points</a></li>
-<li><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842305"><strong>Covid-19 mRNA Vaccination and 4-Year All-Cause Mortality</strong> <code>jamanetwork.com</code></a> - <a href="https://news.ycombinator.com/item?id=46162262">287 comments 256 points</a></li>
-<li><a href="https://corrode.dev/blog/defensive-programming/"><strong>Patterns for Defensive Programming in Rust</strong> <code>corrode.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46163609">50 comments 241 points</a></li>
-<li><a href="https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal"><strong>Sam Altman’s DRAM Deal</strong> <code>www.mooreslawisdead.com</code></a> - <a href="https://news.ycombinator.com/item?id=46169224">186 comments 229 points</a></li>
-<li><a href="https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/"><strong>A $20 drug in Europe requires a prescription and $800 in the U.S.</strong> <code>www.statnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46167557">215 comments 226 points</a></li>
-<li><a href="https://commerce.jolla.com/products/jolla-phone-preorder"><strong>Jolla Phone Pre-Order</strong> <code>commerce.jolla.com</code></a> - <a href="https://news.ycombinator.com/item?id=46162368">218 comments 223 points</a></li>
-<li><a href="https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg"><strong>YouTube caught making AI-edits to videos and adding misleading AI summaries</strong> <code>www.ynetnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46169554">128 comments 219 points</a></li>
-<li><a href="https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5"><strong>The effect of shingles vaccination at different stages of dementia</strong> <code>www.cell.com</code></a> - <a href="https://news.ycombinator.com/item?id=46164646">164 comments 198 points</a></li>
-<li><a href="https://matduggan.com/making-rss-more-fun/"><strong>Making RSS More Fun</strong> <code>matduggan.com</code></a> - <a href="https://news.ycombinator.com/item?id=46160698">95 comments 198 points</a></li>
-<li><a href="https://www.andrewoswald.com/docs/AdvertisingMicheletal2019EasterlinVolume.pdf"><strong>Advertising as a major source of human dissatisfaction (2019) [pdf]</strong> <code>www.andrewoswald.com</code></a> - <a href="https://news.ycombinator.com/item?id=46166709">186 comments 190 points</a></li>
-<li><a href="https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html"><strong>Leaving Intel</strong> <code>www.brendangregg.com</code></a> - <a href="https://news.ycombinator.com/item?id=46167552">87 comments 184 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=46163121"><strong>I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46163121">233 comments 183 points</a></li>
-<li><a href="https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig"><strong>Why we built Lightpanda in Zig</strong> <code>lightpanda.io</code></a> - <a href="https://news.ycombinator.com/item?id=46165249">136 comments 180 points</a></li>
-<li><a href="https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/"><strong>Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case</strong> <code>fossforce.com</code></a> - <a href="https://news.ycombinator.com/item?id=46166994">19 comments 172 points</a></li>
-<li><a href="https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/"><strong>Synadia and TigerBeetle Pledge $512k to the Zig Software Foundation</strong> <code>tigerbeetle.com</code></a> - <a href="https://news.ycombinator.com/item?id=46163671">68 comments 164 points</a></li>
-<li><a href="https://www.bbc.co.uk/news/articles/c5y2p22z9gno"><strong>Frank Gehry has died</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=46167621">55 comments 159 points</a></li>
-<li><a href="https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376"><strong>Framework Sponsors CachyOS</strong> <code>discuss.cachyos.org</code></a> - <a href="https://news.ycombinator.com/item?id=46166536">133 comments 154 points</a></li>
-<li><a href="https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/"><strong>Sugars, Gum, Stardust Found in NASA&#39;s Asteroid Bennu Samples</strong> <code>www.nasa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=46160239">55 comments 130 points</a></li>
-<li><a href="https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml"><strong>Adenosine on the common path of rapid antidepressant action: The coffee paradox</strong> <code>genomicpress.kglmeridian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46168057">55 comments 114 points</a></li>
-<li><a href="https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425"><strong>The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out</strong> <code>www.newsweek.com</code></a> - <a href="https://news.ycombinator.com/item?id=46164419">168 comments 90 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
