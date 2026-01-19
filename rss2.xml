@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 18 Jan 2026 06:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 07:04:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-01-18]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1219</link>
+            <guid>1219</guid>
+            <pubDate>Sun, 18 Jan 2026 06:54:58 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://alexharri.com/blog/ascii-rendering"><strong>ASCII characters are not pixels: a deep dive into ASCII rendering</strong> <code>alexharri.com</code></a> - <a href="https://news.ycombinator.com/item?id=46657122">115 comments 947 points</a></li>
+<li><a href="https://mastodon.social/@heliographe_studio/115890819509545391"><strong>If you put Apple icons in reverse it looks like someone getting good at design</strong> <code>mastodon.social</code></a> - <a href="https://news.ycombinator.com/item?id=46663338">168 comments 391 points</a></li>
+<li><a href="https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html"><strong>The recurring dream of replacing developers</strong> <code>www.caimito.net</code></a> - <a href="https://news.ycombinator.com/item?id=46658345">310 comments 385 points</a></li>
+<li><a href="https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/"><strong>US electricity demand surged in 2025 – solar handled 61% of it</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=46656903">308 comments 340 points</a></li>
+<li><a href="https://redirect.github.com/originalankur/maptoposter"><strong>Map To Poster – Create Art of your favourite city</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46656834">59 comments 247 points</a></li>
+<li><a href="https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/"><strong>PCs refuse to shut down after Microsoft patch</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=46656998">265 comments 243 points</a></li>
+<li><a href="https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up"><strong>Raising money fucked me up</strong> <code>blog.yakkomajuri.com</code></a> - <a href="https://news.ycombinator.com/item?id=46660543">68 comments 207 points</a></li>
+<li><a href="https://langfuse.com/blog/joining-clickhouse"><strong>ClickHouse acquires Langfuse</strong> <code>langfuse.com</code></a> - <a href="https://news.ycombinator.com/item?id=46656552">92 comments 203 points</a></li>
+<li><a href="https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/"><strong>After 25 years, Wikipedia has proved that news doesn&#39;t need to look like news</strong> <code>www.niemanlab.org</code></a> - <a href="https://news.ycombinator.com/item?id=46656911">219 comments 194 points</a></li>
+<li><a href="https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record"><strong>2025 was the third hottest year on record</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=46659913">185 comments 186 points</a></li>
+<li><a href="https://willhbr.net/2025/10/20/light-mode-infffffflation/"><strong>Light Mode InFFFFFFlation</strong> <code>willhbr.net</code></a> - <a href="https://news.ycombinator.com/item?id=46662662">134 comments 183 points</a></li>
+<li><a href="https://apnews.com/article/denmark-greenland-us-trump-4ad99ea3975a8b62d37bd04961feda55"><strong>Eight European countries face 10% tariff for opposing US control of Greenland</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46659651">236 comments 176 points</a></li>
+<li><a href="https://donmoynihan.substack.com/p/dispatch-from-the-occupation"><strong>What life is like in Minneapolis now</strong> <code>donmoynihan.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=46658213">50 comments 169 points</a></li>
+<li><a href="https://redirect.github.com/kip-dili/kip"><strong>Kip: A programming language based on grammatical cases of Turkish</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46661897">50 comments 162 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/cm24k6kk1rko"><strong>Canada&#39;s deal with China signals it is serious about shift from US</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46661217">181 comments 152 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes"><strong>The &#39;untouchable hacker god&#39; behind Finland&#39;s biggest crime</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46656045">151 comments 150 points</a></li>
+<li><a href="https://redirect.github.com/PABannier/WSIStreamer"><strong>Show HN: Streaming gigabyte medical images from S3 without downloading them</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46656358">46 comments 145 points</a></li>
+<li><a href="https://geohot.github.io//blog/jekyll/update/2026/01/17/three-minutes.html"><strong>You have three minutes to escape the perpetual underclass</strong> <code>geohot.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46656256">231 comments 141 points</a></li>
+<li><a href="https://twitter.com/neelsomani/status/2012695714187325745"><strong>Erdos 281 solved with ChatGPT 5.2 Pro</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46664631">85 comments 132 points</a></li>
+<li><a href="https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm"><strong>An Elizabethan mansion&#39;s secrets for staying warm</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46659550">148 comments 130 points</a></li>
+<li><a href="https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/"><strong>Italy investigates Activision Blizzard for pushing in-game purchases</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=46658014">43 comments 110 points</a></li>
+<li><a href="https://www.economist.com/science-and-technology/2024/12/16/earth-is-warming-faster-scientists-are-closing-in-on-why"><strong>Earth is warming faster. Scientists are closing in on why (2024)</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=46660134">125 comments 109 points</a></li>
+<li><a href="https://blog.jquery.com/2026/01/17/jquery-4-0-0/"><strong>jQuery 4.0.0 Released</strong> <code>blog.jquery.com</code></a> - <a href="https://news.ycombinator.com/item?id=46664755">26 comments 102 points</a></li>
+<li><a href="https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal"><strong>The 600-year-old origins of the word &#39;hello&#39;</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46657296">66 comments 97 points</a></li>
+<li><a href="https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/"><strong>The thing that brought me joy</strong> <code>www.stephenlewis.me</code></a> - <a href="https://news.ycombinator.com/item?id=46660663">39 comments 90 points</a></li>
+<li><a href="https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education"><strong>The Risks of AI in Schools Outweigh the Benefits, Report Says</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=46657719">88 comments 86 points</a></li>
+<li><a href="https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/"><strong>There&#39;s no single best way to store information</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=46659219">44 comments 83 points</a></li>
+<li><a href="https://www.eff.org/deeplinks/2026/01/congress-wants-hand-your-parenting-big-tech"><strong>Congress wants to hand your parenting to big tech</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=46662503">55 comments 81 points</a></li>
+<li><a href="https://www.policyalternatives.ca/news-research/every-data-centre-is-a-u-s-military-base/"><strong>Every data centre is a U.S. military base</strong> <code>www.policyalternatives.ca</code></a> - <a href="https://news.ycombinator.com/item?id=46656100">51 comments 81 points</a></li>
+<li><a href="https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/"><strong>OpenAI to test ads in ChatGPT as it burns through billions</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=46661231">81 comments 77 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-01-17]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1218</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://support.google.com/googleplay/android-developer/answer/16470497?hl=en"><strong>Android introduces $2-4 install fee and 10–20% cut for US external content links</strong> <code>support.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=46333734">33 comments 76 points</a></li>
 <li><a href="https://www.playbookatlas.com/research/ai-adoption-explorer"><strong>We ran Anthropic’s interviews through structured LLM analysis</strong> <code>www.playbookatlas.com</code></a> - <a href="https://news.ycombinator.com/item?id=46331877">67 comments 74 points</a></li>
 <li><a href="https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/"><strong>Engineers who dismiss AI</strong> <code>terriblesoftware.org</code></a> - <a href="https://news.ycombinator.com/item?id=46325360">222 comments 70 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-12-19]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1189</link>
-            <guid>1189</guid>
-            <pubDate>Fri, 19 Dec 2025 06:55:47 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://dl.acm.org/openaccess"><strong>Beginning January 2026, all ACM publications will be made open access</strong> <code>dl.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=46313991">171 comments 1582 points</a></li>
-<li><a href="https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28"><strong>We pwned X, Vercel, Cursor, and Discord through a supply-chain attack</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46317098">299 comments 755 points</a></li>
-<li><a href="https://simonwillison.net/2025/Dec/18/code-proven-to-work/"><strong>Your job is to deliver code you have proven to work</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=46313297">564 comments 711 points</a></li>
-<li><a href="https://worksinprogress.co/issue/were-classical-statues-painted-horribly/"><strong>Classical statues were not painted horribly</strong> <code>worksinprogress.co</code></a> - <a href="https://news.ycombinator.com/item?id=46311856">277 comments 587 points</a></li>
-<li><a href="https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem"><strong>Are Apple gift cards safe to redeem?</strong> <code>daringfireball.net</code></a> - <a href="https://news.ycombinator.com/item?id=46313061">424 comments 512 points</a></li>
-<li><a href="http://pleasejusttryhtmx.com/"><strong>Please just try HTMX</strong> <code>pleasejusttryhtmx.com</code></a> - <a href="https://news.ycombinator.com/item?id=46312973">410 comments 503 points</a></li>
-<li><a href="https://openai.com/index/introducing-gpt-5-2-codex/"><strong>GPT-5.2-Codex</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=46316367">235 comments 446 points</a></li>
-<li><a href="https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog"><strong>Independent review of UK national security law warns of overreach</strong> <code>www.techradar.com</code></a> - <a href="https://news.ycombinator.com/item?id=46311355">258 comments 405 points</a></li>
-<li><a href="https://redirect.github.com/DGoettlich/history-llms"><strong>History LLMs: Models trained exclusively on pre-1913 texts</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46319826">140 comments 391 points</a></li>
-<li><a href="https://mastodon.social/@firefoxwebdevs/115740500373677782"><strong>Firefox will have an option to disable all AI features</strong> <code>mastodon.social</code></a> - <a href="https://news.ycombinator.com/item?id=46316409">315 comments 370 points</a></li>
-<li><a href="https://e360.yale.edu/features/iran-water-drought-dams-qanats"><strong>After ruining a treasured water resource, Iran is drying up</strong> <code>e360.yale.edu</code></a> - <a href="https://news.ycombinator.com/item?id=46310976">286 comments 334 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5"><strong>1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=46319657">107 comments 322 points</a></li>
-<li><a href="https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/"><strong>How China built its ‘Manhattan Project’ to rival the West in AI chips</strong> <code>www.japantimes.co.jp</code></a> - <a href="https://news.ycombinator.com/item?id=46316907">319 comments 303 points</a></li>
-<li><a href="https://claude.com/blog/organization-skills-and-directory"><strong>Skills for organizations, partners, the ecosystem</strong> <code>claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=46315414">143 comments 256 points</a></li>
-<li><a href="https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue"><strong>Slowness is a virtue</strong> <code>blog.jakobschwichtenberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=46311092">81 comments 239 points</a></li>
-<li><a href="https://www.theargumentmag.com/p/how-getting-richer-made-teenagers"><strong>How getting richer made teenagers less free</strong> <code>www.theargumentmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=46310823">275 comments 219 points</a></li>
-<li><a href="https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report"><strong>AI helps ship faster but it produces 1.7× more bugs</strong> <code>www.coderabbit.ai</code></a> - <a href="https://news.ycombinator.com/item?id=46312159">159 comments 199 points</a></li>
-<li><a href="https://blog.google/technology/developers/functiongemma/"><strong>FunctionGemma 270M Model</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=46316533">49 comments 192 points</a></li>
-<li><a href="https://www.jack.bio/blog/licenseplate"><strong>Using TypeScript to obtain one of the rarest license plates</strong> <code>www.jack.bio</code></a> - <a href="https://news.ycombinator.com/item?id=46313379">166 comments 160 points</a></li>
-<li><a href="https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/"><strong>Egyptian Hieroglyphs: Lesson 1</strong> <code>www.egyptianhieroglyphs.net</code></a> - <a href="https://news.ycombinator.com/item?id=46309407">64 comments 153 points</a></li>
-<li><a href="https://kibty.town/blog/mintlify/"><strong>How to hack Discord, Vercel and more with one easy trick</strong> <code>kibty.town</code></a> - <a href="https://news.ycombinator.com/item?id=46317546">32 comments 143 points</a></li>
-<li><a href="https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything"><strong>AI vending machine was tricked into giving away everything</strong> <code>kottke.org</code></a> - <a href="https://news.ycombinator.com/item?id=46319324">10 comments 141 points</a></li>
-<li><a href="https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/"><strong>Most parked domains now serving malicious content</strong> <code>krebsonsecurity.com</code></a> - <a href="https://news.ycombinator.com/item?id=46312021">51 comments 133 points</a></li>
-<li><a href="https://pricetimeline.com/news/189"><strong>GitHub Actions for self-hosted runners price increase postponed</strong> <code>pricetimeline.com</code></a> - <a href="https://news.ycombinator.com/item?id=46310146">1 comments 133 points</a></li>
-<li><a href="https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/"><strong>What is an elliptic curve? (2019)</strong> <code>www.johndcook.com</code></a> - <a href="https://news.ycombinator.com/item?id=46309571">13 comments 131 points</a></li>
-<li><a href="https://blog.google/technology/developers/t5gemma-2/"><strong>T5Gemma 2: The next generation of encoder-decoder models</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=46317657">22 comments 125 points</a></li>
-<li><a href="https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc"><strong>RCE via ND6 Router Advertisements in FreeBSD</strong> <code>www.freebsd.org</code></a> - <a href="https://news.ycombinator.com/item?id=46310104">75 comments 124 points</a></li>
-<li><a href="https://vividmaps.com/central-pangean-mountains/"><strong>The Scottish Highlands, the Appalachians, Atlas are the same mountain range</strong> <code>vividmaps.com</code></a> - <a href="https://news.ycombinator.com/item?id=46317174">29 comments 120 points</a></li>
-<li><a href="https://noclip.website/"><strong>Noclip.website – A digital museum of video game levels</strong> <code>noclip.website</code></a> - <a href="https://news.ycombinator.com/item?id=46321619">16 comments 117 points</a></li>
-<li><a href="https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals"><strong>Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals</strong> <code>www.euronews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46313266">133 comments 111 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
