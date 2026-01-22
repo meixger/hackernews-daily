@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 21 Jan 2026 07:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 07:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-01-21]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1222</link>
+            <guid>1222</guid>
+            <pubDate>Wed, 21 Jan 2026 07:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/"><strong>Danish pension fund divesting US Treasuries</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=46692594">683 comments 673 points</a></li>
+<li><a href="https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization"><strong>De-dollarization: Is the US dollar losing its dominance? (2025)</strong> <code>www.jpmorgan.com</code></a> - <a href="https://news.ycombinator.com/item?id=46693346">777 comments 589 points</a></li>
+<li><a href="https://www.seangoedecke.com/addicted-to-being-useful/"><strong>I&#39;m addicted to being useful</strong> <code>www.seangoedecke.com</code></a> - <a href="https://news.ycombinator.com/item?id=46690402">272 comments 532 points</a></li>
+<li><a href="https://paulmakeswebsites.com/writing/shadcn-radio-button/"><strong>The Overcomplexity of the Shadcn Radio Button</strong> <code>paulmakeswebsites.com</code></a> - <a href="https://news.ycombinator.com/item?id=46688971">314 comments 495 points</a></li>
+<li><a href="https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/"><strong>A 26,000-year astronomical monument hidden in plain sight (2019)</strong> <code>longnow.org</code></a> - <a href="https://news.ycombinator.com/item?id=46695628">90 comments 433 points</a></li>
+<li><a href="https://entropicthoughts.com/nvidia-stock-crash-prediction"><strong>Nvidia Stock Crash Prediction</strong> <code>entropicthoughts.com</code></a> - <a href="https://news.ycombinator.com/item?id=46693205">326 comments 392 points</a></li>
+<li><a href="https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years"><strong>California is free of drought for the first time in 25 years</strong> <code>www.latimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=46698660">172 comments 339 points</a></li>
+<li><a href="https://hakibenita.com/postgresql-unconventional-optimizations"><strong>Unconventional PostgreSQL Optimizations</strong> <code>hakibenita.com</code></a> - <a href="https://news.ycombinator.com/item?id=46692116">47 comments 317 points</a></li>
+<li><a href="https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/"><strong>Running Claude Code dangerously (safely)</strong> <code>blog.emilburzo.com</code></a> - <a href="https://news.ycombinator.com/item?id=46690907">238 comments 309 points</a></li>
+<li><a href="https://www.afterbabel.com/p/how-metas-lawyers-perfected-the-playbook"><strong>Meta&#39;s legal team abandoned its ethical duties</strong> <code>www.afterbabel.com</code></a> - <a href="https://news.ycombinator.com/item?id=46694378">195 comments 260 points</a></li>
+<li><a href="https://ploum.net/2026-01-19-exam-with-chatbots.html"><strong>Giving university exams in the age of chatbots</strong> <code>ploum.net</code></a> - <a href="https://news.ycombinator.com/item?id=46688954">203 comments 234 points</a></li>
+<li><a href="https://redirect.github.com/cakehonolulu/pciem"><strong>Linux kernel framework for PCIe device emulation, in userspace</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46689065">78 comments 225 points</a></li>
+<li><a href="https://punkx.org/unix-pipe-game/"><strong>The Unix Pipe Card Game</strong> <code>punkx.org</code></a> - <a href="https://news.ycombinator.com/item?id=46694124">65 comments 204 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=46691243"><strong>Ask HN: Do you have any evidence that agentic coding works?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46691243">167 comments 175 points</a></li>
+<li><a href="https://www.potaroo.net/ispcol/2026-01/addr2025.html"><strong>IP Addresses Through 2025</strong> <code>www.potaroo.net</code></a> - <a href="https://news.ycombinator.com/item?id=46691835">132 comments 172 points</a></li>
+<li><a href="https://novalauncher.com/nova-is-here-to-stay"><strong>Instabridge has acquired Nova Launcher</strong> <code>novalauncher.com</code></a> - <a href="https://news.ycombinator.com/item?id=46696357">116 comments 172 points</a></li>
+<li><a href="https://redirect.github.com/anthropics/original_performance_takehome"><strong>Anthropic&#39;s original take home assignment open sourced</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46700594">64 comments 169 points</a></li>
+<li><a href="https://www.cnbc.com/2026/01/20/sell-america-trade-dollar-treasury-gold-us-trump-greenland.html"><strong>&#39;This is sell America&#39; – US dollar tumbles as globe flees US assets</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46695061">64 comments 155 points</a></li>
+<li><a href="https://redirect.github.com/mastra-ai/mastra"><strong>Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46693959">47 comments 145 points</a></li>
+<li><a href="https://redirect.github.com/davidbeesley/claude-chill"><strong>Claude Chill: Fix Claude Code&#39;s flickering in terminal</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46699072">98 comments 142 points</a></li>
+<li><a href="https://www.cbc.ca/news/politics/carney-davos-speech-9.7052725"><strong>&#39;The old order is not coming back,&#39; Carney says in speech at Davos</strong> <code>www.cbc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=46694482">165 comments 141 points</a></li>
+<li><a href="https://atlas9.dev/blog/soft-delete.html"><strong>The challenges of soft delete</strong> <code>atlas9.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46698061">75 comments 126 points</a></li>
+<li><a href="https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars"><strong>The world of Japanese snack bars</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46698038">82 comments 125 points</a></li>
+<li><a href="https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/"><strong>IPv6 is not insecure because it lacks a NAT</strong> <code>www.johnmaguire.me</code></a> - <a href="https://news.ycombinator.com/item?id=46696303">166 comments 117 points</a></li>
+<li><a href="https://www.iqair.com/world-air-quality-ranking"><strong>Kraków, Poland in top 5 worst air quality worldwide</strong> <code>www.iqair.com</code></a> - <a href="https://news.ycombinator.com/item?id=46689204">150 comments 117 points</a></li>
+<li><a href="https://so-long-sucker.vercel.app/"><strong>Which AI Lies Best? A game theory classic designed by John Nash</strong> <code>so-long-sucker.vercel.app</code></a> - <a href="https://news.ycombinator.com/item?id=46698370">49 comments 98 points</a></li>
+<li><a href="https://press.stripe.com/maintenance-part-one"><strong>Maintenance: Of Everything, Part One</strong> <code>press.stripe.com</code></a> - <a href="https://news.ycombinator.com/item?id=46696276">18 comments 94 points</a></li>
+<li><a href="https://redirect.github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md"><strong>The Zen of Reticulum</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46691660">61 comments 93 points</a></li>
+<li><a href="https://lcamtuf.coredump.cx/prep/index-old.shtml"><strong>Disaster planning for regular folks (2015)</strong> <code>lcamtuf.coredump.cx</code></a> - <a href="https://news.ycombinator.com/item?id=46700809">55 comments 91 points</a></li>
+<li><a href="https://openai.com/index/our-approach-to-age-prediction/"><strong>Our approach to age prediction</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=46696699">156 comments 87 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-01-20]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1221</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://redirect.github.com/karol-broda/snitch"><strong>Snitch – A friendlier ss/netstat</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46361229">18 comments 118 points</a></li>
 <li><a href="https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center"><strong>Satellites reveal heat leaking from largest US cryptocurrency mining center</strong> <code>www.space.com</code></a> - <a href="https://news.ycombinator.com/item?id=46360465">95 comments 113 points</a></li>
 <li><a href="https://www.latimes.com/environment/story/2025-12-18/state-regulators-vote-to-keep-utility-profits-high-angering-customers"><strong>State regulators vote to keep utility profits high angering customers across CA</strong> <code>www.latimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=46357535">64 comments 113 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-12-22]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1192</link>
-            <guid>1192</guid>
-            <pubDate>Mon, 22 Dec 2025 06:58:48 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://loggingsucks.com/"><strong>Logging sucks</strong> <code>loggingsucks.com</code></a> - <a href="https://news.ycombinator.com/item?id=46346796">197 comments 524 points</a></li>
-<li><a href="https://mastodon.online/@mullvadnet/115742530333573065"><strong>The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt</strong> <code>mastodon.online</code></a> - <a href="https://news.ycombinator.com/item?id=46347080">170 comments 519 points</a></li>
-<li><a href="https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone"><strong>I can&#39;t upgrade to Windows 11, now leave me alone</strong> <code>idiallo.com</code></a> - <a href="https://news.ycombinator.com/item?id=46347108">414 comments 441 points</a></li>
-<li><a href="https://hackernews-readings-613604506318.us-west1.run.app"><strong>Show HN: Books mentioned on Hacker News in 2025</strong> <code>hackernews-readings-613604506318.us-west1.run.app</code></a> - <a href="https://news.ycombinator.com/item?id=46345897">148 comments 406 points</a></li>
-<li><a href="https://www.ruby-lang.org/en/"><strong>Ruby website redesigned</strong> <code>www.ruby-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=46342859">158 comments 390 points</a></li>
-<li><a href="https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude"><strong>A guide to local coding models</strong> <code>www.aiforswes.com</code></a> - <a href="https://news.ycombinator.com/item?id=46348329">178 comments 348 points</a></li>
-<li><a href="https://walletwallet.alen.ro/"><strong>Show HN: WalletWallet – create Apple passes from anything</strong> <code>walletwallet.alen.ro</code></a> - <a href="https://news.ycombinator.com/item?id=46345745">99 comments 346 points</a></li>
-<li><a href="https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/"><strong>You’re not burnt out, you’re existentially starving</strong> <code>neilthanedar.com</code></a> - <a href="https://news.ycombinator.com/item?id=46346958">322 comments 272 points</a></li>
-<li><a href="https://spectrum.ieee.org/co2-battery-energy-storage"><strong>CO2 batteries that store grid energy take off globally</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=46345506">171 comments 206 points</a></li>
-<li><a href="https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/"><strong>Autoland saves King Air, everyone reported safe</strong> <code>avbrief.com</code></a> - <a href="https://news.ycombinator.com/item?id=46346214">115 comments 205 points</a></li>
-<li><a href="https://borretti.me/article/coarse-is-better"><strong>Coarse is better</strong> <code>borretti.me</code></a> - <a href="https://news.ycombinator.com/item?id=46344514">105 comments 201 points</a></li>
-<li><a href="https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/"><strong>Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use</strong> <code>www.thegamer.com</code></a> - <a href="https://news.ycombinator.com/item?id=46342902">385 comments 169 points</a></li>
-<li><a href="https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/"><strong>Disney Imagineering Debuts Next-Generation Robotic Character, Olaf</strong> <code>disneyparksblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=46348847">65 comments 161 points</a></li>
-<li><a href="https://tim.blog/2020/02/02/reasons-to-not-become-famous/"><strong>Reasons not to become famous (2020)</strong> <code>tim.blog</code></a> - <a href="https://news.ycombinator.com/item?id=46345341">118 comments 153 points</a></li>
-<li><a href="https://www.earthasweknowit.com/pages/inca_construction"><strong>Inca Stone Masonry</strong> <code>www.earthasweknowit.com</code></a> - <a href="https://news.ycombinator.com/item?id=46342950">40 comments 150 points</a></li>
-<li><a href="https://www.arin.net/announcements/20251212/"><strong>ARIN Public Incident Report – 4.10 Misissuance Error</strong> <code>www.arin.net</code></a> - <a href="https://news.ycombinator.com/item?id=46345444">35 comments 135 points</a></li>
-<li><a href="https://boundaryml.com/blog/structured-outputs-create-false-confidence"><strong>Structured outputs create false confidence</strong> <code>boundaryml.com</code></a> - <a href="https://news.ycombinator.com/item?id=46345333">60 comments 132 points</a></li>
-<li><a href="https://www.cs.utexas.edu/~EWD/welcome.html"><strong>E.W.Dijkstra Archive</strong> <code>www.cs.utexas.edu</code></a> - <a href="https://news.ycombinator.com/item?id=46345523">12 comments 132 points</a></li>
-<li><a href="https://andreasfragner.com/writing/three-ways-to-solve-problems"><strong>Three ways to solve problems</strong> <code>andreasfragner.com</code></a> - <a href="https://news.ycombinator.com/item?id=46345125">20 comments 127 points</a></li>
-<li><a href="https://redirect.github.com/FOBshippingpoint/shittp"><strong>Show HN: Shittp – Volatile Dotfiles over SSH</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46344381">70 comments 124 points</a></li>
-<li><a href="https://oldmanrahul.com/2025/12/19/ai-code-review-trick/"><strong>Get an AI code review in 10 seconds</strong> <code>oldmanrahul.com</code></a> - <a href="https://news.ycombinator.com/item?id=46346391">59 comments 120 points</a></li>
-<li><a href="https://rue-lang.dev/"><strong>Rue: Higher level than Rust, lower level than Go</strong> <code>rue-lang.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46348262">91 comments 119 points</a></li>
-<li><a href="https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/"><strong>The gift card accountability sink</strong> <code>www.bitsaboutmoney.com</code></a> - <a href="https://news.ycombinator.com/item?id=46348455">71 comments 86 points</a></li>
-<li><a href="https://scottaaronson.blog/?p=9425"><strong>More on whether useful quantum computing is “imminent”</strong> <code>scottaaronson.blog</code></a> - <a href="https://news.ycombinator.com/item?id=46348318">54 comments 77 points</a></li>
-<li><a href="https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis"><strong>New mathematical framework reshapes debate over simulation hypothesis</strong> <code>www.santafe.edu</code></a> - <a href="https://news.ycombinator.com/item?id=46344022">97 comments 76 points</a></li>
-<li><a href="https://redirect.github.com/rendercv/rendercv"><strong>Show HN: RenderCV – Open-source CV/resume generator, YAML to PDF</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46344616">39 comments 76 points</a></li>
-<li><a href="https://www.whatsprivcy.com/"><strong>The WhatsApp Whisperer</strong> <code>www.whatsprivcy.com</code></a> - <a href="https://news.ycombinator.com/item?id=46346072">12 comments 72 points</a></li>
-<li><a href="https://www.bdzmap.com/"><strong>Show HN: The Official National Train Map Sucked, So I Made My Own</strong> <code>www.bdzmap.com</code></a> - <a href="https://news.ycombinator.com/item?id=46344270">22 comments 71 points</a></li>
-<li><a href="https://old.reddit.com/r/gatech/comments/1prm6if/free_event_meet_dr_richard_stallman_creator_of/"><strong>Dr. Richard Stallman to give free talk and QA at Georgia Tech Jan. 23rd 2-5pm</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=46346716">9 comments 71 points</a></li>
-<li><a href="https://coloradosun.com/2025/12/19/monastery-sells-palantir-ceo/"><strong>Mountain home near Aspen, built for monks, sold to Palantir CEO for $120M</strong> <code>coloradosun.com</code></a> - <a href="https://news.ycombinator.com/item?id=46346536">54 comments 67 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
