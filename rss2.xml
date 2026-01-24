@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 23 Jan 2026 07:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 06:55:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-01-23]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1224</link>
+            <guid>1224</guid>
+            <pubDate>Fri, 23 Jan 2026 07:00:36 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://curl.se/.well-known/security.txt"><strong>We will ban you and ridicule you in public if you waste our time on crap reports</strong> <code>curl.se</code></a> - <a href="https://news.ycombinator.com/item?id=46717556">583 comments 895 points</a></li>
+<li><a href="https://cannoneyed.com/isometric-nyc/"><strong>Show HN: isometric.nyc – giant isometric pixel art map of NYC</strong> <code>cannoneyed.com</code></a> - <a href="https://news.ycombinator.com/item?id=46721802">170 comments 819 points</a></li>
+<li><a href="https://gptzero.me/news/neurips/"><strong>GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</strong> <code>gptzero.me</code></a> - <a href="https://news.ycombinator.com/item?id=46720395">428 comments 798 points</a></li>
+<li><a href="https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels"><strong>In Europe, wind and solar overtake fossil fuels</strong> <code>e360.yale.edu</code></a> - <a href="https://news.ycombinator.com/item?id=46719491">554 comments 554 points</a></li>
+<li><a href="https://qwen.ai/blog?id=qwen3tts-0115"><strong>Qwen3-TTS family is now open sourced: Voice design, clone, and generation</strong> <code>qwen.ai</code></a> - <a href="https://news.ycombinator.com/item?id=46719229">174 comments 546 points</a></li>
+<li><a href="https://hugodaniel.com/posts/claude-code-banned-me/"><strong>I was banned from Claude for scaffolding a Claude.md file?</strong> <code>hugodaniel.com</code></a> - <a href="https://news.ycombinator.com/item?id=46723384">364 comments 467 points</a></li>
+<li><a href="https://www.bugsappleloves.com"><strong>Bugs Apple Loves</strong> <code>www.bugsappleloves.com</code></a> - <a href="https://news.ycombinator.com/item?id=46727587">160 comments 422 points</a></li>
+<li><a href="https://shreevatsa.net/post/douglas-adams-cultural-divide/"><strong>Douglas Adams on the English–American cultural divide over &quot;heroes&quot;</strong> <code>shreevatsa.net</code></a> - <a href="https://news.ycombinator.com/item?id=46719222">394 comments 401 points</a></li>
+<li><a href="https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/"><strong>Why does SSH send 100 packets per keystroke?</strong> <code>eieio.games</code></a> - <a href="https://news.ycombinator.com/item?id=46723990">238 comments 401 points</a></li>
+<li><a href="https://redirect.github.com/google-gemini/gemini-cli/issues/16728"><strong>It looks like the status/need-triage label was removed</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46721179">72 comments 284 points</a></li>
+<li><a href="https://www.designorate.com/design-thinking-books/"><strong>Design Thinking Books (2024)</strong> <code>www.designorate.com</code></a> - <a href="https://news.ycombinator.com/item?id=46718061">126 comments 277 points</a></li>
+<li><a href="https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/"><strong>Capital One to acquire Brex for $5.15B</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=46725288">199 comments 271 points</a></li>
+<li><a href="https://reactos.org/blogs/30yrs-of-ros/"><strong>30 Years of ReactOS</strong> <code>reactos.org</code></a> - <a href="https://news.ycombinator.com/item?id=46716469">148 comments 247 points</a></li>
+<li><a href="https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/"><strong>Tree-sitter vs. Language Servers</strong> <code>lambdaland.org</code></a> - <a href="https://news.ycombinator.com/item?id=46719899">60 comments 234 points</a></li>
+<li><a href="https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/"><strong>Macron says €300B in EU savings sent to the US every year will be invested in EU</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=46722594">192 comments 172 points</a></li>
+<li><a href="https://alvaromontoro.com/blog/68091/css-optical-illusions"><strong>CSS Optical Illusions</strong> <code>alvaromontoro.com</code></a> - <a href="https://news.ycombinator.com/item?id=46722570">14 comments 164 points</a></li>
+<li><a href="https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/"><strong>ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss</strong> <code>pdfa.org</code></a> - <a href="https://news.ycombinator.com/item?id=46717507">100 comments 151 points</a></li>
+<li><a href="https://openai.com/index/scaling-postgresql/"><strong>Scaling PostgreSQL to power 800M ChatGPT users</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=46725300">46 comments 132 points</a></li>
+<li><a href="https://www.science.org/doi/abs/10.1126/science.adt7790"><strong>Recent discoveries on the acquisition of the highest levels of human performance</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=46722853">57 comments 122 points</a></li>
+<li><a href="https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image"><strong>White House Posts Digitally Altered Image of Woman Arrested After ICE Protest</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46725268">16 comments 119 points</a></li>
+<li><a href="https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/"><strong>Satya Nadella: &quot;We need to find something useful for AI&quot;</strong> <code>www.pcgamer.com</code></a> - <a href="https://news.ycombinator.com/item?id=46718485">150 comments 116 points</a></li>
+<li><a href="https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/"><strong>&#39;Askers&#39; vs. &#39;Guessers&#39; (2010)</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=46717960">75 comments 115 points</a></li>
+<li><a href="https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate"><strong>Why medieval city-builder video games are historically inaccurate (2020)</strong> <code>www.leidenmedievalistsblog.nl</code></a> - <a href="https://news.ycombinator.com/item?id=46726857">57 comments 102 points</a></li>
+<li><a href="https://www.bbc.com/future/article/20260121-the-mysterious-mushroom-that-makes-you-see-tiny-people"><strong>The mushroom making people hallucinate tiny humans</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46717442">49 comments 99 points</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/c6200g826d2o"><strong>Ubisoft cancels six games including Prince of Persia and closes studios</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=46721452">98 comments 97 points</a></li>
+<li><a href="https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/"><strong>Meet the Alaska Student Arrested for Eating an AI Art Exhibit</strong> <code>www.thenation.com</code></a> - <a href="https://news.ycombinator.com/item?id=46719465">64 comments 94 points</a></li>
+<li><a href="https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health"><strong>&#39;Active&#39; sitting is better for brain health: review of studies</strong> <code>www.sciencealert.com</code></a> - <a href="https://news.ycombinator.com/item?id=46723694">34 comments 94 points</a></li>
+<li><a href="https://www.jsoftware.com/papers/perlis77.htm"><strong>In Praise of APL (1977)</strong> <code>www.jsoftware.com</code></a> - <a href="https://news.ycombinator.com/item?id=46716696">53 comments 93 points</a></li>
+<li><a href="https://twitter.com/SecArmy/status/1933693585183965372"><strong>Palantir, Meta, OpenAI Execs Appointed Lieutenant Colonels in US Army (2025)</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46719704">51 comments 90 points</a></li>
+<li><a href="https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/"><strong>Improving the usability of C libraries in Swift</strong> <code>www.swift.org</code></a> - <a href="https://news.ycombinator.com/item?id=46726526">5 comments 88 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-01-22]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1223</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://yougov.co.uk/technology/articles/53241-european-political-monthly-where-do-europeans-stand-on-social-media-regulation"><strong>European Majority favours more social media regulation</strong> <code>yougov.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=46378469">130 comments 81 points</a></li>
 <li><a href="https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d"><strong>Beijing is enforcing tough rules to ensure chatbots don’t misbehave</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=46378747">41 comments 80 points</a></li>
 <li><a href="https://redirect.github.com/hkjarral/Asterisk-AI-Voice-Agent"><strong>Asterisk AI Voice Agent</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46380399">39 comments 80 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-12-24]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1194</link>
-            <guid>1194</guid>
-            <pubDate>Wed, 24 Dec 2025 06:58:22 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://redirect.github.com/bellard/mquickjs/blob/main/README.md"><strong>Fabrice Bellard Releases MicroQuickJS</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46367224">369 comments 947 points</a></li>
-<li><a href="https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server"><strong>Meta is using the Linux scheduler designed for Valve&#39;s Steam Deck on its servers</strong> <code>www.phoronix.com</code></a> - <a href="https://news.ycombinator.com/item?id=46366998">324 comments 610 points</a></li>
-<li><a href="https://boringsql.com/posts/instant-database-clones/"><strong>Instant database clones with PostgreSQL 18</strong> <code>boringsql.com</code></a> - <a href="https://news.ycombinator.com/item?id=46363360">153 comments 392 points</a></li>
-<li><a href="https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen"><strong>We replaced H.264 streaming with JPEG screenshots (and it worked better)</strong> <code>blog.helix.ml</code></a> - <a href="https://news.ycombinator.com/item?id=46367475">232 comments 389 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=46363921"><strong>Ask HN: What are the best engineering blogs with real-world depth?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46363921">121 comments 380 points</a></li>
-<li><a href="https://redirect.github.com/freelawproject/x-ray"><strong>X-ray: a Python library for finding bad redactions in PDF documents</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46369923">76 comments 340 points</a></li>
-<li><a href="https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media"><strong>Some Epstein file redactions are being undone with hacks</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46368946">234 comments 327 points</a></li>
-<li><a href="https://www.datocms.com/blog/a-look-back-at-2025"><strong>10 years bootstrapped: €6.5M revenue with a team of 13</strong> <code>www.datocms.com</code></a> - <a href="https://news.ycombinator.com/item?id=46363319">115 comments 303 points</a></li>
-<li><a href="https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/"><strong>iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA</strong> <code>www.macrumors.com</code></a> - <a href="https://news.ycombinator.com/item?id=46362927">226 comments 272 points</a></li>
-<li><a href="https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota"><strong>Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46364272">255 comments 239 points</a></li>
-<li><a href="https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/"><strong>Texas app store age verification law blocked by federal judge</strong> <code>www.macrumors.com</code></a> - <a href="https://news.ycombinator.com/item?id=46370012">111 comments 201 points</a></li>
-<li><a href="https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router"><strong>Unifi Travel Router</strong> <code>blog.ui.com</code></a> - <a href="https://news.ycombinator.com/item?id=46371135">138 comments 195 points</a></li>
-<li><a href="https://alperenkeles.com/posts/test-dont-verify/"><strong>Test, don&#39;t just verify</strong> <code>alperenkeles.com</code></a> - <a href="https://news.ycombinator.com/item?id=46364973">128 comments 182 points</a></li>
-<li><a href="https://www.pocket-lint.com/lg-tv-turn-off-live-plus/"><strong>I didn&#39;t realize my LG TV was spying on me until I turned off Live Plus</strong> <code>www.pocket-lint.com</code></a> - <a href="https://news.ycombinator.com/item?id=46369860">167 comments 181 points</a></li>
-<li><a href="https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html"><strong>How did DOGE disrupt so much while saving so little?</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=46367223">105 comments 167 points</a></li>
-<li><a href="https://www.nbcnews.com/news/us-news/cbs-news-el-salvador-cecot-prison-sharyn-alfonsi-bari-weiss-rcna250618"><strong>Postponed &#39;60 Minutes&#39; segment on Salvadoran prison is streamed by Canadian news</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46364783">51 comments 155 points</a></li>
-<li><a href="https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"><strong>Font with Built-In Syntax Highlighting (2024)</strong> <code>blog.glyphdrawing.club</code></a> - <a href="https://news.ycombinator.com/item?id=46364131">35 comments 145 points</a></li>
-<li><a href="https://stopslopware.net/"><strong>Stop Slopware</strong> <code>stopslopware.net</code></a> - <a href="https://news.ycombinator.com/item?id=46366285">143 comments 131 points</a></li>
-<li><a href="https://krassencast.com/p/breaking-we-just-unredacted-the-epstein"><strong>We just unredacted some of the Epstein files</strong> <code>krassencast.com</code></a> - <a href="https://news.ycombinator.com/item?id=46364121">1 comments 106 points</a></li>
-<li><a href="https://carnap.io/"><strong>Carnap – A formal logic framework for Haskell</strong> <code>carnap.io</code></a> - <a href="https://news.ycombinator.com/item?id=46363751">20 comments 102 points</a></li>
-<li><a href="https://danburzo.ro/http-caching-refresher/"><strong>HTTP Caching, a Refresher</strong> <code>danburzo.ro</code></a> - <a href="https://news.ycombinator.com/item?id=46368616">10 comments 95 points</a></li>
-<li><a href="https://c0de517e.com/026_c64fire.htm"><strong>Help My c64 caught on fire</strong> <code>c0de517e.com</code></a> - <a href="https://news.ycombinator.com/item?id=46368300">28 comments 90 points</a></li>
-<li><a href="https://statusgator.com/blog/aws-least-reliable-region-in-2025/"><strong>Is Northern Virginia still the least reliable AWS region?</strong> <code>statusgator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46370592">55 comments 86 points</a></li>
-<li><a href="https://yalereview.org/article/bilge-ebiri-terrence-malick"><strong>Terrence Malick&#39;s Disciples</strong> <code>yalereview.org</code></a> - <a href="https://news.ycombinator.com/item?id=46368557">21 comments 85 points</a></li>
-<li><a href="https://clan.lol/blog/towards-app-platform-vmtech/"><strong>Towards a secure peer-to-peer app platform for Clan</strong> <code>clan.lol</code></a> - <a href="https://news.ycombinator.com/item?id=46367232">21 comments 84 points</a></li>
-<li><a href="https://www.spinellis.gr/blog/20251223/?yc261223"><strong>An initial analysis of the discovered Unix V4 tape</strong> <code>www.spinellis.gr</code></a> - <a href="https://news.ycombinator.com/item?id=46367744">4 comments 84 points</a></li>
-<li><a href="https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum"><strong>Volvo Centum is Dalton Maag&#39;s new typeface for Volvo</strong> <code>www.wallpaper.com</code></a> - <a href="https://news.ycombinator.com/item?id=46367864">67 comments 78 points</a></li>
-<li><a href="https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896"><strong>When irate product support customers demand to speak to Bill Gates</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=46366761">31 comments 74 points</a></li>
-<li><a href="https://apnews.com/article/state-department-trump-immigration-rubio-visas-87c8a4692f3184e4f83fdd8ed5093886"><strong>US bars 5 Europeans it says pressured tech firms to censor American viewpoints</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46370787">14 comments 56 points</a></li>
-<li><a href="https://twitter.com/haravayin_hogh/status/2003299405907247502"><strong>Nabokov&#39;s guide to foreigners learning Russian</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46371423">75 comments 55 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
