@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 30 Jan 2026 07:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 07:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-01-30]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1231</link>
+            <guid>1231</guid>
+            <pubDate>Fri, 30 Jan 2026 07:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://blog.ncase.me/on-depression/"><strong>Vitamin D and Omega-3 have a larger effect on depression than antidepressants</strong> <code>blog.ncase.me</code></a> - <a href="https://news.ycombinator.com/item?id=46808251">608 comments 867 points</a></li>
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images"><strong>Europe’s next-generation weather satellite sends back first images</strong> <code>www.esa.int</code></a> - <a href="https://news.ycombinator.com/item?id=46806773">91 comments 668 points</a></li>
+<li><a href="https://marginlab.ai/trackers/claude-code/"><strong>Claude Code daily benchmarks for degradation tracking</strong> <code>marginlab.ai</code></a> - <a href="https://news.ycombinator.com/item?id=46810282">303 comments 639 points</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/"><strong>Project Genie: Experimenting with infinite, interactive worlds</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=46812933">258 comments 546 points</a></li>
+<li><a href="https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/"><strong>US cybersecurity chief leaked sensitive government files to ChatGPT: Report</strong> <code>www.dexerto.com</code></a> - <a href="https://news.ycombinator.com/item?id=46812173">33 comments 426 points</a></li>
+<li><a href="https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/"><strong>Waymo robotaxi hits a child near an elementary school in Santa Monica</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=46810401">662 comments 417 points</a></li>
+<li><a href="https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/"><strong>County pays $600k to pentesters it arrested for assessing courthouse security</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=46814614">177 comments 383 points</a></li>
+<li><a href="https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/"><strong>PlayStation 2 Recompilation Project Is Absolutely Incredible</strong> <code>redgamingtech.com</code></a> - <a href="https://news.ycombinator.com/item?id=46814743">171 comments 381 points</a></li>
+<li><a href="https://davidoks.blog/p/a-lot-of-population-numbers-are-fake"><strong>A lot of population numbers are fake</strong> <code>davidoks.blog</code></a> - <a href="https://news.ycombinator.com/item?id=46810027">266 comments 321 points</a></li>
+<li><a href="https://bayramovanar.substack.com/p/tech-market-is-fucked-up"><strong>The tech market is fundamentally fucked up and AI is just a scapegoat</strong> <code>bayramovanar.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=46809069">207 comments 298 points</a></li>
+<li><a href="https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals"><strong>AGENTS.md outperforms skills in our agent evals</strong> <code>vercel.com</code></a> - <a href="https://news.ycombinator.com/item?id=46809708">122 comments 290 points</a></li>
+<li><a href="https://grid.space/stem/"><strong>Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer</strong> <code>grid.space</code></a> - <a href="https://news.ycombinator.com/item?id=46817813">83 comments 257 points</a></li>
+<li><a href="https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/"><strong>Tesla is committing automotive suicide</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=46814089">306 comments 256 points</a></li>
+<li><a href="https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/"><strong>Drug trio found to block tumour resistance in pancreatic cancer in mouse models</strong> <code>www.drugtargetreview.com</code></a> - <a href="https://news.ycombinator.com/item?id=46812159">135 comments 252 points</a></li>
+<li><a href="https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/"><strong>Moltworker: a self-hosted personal AI agent, minus the minis</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=46810828">61 comments 198 points</a></li>
+<li><a href="https://www.moltbook.com/"><strong>Moltbook</strong> <code>www.moltbook.com</code></a> - <a href="https://news.ycombinator.com/item?id=46820360">82 comments 175 points</a></li>
+<li><a href="https://www.autoevolution.com/news/tuev-report-2026-tesla-model-y-has-the-worst-reliability-among-all-20222023-cars-261596.html"><strong>TÜV Report 2026: Tesla Model Y has the worst reliability of all 2022–2023 cars (2025)</strong> <code>www.autoevolution.com</code></a> - <a href="https://news.ycombinator.com/item?id=46809105">118 comments 174 points</a></li>
+<li><a href="https://restofworld.org/2025/ai-chatbot-china-sick/"><strong>My Mom and Dr. DeepSeek (2025)</strong> <code>restofworld.org</code></a> - <a href="https://news.ycombinator.com/item?id=46814569">91 comments 167 points</a></li>
+<li><a href="https://redirect.github.com/flameshot-org/flameshot"><strong>Flameshot</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46815297">58 comments 167 points</a></li>
+<li><a href="https://blog.xoria.org/terminal-colors/"><strong>How to choose colors for your CLI applications (2023)</strong> <code>blog.xoria.org</code></a> - <a href="https://news.ycombinator.com/item?id=46810904">83 comments 165 points</a></li>
+<li><a href="https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/"><strong>Is the RAM shortage killing small VPS hosts?</strong> <code>www.fourplex.net</code></a> - <a href="https://news.ycombinator.com/item?id=46811664">191 comments 156 points</a></li>
+<li><a href="https://predr.ag/blog/wifi-only-works-when-its-raining/"><strong>The WiFi only works when it&#39;s raining (2024)</strong> <code>predr.ag</code></a> - <a href="https://news.ycombinator.com/item?id=46816357">53 comments 154 points</a></li>
+<li><a href="https://openai.com/index/retiring-gpt-4o-and-older-models/"><strong>Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=46816539">225 comments 153 points</a></li>
+<li><a href="https://kerkour.com/turso-sqlite"><strong>Deep dive into Turso, the “SQLite rewrite in Rust”</strong> <code>kerkour.com</code></a> - <a href="https://news.ycombinator.com/item?id=46810950">119 comments 150 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=46812608"><strong>Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46812608">145 comments 141 points</a></li>
+<li><a href="https://quesma.com/blog/introducing-otel-bench/"><strong>Benchmarking OpenTelemetry: Can AI trace your failed login?</strong> <code>quesma.com</code></a> - <a href="https://news.ycombinator.com/item?id=46811588">81 comments 140 points</a></li>
+<li><a href="https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html"><strong>Mozilla is building an AI &#39;rebel alliance&#39; to take on OpenAI, Anthropic</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46812653">133 comments 126 points</a></li>
+<li><a href="https://www.cnn.com/2026/01/28/travel/ai-tourism-nonexistent-hotsprings-intl-scli"><strong>AI on Australian travel company website sent tourists to nonexistent hot springs</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=46808103">54 comments 108 points</a></li>
+<li><a href="https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/"><strong>Apple buys Israeli startup Q.ai</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=46816228">40 comments 107 points</a></li>
+<li><a href="https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/"><strong>AI’s impact on engineering jobs may be different than expected</strong> <code>semiengineering.com</code></a> - <a href="https://news.ycombinator.com/item?id=46813834">185 comments 103 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-01-29]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1230</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527"><strong>OpenAI is paying employees more than any major tech startup in history</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=46444367">63 comments 82 points</a></li>
 <li><a href="https://chipsandcheese.com/p/inside-nvidia-gb10s-memory-subsystem"><strong>Nvidia GB10&#39;s Memory Subsystem, from the CPU Side</strong> <code>chipsandcheese.com</code></a> - <a href="https://news.ycombinator.com/item?id=46443626">10 comments 77 points</a></li>
 <li><a href="https://carimbo.games/games/nintendo/"><strong>Claude wrote a functional NES emulator using my engine&#39;s API</strong> <code>carimbo.games</code></a> - <a href="https://news.ycombinator.com/item?id=46443767">87 comments 75 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2025-12-31]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1201</link>
-            <guid>1201</guid>
-            <pubDate>Wed, 31 Dec 2025 06:57:36 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://opencontent.netflix.com/"><strong>Netflix Open Content</strong> <code>opencontent.netflix.com</code></a> - <a href="https://news.ycombinator.com/item?id=46431560">123 comments 625 points</a></li>
-<li><a href="https://hackerbook.dosaygo.com"><strong>Show HN: 22 GB of Hacker News in SQLite</strong> <code>hackerbook.dosaygo.com</code></a> - <a href="https://news.ycombinator.com/item?id=46435308">156 comments 444 points</a></li>
-<li><a href="https://lorentz.app/blog-item.html?id=go-shebang"><strong>Go away Python</strong> <code>lorentz.app</code></a> - <a href="https://news.ycombinator.com/item?id=46431028">345 comments 379 points</a></li>
-<li><a href="https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html"><strong>Nicolas Guillou, French ICC judge sanctioned by the US and “debanked”</strong> <code>www.lemonde.fr</code></a> - <a href="https://news.ycombinator.com/item?id=46432057">392 comments 374 points</a></li>
-<li><a href="https://nonzerosum.games/"><strong>Non-Zero-Sum Games</strong> <code>nonzerosum.games</code></a> - <a href="https://news.ycombinator.com/item?id=46432311">178 comments 362 points</a></li>
-<li><a href="https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html"><strong>A faster heart for F-Droid</strong> <code>f-droid.org</code></a> - <a href="https://news.ycombinator.com/item?id=46436409">149 comments 349 points</a></li>
-<li><a href="https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026"><strong>OpenAI&#39;s cash burn will be one of the big bubble questions of 2026</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=46438390">400 comments 297 points</a></li>
-<li><a href="https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/"><strong>FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service</strong> <code>it-notes.dragas.net</code></a> - <a href="https://news.ycombinator.com/item?id=46436889">65 comments 264 points</a></li>
-<li><a href="https://00f.net/2025/12/30/libsodium-vulnerability/"><strong>A Vulnerability in Libsodium</strong> <code>00f.net</code></a> - <a href="https://news.ycombinator.com/item?id=46435614">34 comments 253 points</a></li>
-<li><a href="https://hsu.cy/2025/12/times-new-american/"><strong>Times New American: A Tale of Two Fonts</strong> <code>hsu.cy</code></a> - <a href="https://news.ycombinator.com/item?id=46432862">141 comments 241 points</a></li>
-<li><a href="https://mastodon.neilzone.co.uk/@neil/115807834298031971"><strong>HSBC blocks its app due to F-Droid-installed Bitwarden</strong> <code>mastodon.neilzone.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=46431453">219 comments 236 points</a></li>
-<li><a href="https://public-sans.digital.gov/"><strong>Public Sans – A strong, neutral typeface</strong> <code>public-sans.digital.gov</code></a> - <a href="https://news.ycombinator.com/item?id=46433579">98 comments 224 points</a></li>
-<li><a href="https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/"><strong>NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives</strong> <code>blog.adafruit.com</code></a> - <a href="https://news.ycombinator.com/item?id=46438828">175 comments 212 points</a></li>
-<li><a href="https://www.kasava.dev/blog/everything-as-code-monorepo"><strong>Everything as code: How we manage our company in one monorepo</strong> <code>www.kasava.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46437381">178 comments 197 points</a></li>
-<li><a href="https://codecrafters.io/blog/programming-project-ideas"><strong>Project ideas to appreciate the art of programming</strong> <code>codecrafters.io</code></a> - <a href="https://news.ycombinator.com/item?id=46439027">60 comments 193 points</a></li>
-<li><a href="https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html"><strong>The British empire&#39;s resilient subsea telegraph network</strong> <code>subseacables.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=46432999">45 comments 186 points</a></li>
-<li><a href="https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/"><strong>No strcpy either</strong> <code>daniel.haxx.se</code></a> - <a href="https://news.ycombinator.com/item?id=46433029">103 comments 184 points</a></li>
-<li><a href="https://vptdigital.com/blog/honey-detecting-testers/"><strong>Honey&#39;s Dieselgate: Detecting and tricking testers</strong> <code>vptdigital.com</code></a> - <a href="https://news.ycombinator.com/item?id=46438522">54 comments 184 points</a></li>
-<li><a href="https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159"><strong>LLVM AI tool policy: human in the loop</strong> <code>discourse.llvm.org</code></a> - <a href="https://news.ycombinator.com/item?id=46440833">79 comments 171 points</a></li>
-<li><a href="https://redirect.github.com/Lulzx/zpdf"><strong>Zpdf: PDF text extraction in Zig</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46437288">57 comments 165 points</a></li>
-<li><a href="https://loss32.org/"><strong>Win32 is the stable Linux ABI</strong> <code>loss32.org</code></a> - <a href="https://news.ycombinator.com/item?id=46433035">1 comments 165 points</a></li>
-<li><a href="https://fuckingapproachableswiftconcurrency.com/en/"><strong>Approachable Swift Concurrency</strong> <code>fuckingapproachableswiftconcurrency.com</code></a> - <a href="https://news.ycombinator.com/item?id=46432916">82 comments 163 points</a></li>
-<li><a href="https://arxiv.org/abs/2512.14012"><strong>Professional software developers don&#39;t vibe, they control</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=46437391">176 comments 152 points</a></li>
-<li><a href="https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html"><strong>Electrolysis can solve one of our biggest contamination problems</strong> <code>ethz.ch</code></a> - <a href="https://news.ycombinator.com/item?id=46436127">38 comments 144 points</a></li>
-<li><a href="https://charm-ruby.dev/"><strong>Charm Ruby – Glamorous Terminal Libraries for Ruby</strong> <code>charm-ruby.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46430558">24 comments 138 points</a></li>
-<li><a href="https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/"><strong>Quality of drinking water varies significantly by airline</strong> <code>foodmedcenter.org</code></a> - <a href="https://news.ycombinator.com/item?id=46439769">104 comments 134 points</a></li>
-<li><a href="https://blog.dshr.org/2025/12/sabotaging-bitcoin.html"><strong>Sabotaging Bitcoin</strong> <code>blog.dshr.org</code></a> - <a href="https://news.ycombinator.com/item?id=46437876">81 comments 128 points</a></li>
-<li><a href="https://redirect.github.com/torokernel/torokernel"><strong>Toro: Deploy Applications as Unikernels</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46435418">108 comments 127 points</a></li>
-<li><a href="https://jacobin.com/2025/12/romney-tax-rich-op-ed-nyt/"><strong>Now That He Has No Power, Mitt Romney Says &quot;Tax the Rich&quot;</strong> <code>jacobin.com</code></a> - <a href="https://news.ycombinator.com/item?id=46436687">86 comments 114 points</a></li>
-<li><a href="https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/"><strong>Humans May Be Able to Grow New Teeth Within Just 4 Years</strong> <code>www.popularmechanics.com</code></a> - <a href="https://news.ycombinator.com/item?id=46438169">57 comments 111 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
