@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 01 Feb 2026 07:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 07:34:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-02-01]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1234</link>
+            <guid>1234</guid>
+            <pubDate>Sun, 01 Feb 2026 07:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/"><strong>Euro firms must ditch Uncle Sam&#39;s clouds and go EU-native</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=46835336">625 comments 729 points</a></li>
+<li><a href="https://an.dywa.ng/carrier-gnss.html"><strong>Mobile carriers can get your GPS location</strong> <code>an.dywa.ng</code></a> - <a href="https://news.ycombinator.com/item?id=46838597">358 comments 587 points</a></li>
+<li><a href="https://yle.fi/a/74-20207494"><strong>Finland looks to introduce Australia-style ban on social media</strong> <code>yle.fi</code></a> - <a href="https://news.ycombinator.com/item?id=46838417">422 comments 574 points</a></li>
+<li><a href="https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust"><strong>Swift is a more convenient Rust (2023)</strong> <code>nmn.sh</code></a> - <a href="https://news.ycombinator.com/item?id=46841374">247 comments 268 points</a></li>
+<li><a href="https://antirez.com/news/159"><strong>Automatic Programming</strong> <code>antirez.com</code></a> - <a href="https://news.ycombinator.com/item?id=46835208">205 comments 212 points</a></li>
+<li><a href="https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/"><strong>We have ipinfo at home or how to geolocate IPs in your CLI using latency</strong> <code>blog.globalping.io</code></a> - <a href="https://news.ycombinator.com/item?id=46834953">56 comments 212 points</a></li>
+<li><a href="https://piunikaweb.com/2026/01/28/youtube-background-play-samsung-internet-brave/"><strong>YouTube blocks background video playback on Brave and other browsers</strong> <code>piunikaweb.com</code></a> - <a href="https://news.ycombinator.com/item?id=46834441">190 comments 187 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private"><strong>US has investigated claims WhatsApp chats aren&#39;t private</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=46838635">332 comments 176 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages"><strong>US reportedly investigate claims that Meta can read encrypted WhatsApp messages</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46836487">1 comments 171 points</a></li>
+<li><a href="https://nemin.hu/guix.html"><strong>Guix System First Impressions as a Nix User</strong> <code>nemin.hu</code></a> - <a href="https://news.ycombinator.com/item?id=46835612">69 comments 166 points</a></li>
+<li><a href="https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf"><strong>Apple Platform Security (Jan 2026) [pdf]</strong> <code>help.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=46837814">114 comments 162 points</a></li>
+<li><a href="https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html"><strong>Giving up upstream-ing my patches and feel free to pick them up</strong> <code>mail.openjdk.org</code></a> - <a href="https://news.ycombinator.com/item?id=46835454">84 comments 152 points</a></li>
+<li><a href="https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/"><strong>CERN accepts $1B in private cash towards Future Circular Collider</strong> <code>physicsworld.com</code></a> - <a href="https://news.ycombinator.com/item?id=46835124">106 comments 142 points</a></li>
+<li><a href="https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/"><strong>Sumerian Star Map Recorded the Impact of an Asteroid (2024)</strong> <code>archaeologyworlds.com</code></a> - <a href="https://news.ycombinator.com/item?id=46834313">48 comments 141 points</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/"><strong>Nvidia&#39;s 10-year effort to make the Shield TV the most updated Android device</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=46837346">113 comments 133 points</a></li>
+<li><a href="https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/"><strong>In praise of –dry-run</strong> <code>henrikwarne.com</code></a> - <a href="https://news.ycombinator.com/item?id=46840612">71 comments 132 points</a></li>
+<li><a href="https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/"><strong>Generative AI and Wikipedia editing: What we learned in 2025</strong> <code>wikiedu.org</code></a> - <a href="https://news.ycombinator.com/item?id=46840924">52 comments 127 points</a></li>
+<li><a href="https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html"><strong>Outsourcing thinking</strong> <code>erikjohannes.no</code></a> - <a href="https://news.ycombinator.com/item?id=46840865">102 comments 123 points</a></li>
+<li><a href="https://crl.io/ds-game-engine/"><strong>Nintendo DS code editor and scriptable game engine</strong> <code>crl.io</code></a> - <a href="https://news.ycombinator.com/item?id=46839215">30 comments 122 points</a></li>
+<li><a href="https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/"><strong>Film students who can no longer sit through films</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=46838026">203 comments 118 points</a></li>
+<li><a href="https://genode.org/about/index"><strong>Genode OS is a tool kit for building highly secure special-purpose OS</strong> <code>genode.org</code></a> - <a href="https://news.ycombinator.com/item?id=46838981">18 comments 112 points</a></li>
+<li><a href="https://www.usenix.org/system/files/login-logout_1305_mickens.pdf"><strong>The Saddest Moment (2013) [pdf]</strong> <code>www.usenix.org</code></a> - <a href="https://news.ycombinator.com/item?id=46840219">21 comments 109 points</a></li>
+<li><a href="https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes"><strong>Berlin: Record harvest sparks mass giveaway of free potatoes</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46839784">79 comments 108 points</a></li>
+<li><a href="https://rose.systems/animalist/"><strong>List animals until failure</strong> <code>rose.systems</code></a> - <a href="https://news.ycombinator.com/item?id=46842603">64 comments 108 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=46839375"><strong>Google Cloud suspended my account for 2 years, only automated replies</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46839375">68 comments 106 points</a></li>
+<li><a href="https://www.theregister.com/2026/01/30/road_sign_hijack_ai/"><strong>Autonomous cars, drones cheerfully obey prompt injection by road sign</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=46840676">81 comments 98 points</a></li>
+<li><a href="https://redirect.github.com/rtvkiz/minimal"><strong>Show HN: Minimal – Open-Source Community driven Hardened Container Images</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46840178">25 comments 84 points</a></li>
+<li><a href="https://redirect.github.com/zupat/related_post_gen"><strong>Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46840698">37 comments 83 points</a></li>
+<li><a href="https://gwern.net/death-note-anonymity"><strong>Death Note: L, Anonymity and Eluding Entropy (2011)</strong> <code>gwern.net</code></a> - <a href="https://news.ycombinator.com/item?id=46839743">19 comments 80 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=46838946"><strong>Ask HN: Any real OpenClaw (Clawd Bot/Molt Bot) users? What&#39;s your experience?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46838946">121 comments 79 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-01-31]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1233</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://redirect.github.com/Alanma23/tinytinyTPU-co"><strong>TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46468237">41 comments 101 points</a></li>
 <li><a href="https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html"><strong>Accounting for Computer Scientists (2011)</strong> <code>martin.kleppmann.com</code></a> - <a href="https://news.ycombinator.com/item?id=46467651">33 comments 88 points</a></li>
 <li><a href="http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/"><strong>Linux kernel security work</strong> <code>www.kroah.com</code></a> - <a href="https://news.ycombinator.com/item?id=46469623">40 comments 87 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-01-02]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1203</link>
-            <guid>1203</guid>
-            <pubDate>Fri, 02 Jan 2026 06:58:14 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/"><strong>Linux is good now</strong> <code>www.pcgamer.com</code></a> - <a href="https://news.ycombinator.com/item?id=46457770">534 comments 645 points</a></li>
-<li><a href="https://henry.codes/writing/a-website-to-destroy-all-websites/"><strong>A website to destroy all websites</strong> <code>henry.codes</code></a> - <a href="https://news.ycombinator.com/item?id=46457784">258 comments 462 points</a></li>
-<li><a href="https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone"><strong>Bluetooth Headphone Jacking: A Key to Your Phone [video]</strong> <code>media.ccc.de</code></a> - <a href="https://news.ycombinator.com/item?id=46453204">170 comments 461 points</a></li>
-<li><a href="https://openworkers.com/introducing-openworkers"><strong>Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust</strong> <code>openworkers.com</code></a> - <a href="https://news.ycombinator.com/item?id=46454693">125 comments 414 points</a></li>
-<li><a href="https://ciechanow.ski/cameras-and-lenses/"><strong>Cameras and Lenses (2020)</strong> <code>ciechanow.ski</code></a> - <a href="https://news.ycombinator.com/item?id=46455872">48 comments 395 points</a></li>
-<li><a href="https://takes.jamesomalley.co.uk/p/this-might-be-oversharing"><strong>I rebooted my social life</strong> <code>takes.jamesomalley.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=46453114">293 comments 385 points</a></li>
-<li><a href="https://developer.apple.com/support/alternative-browser-engines-jp/"><strong>iOS allows alternative browser engines in Japan</strong> <code>developer.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=46453950">333 comments 379 points</a></li>
-<li><a href="https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl"><strong>Finland detains ship and its crew after critical undersea cable damaged</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=46456797">349 comments 377 points</a></li>
-<li><a href="https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/"><strong>Python numbers every programmer should know</strong> <code>mkennedy.codes</code></a> - <a href="https://news.ycombinator.com/item?id=46454470">139 comments 324 points</a></li>
-<li><a href="https://www.acm.org/articles/bulletins/2026/january/acm-open-access"><strong>ACM Is Now Open Access</strong> <code>www.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=46454763">46 comments 322 points</a></li>
-<li><a href="https://danwang.co/2025-letter/"><strong>2025 Letter</strong> <code>danwang.co</code></a> - <a href="https://news.ycombinator.com/item?id=46454413">204 comments 297 points</a></li>
-<li><a href="https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/"><strong>Meta made scam ads harder to find instead of removing them</strong> <code>sherwood.news</code></a> - <a href="https://news.ycombinator.com/item?id=46453582">103 comments 296 points</a></li>
-<li><a href="https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes"><strong>Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=46455053">83 comments 251 points</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal"><strong>BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=46454977">354 comments 224 points</a></li>
-<li><a href="https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/"><strong>Can Bundler be as fast as uv?</strong> <code>tenderlovemaking.com</code></a> - <a href="https://news.ycombinator.com/item?id=46458302">71 comments 215 points</a></li>
-<li><a href="https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/"><strong>Happy Public Domain Day 2026</strong> <code>publicdomainreview.org</code></a> - <a href="https://news.ycombinator.com/item?id=46460440">34 comments 192 points</a></li>
-<li><a href="https://redirect.github.com/ghostty-org/ghostty/issues/3558"><strong>Why users cannot create Issues directly</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46460319">68 comments 190 points</a></li>
-<li><a href="https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752"><strong>50% of U.S. vinyl buyers don&#39;t own a record player</strong> <code>lightcapai.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=46454944">181 comments 169 points</a></li>
-<li><a href="https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/"><strong>I&#39;m a developer for a major food delivery app</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=46461563">75 comments 167 points</a></li>
-<li><a href="https://moultano.wordpress.com/2025/12/30/children-and-helical-time/"><strong>Children and Helical Time</strong> <code>moultano.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=46452763">110 comments 163 points</a></li>
-<li><a href="https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched"><strong>Worlds largest electric ship launched by Tasmanian boatbuilder</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46452937">111 comments 142 points</a></li>
-<li><a href="https://redirect.github.com/buyukakyuz/rustmm"><strong>Rust--: Rust without the borrow checker</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46453062">224 comments 125 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points"><strong>Dell&#39;s version of the DGX Spark fixes pain points</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=46457027">62 comments 123 points</a></li>
-<li><a href="https://www.reddit.com/r/confession/s/gbrh2zxeou"><strong>A confession from a mainstream food delivery app engineer</strong> <code>www.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=46461578">30 comments 122 points</a></li>
-<li><a href="https://zekcrates.quarto.pub/deep-learning-library/"><strong>Build a Deep Learning Library</strong> <code>zekcrates.quarto.pub</code></a> - <a href="https://news.ycombinator.com/item?id=46454587">14 comments 111 points</a></li>
-<li><a href="https://reason.com/2025/12/31/dhs-says-real-id-which-dhs-certifies-is-too-unreliable-to-confirm-u-s-citizenship/"><strong>DHS Says DHS-Certified Real IDs Too Unreliable to Confirm U.S. Citizenship</strong> <code>reason.com</code></a> - <a href="https://news.ycombinator.com/item?id=46455223">80 comments 91 points</a></li>
-<li><a href="https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en"><strong>Hierarchical Navigable Small World (HNSW) in PHP</strong> <code>centamori.com</code></a> - <a href="https://news.ycombinator.com/item?id=46454968">15 comments 86 points</a></li>
-<li><a href="https://www.phoronix.com/review/windows-beats-linux-arl-h"><strong>Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop</strong> <code>www.phoronix.com</code></a> - <a href="https://news.ycombinator.com/item?id=46453221">71 comments 81 points</a></li>
-<li><a href="https://bugs.pwno.io/0014"><strong>Heap Overflow in FFmpeg EXIF</strong> <code>bugs.pwno.io</code></a> - <a href="https://news.ycombinator.com/item?id=46454854">28 comments 77 points</a></li>
-<li><a href="https://redirect.github.com/fsmunoz/datastar-cl"><strong>Common Lisp SDK for the Datastar Hypermedia Framework</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46454958">8 comments 75 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
