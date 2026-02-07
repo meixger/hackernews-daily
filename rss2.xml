@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 06 Feb 2026 07:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 07:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-02-06]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1239</link>
+            <guid>1239</guid>
+            <pubDate>Fri, 06 Feb 2026 07:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.anthropic.com/news/claude-opus-4-6"><strong>Claude Opus 4.6</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=46902223">769 comments 1845 points</a></li>
+<li><a href="https://openai.com/index/introducing-gpt-5-3-codex/"><strong>GPT-5.3-Codex</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=46902638">469 comments 1233 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=l-kZGrDz7PU"><strong>Flock CEO calls Deflock a “terrorist organization” (2025) [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=46903556">411 comments 593 points</a></li>
+<li><a href="https://mitchellh.com/writing/my-ai-adoption-journey"><strong>My AI Adoption Journey</strong> <code>mitchellh.com</code></a> - <a href="https://news.ycombinator.com/item?id=46903558">160 comments 520 points</a></li>
+<li><a href="https://www.anthropic.com/engineering/building-c-compiler"><strong>We tasked Opus 4.6 using agent teams to build a C Compiler</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=46903616">460 comments 496 points</a></li>
+<li><a href="https://www.tigerdata.com/blog/its-2026-just-use-postgres"><strong>It&#39;s 2026, Just Use Postgres</strong> <code>www.tigerdata.com</code></a> - <a href="https://news.ycombinator.com/item?id=46905555">288 comments 475 points</a></li>
+<li><a href="https://redirect.github.com/mdp/linkedin-extension-fingerprinting"><strong>LinkedIn checks for 2953 browser extensions</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46904361">181 comments 370 points</a></li>
+<li><a href="https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"><strong>CIA to Sunset the World Factbook</strong> <code>www.abc.net.au</code></a> - <a href="https://news.ycombinator.com/item?id=46899100">243 comments 361 points</a></li>
+<li><a href="https://simonwillison.net/2026/Feb/5/the-world-factbook/"><strong>CIA suddenly stops publishing, removes archives of The World Factbook</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=46899808">152 comments 359 points</a></li>
+<li><a href="https://code.claude.com/docs/en/agent-teams"><strong>Orchestrate teams of Claude Code sessions</strong> <code>code.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=46902368">192 comments 340 points</a></li>
+<li><a href="https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/"><strong>European Commission Trials Matrix to Replace Teams</strong> <code>www.euractiv.com</code></a> - <a href="https://news.ycombinator.com/item?id=46901452">166 comments 333 points</a></li>
+<li><a href="https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface"><strong>Top downloaded skill in ClawHub contains malware</strong> <code>1password.com</code></a> - <a href="https://news.ycombinator.com/item?id=46898615">142 comments 315 points</a></li>
+<li><a href="https://techoversight.org/2026/01/25/top-report-mdl-jan-25/"><strong>Unsealed court documents show teen addiction was big tech&#39;s &quot;top priority&quot;</strong> <code>techoversight.org</code></a> - <a href="https://news.ycombinator.com/item?id=46902512">153 comments 269 points</a></li>
+<li><a href="https://ardour.org/whatsnew.html"><strong>Ardour 9.0</strong> <code>ardour.org</code></a> - <a href="https://news.ycombinator.com/item?id=46903001">61 comments 259 points</a></li>
+<li><a href="https://blog.42futures.com/p/company-as-code"><strong>Company as Code</strong> <code>blog.42futures.com</code></a> - <a href="https://news.ycombinator.com/item?id=46899132">118 comments 235 points</a></li>
+<li><a href="https://redirect.github.com/HKUDS/nanobot"><strong>Nanobot: Ultra-Lightweight Alternative to OpenClaw</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46897737">115 comments 229 points</a></li>
+<li><a href="https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting"><strong>Opus 4.6 uncovers 500 zero-day flaws in open-source code</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=46902909">129 comments 201 points</a></li>
+<li><a href="https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/"><strong>GitHub Actions is slowly killing engineering teams</strong> <code>www.iankduncan.com</code></a> - <a href="https://news.ycombinator.com/item?id=46908491">73 comments 174 points</a></li>
+<li><a href="https://redirect.github.com/vkazanov/elcity"><strong>Show HN: Micropolis/SimCity Clone in Emacs Lisp</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46897332">43 comments 165 points</a></li>
+<li><a href="https://www.collaboraonline.com/collabora-office/"><strong>The New Collabora Office for Desktop</strong> <code>www.collaboraonline.com</code></a> - <a href="https://news.ycombinator.com/item?id=46899591">101 comments 163 points</a></li>
+<li><a href="https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair"><strong>BMW&#39;s Newest &quot;Innovation&quot; Is a Logo-Shaped Middle Finger to Right to Repair</strong> <code>www.ifixit.com</code></a> - <a href="https://news.ycombinator.com/item?id=46896427">71 comments 149 points</a></li>
+<li><a href="https://mrbruh.com/amd/"><strong>The RCE that AMD won&#39;t fix</strong> <code>mrbruh.com</code></a> - <a href="https://news.ycombinator.com/item?id=46906947">63 comments 149 points</a></li>
+<li><a href="https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo"><strong>Claude Opus 4.6 extra usage promo</strong> <code>support.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=46904569">45 comments 149 points</a></li>
+<li><a href="https://claude.com/blog/opus-4-6-finance"><strong>Advancing finance with Claude Opus 4.6</strong> <code>claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=46902273">44 comments 144 points</a></li>
+<li><a href="https://renewables-map.robinhawkes.com/"><strong>GB Renewables Map</strong> <code>renewables-map.robinhawkes.com</code></a> - <a href="https://news.ycombinator.com/item?id=46899066">48 comments 135 points</a></li>
+<li><a href="https://scottaaronson.blog/?p=9534"><strong>The time I didn&#39;t meet Jeffrey Epstein</strong> <code>scottaaronson.blog</code></a> - <a href="https://news.ycombinator.com/item?id=46903929">121 comments 133 points</a></li>
+<li><a href="https://www.newworker.org/ncptrory/1984.htm"><strong>Review of 1984 by Isaac Asimov (1980)</strong> <code>www.newworker.org</code></a> - <a href="https://news.ycombinator.com/item?id=46905761">65 comments 133 points</a></li>
+<li><a href="https://openai.com/index/introducing-openai-frontier/"><strong>OpenAI Frontier</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=46899770">102 comments 123 points</a></li>
+<li><a href="https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf"><strong>Data breach: DOGE &#39;accidentally&#39; leaked the whole Social Security database [pdf]</strong> <code>storage.courtlistener.com</code></a> - <a href="https://news.ycombinator.com/item?id=46897732">30 comments 119 points</a></li>
+<li><a href="https://www.techdirt.com/2026/02/05/the-wyden-siren-senators-cryptic-cia-letter-follows-a-pattern-thats-never-been-wrong/"><strong>The Wyden Siren: Senator&#39;s Cryptic CIA Letter Pattern Has Never Been Wrong</strong> <code>www.techdirt.com</code></a> - <a href="https://news.ycombinator.com/item?id=46902745">9 comments 105 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-02-05]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1238</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://redirect.github.com/anthropics/claude-code/issues/16673"><strong>Claude Code CLI was broken</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46532075">92 comments 105 points</a></li>
 <li><a href="https://twitter.com/borisandcrispin/status/2008709479068794989"><strong>A tab hoarder&#39;s journey to sanity</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46529797">101 comments 98 points</a></li>
 <li><a href="https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/"><strong>Building voice agents with Nvidia open models</strong> <code>www.daily.co</code></a> - <a href="https://news.ycombinator.com/item?id=46528045">9 comments 97 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-01-07]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1208</link>
-            <guid>1208</guid>
-            <pubDate>Wed, 07 Jan 2026 06:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds"><strong>Vietnam bans unskippable ads</strong> <code>saigoneer.com</code></a> - <a href="https://news.ycombinator.com/item?id=46514677">645 comments 1234 points</a></li>
-<li><a href="https://enclose.horse/"><strong>enclose.horse</strong> <code>enclose.horse</code></a> - <a href="https://news.ycombinator.com/item?id=46509211">202 comments 1098 points</a></li>
-<li><a href="https://www.theregister.com/2026/01/05/aws_price_increase/"><strong>AWS raises GPU prices 15% on a Saturday, hopes you weren&#39;t paying attention</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=46511153">453 comments 688 points</a></li>
-<li><a href="https://burkeholland.github.io/posts/opus-4-5-change-everything/"><strong>Opus 4.5 is not the normal AI agent experience that I have had thus far</strong> <code>burkeholland.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46515696">640 comments 475 points</a></li>
-<li><a href="https://philippdubach.com/standalone/hn-sentiment/"><strong>65% of Hacker News posts have negative sentiment, and they outperform</strong> <code>philippdubach.com</code></a> - <a href="https://news.ycombinator.com/item?id=46512881">436 comments 470 points</a></li>
-<li><a href="https://redirect.github.com/rberg27/doom-coding"><strong>Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46517458">259 comments 378 points</a></li>
-<li><a href="https://akr.am/blog/posts/why-is-the-gmail-app-700-mb"><strong>Why is the Gmail app 700 MB?</strong> <code>akr.am</code></a> - <a href="https://news.ycombinator.com/item?id=46514692">336 comments 377 points</a></li>
-<li><a href="https://sqlite.org/whyc.html"><strong>C Is Best (2025)</strong> <code>sqlite.org</code></a> - <a href="https://news.ycombinator.com/item?id=46511470">496 comments 376 points</a></li>
-<li><a href="https://blgardner.github.io/prism.tools/"><strong>Show HN: Prism.Tools – Free and privacy-focused developer utilities</strong> <code>blgardner.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46511469">97 comments 347 points</a></li>
-<li><a href="https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/"><strong>Volkswagen Brings Back Physical Buttons</strong> <code>www.caranddriver.com</code></a> - <a href="https://news.ycombinator.com/item?id=46514913">30 comments 335 points</a></li>
-<li><a href="https://phrack.org/issues/71/17"><strong>Calling All Hackers: How money works (2024)</strong> <code>phrack.org</code></a> - <a href="https://news.ycombinator.com/item?id=46518129">134 comments 215 points</a></li>
-<li><a href="https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/"><strong>A 30B Qwen model walks into a Raspberry Pi and runs in real time</strong> <code>byteshape.com</code></a> - <a href="https://news.ycombinator.com/item?id=46518573">54 comments 198 points</a></li>
-<li><a href="https://jellyfin.org/posts/state-of-the-fin-2026-01-06/"><strong>State of the Fin 2026-01-06</strong> <code>jellyfin.org</code></a> - <a href="https://news.ycombinator.com/item?id=46514282">159 comments 196 points</a></li>
-<li><a href="https://redirect.github.com/MasoniteFramework/masonite/discussions/853"><strong>Passing of Joe Mancuso</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46516137">15 comments 160 points</a></li>
-<li><a href="https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s"><strong>Video Game Websites in the early 00s</strong> <code>www.webdesignmuseum.org</code></a> - <a href="https://news.ycombinator.com/item?id=46516559">84 comments 159 points</a></li>
-<li><a href="https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/"><strong>Microsoft probably killed my Snapdragon Dev Kit</strong> <code>jasoneckert.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46521860">74 comments 129 points</a></li>
-<li><a href="https://hecate.pink/blog/2026/trans-flag-emoji/"><strong>Why the trans flag emoji is the 5-codepoint sequence it is</strong> <code>hecate.pink</code></a> - <a href="https://news.ycombinator.com/item?id=46520879">50 comments 126 points</a></li>
-<li><a href="https://blog.booleanbiotech.com/oral-microbiome-biogaia"><strong>Oral microbiome sequencing after taking probiotics</strong> <code>blog.booleanbiotech.com</code></a> - <a href="https://news.ycombinator.com/item?id=46518804">54 comments 123 points</a></li>
-<li><a href="https://arxiv.org/abs/2512.04859"><strong>High-Performance DBMSs with io_uring: When and How to use it</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=46517319">24 comments 118 points</a></li>
-<li><a href="https://scenelist.org/"><strong>SCiZE&#39;s Classic Warez Collection</strong> <code>scenelist.org</code></a> - <a href="https://news.ycombinator.com/item?id=46510625">51 comments 117 points</a></li>
-<li><a href="https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/"><strong>Self hosting my media library with Jellyfin and Wireguard on Hetzner</strong> <code>layandreas.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46517636">159 comments 116 points</a></li>
-<li><a href="https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet"><strong>Dude, where&#39;s my supersonic jet?</strong> <code>rationaloptimistsociety.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=46515936">256 comments 114 points</a></li>
-<li><a href="https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy"><strong>Locating a Photo of a Vehicle in 30 Seconds with GeoSpy</strong> <code>geospy.ai</code></a> - <a href="https://news.ycombinator.com/item?id=46515948">99 comments 113 points</a></li>
-<li><a href="https://www.nytimes.com/2026/01/05/nyregion/mamdani-affordability-consumer-protections.html"><strong>Mamdani Targets Junk Fees and Hidden Charges in Two Executive Orders</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=46514059">128 comments 111 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=9e0SQn9uUlw"><strong>Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=46520508">84 comments 109 points</a></li>
-<li><a href="https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds"><strong>CES 2026: Taking the Lids Off AMD&#39;s Venice and MI400 SoCs</strong> <code>chipsandcheese.com</code></a> - <a href="https://news.ycombinator.com/item?id=46519326">54 comments 91 points</a></li>
-<li><a href="https://arxiv.org/abs/2512.09882"><strong>Comparing AI agents to cybersecurity professionals in real-world pen testing</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=46518996">57 comments 88 points</a></li>
-<li><a href="https://www.tomshardware.com/raspberry-pi/raspberry-pi-and-mini-pc-home-lab-prices-hit-parity-as-dram-costs-skyrocket-price-hikes-force-hobbyists-to-weigh-up-performance-versus-power-consumption"><strong>Raspberry Pi and mini PC home lab prices hit parity as DRAM costs skyrocket</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=46514794">44 comments 87 points</a></li>
-<li><a href="https://twitter.com/JTLonsdale/status/2007849014407086427"><strong>Co-founder Joe Lonsdale: Palantir was founded to kill communists</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46515191">147 comments 82 points</a></li>
-<li><a href="https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/"><strong>Why Big Companies Keep Failing: The Stack Fallacy (2016)</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=46514816">71 comments 81 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
