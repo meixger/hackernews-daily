@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 08 Feb 2026 07:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 07:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-02-08]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1241</link>
+            <guid>1241</guid>
+            <pubDate>Sun, 08 Feb 2026 07:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://redirect.github.com/suitenumerique"><strong>France&#39;s homegrown open source online office suite</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46923736">302 comments 720 points</a></li>
+<li><a href="https://nolanlawson.com/2026/02/07/we-mourn-our-craft/"><strong>We mourn our craft</strong> <code>nolanlawson.com</code></a> - <a href="https://news.ycombinator.com/item?id=46926245">540 comments 409 points</a></li>
+<li><a href="https://jesperordrup.github.io/vocal-guide/"><strong>Vocal Guide – belt sing without killing yourself</strong> <code>jesperordrup.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46922049">99 comments 331 points</a></li>
+<li><a href="https://blog.alaindichiappari.dev/p/software-engineering-is-back"><strong>Coding agents have replaced every framework I used</strong> <code>blog.alaindichiappari.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46923543">520 comments 327 points</a></li>
+<li><a href="https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/"><strong>The AI boom is causing shortages everywhere else</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=46922969">514 comments 316 points</a></li>
+<li><a href="https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/"><strong>U.S. jobs disappear at fastest January pace since great recession</strong> <code>www.forbes.com</code></a> - <a href="https://news.ycombinator.com/item?id=46925669">249 comments 309 points</a></li>
+<li><a href="https://xorvoid.com/sectorc.html"><strong>SectorC: A C Compiler in 512 bytes (2023)</strong> <code>xorvoid.com</code></a> - <a href="https://news.ycombinator.com/item?id=46925741">51 comments 270 points</a></li>
+<li><a href="https://factory.strongdm.ai/"><strong>Software factories and the agentic moment</strong> <code>factory.strongdm.ai</code></a> - <a href="https://news.ycombinator.com/item?id=46924426">360 comments 210 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c205nxy0p31o"><strong>British drivers over 70 to face eye tests every three years</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46924813">209 comments 198 points</a></li>
+<li><a href="https://jonathanwhiting.com/writing/blog/games_in_c/"><strong>I write games in C (yes, C) (2016)</strong> <code>jonathanwhiting.com</code></a> - <a href="https://news.ycombinator.com/item?id=46925808">187 comments 193 points</a></li>
+<li><a href="https://www.spritely.institute/hoot/"><strong>Hoot: Scheme on WebAssembly</strong> <code>www.spritely.institute</code></a> - <a href="https://news.ycombinator.com/item?id=46923254">35 comments 184 points</a></li>
+<li><a href="https://susam.net/twenty-five-years-of-computing.html"><strong>Stories from 25 Years of Software Development</strong> <code>susam.net</code></a> - <a href="https://news.ycombinator.com/item?id=46924264">18 comments 177 points</a></li>
+<li><a href="https://code.claude.com/docs/en/fast-mode"><strong>Speed up responses with fast mode</strong> <code>code.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=46926043">165 comments 172 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/cvgjg98vmzjo"><strong>Google staff call for firm to cut ties with ICE</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46924544">56 comments 172 points</a></li>
+<li><a href="https://redirect.github.com/localgpt-app/localgpt"><strong>Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46930391">51 comments 165 points</a></li>
+<li><a href="https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs"><strong>Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?</strong> <code>www.windowscentral.com</code></a> - <a href="https://news.ycombinator.com/item?id=46927098">188 comments 149 points</a></li>
+<li><a href="https://bellard.org/tcc/"><strong>Tiny C Compiler</strong> <code>bellard.org</code></a> - <a href="https://news.ycombinator.com/item?id=46928435">69 comments 149 points</a></li>
+<li><a href="https://arxiv.org/abs/2602.05192"><strong>First Proof</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=46924591">81 comments 139 points</a></li>
+<li><a href="https://rlhfbook.com/"><strong>Reinforcement Learning from Human Feedback</strong> <code>rlhfbook.com</code></a> - <a href="https://news.ycombinator.com/item?id=46923463">5 comments 122 points</a></li>
+<li><a href="https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs"><strong>FDA intends to take action against non-FDA-approved GLP-1 drugs</strong> <code>www.fda.gov</code></a> - <a href="https://news.ycombinator.com/item?id=46928810">243 comments 116 points</a></li>
+<li><a href="https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/"><strong>Al Lowe on model trains, funny deaths and working with Disney</strong> <code>spillhistorie.no</code></a> - <a href="https://news.ycombinator.com/item?id=46924790">24 comments 109 points</a></li>
+<li><a href="https://amit.prasad.me/blog/rip-good-code"><strong>The silent death of good code</strong> <code>amit.prasad.me</code></a> - <a href="https://news.ycombinator.com/item?id=46929391">88 comments 98 points</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/czr4rx04xjpo"><strong>Italy Railways Sabotaged</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=46928412">107 comments 96 points</a></li>
+<li><a href="https://redirect.github.com/Momciloo/fun-with-clip-path"><strong>Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46925811">18 comments 87 points</a></li>
+<li><a href="https://twitter.com/mitchellh/status/2020252149117313349"><strong>Vouch</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46930961">22 comments 81 points</a></li>
+<li><a href="https://haskellforall.com/2026/02/beyond-agentic-coding"><strong>Haskell for all: Beyond agentic coding</strong> <code>haskellforall.com</code></a> - <a href="https://news.ycombinator.com/item?id=46930565">19 comments 81 points</a></li>
+<li><a href="https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/"><strong>Brookhaven Lab&#39;s RHIC concludes 25-year run with final collisions</strong> <code>www.hpcwire.com</code></a> - <a href="https://news.ycombinator.com/item?id=46926576">60 comments 76 points</a></li>
+<li><a href="https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit"><strong>Homeland Security Spying on Reddit Users</strong> <code>www.kenklippenstein.com</code></a> - <a href="https://news.ycombinator.com/item?id=46931213">15 comments 73 points</a></li>
+<li><a href="https://brooker.co.za/blog/2026/02/07/you-are-here.html"><strong>You Are Here</strong> <code>brooker.co.za</code></a> - <a href="https://news.ycombinator.com/item?id=46928470">86 comments 69 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c931rxnwn3lo"><strong>UK infants ill after drinking contaminated baby formula of Nestle and Danone</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46922551">19 comments 63 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-02-07]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1240</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2012/05/Kahan-64-Stan-L-Rev-851.pdf"><strong>&quot;They Saw a Protest&quot;: Cognitive Illiberalism and the Speech-Conduct Distinction [pdf] (2012)</strong> <code>www.stanfordlawreview.org</code></a> - <a href="https://news.ycombinator.com/item?id=46553818">63 comments 73 points</a></li>
 <li><a href="https://philipotoole.com/start-your-meetings-at-5-minutes-past/"><strong>Start your meetings at 5 minutes past</strong> <code>philipotoole.com</code></a> - <a href="https://news.ycombinator.com/item?id=46560217">72 comments 72 points</a></li>
 <li><a href="https://www.cato.org/blog/5-ice-detainees-have-violent-convictions-73-no-convictions"><strong>73% People Detained by ICE Have No Convictions</strong> <code>www.cato.org</code></a> - <a href="https://news.ycombinator.com/item?id=46556984">41 comments 69 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-01-09]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1210</link>
-            <guid>1210</guid>
-            <pubDate>Fri, 09 Jan 2026 06:59:14 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/"><strong>Bose has released API docs and opened the API for its EoL SoundTouch speakers</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=46541892">327 comments 2233 points</a></li>
-<li><a href="https://twitter.com/OfficialLoganK/status/2009339263251566902"><strong>Google AI Studio is now sponsoring Tailwind CSS</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46545077">197 comments 595 points</a></li>
-<li><a href="https://redirect.github.com/LRitzdorf/TheJeffDeanFacts"><strong>The Jeff Dean Facts</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46540498">162 comments 444 points</a></li>
-<li><a href="https://www.mihaileric.com/The-Emperor-Has-No-Clothes/"><strong>How to Code Claude Code in 200 Lines of Code</strong> <code>www.mihaileric.com</code></a> - <a href="https://news.ycombinator.com/item?id=46545620">170 comments 435 points</a></li>
-<li><a href="https://radar.cloudflare.com/routing/ir"><strong>Iran Goes Into IPv6 Blackout</strong> <code>radar.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=46542683">293 comments 426 points</a></li>
-<li><a href="https://blog.cloudflare.com/bgp-route-leak-venezuela/"><strong>A closer look at a BGP anomaly in Venezuela</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=46538001">207 comments 385 points</a></li>
-<li><a href="https://www.pbs.org/newshour/nation/minnesota-officials-say-they-cant-access-evidence-after-fatal-ice-shooting-and-fbi-wont-work-jointly-on-investigation"><strong>Minnesota officials say they can&#39;t access evidence after fatal ICE shooting</strong> <code>www.pbs.org</code></a> - <a href="https://news.ycombinator.com/item?id=46543457">59 comments 298 points</a></li>
-<li><a href="https://spectrum.ieee.org/ai-coding-degrades"><strong>AI coding assistants are getting worse?</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=46542036">435 comments 281 points</a></li>
-<li><a href="https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/"><strong>ICE&#39;s Tool to Monitor Phones in Neighborhoods</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=46543420">259 comments 255 points</a></li>
-<li><a href="https://redirect.github.com/anomalyco/opencode/issues/7410"><strong>Anthropic blocks third-party use of Claude Code subscriptions</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46549823">166 comments 244 points</a></li>
-<li><a href="https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware"><strong>IBM AI (&#39;Bob&#39;) Downloads and Executes Malware</strong> <code>www.promptarmor.com</code></a> - <a href="https://news.ycombinator.com/item?id=46544454">113 comments 239 points</a></li>
-<li><a href="https://redirect.github.com/samuel-vitorino/sopro"><strong>Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46546113">81 comments 203 points</a></li>
-<li><a href="https://joshuawise.com/resources/ofdm/"><strong>The Unreasonable Effectiveness of the Fourier Transform</strong> <code>joshuawise.com</code></a> - <a href="https://news.ycombinator.com/item?id=46544981">88 comments 200 points</a></li>
-<li><a href="https://redirect.github.com/embassy-rs/embassy"><strong>Embassy: Modern embedded framework, using Rust and async</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46547740">63 comments 164 points</a></li>
-<li><a href="https://pouyaii.github.io/Iran/"><strong>Iran Protest Map</strong> <code>pouyaii.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46547303">151 comments 153 points</a></li>
-<li><a href="https://kueda.net/blog/2026/01/06/why-i-left-inat/"><strong>Why I left iNaturalist</strong> <code>kueda.net</code></a> - <a href="https://news.ycombinator.com/item?id=46548940">64 comments 151 points</a></li>
-<li><a href="https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/"><strong>AI misses nearly one-third of breast cancers, study finds</strong> <code>www.emjreviews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46537983">84 comments 150 points</a></li>
-<li><a href="https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet"><strong>Japanese electronics store pleads for old PCs amid ongoing hardware shortage</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=46542015">96 comments 149 points</a></li>
-<li><a href="https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/"><strong>He was called a &#39;terrorist sympathizer.&#39; Now his AI company is valued at $3B</strong> <code>sfstandard.com</code></a> - <a href="https://news.ycombinator.com/item?id=46544276">174 comments 147 points</a></li>
-<li><a href="https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/"><strong>Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)</strong> <code>web.archive.org</code></a> - <a href="https://news.ycombinator.com/item?id=46546614">40 comments 143 points</a></li>
-<li><a href="https://daringfireball.net/2026/01/lets_call_a_murder_a_murder"><strong>Let&#39;s Call a Murder a Murder</strong> <code>daringfireball.net</code></a> - <a href="https://news.ycombinator.com/item?id=46547612">22 comments 128 points</a></li>
-<li><a href="https://sakana.ai/drq/"><strong>Digital Red Queen: Adversarial Program Evolution in Core War with LLMs</strong> <code>sakana.ai</code></a> - <a href="https://news.ycombinator.com/item?id=46542761">14 comments 113 points</a></li>
-<li><a href="https://redirect.github.com/richhickson/claudecodeusage"><strong>Show HN: macOS menu bar app to track Claude usage in real time</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46544524">40 comments 111 points</a></li>
-<li><a href="https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/"><strong>Fixing a Buffer Overflow in Unix v4 Like It&#39;s 1973</strong> <code>sigma-star.at</code></a> - <a href="https://news.ycombinator.com/item?id=46544610">33 comments 107 points</a></li>
-<li><a href="https://sql.studio/"><strong>SQL Studio</strong> <code>sql.studio</code></a> - <a href="https://news.ycombinator.com/item?id=46546419">69 comments 91 points</a></li>
-<li><a href="https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/"><strong>The No Fakes Act Has a &quot;Fingerprinting&quot; Trap That Kills Open Source</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=46550231">23 comments 90 points</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/"><strong>Texas court blocks Samsung from tracking TV viewing, then vacates order</strong> <code>www.bleepingcomputer.com</code></a> - <a href="https://news.ycombinator.com/item?id=46546270">38 comments 83 points</a></li>
-<li><a href="https://www.construction-physics.com/p/how-did-tvs-get-so-cheap"><strong>How did TVs get so cheap?</strong> <code>www.construction-physics.com</code></a> - <a href="https://news.ycombinator.com/item?id=46540559">163 comments 80 points</a></li>
-<li><a href="https://boingboing.net/2026/01/06/x-faces-global-investigations-as-grok-generates-deepfake-porn-of-women-and-minors.html"><strong>X faces global investigations for deepfake porn of women and minors</strong> <code>boingboing.net</code></a> - <a href="https://news.ycombinator.com/item?id=46545962">63 comments 77 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=46544969"><strong>Ask HN: Is it time for HN to implement a form of captcha?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46544969">109 comments 76 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
