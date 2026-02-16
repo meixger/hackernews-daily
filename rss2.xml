@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 15 Feb 2026 07:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 07:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-02-15]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1248</link>
+            <guid>1248</guid>
+            <pubDate>Sun, 15 Feb 2026 07:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://redirect.github.com/i5heu/ublock-hide-yt-shorts/"><strong>uBlock filter list to hide all YouTube Shorts</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47016443">256 comments 783 points</a></li>
+<li><a href="https://infosec.exchange/@mttaggart/116065340523529645"><strong>Ars Technica makes up quotes from Matplotlib maintainer; pulls story</strong> <code>infosec.exchange</code></a> - <a href="https://news.ycombinator.com/item?id=47013059">6 comments 538 points</a></li>
+<li><a href="https://ooh.directory/"><strong>Ooh.directory: a place to find good blogs that interest you</strong> <code>ooh.directory</code></a> - <a href="https://news.ycombinator.com/item?id=47014449">124 comments 487 points</a></li>
+<li><a href="https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/"><strong>News publishers limit Internet Archive access due to AI scraping concerns</strong> <code>www.niemanlab.org</code></a> - <a href="https://news.ycombinator.com/item?id=47017138">298 comments 467 points</a></li>
+<li><a href="https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/"><strong>My smart sleep mask broadcasts users&#39; brainwaves to an open MQTT broker</strong> <code>aimilios.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47015294">192 comments 402 points</a></li>
+<li><a href="https://www.vim.org/vim-9.2-released.php"><strong>Vim 9.2</strong> <code>www.vim.org</code></a> - <a href="https://news.ycombinator.com/item?id=47015330">155 comments 374 points</a></li>
+<li><a href="https://ziglang.org/devlog/2026/#2026-02-13"><strong>Zig – io_uring and Grand Central Dispatch std.Io implementations landed</strong> <code>ziglang.org</code></a> - <a href="https://news.ycombinator.com/item?id=47012717">265 comments 354 points</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/"><strong>Platforms bend over backward to help DHS censor ICE critics, advocates say</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47015406">165 comments 272 points</a></li>
+<li><a href="https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/"><strong>I love the work of the ArchWiki maintainers</strong> <code>k7r.eu</code></a> - <a href="https://news.ycombinator.com/item?id=47020191">38 comments 244 points</a></li>
+<li><a href="https://redirect.github.com/datavorous/sameshi"><strong>Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47014500">65 comments 212 points</a></li>
+<li><a href="https://newpipe.net/"><strong>NewPipe: YouTube client without vertical videos and algorithmic feed</strong> <code>newpipe.net</code></a> - <a href="https://news.ycombinator.com/item?id=47020218">54 comments 208 points</a></li>
+<li><a href="https://mrdoob.github.io/three-descent/"><strong>Descent, ported to the web</strong> <code>mrdoob.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47017545">43 comments 207 points</a></li>
+<li><a href="https://redirect.github.com/PulseBeat02/yt-media-storage"><strong>YouTube as Storage</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47012964">141 comments 190 points</a></li>
+<li><a href="https://nicole.express/2026/not-my-casual-hobby.html"><strong>You can&#39;t trust the internet anymore</strong> <code>nicole.express</code></a> - <a href="https://news.ycombinator.com/item?id=47017727">133 comments 182 points</a></li>
+<li><a href="https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes"><strong>7zip.com Is Serving Malware</strong> <code>www.malwarebytes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47014995">84 comments 164 points</a></li>
+<li><a href="https://www.latent.space/p/ainews-why-openai-should-build-slack"><strong>OpenAI should build Slack</strong> <code>www.latent.space</code></a> - <a href="https://news.ycombinator.com/item?id=47012553">144 comments 143 points</a></li>
+<li><a href="https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/"><strong>Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=47017682">57 comments 125 points</a></li>
+<li><a href="https://redirect.github.com/davidgiven/ack"><strong>Amsterdam Compiler Kit</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47016008">32 comments 116 points</a></li>
+<li><a href="https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator"><strong>Audiophiles can&#39;t distinguish audio sent through copper, banana or mud</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=47015987">118 comments 115 points</a></li>
+<li><a href="https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have"><strong>How many registers does an x86-64 CPU have? (2020)</strong> <code>blog.yossarian.net</code></a> - <a href="https://news.ycombinator.com/item?id=47014405">68 comments 96 points</a></li>
+<li><a href="https://redirect.github.com/alichherawalla/off-grid-mobile"><strong>Show HN: Off Grid – Run AI text, image gen, vision offline on your phone</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47019133">35 comments 86 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/cwyk4lz4e3eo"><strong>Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47014337">26 comments 83 points</a></li>
+<li><a href="http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html"><strong>A review of M Disc archival capability with long term testing results (2016)</strong> <code>www.microscopy-uk.org.uk</code></a> - <a href="https://news.ycombinator.com/item?id=47015579">95 comments 76 points</a></li>
+<li><a href="https://redirect.github.com/abdimoallim/vdb"><strong>A header-only C vector database library</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47016530">31 comments 75 points</a></li>
+<li><a href="https://redirect.github.com/Geek-1001/arcmark"><strong>Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47016058">17 comments 71 points</a></li>
+<li><a href="https://redirect.github.com/oklemenz/Dune2JS"><strong>Dune II written in HTML5/JS</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47018026">9 comments 61 points</a></li>
+<li><a href="https://unicornjelly.com/"><strong>Unicorn Jelly</strong> <code>unicornjelly.com</code></a> - <a href="https://news.ycombinator.com/item?id=47014260">13 comments 56 points</a></li>
+<li><a href="https://www.4claw.org"><strong>4chan for Clankers</strong> <code>www.4claw.org</code></a> - <a href="https://news.ycombinator.com/item?id=47013458">71 comments 53 points</a></li>
+<li><a href="https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/"><strong>Epstein&#39;s Ugly World of Science</strong> <code>homunculusmusic.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=47014999">18 comments 49 points</a></li>
+<li><a href="https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers"><strong>Dr. Oz pushes AI avatars as a fix for rural health care</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=47016920">51 comments 48 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-02-14]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1247</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://brusselssignal.eu/2026/01/germanys-shut-down-of-nuclear-plants-a-huge-mistake-says-merz/"><strong>Germany&#39;s shut down of nuclear plants a &#39;huge mistake&#39;, says Merz</strong> <code>brusselssignal.eu</code></a> - <a href="https://news.ycombinator.com/item?id=46655147">2 comments 76 points</a></li>
 <li><a href="https://www.nytimes.com/2026/01/15/us/politics/cyberattack-venezuela-military.html"><strong>Cyberattack in Venezuela demonstrated precision of U.S. capabilities</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=46647038">91 comments 72 points</a></li>
 <li><a href="https://www.shimmer.care/indy-redirect"><strong>Launch HN: Indy (YC S21) – A support app designed for ADHD brains</strong> <code>www.shimmer.care</code></a> - <a href="https://news.ycombinator.com/item?id=46648144">78 comments 71 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-01-16]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1217</link>
-            <guid>1217</guid>
-            <pubDate>Fri, 16 Jan 2026 06:58:59 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://e360.yale.edu/digest/china-renewable-photo-essay"><strong>Photos capture the breathtaking scale of China&#39;s wind and solar buildout</strong> <code>e360.yale.edu</code></a> - <a href="https://news.ycombinator.com/item?id=46630369">471 comments 646 points</a></li>
-<li><a href="https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc"><strong>Apple is fighting for TSMC capacity as Nvidia takes center stage</strong> <code>www.culpium.com</code></a> - <a href="https://news.ycombinator.com/item?id=46633488">380 comments 641 points</a></li>
-<li><a href="https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/"><strong>The Palantir app helping ICE raids in Minneapolis</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=46633378">768 comments 598 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=46635345"><strong>Ask HN: How can we solve the loneliness epidemic?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46635345">822 comments 518 points</a></li>
-<li><a href="https://wikipedia25.org"><strong>25 Years of Wikipedia</strong> <code>wikipedia25.org</code></a> - <a href="https://news.ycombinator.com/item?id=46632023">389 comments 481 points</a></li>
-<li><a href="https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/"><strong>‘ELITE’: The Palantir app ICE uses to find neighborhoods to raid</strong> <code>werd.io</code></a> - <a href="https://news.ycombinator.com/item?id=46637127">327 comments 380 points</a></li>
-<li><a href="https://passo.uno/letter-those-who-fired-tech-writers-ai/"><strong>To those who fired or didn&#39;t hire tech writers because of AI</strong> <code>passo.uno</code></a> - <a href="https://news.ycombinator.com/item?id=46629474">244 comments 330 points</a></li>
-<li><a href="https://briarproject.org/manual/fa/"><strong>Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark</strong> <code>briarproject.org</code></a> - <a href="https://news.ycombinator.com/item?id=46638013">108 comments 251 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/"><strong>Raspberry Pi&#39;s New AI Hat Adds 8GB of RAM for Local LLMs</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=46629682">197 comments 241 points</a></li>
-<li><a href="https://dylan.gr/1768295794"><strong>Have Taken Up Farming</strong> <code>dylan.gr</code></a> - <a href="https://news.ycombinator.com/item?id=46629610">132 comments 208 points</a></li>
-<li><a href="https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/"><strong>Why senior engineers let bad projects fail</strong> <code>lalitm.com</code></a> - <a href="https://news.ycombinator.com/item?id=46640366">128 comments 191 points</a></li>
-<li><a href="https://shellbox.dev/"><strong>Linux boxes via SSH: suspended when disconected</strong> <code>shellbox.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46638629">100 comments 163 points</a></li>
-<li><a href="https://www.undeadly.org/cgi?action=article;sid=20260115203619"><strong>OpenBSD-current now runs as guest under Apple Hypervisor</strong> <code>www.undeadly.org</code></a> - <a href="https://news.ycombinator.com/item?id=46642560">10 comments 152 points</a></li>
-<li><a href="https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem"><strong>CVEs affecting the Svelte ecosystem</strong> <code>svelte.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46636387">27 comments 151 points</a></li>
-<li><a href="https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/"><strong>UK offshore wind prices come in 40% cheaper than gas in record auction</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=46637399">85 comments 150 points</a></li>
-<li><a href="https://redirect.github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1"><strong>OBS Studio 32.1.0 Beta 1 available</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46633429">42 comments 146 points</a></li>
-<li><a href="https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/"><strong>Found: Medieval Cargo Ship – Largest Vessel of Its Kind Ever</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=46633574">38 comments 144 points</a></li>
-<li><a href="https://fly.io/blog/design-and-implementation/"><strong>Design and Implementation of Sprites</strong> <code>fly.io</code></a> - <a href="https://news.ycombinator.com/item?id=46634450">101 comments 142 points</a></li>
-<li><a href="https://nothings.org/gamedev/thief_rendering.html"><strong>The 3D Software Rendering Technology of 1998&#39;s Thief: The Dark Project (2019)</strong> <code>nothings.org</code></a> - <a href="https://news.ycombinator.com/item?id=46630798">54 comments 139 points</a></li>
-<li><a href="https://redirect.github.com/juicedata/juicefs"><strong>JuiceFS is a distributed POSIX file system built on top of Redis and S3</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46637165">72 comments 137 points</a></li>
-<li><a href="https://redirect.github.com/chrisdiana/TinyCity"><strong>Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46632768">22 comments 125 points</a></li>
-<li><a href="https://frontierai.substack.com/p/data-is-your-only-moat"><strong>Data is the only moat</strong> <code>frontierai.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=46637328">26 comments 121 points</a></li>
-<li><a href="https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild"><strong>Supply Chain Vuln Compromised Core AWS GitHub Repos &amp; Threatened the AWS Console</strong> <code>www.wiz.io</code></a> - <a href="https://news.ycombinator.com/item?id=46636093">24 comments 117 points</a></li>
-<li><a href="https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/"><strong>The 500k-ton typo: Why data center copper math doesn&#39;t add up</strong> <code>investinglive.com</code></a> - <a href="https://news.ycombinator.com/item?id=46631728">147 comments 116 points</a></li>
-<li><a href="https://torrentfreak.com/french-court-orders-popular-vpns-to-block-more-pirate-sites-despite-opposition/"><strong>French Court Orders Popular VPNs to Block More Pirate Sites, Despite Opposition</strong> <code>torrentfreak.com</code></a> - <a href="https://news.ycombinator.com/item?id=46632004">90 comments 115 points</a></li>
-<li><a href="https://www.githubstatus.com/incidents/q987xpbqjbpl"><strong>GitHub Incident</strong> <code>www.githubstatus.com</code></a> - <a href="https://news.ycombinator.com/item?id=46635550">86 comments 114 points</a></li>
-<li><a href="https://www.fmn.dk/en/news/2025/the-danish-armed-forces-expand-their-presence-and-continue-exercises-in-greenland-in-close-cooperation-with-allies/"><strong>Danish Armed Forces expand their presence and continue exercises in Greenland</strong> <code>www.fmn.dk</code></a> - <a href="https://news.ycombinator.com/item?id=46631848">72 comments 103 points</a></li>
-<li><a href="https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/"><strong>Denmark&#39;s struggle to break up with Silicon Valley</strong> <code>www.politico.eu</code></a> - <a href="https://news.ycombinator.com/item?id=46636445">156 comments 95 points</a></li>
-<li><a href="https://www.npr.org/2026/01/15/g-s1-106113/european-troops-arrive-greenland"><strong>European troops arrive in Greenland to boost the Arctic island&#39;s security</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=46639401">88 comments 94 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/cly56w0p9e1o"><strong>Boeing knew of flaw in part linked to UPS plane crash, NTSB report says</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46642920">38 comments 91 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
