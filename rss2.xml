@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 19 Feb 2026 07:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 07:31:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-02-19]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1252</link>
+            <guid>1252</guid>
+            <pubDate>Thu, 19 Feb 2026 07:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://annas-archive.li/blog/llms-txt.html"><strong>If you’re an LLM, please read this</strong> <code>annas-archive.li</code></a> - <a href="https://news.ycombinator.com/item?id=47058219">374 comments 838 points</a></li>
+<li><a href="https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/"><strong>Mark Zuckerberg Lied to Congress. We Can&#39;t Trust His Testimony</strong> <code>dispatch.techoversight.org</code></a> - <a href="https://news.ycombinator.com/item?id=47060486">310 comments 513 points</a></li>
+<li><a href="https://pudding.cool/2026/02/womens-sizing/"><strong>Sizing chaos</strong> <code>pudding.cool</code></a> - <a href="https://news.ycombinator.com/item?id=47066552">238 comments 459 points</a></li>
+<li><a href="https://asahilinux.org/2026/02/progress-report-6-19/"><strong>Asahi Linux Progress Report: Linux 6.19</strong> <code>asahilinux.org</code></a> - <a href="https://news.ycombinator.com/item?id=47059275">153 comments 423 points</a></li>
+<li><a href="https://tailscale.com/blog/peer-relays-ga"><strong>Tailscale Peer Relays is now generally available</strong> <code>tailscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=47063005">190 comments 382 points</a></li>
+<li><a href="https://jasonfantl.com/posts/Universal-Unique-IDs/"><strong>Cosmologically Unique IDs</strong> <code>jasonfantl.com</code></a> - <a href="https://news.ycombinator.com/item?id=47064490">110 comments 345 points</a></li>
+<li><a href="https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html"><strong>Zero-day CSS: CVE-2026-2441 exists in the wild</strong> <code>chromereleases.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=47062748">161 comments 309 points</a></li>
+<li><a href="https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/"><strong>27-year-old Apple iBooks can connect to Wi-Fi and download official updates</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=47066241">145 comments 288 points</a></li>
+<li><a href="https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/"><strong>Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=47067759">165 comments 272 points</a></li>
+<li><a href="https://redirect.github.com/LadybirdBrowser/ladybird/issues/933"><strong>Closing this as we are no longer pursuing Swift adoption</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47067678">204 comments 267 points</a></li>
+<li><a href="https://code.claude.com/docs/en/legal-and-compliance"><strong>Anthropic officially bans using subscription auth for third party use</strong> <code>code.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=47069299">275 comments 264 points</a></li>
+<li><a href="https://elliotbonneville.com/the-only-moat-left-is-money/"><strong>The only moat left is money?</strong> <code>elliotbonneville.com</code></a> - <a href="https://news.ycombinator.com/item?id=47062521">355 comments 258 points</a></li>
+<li><a href="https://letsencrypt.org/2026/02/18/dns-persist-01.html"><strong>DNS-Persist-01: A New Model for DNS-Based Challenge Validation</strong> <code>letsencrypt.org</code></a> - <a href="https://news.ycombinator.com/item?id=47064047">113 comments 250 points</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/"><strong>Microsoft says bug causes Copilot to summarize confidential emails</strong> <code>www.bleepingcomputer.com</code></a> - <a href="https://news.ycombinator.com/item?id=47060202">66 comments 248 points</a></li>
+<li><a href="https://science.nasa.gov/climate-change/evidence/"><strong>There is unequivocal evidence that Earth is warming (2024)</strong> <code>science.nasa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47065678">223 comments 206 points</a></li>
+<li><a href="https://martinfowler.com/fragments/2026-02-18.html"><strong>The Future of AI Software Development</strong> <code>martinfowler.com</code></a> - <a href="https://news.ycombinator.com/item?id=47062534">137 comments 186 points</a></li>
+<li><a href="https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/"><strong>Minecraft Java is switching from OpenGL to Vulkan</strong> <code>www.gamingonlinux.com</code></a> - <a href="https://news.ycombinator.com/item?id=47068948">54 comments 162 points</a></li>
+<li><a href="https://eutechmap.com/map"><strong>European Tech Alternatives</strong> <code>eutechmap.com</code></a> - <a href="https://news.ycombinator.com/item?id=47070142">105 comments 159 points</a></li>
+<li><a href="https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/"><strong>Warren Buffett dumps $1.7B of Amazon stock</strong> <code>finbold.com</code></a> - <a href="https://news.ycombinator.com/item?id=47063950">162 comments 151 points</a></li>
+<li><a href="https://redirect.github.com/khalildh/garment-notation"><strong>Garment Notation Language: Formal descriptive language for clothing construction</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47062329">36 comments 135 points</a></li>
+<li><a href="https://www.nytimes.com/2026/02/18/arts/television/stephen-colbert-cbs-statement.html"><strong>Stephen Colbert going down swinging</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47062179">50 comments 131 points</a></li>
+<li><a href="https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app"><strong>Arizona Bill Requires Age Verification for All Apps</strong> <code>reclaimthenet.org</code></a> - <a href="https://news.ycombinator.com/item?id=47063724">156 comments 130 points</a></li>
+<li><a href="https://resobscura.substack.com/p/what-is-happening-to-writing"><strong>What is happening to writing? Cognitive debt, Claude Code, the space around AI</strong> <code>resobscura.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47061642">100 comments 123 points</a></li>
+<li><a href="https://arstechnica.com/health/2026/02/99-of-adults-over-40-have-shoulder-abnormalities-on-an-mri-study-finds/"><strong>99% of adults over 40 have shoulder &quot;abnormalities&quot; on an MRI, study finds</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47064944">104 comments 120 points</a></li>
+<li><a href="https://redirect.github.com/pocketbase/pocketbase/discussions/7287"><strong>Pocketbase lost its funding from FLOSS fund</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47062561">90 comments 119 points</a></li>
+<li><a href="https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/"><strong>Native FreeBSD Kerberos/LDAP with FreeIPA/IDM</strong> <code>vermaden.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=47059520">55 comments 116 points</a></li>
+<li><a href="https://rygoldstein.com/posts/perils-of-isbn"><strong>The Perils of ISBN</strong> <code>rygoldstein.com</code></a> - <a href="https://news.ycombinator.com/item?id=47063663">60 comments 113 points</a></li>
+<li><a href="https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/"><strong>AVX2 is slower than SSE2-4.x under Windows ARM emulation</strong> <code>blogs.remobjects.com</code></a> - <a href="https://news.ycombinator.com/item?id=47061062">82 comments 111 points</a></li>
+<li><a href="https://replay.software/updates/introducing-echo"><strong>Show HN: Echo, an iOS SSH+mosh client built on Ghostty</strong> <code>replay.software</code></a> - <a href="https://news.ycombinator.com/item?id=47064787">69 comments 111 points</a></li>
+<li><a href="https://cpojer.net/posts/fastest-frontend-tooling"><strong>Fastest Front End Tooling for Humans and AI</strong> <code>cpojer.net</code></a> - <a href="https://news.ycombinator.com/item?id=47060052">79 comments 108 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-02-18]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1251</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://redirect.github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md"><strong>The Zen of Reticulum</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46691660">61 comments 93 points</a></li>
 <li><a href="https://lcamtuf.coredump.cx/prep/index-old.shtml"><strong>Disaster planning for regular folks (2015)</strong> <code>lcamtuf.coredump.cx</code></a> - <a href="https://news.ycombinator.com/item?id=46700809">55 comments 91 points</a></li>
 <li><a href="https://openai.com/index/our-approach-to-age-prediction/"><strong>Our approach to age prediction</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=46696699">156 comments 87 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-01-20]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1221</link>
-            <guid>1221</guid>
-            <pubDate>Tue, 20 Jan 2026 07:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/"><strong>American importers and consumers bear the cost of 2025 tariffs: analysis</strong> <code>www.kielinstitut.de</code></a> - <a href="https://news.ycombinator.com/item?id=46680212">703 comments 705 points</a></li>
-<li><a href="https://bitchat.free/"><strong>A decentralized peer-to-peer messaging application that operates over Bluetooth</strong> <code>bitchat.free</code></a> - <a href="https://news.ycombinator.com/item?id=46675853">318 comments 589 points</a></li>
-<li><a href="https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees"><strong>Radboud University selects Fairphone as standard smartphone for employees</strong> <code>www.ru.nl</code></a> - <a href="https://news.ycombinator.com/item?id=46676276">236 comments 503 points</a></li>
-<li><a href="https://twitter.com/ghhughes/status/2012824754319753456"><strong>Amazon is ending all inventory commingling as of March 31, 2026</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46678205">251 comments 481 points</a></li>
-<li><a href="https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html"><strong>Letter from a Birmingham Jail (1963)</strong> <code>www.africa.upenn.edu</code></a> - <a href="https://news.ycombinator.com/item?id=46683205">155 comments 456 points</a></li>
-<li><a href="https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026"><strong>Level S4 solar radiation event</strong> <code>www.swpc.noaa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=46684056">125 comments 366 points</a></li>
-<li><a href="https://huggingface.co/zai-org/GLM-4.7-Flash"><strong>GLM-4.7-Flash</strong> <code>huggingface.co</code></a> - <a href="https://news.ycombinator.com/item?id=46679872">115 comments 347 points</a></li>
-<li><a href="https://blog.cloudflare.com/cname-a-record-order-dns-standards/"><strong>What came first: the CNAME or the A record?</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=46681611">116 comments 334 points</a></li>
-<li><a href="https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/"><strong>Apple testing new App Store design that blurs the line between ads and results</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=46680974">224 comments 309 points</a></li>
-<li><a href="https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims"><strong>Nearly a third of social media research has undisclosed ties to industry</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=46682534">117 comments 281 points</a></li>
-<li><a href="https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights"><strong>Article by article, how Big Tech shaped the EU&#39;s roll-back of digital rights</strong> <code>corporateeurope.org</code></a> - <a href="https://news.ycombinator.com/item?id=46678430">161 comments 262 points</a></li>
-<li><a href="https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html"><strong>Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars</strong> <code>newsroom.porsche.com</code></a> - <a href="https://news.ycombinator.com/item?id=46686640">261 comments 241 points</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup"><strong>Wikipedia: WikiProject AI Cleanup</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=46677106">85 comments 225 points</a></li>
-<li><a href="https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/"><strong>Nvidia contacted Anna&#39;s Archive to access books</strong> <code>torrentfreak.com</code></a> - <a href="https://news.ycombinator.com/item?id=46677628">131 comments 205 points</a></li>
-<li><a href="https://lemdro.id/post/lemdro.id/35049920"><strong>Nova Launcher added Facebook and Google Ads tracking</strong> <code>lemdro.id</code></a> - <a href="https://news.ycombinator.com/item?id=46686655">82 comments 183 points</a></li>
-<li><a href="https://jon.bo/posts/nano-texture/"><strong>Notes on Apple&#39;s Nano Texture (2025)</strong> <code>jon.bo</code></a> - <a href="https://news.ycombinator.com/item?id=46682518">94 comments 173 points</a></li>
-<li><a href="https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e"><strong>Americans Are the Ones Paying for Tariffs, Study Finds</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=46683519">72 comments 162 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=46678550"><strong>Ask HN: COBOL devs, how are AI coding affecting your work?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46678550">173 comments 156 points</a></li>
-<li><a href="https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/"><strong>There&#39;s a hidden Android setting that spots fake cell towers</strong> <code>www.howtogeek.com</code></a> - <a href="https://news.ycombinator.com/item?id=46683833">48 comments 151 points</a></li>
-<li><a href="https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/"><strong>Threads edges out X in daily mobile users, new data shows</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=46683947">143 comments 147 points</a></li>
-<li><a href="https://kinginstitute.stanford.edu/nonviolence"><strong>Nonviolence</strong> <code>kinginstitute.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=46683410">112 comments 142 points</a></li>
-<li><a href="https://www.jbecker.dev/research/prediction-market-microstructure"><strong>The microstructure of wealth transfer in prediction markets</strong> <code>www.jbecker.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46680515">130 comments 140 points</a></li>
-<li><a href="https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf"><strong>Simple Sabotage Field Manual (1944) [pdf]</strong> <code>www.cia.gov</code></a> - <a href="https://news.ycombinator.com/item?id=46684335">56 comments 140 points</a></li>
-<li><a href="https://redirect.github.com/markqvist/Reticulum"><strong>Reticulum, a secure and anonymous mesh networking stack</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46686273">23 comments 140 points</a></li>
-<li><a href="https://twitter.com/beneater/status/2012988790709928305"><strong>&quot;Anyone else out there vibe circuit-building?&quot;</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=46679896">99 comments 136 points</a></li>
-<li><a href="https://www.alanwsmith.com/en/37/wa/jz/s1/"><strong>Fix your robots.txt or your site disappears from Google</strong> <code>www.alanwsmith.com</code></a> - <a href="https://news.ycombinator.com/item?id=46681454">73 comments 135 points</a></li>
-<li><a href="https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/"><strong>US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates</strong> <code>www.thedefensenews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46682806">152 comments 129 points</a></li>
-<li><a href="https://redirect.github.com/jordanhubbard/nanolang"><strong>Nanolang: A tiny experimental language designed to be targeted by coding LLMs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46684958">86 comments 129 points</a></li>
-<li><a href="https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/"><strong>The coming industrialisation of exploit generation with LLMs</strong> <code>sean.heelan.io</code></a> - <a href="https://news.ycombinator.com/item?id=46676081">91 comments 119 points</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-01-19/trump-links-greenland-threats-to-nobel-peace-prize-snub"><strong>Trump Links Greenland Threats to Nobel Peace Prize Snub</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=46676537">67 comments 119 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
