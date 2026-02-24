@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 23 Feb 2026 07:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 07:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-02-23]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1256</link>
+            <guid>1256</guid>
+            <pubDate>Mon, 23 Feb 2026 07:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://susam.net/attention-media-vs-social-networks.html"><strong>Attention Media ≠ Social Networks</strong> <code>susam.net</code></a> - <a href="https://news.ycombinator.com/item?id=47110515">59 comments 150 points</a></li>
+<li><a href="https://hypha.pub/back-to-freebsd-part-1"><strong>Back to FreeBSD: Part 1</strong> <code>hypha.pub</code></a> - <a href="https://news.ycombinator.com/item?id=47108989">50 comments 125 points</a></li>
+<li><a href="https://planetscale.com/blog/database-transactions"><strong>What Is a Database Transaction?</strong> <code>planetscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110473">12 comments 68 points</a></li>
+<li><a href="https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents"><strong>Minions: Stripe&#39;s one-shot, end-to-end coding agents – Stripe Dot Dev Blog</strong> <code>stripe.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47110495">53 comments 56 points</a></li>
+<li><a href="https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture"><strong>The Dance Floor Is Disappearing in a Sea of Phones</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110549">41 comments 48 points</a></li>
+<li><a href="https://hypha.pub/postgres-is-your-friend-orm-is-not"><strong>Postgres Is Your Friend. ORM Is Not</strong> <code>hypha.pub</code></a> - <a href="https://news.ycombinator.com/item?id=47110310">39 comments 42 points</a></li>
+<li><a href="https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language"><strong>What&#39;s the best way to learn a new language?</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47108977">31 comments 36 points</a></li>
+<li><a href="https://kb.porkbun.com/article/225-why-porkbun-id-verification"><strong>Porkbun sells out – Starts requiring Age ID despite no legal requirement</strong> <code>kb.porkbun.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110362">13 comments 25 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c5yj2kzkrj0o"><strong>Iran students stage first large anti-government protests since deadly crackdown</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47111067">4 comments 25 points</a></li>
+<li><a href="https://rename.world/"><strong>I put New Zealand behind a $1 paywall</strong> <code>rename.world</code></a> - <a href="https://news.ycombinator.com/item?id=47111042">4 comments 22 points</a></li>
+<li><a href="https://www.popsci.com/technology/robot-vacuum-army/"><strong>Man accidentally gains control of 7k robot vacuums</strong> <code>www.popsci.com</code></a> - <a href="https://news.ycombinator.com/item?id=47111400">1 comments 16 points</a></li>
+<li><a href="https://www.vdh.virginia.gov/news/potomac-sewage-spill/"><strong>Sewage Spill in the Potomac River</strong> <code>www.vdh.virginia.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47110533">2 comments 15 points</a></li>
+<li><a href="https://quesma.com/blog/introducing-binaryaudit/"><strong>We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them</strong> <code>quesma.com</code></a> - <a href="https://news.ycombinator.com/item?id=47111440">2 comments 14 points</a></li>
+<li><a href="https://www.theguardian.com/uk-news/2026/feb/22/met-police-ai-tools-officer-misconduct-palantir"><strong>Met police using AI tools supplied by Palantir to flag officer misconduct</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110647">2 comments 14 points</a></li>
+<li><a href="https://redirect.github.com/volatilityfoundation/volatility3"><strong>Volatility: The volatile memory forensic extraction framework</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110781">0 comments 14 points</a></li>
+<li><a href="https://www.phyware.io/blog/ny-robotaxi-trust-gap"><strong>New York Just Killed Its Robotaxi Plan. The Real Problem Isn&#39;t the Technology</strong> <code>www.phyware.io</code></a> - <a href="https://news.ycombinator.com/item?id=47110927">13 comments 10 points</a></li>
+<li><a href="https://bsky.app/profile/x2y.tech/post/3mfeulapemk2d"><strong>OpenAI CEO reduces childhood to a power bill</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=47109535">2 comments 10 points</a></li>
+<li><a href="https://redirect.github.com/holo-routing/holo/releases/tag/v0.9.0"><strong>Holo v0.9: A Modern Routing Stack Built in Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110634">2 comments 9 points</a></li>
+<li><a href="https://fortune.com/2026/02/21/laptops-tablets-schools-gen-z-less-cognitively-capable-parents-first-time-cellphone-bans-standardized-test-scores/"><strong>The U.S. spent $30B to ditch textbooks</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110124">6 comments 8 points</a></li>
+<li><a href="https://www.politico.com/news/2026/02/06/amazon-emerges-a-big-winner-from-gop-tax-cuts-00768985"><strong>Amazon&#39;s tax bill plunges after GOP tax cuts</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110267">1 comments 8 points</a></li>
+<li><a href="https://redirect.github.com/fedify-dev/fedify/discussions/580"><strong>Fedify 2.0.0: Modular architecture, debug dashboard, and relay support</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110268">0 comments 8 points</a></li>
+<li><a href="https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/"><strong>Lawyer says Google shut down his Gmail, Voice and Photos after NotebookLM upload</strong> <code>discrepancyreport.com</code></a> - <a href="https://news.ycombinator.com/item?id=47109174">2 comments 7 points</a></li>
+<li><a href="https://carbuzz.com/why-automakers-bringing-back-the-inline-six-engine/"><strong>Why every automaker is quietly bringing back the inline-six engine</strong> <code>carbuzz.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110155">3 comments 6 points</a></li>
+<li><a href="https://physicsworld.com/a/wobbling-gyroscopes-could-harvest-energy-from-ocean-waves/"><strong>Wobbling gyroscopes could harvest energy from ocean waves</strong> <code>physicsworld.com</code></a> - <a href="https://news.ycombinator.com/item?id=47109802">1 comments 6 points</a></li>
+<li><a href="https://learn.microsoft.com/en-za/answers/questions/5737451/can-i-get-a-version-of-windows-that-hasnt-been-inf"><strong>Can I get a version of Windows that hasn&#39;t been infiltrated by Co-Pilot malware?</strong> <code>learn.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=47109793">1 comments 6 points</a></li>
+<li><a href="https://fortune.com/2026/02/21/peter-thiel-bill-gates-steve-jobs-steve-chen-tech-billionaires-publicly-shielding-their-children-from-tech-products-social-media/"><strong>Tech billionaires limit their children&#39;s screen time</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=47109059">1 comments 6 points</a></li>
+<li><a href="https://redirect.github.com/przadka/cheddar-bench"><strong>Show HN: Cheddar-bench – unsupervised benchmark for coding agents</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110494">0 comments 6 points</a></li>
+<li><a href="https://twitter.com/levelsio/status/2025430673285071295"><strong>Levelsio: HN is more negative lately because of AI threat</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47109924">0 comments 6 points</a></li>
+<li><a href="https://domofutu.substack.com/p/the-17-risk"><strong>The 17% Risk</strong> <code>domofutu.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47109262">0 comments 6 points</a></li>
+<li><a href="https://appstackbuilder.com"><strong>Show HN: I built a free AI tool that picks your SaaS tech stack based on budget</strong> <code>appstackbuilder.com</code></a> - <a href="https://news.ycombinator.com/item?id=47110469">4 comments 5 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-02-22]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1255</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/"><strong>ICE Releases RFI for User Tracking Tools</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=46748336">42 comments 95 points</a></li>
 <li><a href="https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html"><strong>Memory layout in Zig with formulas</strong> <code>raymondtana.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46744647">24 comments 93 points</a></li>
 <li><a href="https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis"><strong>ICE has killed another person in Minneapolis</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=46746673">20 comments 91 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-01-24]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1225</link>
-            <guid>1225</guid>
-            <pubDate>Sat, 24 Jan 2026 06:55:48 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/"><strong>Microsoft gave FBI set of BitLocker encryption keys to unlock suspects&#39; laptops</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=46735545">503 comments 766 points</a></li>
-<li><a href="https://european-alternatives.eu"><strong>European Alternatives</strong> <code>european-alternatives.eu</code></a> - <a href="https://news.ycombinator.com/item?id=46731976">396 comments 656 points</a></li>
-<li><a href="https://dbushell.com/2026/01/22/proton-spam/"><strong>Proton Spam and the AI Consent Problem</strong> <code>dbushell.com</code></a> - <a href="https://news.ycombinator.com/item?id=46729368">351 comments 494 points</a></li>
-<li><a href="https://redirect.github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md"><strong>AI Usage Policy</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46730504">254 comments 476 points</a></li>
-<li><a href="https://proofofcorn.com/"><strong>Proof of Corn</strong> <code>proofofcorn.com</code></a> - <a href="https://news.ycombinator.com/item?id=46735511">254 comments 348 points</a></li>
-<li><a href="https://maggieappleton.com/gastown"><strong>Gas Town&#39;s agent patterns, design bottlenecks, and vibecoding at scale</strong> <code>maggieappleton.com</code></a> - <a href="https://news.ycombinator.com/item?id=46734302">313 comments 300 points</a></li>
-<li><a href="https://boginjr.com/it/sw/dev/vinyl-boot/"><strong>Booting from a vinyl record (2020)</strong> <code>boginjr.com</code></a> - <a href="https://news.ycombinator.com/item?id=46730885">108 comments 299 points</a></li>
-<li><a href="https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/"><strong>Tesla kills Autopilot, locks lane-keeping behind $99/month fee</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=46736683">307 comments 293 points</a></li>
-<li><a href="https://openai.com/index/unrolling-the-codex-agent-loop/"><strong>Unrolling the Codex agent loop</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=46737630">138 comments 286 points</a></li>
-<li><a href="https://radicle.xyz"><strong>Radicle: The Sovereign Forge</strong> <code>radicle.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=46732213">131 comments 270 points</a></li>
-<li><a href="https://tuananh.net/2026/01/20/what-has-docker-become/"><strong>What has Docker become?</strong> <code>tuananh.net</code></a> - <a href="https://news.ycombinator.com/item?id=46731748">264 comments 245 points</a></li>
-<li><a href="https://tinyapps.org/blog/microsoft-mishandling-example-com.html"><strong>Microsoft mishandling example.com</strong> <code>tinyapps.org</code></a> - <a href="https://news.ycombinator.com/item?id=46731996">81 comments 232 points</a></li>
-<li><a href="https://comma.ai"><strong>Comma openpilot – Open source driver-assistance</strong> <code>comma.ai</code></a> - <a href="https://news.ycombinator.com/item?id=46740029">124 comments 229 points</a></li>
-<li><a href="https://www.ycombinator.com/"><strong>New YC homepage</strong> <code>www.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46735644">111 comments 227 points</a></li>
-<li><a href="https://redirect.github.com/ramonvermeulen/whosthere"><strong>Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46731432">81 comments 226 points</a></li>
-<li><a href="https://www.korg.com/us/products/dj/phase8/"><strong>KORG phase8 – Acoustic Synthesizer</strong> <code>www.korg.com</code></a> - <a href="https://news.ycombinator.com/item?id=46732967">96 comments 221 points</a></li>
-<li><a href="https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html"><strong>Updates to our web search products and  Programmable Search Engine capabilities</strong> <code>programmablesearchengine.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=46730436">178 comments 212 points</a></li>
-<li><a href="https://www.zotero.org/blog/zotero-8/"><strong>Zotero 8</strong> <code>www.zotero.org</code></a> - <a href="https://news.ycombinator.com/item?id=46735616">54 comments 210 points</a></li>
-<li><a href="https://redirect.github.com/anthropics/claude-code/issues/18866"><strong>Auto-compact not triggering on Claude.ai despite being marked as fixed</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46736091">162 comments 180 points</a></li>
-<li><a href="https://pgdog.dev/blog/replace-protobuf-with-rust"><strong>Replacing Protobuf with Rust</strong> <code>pgdog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46730214">123 comments 170 points</a></li>
-<li><a href="http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/"><strong>The tech monoculture is finally breaking</strong> <code>www.jasonwillems.com</code></a> - <a href="https://news.ycombinator.com/item?id=46733624">214 comments 167 points</a></li>
-<li><a href="https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md"><strong>Banned C++ features in Chromium</strong> <code>chromium.googlesource.com</code></a> - <a href="https://news.ycombinator.com/item?id=46737447">115 comments 138 points</a></li>
-<li><a href="https://blog.cloudflare.com/route-leak-incident-january-22-2026/"><strong>Route leak incident on January 22, 2026</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=46735489">37 comments 138 points</a></li>
-<li><a href="https://www.bbc.co.uk/news/live/ce9yydgmzdvt"><strong>White House defends sharing AI image showing arrested woman crying</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=46731865">77 comments 126 points</a></li>
-<li><a href="https://www.wired.com/story/tiktok-new-privacy-policy/"><strong>TikTok is now collecting more data about its users</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=46739078">75 comments 118 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=46731068"><strong>Ask HN: What&#39;s the current best local/open speech-to-speech setup?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46731068">23 comments 117 points</a></li>
-<li><a href="https://www.nytimes.com/2026/01/22/us/politics/nekima-armstrong-photo-white-house.html"><strong>White House Posts Altered Photo Showing Arrested Minnesota Protester Crying</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=46733127">46 comments 110 points</a></li>
-<li><a href="https://apnews.com/article/minnesota-activist-ice-protest-church-video-49faf3efd54e496388651aac1369fb44"><strong>Minnesota activist releases arrest video after manipulated White House version</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46739638">44 comments 109 points</a></li>
-<li><a href="https://reclaimthenet.org/house-vote-keeps-federal-kill-switch-vehicle-mandat"><strong>House vote keeps federal &quot;kill switch&quot; vehicle mandate</strong> <code>reclaimthenet.org</code></a> - <a href="https://news.ycombinator.com/item?id=46736048">136 comments 101 points</a></li>
-<li><a href="https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html"><strong>The state of modern AI text to speech systems for screen reader users</strong> <code>stuff.interfree.ca</code></a> - <a href="https://news.ycombinator.com/item?id=46730346">41 comments 93 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
