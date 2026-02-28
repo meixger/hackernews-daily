@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 27 Feb 2026 07:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 07:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-02-27]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1260</link>
+            <guid>1260</guid>
+            <pubDate>Fri, 27 Feb 2026 07:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.anthropic.com/news/statement-department-of-war"><strong>Statement from Dario Amodei on our discussions with the Department of War</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47173121">832 comments 1615 points</a></li>
+<li><a href="https://twitter.com/jack/status/2027129697092731343"><strong>Layoffs at Block</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47172119">685 comments 655 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=47163885"><strong>Tell HN: YC companies scrape GitHub activity, send spam emails to users</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47163885">231 comments 622 points</a></li>
+<li><a href="https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/"><strong>Nano Banana 2: Google&#39;s latest AI image generation model</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=47167858">513 comments 552 points</a></li>
+<li><a href="https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change"><strong>Anthropic ditches its core safety promise</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=47165397">3 comments 548 points</a></li>
+<li><a href="https://amplifying.ai/research/claude-code-picks"><strong>What Claude Code chooses</strong> <code>amplifying.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47169757">148 comments 372 points</a></li>
+<li><a href="https://read.technically.dev/p/vibe-coding-and-the-maker-movement"><strong>Will vibe coding end like the maker movement?</strong> <code>read.technically.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47167931">364 comments 363 points</a></li>
+<li><a href="https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf"><strong>AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]</strong> <code>www.ndss-symposium.org</code></a> - <a href="https://news.ycombinator.com/item?id=47167763">162 comments 346 points</a></li>
+<li><a href="https://gitlab.com/here_forawhile/terminalphone"><strong>Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line</strong> <code>gitlab.com</code></a> - <a href="https://news.ycombinator.com/item?id=47164270">73 comments 300 points</a></li>
+<li><a href="https://stackoverflow.com/questions/818255/what-does-21-mean"><strong>What does &quot; 2&gt;&amp;1 &quot; mean?</strong> <code>stackoverflow.com</code></a> - <a href="https://news.ycombinator.com/item?id=47171233">130 comments 235 points</a></li>
+<li><a href="https://endowment.dev/"><strong>Open Source Endowment – new funding source for open source maintainers</strong> <code>endowment.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47168012">141 comments 230 points</a></li>
+<li><a href="https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html"><strong>Google workers seek &#39;red lines&#39; on military A.I., echoing Anthropic</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47175931">108 comments 226 points</a></li>
+<li><a href="https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/"><strong>Smartphone market forecast to decline this year due to memory shortage</strong> <code>www.idc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47172664">215 comments 222 points</a></li>
+<li><a href="https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i"><strong>In 2025, Meta paid an effective federal tax rate of 3.5%</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=47167171">130 comments 203 points</a></li>
+<li><a href="https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/"><strong>You Want to Visit the UK? You Better Have a Google Play or App Store Account</strong> <code>www.heltweg.org</code></a> - <a href="https://news.ycombinator.com/item?id=47164605">292 comments 197 points</a></li>
+<li><a href="https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf"><strong>Palm OS User Interface Guidelines (2003) [pdf]</strong> <code>cs.uml.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47168726">87 comments 181 points</a></li>
+<li><a href="https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/"><strong>BuildKit: Docker&#39;s Hidden Gem That Can Build Almost Anything</strong> <code>tuananh.net</code></a> - <a href="https://news.ycombinator.com/item?id=47166264">62 comments 170 points</a></li>
+<li><a href="https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/"><strong>The Hunt for Dark Breakfast</strong> <code>moultano.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=47176257">55 comments 156 points</a></li>
+<li><a href="https://shkspr.mobi/blog/2026/02/this-time-is-different/"><strong>This time is different</strong> <code>shkspr.mobi</code></a> - <a href="https://news.ycombinator.com/item?id=47165792">244 comments 153 points</a></li>
+<li><a href="https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/"><strong>He saw an abandoned trailer, then uncovered a surveillance network</strong> <code>calmatters.org</code></a> - <a href="https://news.ycombinator.com/item?id=47169984">59 comments 153 points</a></li>
+<li><a href="https://osmand.net/blog/fast-routing/"><strong>OsmAnd&#39;s Faster Offline Navigation (2025)</strong> <code>osmand.net</code></a> - <a href="https://news.ycombinator.com/item?id=47170157">46 comments 147 points</a></li>
+<li><a href="https://tech.marksblogg.com/google-street-view-coverage.html"><strong>Google Street View in 2026</strong> <code>tech.marksblogg.com</code></a> - <a href="https://news.ycombinator.com/item?id=47169278">101 comments 136 points</a></li>
+<li><a href="https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel"><strong>Palantir&#39;s AI Is Playing a Major Role in Tracking Gaza Aid Deliveries</strong> <code>www.dropsitenews.com</code></a> - <a href="https://news.ycombinator.com/item?id=47174777">50 comments 130 points</a></li>
+<li><a href="https://twitter.com/KryDotExe/status/2026806591517856208"><strong>Twitch: &quot;Hey, come back! This commercial break can&#39;t play while you&#39;re away.&quot;</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47169748">100 comments 129 points</a></li>
+<li><a href="https://garymarcus.substack.com/p/america-and-probably-the-world-stands"><strong>America, and probably the world, stands on a precipice</strong> <code>garymarcus.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47171771">79 comments 129 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=aoag03mSuXQ"><strong>Story of XZ Backdoor [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=47166473">47 comments 124 points</a></li>
+<li><a href="https://bookriot.com/hr7661-book-ban-legislation/"><strong>A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives</strong> <code>bookriot.com</code></a> - <a href="https://news.ycombinator.com/item?id=47176157">78 comments 117 points</a></li>
+<li><a href="https://www.usecardboard.com/"><strong>Launch HN: Cardboard (YC W26) – Agentic video editor</strong> <code>www.usecardboard.com</code></a> - <a href="https://news.ycombinator.com/item?id=47170174">58 comments 109 points</a></li>
+<li><a href="https://www.hollywoodreporter.com/business/business-news/netflix-backs-out-warners-deal-paramount-win-1236516763/"><strong>Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win</strong> <code>www.hollywoodreporter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47173583">85 comments 108 points</a></li>
+<li><a href="https://redirect.github.com/vercel-labs/just-bash"><strong>Just-bash: Bash for Agents</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47165648">67 comments 108 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-02-26]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1259</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html"><strong>Native Instruments enters into insolvency proceedings</strong> <code>www.engadget.com</code></a> - <a href="https://news.ycombinator.com/item?id=46800645">27 comments 101 points</a></li>
 <li><a href="https://netrinos.com/blog/conflicting-subnets"><strong>When Every Network is 192.168.1.x</strong> <code>netrinos.com</code></a> - <a href="https://news.ycombinator.com/item?id=46795582">81 comments 100 points</a></li>
 <li><a href="https://hcs64.com/video-boy-vue/"><strong>Virtual Boy on TV with Intelligent Systems Video Boy</strong> <code>hcs64.com</code></a> - <a href="https://news.ycombinator.com/item?id=46792572">36 comments 94 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-01-28]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1229</link>
-            <guid>1229</guid>
-            <pubDate>Wed, 28 Jan 2026 07:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec"><strong>TikTok users can&#39;t upload anti-ICE videos. The company blames tech issues</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=46779809">870 comments 1340 points</a></li>
-<li><a href="https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041"><strong>FBI is investigating Minnesota Signal chats tracking ICE</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46783254">847 comments 691 points</a></li>
-<li><a href="https://openai.com/index/introducing-prism"><strong>Prism</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=46783752">322 comments 583 points</a></li>
-<li><a href="https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office"><strong>U.S. government has lost more than 10k STEM PhDs since Trump took office</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=46784263">357 comments 508 points</a></li>
-<li><a href="https://tech.lgbt/@JadedBlueEyes/115967791152135761"><strong>Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn&#39;t</strong> <code>tech.lgbt</code></a> - <a href="https://news.ycombinator.com/item?id=46781516">184 comments 500 points</a></li>
-<li><a href="https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html"><strong>430k-year-old well-preserved wooden tools are the oldest ever found</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=46781530">211 comments 393 points</a></li>
-<li><a href="https://tonystr.net/blog/git_immitation"><strong>I made my own Git</strong> <code>tonystr.net</code></a> - <a href="https://news.ycombinator.com/item?id=46778341">158 comments 350 points</a></li>
-<li><a href="https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing"><strong>Doing the thing is doing the thing</strong> <code>www.softwaredesign.ing</code></a> - <a href="https://news.ycombinator.com/item?id=46776155">113 comments 338 points</a></li>
-<li><a href="https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas"><strong>Celebrities say they are being censored by TikTok after speaking out against ICE</strong> <code>www.pride.com</code></a> - <a href="https://news.ycombinator.com/item?id=46777652">220 comments 337 points</a></li>
-<li><a href="https://alexxcons.github.io/blogpost_15.html"><strong>Xfwl4 – The Roadmap for a Xfce Wayland Compositor</strong> <code>alexxcons.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46779645">227 comments 301 points</a></li>
-<li><a href="https://www.web3isgoinggreat.com/single/lick-theft"><strong>Thief of $90M in seized U.S.-controlled crypto is gov&#39;t contractor&#39;s son</strong> <code>www.web3isgoinggreat.com</code></a> - <a href="https://news.ycombinator.com/item?id=46787521">60 comments 292 points</a></li>
-<li><a href="https://amutable.com/about"><strong>Lennart Poettering, Christian Brauner founded a new company</strong> <code>amutable.com</code></a> - <a href="https://news.ycombinator.com/item?id=46784572">362 comments 273 points</a></li>
-<li><a href="https://www.cnn.com/2026/01/27/food/amazon-fresh-go-closures"><strong>Amazon to shut down Go and Fresh stores</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=46781707">4 comments 233 points</a></li>
-<li><a href="https://monkeyball-online.pages.dev/"><strong>Super Monkey Ball ported to a website</strong> <code>monkeyball-online.pages.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46789961">63 comments 228 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/c20gg729y1yo"><strong>Russia using Interpol&#39;s wanted list to target critics abroad, leak reveals</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46776454">74 comments 215 points</a></li>
-<li><a href="https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html"><strong>Amazon closing its Fresh and Go stores</strong> <code>finance.yahoo.com</code></a> - <a href="https://news.ycombinator.com/item?id=46781444">418 comments 214 points</a></li>
-<li><a href="https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b"><strong>The age of Pump and Dump software</strong> <code>tautvilas.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=46780065">70 comments 206 points</a></li>
-<li><a href="https://redirect.github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6"><strong>Clawdbot Renames to Moltbot</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46783863">175 comments 205 points</a></li>
-<li><a href="https://emsh.cat/one-human-one-agent-one-browser/"><strong>Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC</strong> <code>emsh.cat</code></a> - <a href="https://news.ycombinator.com/item?id=46779522">103 comments 199 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/crrnee01r9jo"><strong>India and EU announce landmark trade deal</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46778821">207 comments 185 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/c24g8v6qr1mo"><strong>TikTok settles just before social media addiction trial to begin</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46786237">174 comments 170 points</a></li>
-<li><a href="https://allenai.org/blog/open-coding-agents"><strong>AI2: Open Coding Agents</strong> <code>allenai.org</code></a> - <a href="https://news.ycombinator.com/item?id=46783017">24 comments 168 points</a></li>
-<li><a href="https://haveibeenpwned.com/Breach/SoundCloud"><strong>SoundCloud Data Breach Now on HaveIBeenPwned</strong> <code>haveibeenpwned.com</code></a> - <a href="https://news.ycombinator.com/item?id=46782930">86 comments 167 points</a></li>
-<li><a href="https://redirect.github.com/kangtastic/timestation"><strong>Time Station Emulator</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46786183">39 comments 145 points</a></li>
-<li><a href="https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities"><strong>AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release</strong> <code>aisle.com</code></a> - <a href="https://news.ycombinator.com/item?id=46789913">94 comments 143 points</a></li>
-<li><a href="https://www.404media.co/dhs-says-critical-ice-surveillance-footage-from-abuse-case-was-actually-never-recorded-doesnt-matter/"><strong>DHS: Critical ICE surveillance footage from abuse case was never recorded</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=46783177">20 comments 133 points</a></li>
-<li><a href="https://campedersen.com/vcad"><strong>Parametric CAD in Rust</strong> <code>campedersen.com</code></a> - <a href="https://news.ycombinator.com/item?id=46786196">79 comments 130 points</a></li>
-<li><a href="https://crescentro.se/posts/linux-music-players-2026/"><strong>The state of Linux music players in 2026</strong> <code>crescentro.se</code></a> - <a href="https://news.ycombinator.com/item?id=46776564">135 comments 125 points</a></li>
-<li><a href="https://www.rte.ie/news/europe/2026/0127/1555251-france-social-media-ban/"><strong>France passes bill to ban social media use by under-15s</strong> <code>www.rte.ie</code></a> - <a href="https://news.ycombinator.com/item?id=46776272">160 comments 123 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=46778461"><strong>Ask HN: Books to learn 6502 ASM and the Apple II</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=46778461">65 comments 93 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
