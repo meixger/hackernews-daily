@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 13 Mar 2026 07:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 07:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-03-13]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1274</link>
+            <guid>1274</guid>
+            <pubDate>Fri, 13 Mar 2026 07:29:19 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://malus.sh"><strong>Malus – Clean Room as a Service</strong> <code>malus.sh</code></a> - <a href="https://news.ycombinator.com/item?id=47350424">432 comments 1194 points</a></li>
+<li><a href="https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0"><strong>Shall I implement it? No</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47357042">443 comments 1170 points</a></li>
+<li><a href="https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"><strong>Innocent woman jailed after being misidentified using AI facial recognition</strong> <code>www.grandforksherald.com</code></a> - <a href="https://news.ycombinator.com/item?id=47356968">289 comments 560 points</a></li>
+<li><a href="https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller"><strong>ATMs didn’t kill bank teller jobs, but the iPhone did</strong> <code>davidoks.blog</code></a> - <a href="https://news.ycombinator.com/item?id=47351371">421 comments 393 points</a></li>
+<li><a href="https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/"><strong>Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=47352215">328 comments 392 points</a></li>
+<li><a href="https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d"><strong>US private credit defaults hit record 9.2% in 2025, Fitch says</strong> <code>www.marketscreener.com</code></a> - <a href="https://news.ycombinator.com/item?id=47349806">399 comments 342 points</a></li>
+<li><a href="https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook"><strong>Big data on the cheapest MacBook</strong> <code>duckdb.org</code></a> - <a href="https://news.ycombinator.com/item?id=47349277">275 comments 342 points</a></li>
+<li><a href="https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/"><strong>Dolphin Progress Release 2603</strong> <code>dolphin-emu.org</code></a> - <a href="https://news.ycombinator.com/item?id=47348304">54 comments 322 points</a></li>
+<li><a href="https://parametricavocado.itch.io/amen-sorting"><strong>Bubble Sorted Amen Break</strong> <code>parametricavocado.itch.io</code></a> - <a href="https://news.ycombinator.com/item?id=47354098">94 comments 313 points</a></li>
+<li><a href="https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/"><strong>“This is not the computer for you”</strong> <code>samhenri.gold</code></a> - <a href="https://news.ycombinator.com/item?id=47359744">134 comments 290 points</a></li>
+<li><a href="https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html"><strong>Reversing memory loss via gut-brain communication</strong> <code>med.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47353533">114 comments 290 points</a></li>
+<li><a href="https://codespeak.dev/"><strong>Kotlin creator&#39;s new language: talk to LLMs in specs, not English</strong> <code>codespeak.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47350931">248 comments 289 points</a></li>
+<li><a href="https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html"><strong>The Met releases high-def 3D scans of 140 famous art objects</strong> <code>www.openculture.com</code></a> - <a href="https://news.ycombinator.com/item?id=47352459">50 comments 265 points</a></li>
+<li><a href="https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/"><strong>Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=47352297">63 comments 262 points</a></li>
+<li><a href="https://www.oliver-charles.com/pages/3d-knitting"><strong>3D-Knitting: The Ultimate Guide</strong> <code>www.oliver-charles.com</code></a> - <a href="https://news.ycombinator.com/item?id=47347945">79 comments 228 points</a></li>
+<li><a href="https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html"><strong>1B identity records exposed in ID verification data leak</strong> <code>www.aol.com</code></a> - <a href="https://news.ycombinator.com/item?id=47348440">53 comments 217 points</a></li>
+<li><a href="https://iquilezles.org/articles/noacos/"><strong>Avoiding Trigonometry (2013)</strong> <code>iquilezles.org</code></a> - <a href="https://news.ycombinator.com/item?id=47348192">66 comments 216 points</a></li>
+<li><a href="https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/"><strong>US banks&#39; exposure to private credit hits $300B (2025)</strong> <code>alternativecreditinvestor.com</code></a> - <a href="https://news.ycombinator.com/item?id=47349798">5 comments 214 points</a></li>
+<li><a href="https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/"><strong>Suburban school district uses license plate readers to verify student residency</strong> <code>www.nbcchicago.com</code></a> - <a href="https://news.ycombinator.com/item?id=47351239">240 comments 189 points</a></li>
+<li><a href="https://claude.com/blog/claude-builds-visuals"><strong>Claude now creates interactive charts, diagrams and visualizations</strong> <code>claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=47352751">105 comments 189 points</a></li>
+<li><a href="https://rachelbythebay.com/w/2022/01/26/swcbbs/"><strong>An old photo of a large BBS (2022)</strong> <code>rachelbythebay.com</code></a> - <a href="https://news.ycombinator.com/item?id=47356017">129 comments 181 points</a></li>
+<li><a href="https://redirect.github.com/jrswab/axe"><strong>Show HN: Axe – A 12MB binary that replaces your AI framework</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47350516">100 comments 178 points</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/"><strong>Apple&#39;s MacBook Neo makes repairs easier and cheaper than other MacBooks</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47353993">104 comments 171 points</a></li>
+<li><a href="https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters"><strong>US- and Greek-owned tankers ablaze after Iran claims &#39;underwater drone&#39; strike</strong> <code>www.lloydslist.com</code></a> - <a href="https://news.ycombinator.com/item?id=47352262">266 comments 168 points</a></li>
+<li><a href="https://vite.dev/blog/announcing-vite8"><strong>Vite 8.0 Is Out</strong> <code>vite.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47360730">21 comments 166 points</a></li>
+<li><a href="https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward"><strong>White House plan to break up iconic U.S. climate lab moves forward</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=47355702">175 comments 160 points</a></li>
+<li><a href="https://entropicthoughts.com/no-swe-bench-improvement"><strong>Are LLM merge rates not getting better?</strong> <code>entropicthoughts.com</code></a> - <a href="https://news.ycombinator.com/item?id=47349334">125 comments 139 points</a></li>
+<li><a href="https://redirect.github.com/onecli/onecli"><strong>Show HN: OneCLI – Vault for AI Agents in Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47353558">41 comments 139 points</a></li>
+<li><a href="https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths"><strong>Colon cancer now leading cause of cancer deaths under 50 in US</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=47352277">197 comments 138 points</a></li>
+<li><a href="https://maritime-executive.com/article/u-s-navy-turns-down-strait-of-hormuz-escort-requests-because-of-high-risk"><strong>U.S. Navy turns down Hormuz escort requests because of high risk</strong> <code>maritime-executive.com</code></a> - <a href="https://news.ycombinator.com/item?id=47348397">140 comments 130 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-03-12]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1273</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/"><strong>Microwave Oven Failure: Spontaneously turned on by its LED display (2024)</strong> <code>blog.stuffedcow.net</code></a> - <a href="https://news.ycombinator.com/item?id=46979936">30 comments 91 points</a></li>
 <li><a href="https://www.terracenetworks.com/blog/2026-02-11-telnet-routing"><strong>Reports of Telnet&#39;s death have been greatly exaggerated</strong> <code>www.terracenetworks.com</code></a> - <a href="https://news.ycombinator.com/item?id=46980355">38 comments 90 points</a></li>
 <li><a href="https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163"><strong>The AI Vampire</strong> <code>steve-yegge.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=46972179">100 comments 85 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-02-11]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1244</link>
-            <guid>1244</guid>
-            <pubDate>Wed, 11 Feb 2026 07:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://campedersen.com/singularity"><strong>The Singularity will occur on a Tuesday</strong> <code>campedersen.com</code></a> - <a href="https://news.ycombinator.com/item?id=46962996">565 comments 989 points</a></li>
-<li><a href="https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/"><strong>Europe&#39;s $24T Breakup with Visa and Mastercard Has Begun</strong> <code>europeanbusinessmagazine.com</code></a> - <a href="https://news.ycombinator.com/item?id=46958399">677 comments 822 points</a></li>
-<li><a href="https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/"><strong>Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number</strong> <code>theintercept.com</code></a> - <a href="https://news.ycombinator.com/item?id=46963804">299 comments 737 points</a></li>
-<li><a href="https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/"><strong>I started programming when I was 7. I&#39;m 50 now and the thing I loved has changed</strong> <code>www.jamesdrandall.com</code></a> - <a href="https://news.ycombinator.com/item?id=46960675">565 comments 716 points</a></li>
-<li><a href="https://oxide.computer/blog/our-200m-series-c"><strong>Oxide raises $200M Series C</strong> <code>oxide.computer</code></a> - <a href="https://news.ycombinator.com/item?id=46960036">298 comments 565 points</a></li>
-<li><a href="https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html"><strong>Jury told that Meta, Google &#39;engineered addiction&#39; at landmark US trial</strong> <code>techxplore.com</code></a> - <a href="https://news.ycombinator.com/item?id=46959832">357 comments 468 points</a></li>
-<li><a href="https://entire.io/blog/hello-entire-world/"><strong>Ex-GitHub CEO launches a new developer platform for AI agents</strong> <code>entire.io</code></a> - <a href="https://news.ycombinator.com/item?id=46961345">409 comments 452 points</a></li>
-<li><a href="https://qwen.ai/blog?id=qwen-image-2.0"><strong>Qwen-Image-2.0: Professional infographics, exquisite photorealism</strong> <code>qwen.ai</code></a> - <a href="https://news.ycombinator.com/item?id=46957198">171 comments 394 points</a></li>
-<li><a href="https://code.idtech.space/fn/hl2"><strong>Clean-room implementation of Half-Life 2 on the Quake 1 engine</strong> <code>code.idtech.space</code></a> - <a href="https://news.ycombinator.com/item?id=46958231">78 comments 372 points</a></li>
-<li><a href="https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/"><strong>The Day the Telnet Died</strong> <code>www.labs.greynoise.io</code></a> - <a href="https://news.ycombinator.com/item?id=46967772">210 comments 307 points</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time"><strong>The US is flirting with its first-ever population decline</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=46960624">879 comments 283 points</a></li>
-<li><a href="https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh"><strong>Vercel&#39;s CEO offers to cover expenses of &#39;Jmail&#39;</strong> <code>www.threads.com</code></a> - <a href="https://news.ycombinator.com/item?id=46960517">184 comments 274 points</a></li>
-<li><a href="https://www.feynmanlectures.caltech.edu/"><strong>The Feynman Lectures on Physics (1961-1964)</strong> <code>www.feynmanlectures.caltech.edu</code></a> - <a href="https://news.ycombinator.com/item?id=46958345">71 comments 268 points</a></li>
-<li><a href="https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time"><strong>Simplifying Vulkan one subsystem at a time</strong> <code>www.khronos.org</code></a> - <a href="https://news.ycombinator.com/item?id=46959418">153 comments 240 points</a></li>
-<li><a href="https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"><strong>Parse, Don&#39;t Validate (2019)</strong> <code>lexi-lambda.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=46960392">156 comments 229 points</a></li>
-<li><a href="https://www.infinitelymore.xyz/p/complex-numbers-essential-structure"><strong>Mathematicians disagree on the essential structure of the complex numbers (2024)</strong> <code>www.infinitelymore.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=46962402">243 comments 196 points</a></li>
-<li><a href="https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2"><strong>Semaglutide improves knee osteoarthritis independant of weight loss</strong> <code>www.cell.com</code></a> - <a href="https://news.ycombinator.com/item?id=46962801">138 comments 179 points</a></li>
-<li><a href="https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052"><strong>How did Windows 95 get permission to put Weezer video &#39;Buddy Holly&#39; on the CD?</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=46965440">121 comments 163 points</a></li>
-<li><a href="https://www.londoncentric.media/p/london-tiktok-fake-news-creator-hate-immigrants"><strong>&quot;Hate brings views&quot;: Confessions of a London fake news TikToker</strong> <code>www.londoncentric.media</code></a> - <a href="https://news.ycombinator.com/item?id=46962924">100 comments 161 points</a></li>
-<li><a href="https://redirect.github.com/rowboatlabs/rowboat"><strong>Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=46962641">34 comments 152 points</a></li>
-<li><a href="https://ba.antheas.dev/bazzite-postmortem.html"><strong>Bazzite Post-Mortem</strong> <code>ba.antheas.dev</code></a> - <a href="https://news.ycombinator.com/item?id=46961261">122 comments 114 points</a></li>
-<li><a href="https://hazemkrimi.tech/blog/linux-self-hosting-journey/"><strong>The switch to Linux and the beginning of my self-hosting journey</strong> <code>hazemkrimi.tech</code></a> - <a href="https://news.ycombinator.com/item?id=46964159">132 comments 111 points</a></li>
-<li><a href="https://www.nbcnews.com/health/health-news/fda-declines-review-modernas-mrna-flu-shot-rcna258436"><strong>FDA declines to review Moderna&#39;s mRNA flu shot</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=46968424">44 comments 109 points</a></li>
-<li><a href="https://rivian.com/r2"><strong>Rivian R2: Electric Mid-Size SUV</strong> <code>rivian.com</code></a> - <a href="https://news.ycombinator.com/item?id=46969399">163 comments 96 points</a></li>
-<li><a href="https://www.kraxel.org/blog/2026/01/thank-you-ai/"><strong>End of an era for me: no more self-hosted git</strong> <code>www.kraxel.org</code></a> - <a href="https://news.ycombinator.com/item?id=46969751">55 comments 95 points</a></li>
-<li><a href="https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/"><strong>Toyotas and Terrorists: &quot;Why are ISIS&#39;s trucks better than ours?&quot; (2023)</strong> <code>www.airuniversity.af.edu</code></a> - <a href="https://news.ycombinator.com/item?id=46965776">111 comments 93 points</a></li>
-<li><a href="https://www.ablg.io/blog/competition-is-not-validation"><strong>Competition is not market validation</strong> <code>www.ablg.io</code></a> - <a href="https://news.ycombinator.com/item?id=46961726">29 comments 93 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/ckgzv529v5no"><strong>Australian author&#39;s erotic novel is child sex abuse material, judge finds</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=46959067">102 comments 89 points</a></li>
-<li><a href="https://simonwillison.net/2026/Feb/10/showboat-and-rodney/"><strong>Show HN: Showboat and Rodney, so agents can demo what they&#39;ve built</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=46963887">51 comments 87 points</a></li>
-<li><a href="https://pboyd.io/posts/redefining-go-functions/"><strong>Redefining Go Functions</strong> <code>pboyd.io</code></a> - <a href="https://news.ycombinator.com/item?id=46960118">26 comments 87 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
