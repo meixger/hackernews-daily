@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 20 Mar 2026 07:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 07:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-03-20]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1281</link>
+            <guid>1281</guid>
+            <pubDate>Fri, 20 Mar 2026 07:30:24 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://astral.sh/blog/openai"><strong>Astral to Join OpenAI</strong> <code>astral.sh</code></a> - <a href="https://news.ycombinator.com/item?id=47438723">816 comments 1321 points</a></li>
+<li><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/"><strong>Afroman found not liable in defamation case</strong> <code>nypost.com</code></a> - <a href="https://news.ycombinator.com/item?id=47436950">665 comments 1147 points</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/"><strong>Google details new 24-hour process to sideload unverified Android apps</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47442690">787 comments 710 points</a></li>
+<li><a href="https://daringfireball.net/2026/03/your_frustration_is_the_product"><strong>“Your frustration is the product”</strong> <code>daringfireball.net</code></a> - <a href="https://news.ycombinator.com/item?id=47437655">304 comments 512 points</a></li>
+<li><a href="https://redirect.github.com/anomalyco/opencode/pull/18186"><strong>Anthropic takes legal action against OpenCode</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47444748">336 comments 420 points</a></li>
+<li><a href="https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f"><strong>Denmark was reportedly preparing for full-scale war with the US over Greenland</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=47437782">565 comments 399 points</a></li>
+<li><a href="https://redirect.github.com/KittenML/KittenTTS"><strong>Show HN: Three new Kitten TTS models – smallest less than 25MB</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47441546">153 comments 398 points</a></li>
+<li><a href="https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html"><strong>Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47438001">3 comments 384 points</a></li>
+<li><a href="https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a"><strong>macOS 26 breaks custom DNS settings including .internal</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47440759">186 comments 349 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c624330lg1ko"><strong>4Chan mocks £520k fine for UK online safety breaches</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47440430">583 comments 345 points</a></li>
+<li><a href="https://code.claude.com/docs/en/channels"><strong>Push events into a running session with channels</strong> <code>code.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=47448524">171 comments 310 points</a></li>
+<li><a href="https://www.openttd.org/news/2026/03/19/steam-changes-update"><strong>An update on Steam / GOG changes for OpenTTD</strong> <code>www.openttd.org</code></a> - <a href="https://news.ycombinator.com/item?id=47442834">207 comments 308 points</a></li>
+<li><a href="https://waymo.com/safety/impact/"><strong>Waymo Safety Impact</strong> <code>waymo.com</code></a> - <a href="https://news.ycombinator.com/item?id=47445246">295 comments 292 points</a></li>
+<li><a href="https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/"><strong>Iran war energy shock sparks global push to reduce fossil fuel dependence</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=47437516">379 comments 290 points</a></li>
+<li><a href="https://consequence.net/2019/07/juggalo-makeup-facial-recognition/"><strong>Juggalo makeup blocks facial recognition technology (2019)</strong> <code>consequence.net</code></a> - <a href="https://news.ycombinator.com/item?id=47438675">146 comments 253 points</a></li>
+<li><a href="https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years"><strong>Wayland set the Linux Desktop back by 10 years?</strong> <code>omar.yt</code></a> - <a href="https://news.ycombinator.com/item?id=47448328">280 comments 251 points</a></li>
+<li><a href="https://redirect.github.com/cockpit-project/cockpit"><strong>Cockpit is a web-based graphical interface for servers</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47445599">135 comments 240 points</a></li>
+<li><a href="https://undeadly.org/cgi?action=article;sid=20260319125859"><strong>OpenBSD: PF queues break the 4 Gbps barrier</strong> <code>undeadly.org</code></a> - <a href="https://news.ycombinator.com/item?id=47439320">60 comments 191 points</a></li>
+<li><a href="https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"><strong>2% of ICML papers desk rejected because the authors used LLM in their reviews</strong> <code>blog.icml.cc</code></a> - <a href="https://news.ycombinator.com/item?id=47437101">152 comments 190 points</a></li>
+<li><a href="https://www.iroh.computer/blog/noq-announcement"><strong>Noq: n0&#39;s new QUIC implementation in Rust</strong> <code>www.iroh.computer</code></a> - <a href="https://news.ycombinator.com/item?id=47443588">24 comments 188 points</a></li>
+<li><a href="https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf"><strong>Tesla: Failure of the FSD&#39;s degradation detection system [pdf]</strong> <code>static.nhtsa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47445175">106 comments 180 points</a></li>
+<li><a href="https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell"><strong>ArXiv Declares Independence from Cornell</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=47450478">33 comments 161 points</a></li>
+<li><a href="https://blog.skypilot.co/scaling-autoresearch/"><strong>Scaling Karpathy&#39;s Autoresearch: What Happens When the Agent Gets a GPU Cluster</strong> <code>blog.skypilot.co</code></a> - <a href="https://news.ycombinator.com/item?id=47442435">69 comments 159 points</a></li>
+<li><a href="https://openai.com/index/openai-to-acquire-astral/"><strong>OpenAI to Acquire Astral</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=47438716">5 comments 159 points</a></li>
+<li><a href="https://taylor.town/succession-000"><strong>How to defer US taxes</strong> <code>taylor.town</code></a> - <a href="https://news.ycombinator.com/item?id=47442699">150 comments 155 points</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"><strong>A rogue AI led to a serious security incident at Meta</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=47444195">120 comments 148 points</a></li>
+<li><a href="https://qlabs.sh/10x"><strong>NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute</strong> <code>qlabs.sh</code></a> - <a href="https://news.ycombinator.com/item?id=47444072">28 comments 135 points</a></li>
+<li><a href="https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html"><strong>Bombarding gamblers with offers greatly increases betting and gambling harm</strong> <code>www.bristol.ac.uk</code></a> - <a href="https://news.ycombinator.com/item?id=47447600">97 comments 129 points</a></li>
+<li><a href="https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404"><strong>Drugwars for the TI-82/83/83 Calculators (2011)</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47448566">47 comments 128 points</a></li>
+<li><a href="https://www.worldhappiness.report/ed/2026/"><strong>World Happiness Report 2026</strong> <code>www.worldhappiness.report</code></a> - <a href="https://news.ycombinator.com/item?id=47441784">101 comments 125 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-03-19]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1280</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/"><strong>AVX2 is slower than SSE2-4.x under Windows ARM emulation</strong> <code>blogs.remobjects.com</code></a> - <a href="https://news.ycombinator.com/item?id=47061062">82 comments 111 points</a></li>
 <li><a href="https://replay.software/updates/introducing-echo"><strong>Show HN: Echo, an iOS SSH+mosh client built on Ghostty</strong> <code>replay.software</code></a> - <a href="https://news.ycombinator.com/item?id=47064787">69 comments 111 points</a></li>
 <li><a href="https://cpojer.net/posts/fastest-frontend-tooling"><strong>Fastest Front End Tooling for Humans and AI</strong> <code>cpojer.net</code></a> - <a href="https://news.ycombinator.com/item?id=47060052">79 comments 108 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-02-18]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1251</link>
-            <guid>1251</guid>
-            <pubDate>Wed, 18 Feb 2026 07:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://blog.tomaszdunia.pl/grapheneos-eng/"><strong>GrapheneOS – Break Free from Google and Apple</strong> <code>blog.tomaszdunia.pl</code></a> - <a href="https://news.ycombinator.com/item?id=47045612">786 comments 1105 points</a></li>
-<li><a href="https://www.anthropic.com/news/claude-sonnet-4-6"><strong>Claude Sonnet 4.6</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47050488">916 comments 1041 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=47049824"><strong>Thank HN: You helped save 33k lives</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47049824">75 comments 710 points</a></li>
-<li><a href="https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341"><strong>CBS didn&#39;t air Rep. James Talarico interview out of fear of FCC</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=47049426">221 comments 486 points</a></li>
-<li><a href="https://www.arthurcnops.blog/death-of-show-hn/"><strong>Is Show HN dead? No, but it&#39;s drowning</strong> <code>www.arthurcnops.blog</code></a> - <a href="https://news.ycombinator.com/item?id=47045804">382 comments 461 points</a></li>
-<li><a href="https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/"><strong>Tesla &#39;Robotaxi&#39; adds 5 more crashes in Austin in a month – 4x worse than humans</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=47051546">237 comments 429 points</a></li>
-<li><a href="https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/"><strong>Thousands of CEOs just admitted AI had no impact on employment or productivity</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=47055979">256 comments 369 points</a></li>
-<li><a href="https://asteroidos.org/news/2-0-release/index.html"><strong>Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway</strong> <code>asteroidos.org</code></a> - <a href="https://news.ycombinator.com/item?id=47051852">38 comments 345 points</a></li>
-<li><a href="https://www.sceneandheardnu.com/content/halt-and-catch-fire"><strong>Halt and Catch Fire: TV&#39;s Best Drama You&#39;ve Probably Never Heard Of (2021)</strong> <code>www.sceneandheardnu.com</code></a> - <a href="https://news.ycombinator.com/item?id=47056314">186 comments 341 points</a></li>
-<li><a href="https://go.dev/blog/gofix"><strong>Using go fix to modernize Go code</strong> <code>go.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47049479">68 comments 326 points</a></li>
-<li><a href="https://www.gentoo.org/news/2026/02/16/codeberg.html"><strong>Gentoo on Codeberg</strong> <code>www.gentoo.org</code></a> - <a href="https://news.ycombinator.com/item?id=47050067">109 comments 312 points</a></li>
-<li><a href="https://hackmyclaw.com/"><strong>HackMyClaw</strong> <code>hackmyclaw.com</code></a> - <a href="https://news.ycombinator.com/item?id=47049573">147 comments 292 points</a></li>
-<li><a href="https://redirect.github.com/Zaneham/BarraCUDA"><strong>BarraCUDA Open-source CUDA compiler targeting AMD GPUs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47052941">95 comments 257 points</a></li>
-<li><a href="https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/"><strong>Semantic ablation: Why AI writing is generic and boring</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=47049088">184 comments 245 points</a></li>
-<li><a href="https://aeris.edbn.me/?city=SFO"><strong>I converted 2D conventional flight tracking into 3D</strong> <code>aeris.edbn.me</code></a> - <a href="https://news.ycombinator.com/item?id=47048004">48 comments 243 points</a></li>
-<li><a href="https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3"><strong>Google Public CA is down</strong> <code>status.pki.goog</code></a> - <a href="https://news.ycombinator.com/item?id=47055696">134 comments 237 points</a></li>
-<li><a href="https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693"><strong>Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification</strong> <code>kotaku.com</code></a> - <a href="https://news.ycombinator.com/item?id=47050376">125 comments 232 points</a></li>
-<li><a href="https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/"><strong>Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway</strong> <code>cleantechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47048052">188 comments 225 points</a></li>
-<li><a href="https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel"><strong>So you want to build a tunnel</strong> <code>practical.engineering</code></a> - <a href="https://news.ycombinator.com/item?id=47049718">84 comments 207 points</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/"><strong>Stephen Colbert says CBS forbid interview of Democrat because of FCC threat</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47051793">65 comments 205 points</a></li>
-<li><a href="https://berksoft.ca/gol/"><strong>Show HN: I wrote a technical history book on Lisp</strong> <code>berksoft.ca</code></a> - <a href="https://news.ycombinator.com/item?id=47048733">72 comments 194 points</a></li>
-<li><a href="https://www.vectorware.com/blog/async-await-on-gpu/"><strong>Async/Await on the GPU</strong> <code>www.vectorware.com</code></a> - <a href="https://news.ycombinator.com/item?id=47049628">50 comments 184 points</a></li>
-<li><a href="https://nvie.com/posts/15-years-later/"><strong>15 years later, Microsoft morged my diagram</strong> <code>nvie.com</code></a> - <a href="https://news.ycombinator.com/item?id=47057829">45 comments 182 points</a></li>
-<li><a href="https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard"><strong>America&#39;s pensions can&#39;t beat Vanguard but they can close a hospital</strong> <code>www.governance.fyi</code></a> - <a href="https://news.ycombinator.com/item?id=47048248">327 comments 180 points</a></li>
-<li><a href="https://www.heise.de/en/news/WD-and-Seagate-confirm-Hard-drives-for-2026-sold-out-11178917.html"><strong>WD and Seagate confirm: Hard drives sold out for 2026</strong> <code>www.heise.de</code></a> - <a href="https://news.ycombinator.com/item?id=47045459">180 comments 163 points</a></li>
-<li><a href="https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute"><strong>I swear the UFO is coming any minute</strong> <code>www.experimental-history.com</code></a> - <a href="https://news.ycombinator.com/item?id=47054134">50 comments 145 points</a></li>
-<li><a href="https://girl.surgery/chess"><strong>Chess engines do weird stuff</strong> <code>girl.surgery</code></a> - <a href="https://news.ycombinator.com/item?id=47049845">76 comments 144 points</a></li>
-<li><a href="https://twitter.com/MeshnetCapital/status/2023573563559547180"><strong>A sitting US president launched two memecoins that wiped out $4.3B+</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47050300">61 comments 138 points</a></li>
-<li><a href="https://downdetector.com/status/youtube/"><strong>YouTube Is Down</strong> <code>downdetector.com</code></a> - <a href="https://news.ycombinator.com/item?id=47055723">39 comments 135 points</a></li>
-<li><a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/"><strong>An AI Agent Published a Hit Piece on Me – Forensics and More Fallout</strong> <code>theshamblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=47051956">78 comments 107 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
