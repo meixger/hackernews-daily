@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 31 Mar 2026 06:53:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 07:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-03-31]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1292</link>
+            <guid>1292</guid>
+            <pubDate>Tue, 31 Mar 2026 06:53:25 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://nbailey.ca/post/router/"><strong>How to turn anything into a router</strong> <code>nbailey.ca</code></a> - <a href="https://news.ycombinator.com/item?id=47574034">227 comments 653 points</a></li>
+<li><a href="https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/"><strong>Fedware: Government apps that spy harder than the apps they ban</strong> <code>www.sambent.com</code></a> - <a href="https://news.ycombinator.com/item?id=47577761">166 comments 529 points</a></li>
+<li><a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"><strong>Axios compromised on NPM – Malicious versions drop remote access trojan</strong> <code>www.stepsecurity.io</code></a> - <a href="https://news.ycombinator.com/item?id=47582220">149 comments 490 points</a></li>
+<li><a href="https://alexhwoods.com/dont-let-ai-write-for-you/"><strong>Do your own writing</strong> <code>alexhwoods.com</code></a> - <a href="https://news.ycombinator.com/item?id=47573519">174 comments 476 points</a></li>
+<li><a href="https://www.codingfont.com/"><strong>CodingFont: A game to help you pick a coding font</strong> <code>www.codingfont.com</code></a> - <a href="https://news.ycombinator.com/item?id=47575403">193 comments 385 points</a></li>
+<li><a href="https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"><strong>How the AI Bubble Bursts</strong> <code>martinvol.pe</code></a> - <a href="https://news.ycombinator.com/item?id=47573420">482 comments 357 points</a></li>
+<li><a href="https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/"><strong>1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot</strong> <code>www.neowin.net</code></a> - <a href="https://news.ycombinator.com/item?id=47575212">10 comments 340 points</a></li>
+<li><a href="https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/"><strong>New Washington state law bans noncompete agreements</strong> <code>www.seattletimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47576861">116 comments 315 points</a></li>
+<li><a href="https://www.dhanishsemar.com/writing/bird-brains"><strong>Bird brains (2023)</strong> <code>www.dhanishsemar.com</code></a> - <a href="https://news.ycombinator.com/item?id=47573887">195 comments 312 points</a></li>
+<li><a href="https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"><strong>I am definitely missing the pre-AI writing era</strong> <code>www.lesswrong.com</code></a> - <a href="https://news.ycombinator.com/item?id=47571279">223 comments 303 points</a></li>
+<li><a href="https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803"><strong>15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die</strong> <code>community.webminal.org</code></a> - <a href="https://news.ycombinator.com/item?id=47570940">55 comments 286 points</a></li>
+<li><a href="https://anishathalye.com/macbook-touchscreen/"><strong>Turning a MacBook into a touchscreen with $1 of hardware (2018)</strong> <code>anishathalye.com</code></a> - <a href="https://news.ycombinator.com/item?id=47578572">132 comments 284 points</a></li>
+<li><a href="https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party"><strong>FTC action against Match and OkCupid for deceiving users, sharing personal data</strong> <code>www.ftc.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47575616">137 comments 283 points</a></li>
+<li><a href="https://blog.lysk.tech/excalidraw-frame-export/"><strong>I use Excalidraw to manage my diagrams for my blog</strong> <code>blog.lysk.tech</code></a> - <a href="https://news.ycombinator.com/item?id=47571376">111 comments 275 points</a></li>
+<li><a href="https://redirect.github.com/drona23/claude-token-efficient"><strong>Universal Claude.md – cut Claude output tokens</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47581701">93 comments 244 points</a></li>
+<li><a href="https://30u30.fyi"><strong>Show HN: 30u30.fyi – Is your startup founder on Forbes&#39; most fraudulent list?</strong> <code>30u30.fyi</code></a> - <a href="https://news.ycombinator.com/item?id=47580350">98 comments 232 points</a></li>
+<li><a href="https://claude.nagdy.me/"><strong>Learn Claude Code by doing, not reading</strong> <code>claude.nagdy.me</code></a> - <a href="https://news.ycombinator.com/item?id=47579229">100 comments 221 points</a></li>
+<li><a href="https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html"><strong>Android Developer Verification</strong> <code>android-developers.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=47580297">206 comments 215 points</a></li>
+<li><a href="https://eco3min.fr/en/us-inflation-is-not-linear/"><strong>72% of the dollar&#39;s purchasing power was destroyed in just four episodes</strong> <code>eco3min.fr</code></a> - <a href="https://news.ycombinator.com/item?id=47575089">253 comments 208 points</a></li>
+<li><a href="https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm"><strong>Artemis II is not safe to fly</strong> <code>idlewords.com</code></a> - <a href="https://news.ycombinator.com/item?id=47582043">118 comments 203 points</a></li>
+<li><a href="https://arxiv.org/abs/2603.26524"><strong>Mathematical methods and human thought in the age of AI</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=47572771">83 comments 202 points</a></li>
+<li><a href="https://brianschrader.com/archive/take-better-notes-by-hand/"><strong>Take better notes, by hand</strong> <code>brianschrader.com</code></a> - <a href="https://news.ycombinator.com/item?id=47576317">87 comments 193 points</a></li>
+<li><a href="https://dani2442.github.io/posts/continuous-rl/"><strong>Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models</strong> <code>dani2442.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47571495">46 comments 156 points</a></li>
+<li><a href="https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/"><strong>Vulnerability research is cooked</strong> <code>sockpuppet.org</code></a> - <a href="https://news.ycombinator.com/item?id=47578086">107 comments 152 points</a></li>
+<li><a href="https://www.mgrunwald.com/ghostmoon/"><strong>Ghostmoon.app – A Swiss Army Knife for your macOS menu bar</strong> <code>www.mgrunwald.com</code></a> - <a href="https://news.ycombinator.com/item?id=47572910">115 comments 143 points</a></li>
+<li><a href="https://ollama.com/blog/mlx"><strong>Ollama is now powered by MLX on Apple Silicon in preview</strong> <code>ollama.com</code></a> - <a href="https://news.ycombinator.com/item?id=47582482">46 comments 142 points</a></li>
+<li><a href="https://karlbode.com/ceo-said-a-thing-journalism/"><strong>“CEO said a thing” journalism</strong> <code>karlbode.com</code></a> - <a href="https://news.ycombinator.com/item?id=47577735">71 comments 129 points</a></li>
+<li><a href="https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/"><strong>You are falling behind because you haven&#39;t fed the insincerity machine</strong> <code>christianheilmann.com</code></a> - <a href="https://news.ycombinator.com/item?id=47576978">33 comments 129 points</a></li>
+<li><a href="https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors"><strong>OCR for construction documents does not work, we fixed it</strong> <code>www.getanchorgrid.com</code></a> - <a href="https://news.ycombinator.com/item?id=47576055">89 comments 122 points</a></li>
+<li><a href="https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/"><strong>America Is Now a Rogue Superpower</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47579200">89 comments 114 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-03-30]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1291</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.scottsmitelli.com/articles/you-dont-have-to/"><strong>You don&#39;t have to</strong> <code>www.scottsmitelli.com</code></a> - <a href="https://news.ycombinator.com/item?id=47211029">39 comments 87 points</a></li>
 <li><a href="https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict"><strong>Allegations of insider trading over prediction-market bets tied to Iran conflict</strong> <code>www.morningstar.com</code></a> - <a href="https://news.ycombinator.com/item?id=47211476">45 comments 86 points</a></li>
 <li><a href="https://shawnfromportland.substack.com/p/this-system-can-go-fuck-itself-and"><strong>This system can go fuck itself and burn in hell</strong> <code>shawnfromportland.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47210157">55 comments 83 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-03-01]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1262</link>
-            <guid>1262</guid>
-            <pubDate>Sun, 01 Mar 2026 07:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://help.openai.com/en/articles/6378407-how-to-delete-your-account"><strong>OpenAI – How to delete your account</strong> <code>help.openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=47193478">345 comments 1846 points</a></li>
-<li><a href="https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk"><strong>The United States and Israel have launched a major attack on Iran</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=47191232">2381 comments 1099 points</a></li>
-<li><a href="https://garymarcus.substack.com/p/the-whole-thing-was-scam"><strong>The whole thing was a scam</strong> <code>garymarcus.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47197505">221 comments 738 points</a></li>
-<li><a href="http://karpathy.github.io/2026/02/12/microgpt/"><strong>Microgpt</strong> <code>karpathy.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47202708">101 comments 560 points</a></li>
-<li><a href="https://twitter.com/OpenAI/status/2027846016423321831"><strong>We do not think Anthropic should be designated as a supply chain risk</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47200420">219 comments 463 points</a></li>
-<li><a href="https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/"><strong>Cognitive Debt: When Velocity Exceeds Comprehension</strong> <code>www.rockoder.com</code></a> - <a href="https://news.ycombinator.com/item?id=47196582">204 comments 463 points</a></li>
-<li><a href="https://help.obsidian.md/sync/headless"><strong>Obsidian Sync now has a headless client</strong> <code>help.obsidian.md</code></a> - <a href="https://news.ycombinator.com/item?id=47197267">156 comments 453 points</a></li>
-<li><a href="https://mksg.lu/blog/context-mode"><strong>MCP server that reduces Claude Code context consumption by 98%</strong> <code>mksg.lu</code></a> - <a href="https://news.ycombinator.com/item?id=47193064">75 comments 335 points</a></li>
-<li><a href="https://nanoclaw.dev/blog/nanoclaw-security-model"><strong>Don&#39;t trust AI agents</strong> <code>nanoclaw.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47194611">177 comments 317 points</a></li>
-<li><a href="https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance"><strong>Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers</strong> <code>venturebeat.com</code></a> - <a href="https://news.ycombinator.com/item?id=47199781">192 comments 312 points</a></li>
-<li><a href="https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/"><strong>What AI coding costs you</strong> <code>tomwojcik.com</code></a> - <a href="https://news.ycombinator.com/item?id=47194847">179 comments 301 points</a></li>
-<li><a href="https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/"><strong>Techno‑feudal elite are attempting to build a twenty‑first‑century fascist state</strong> <code>collapseofindustrialcivilization.com</code></a> - <a href="https://news.ycombinator.com/item?id=47198912">86 comments 282 points</a></li>
-<li><a href="https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump"><strong>U.S. and Israel Conduct Strikes on Iran</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47191414">16 comments 282 points</a></li>
-<li><a href="https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/"><strong>OpenAI fires an employee for prediction market insider trading</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=47195317">142 comments 276 points</a></li>
-<li><a href="https://openai.com/index/our-agreement-with-the-department-of-war"><strong>Our Agreement with the Department of War</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=47199948">211 comments 274 points</a></li>
-<li><a href="https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed"><strong>Iran&#39;s Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=47200879">290 comments 228 points</a></li>
-<li><a href="https://redirect.github.com/google-gemini/gemini-cli/discussions/20632"><strong>Addressing Antigravity Bans and Reinstating Access</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47195371">189 comments 227 points</a></li>
-<li><a href="https://nowigetit.us"><strong>Show HN: Now I Get It – Translate scientific papers into interactive webpages</strong> <code>nowigetit.us</code></a> - <a href="https://news.ycombinator.com/item?id=47195123">100 comments 227 points</a></li>
-<li><a href="https://dl.acm.org/doi/fullHtml/10.1145/238386.238611"><strong>The Windows 95 user interface: A case study in usability engineering (1996)</strong> <code>dl.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=47200904">135 comments 225 points</a></li>
-<li><a href="https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs"><strong>Unsloth Dynamic 2.0 GGUFs</strong> <code>unsloth.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47192505">61 comments 219 points</a></li>
-<li><a href="https://blog.vonng.com/en/db/minio-resurrect/"><strong>MinIO Is Dead, Long Live MinIO</strong> <code>blog.vonng.com</code></a> - <a href="https://news.ycombinator.com/item?id=47200342">83 comments 215 points</a></li>
-<li><a href="https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/"><strong>Block the “Upgrade to Tahoe” Alerts</strong> <code>robservatory.com</code></a> - <a href="https://news.ycombinator.com/item?id=47198977">90 comments 194 points</a></li>
-<li><a href="https://apps.apple.com/us/iphone/charts"><strong>Claude becomes number one app on the U.S. App Store</strong> <code>apps.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=47202032">54 comments 192 points</a></li>
-<li><a href="https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00"><strong>Verified Spec-Driven Development (VSDD)</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47197595">93 comments 172 points</a></li>
-<li><a href="https://www.windowscentral.com/artificial-intelligence/cancel-chatgpt-movement-goes-mainstream-after-openai-closes-deal-with-u-s-department-of-war-as-anthropic-refuses-to-surveil-american-citizens"><strong>&quot;Cancel ChatGPT&quot; movement goes mainstream after OpenAI closes deal with U.S. Dow</strong> <code>www.windowscentral.com</code></a> - <a href="https://news.ycombinator.com/item?id=47198973">43 comments 141 points</a></li>
-<li><a href="https://lucijagregov.com/2026/02/26/the-future-of-ai/"><strong>The Future of AI</strong> <code>lucijagregov.com</code></a> - <a href="https://news.ycombinator.com/item?id=47193476">99 comments 125 points</a></li>
-<li><a href="https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl"><strong>US and Israel carrying out strikes against Iran</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=47191437">30 comments 109 points</a></li>
-<li><a href="https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/"><strong>Pentagon chief blocks officers from Ivy League schools and top universities</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=47201882">33 comments 94 points</a></li>
-<li><a href="https://anthropic-timeline.vercel.app"><strong>Timeline: Anthropic, OpenAI, and U.S. Government</strong> <code>anthropic-timeline.vercel.app</code></a> - <a href="https://news.ycombinator.com/item?id=47195085">29 comments 88 points</a></li>
-<li><a href="https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/"><strong>Samsung Galaxy update removes Android recovery menu tools, including sideloading</strong> <code>9to5google.com</code></a> - <a href="https://news.ycombinator.com/item?id=47202808">17 comments 86 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
