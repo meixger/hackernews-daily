@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 01 Apr 2026 07:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 06:53:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-04-01]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1293</link>
+            <guid>1293</guid>
+            <pubDate>Wed, 01 Apr 2026 07:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://twitter.com/Fried_rice/status/2038894956459290963"><strong>Claude Code&#39;s source code has been leaked via a map file in their NPM registry</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47584540">960 comments 1962 points</a></li>
+<li><a href="https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"><strong>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</strong> <code>alex000kim.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586778">425 comments 1096 points</a></li>
+<li><a href="https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/"><strong>Oracle slashes 30k jobs</strong> <code>rollingout.com</code></a> - <a href="https://news.ycombinator.com/item?id=47587935">780 comments 857 points</a></li>
+<li><a href="https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse"><strong>Microsoft: Copilot is for entertainment purposes only</strong> <code>www.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=47587866">181 comments 504 points</a></li>
+<li><a href="https://damrnelson.github.io/github-historical-uptime/"><strong>GitHub&#39;s Historic Uptime</strong> <code>damrnelson.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47591928">111 comments 455 points</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/"><strong>OkCupid gave 3M dating-app photos to facial recognition firm, FTC says</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47591104">91 comments 435 points</a></li>
+<li><a href="https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"><strong>OpenAI closes funding round at an $852B valuation</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47592755">360 comments 413 points</a></li>
+<li><a href="https://solvespace.com/webver.pl"><strong>Open source CAD in the browser (Solvespace)</strong> <code>solvespace.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586614">104 comments 320 points</a></li>
+<li><a href="https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/"><strong>Claude Code users hitting usage limits &#39;way faster than expected&#39;</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586176">183 comments 297 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=47588658"><strong>Tell HN: Chrome says &quot;suspicious download&quot; when trying to download yt-dlp</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47588658">89 comments 276 points</a></li>
+<li><a href="https://responsiblestatecraft.org/iran-strait-of-hormuz/"><strong>Why the US Navy won&#39;t blast the Iranians and &#39;open&#39; Strait of Hormuz</strong> <code>responsiblestatecraft.org</code></a> - <a href="https://news.ycombinator.com/item?id=47584795">700 comments 262 points</a></li>
+<li><a href="https://scottlawsonbc.com/post/dot-system"><strong>A dot a day keeps the clutter away</strong> <code>scottlawsonbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47593556">80 comments 258 points</a></li>
+<li><a href="https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security"><strong>U.S. exempts oil industry from protecting Gulf animals, for &#39;national security&#39;</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=47595620">84 comments 224 points</a></li>
+<li><a href="https://www.greptile.com/blog/ai-slopware-future"><strong>Slop is not necessarily the future</strong> <code>www.greptile.com</code></a> - <a href="https://news.ycombinator.com/item?id=47587953">371 comments 216 points</a></li>
+<li><a href="https://prismml.com/"><strong>Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs</strong> <code>prismml.com</code></a> - <a href="https://news.ycombinator.com/item?id=47593422">86 comments 208 points</a></li>
+<li><a href="https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/"><strong>We intercepted the White House app&#39;s network traffic</strong> <code>www.atomic.computer</code></a> - <a href="https://news.ycombinator.com/item?id=47595865">60 comments 201 points</a></li>
+<li><a href="https://ministack.org/"><strong>MiniStack (replacement for LocalStack)</strong> <code>ministack.org</code></a> - <a href="https://news.ycombinator.com/item?id=47593285">38 comments 197 points</a></li>
+<li><a href="https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/"><strong>Italy blocks US use of Sicily air base for Middle East war</strong> <code>www.politico.eu</code></a> - <a href="https://news.ycombinator.com/item?id=47589011">99 comments 189 points</a></li>
+<li><a href="https://cohere.com/blog/transcribe"><strong>Cohere Transcribe: Speech Recognition</strong> <code>cohere.com</code></a> - <a href="https://news.ycombinator.com/item?id=47589818">55 comments 183 points</a></li>
+<li><a href="https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/"><strong>My son pleasured himself on Gemini Live. Entire family&#39;s Google accounts banned</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=47595971">124 comments 169 points</a></li>
+<li><a href="https://tinyapl.rubenverg.com/docs/info/combinators"><strong>Combinators</strong> <code>tinyapl.rubenverg.com</code></a> - <a href="https://news.ycombinator.com/item?id=47585974">39 comments 140 points</a></li>
+<li><a href="https://www.wsj.com/finance/stocks/wall-street-is-finishing-the-worst-quarter-for-stocks-in-four-years-31ac41ea"><strong>U.S. stocks are set to deliver their worst quarter in nearly four years</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586018">223 comments 138 points</a></li>
+<li><a href="https://redirect.github.com/timescale/pg_textsearch"><strong>Show HN: Postgres extension for BM25 relevance-ranked full-text search</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47589856">40 comments 136 points</a></li>
+<li><a href="https://ccunpacked.dev/"><strong>Claude Code Unpacked : A visual guide</strong> <code>ccunpacked.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47597085">30 comments 131 points</a></li>
+<li><a href="https://lettermatic.com/custom/monaspace-case-study"><strong>GitHub Monaspace Case Study</strong> <code>lettermatic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47588349">40 comments 127 points</a></li>
+<li><a href="https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"><strong>Neanderthals survived on a knife&#39;s edge for 350k years</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=47595572">54 comments 112 points</a></li>
+<li><a href="https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"><strong>I traced my traffic through a home Tailscale exit node</strong> <code>tech.stonecharioteer.com</code></a> - <a href="https://news.ycombinator.com/item?id=47592462">48 comments 105 points</a></li>
+<li><a href="https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career"><strong>Nobody is coming to save your career</strong> <code>alifeengineered.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586814">107 comments 103 points</a></li>
+<li><a href="https://rubycentral.org/news/rubygems-fracture-incident-report/"><strong>RubyGems Fracture Incident Report</strong> <code>rubycentral.org</code></a> - <a href="https://news.ycombinator.com/item?id=47587631">38 comments 91 points</a></li>
+<li><a href="https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"><strong>Ordinary Lab Gloves May Have Skewed Microplastic Data</strong> <code>nautil.us</code></a> - <a href="https://news.ycombinator.com/item?id=47593634">30 comments 91 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-03-31]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1292</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/"><strong>Closure of the Weatheradio service in Canada</strong> <code>www.rac.ca</code></a> - <a href="https://news.ycombinator.com/item?id=47225505">54 comments 114 points</a></li>
 <li><a href="https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886"><strong>Show HN: uBlock filter list to blur all Instagram Reels</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47223147">31 comments 111 points</a></li>
 <li><a href="https://www.sciencedaily.com/releases/2026/02/260227071922.htm"><strong>A plastic made from milk that vanishes in 13 weeks</strong> <code>www.sciencedaily.com</code></a> - <a href="https://news.ycombinator.com/item?id=47218283">82 comments 97 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-03-02]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1263</link>
-            <guid>1263</guid>
-            <pubDate>Mon, 02 Mar 2026 07:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://ghostty.org/docs"><strong>Ghostty – Terminal Emulator</strong> <code>ghostty.org</code></a> - <a href="https://news.ycombinator.com/item?id=47206009">304 comments 700 points</a></li>
-<li><a href="https://claude.com/import-memory"><strong>Switch to Claude without starting over</strong> <code>claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=47204571">252 comments 550 points</a></li>
-<li><a href="https://99helpers.com/tools/ad-supported-chat"><strong>I built a demo of what AI chat will look like when it&#39;s “free” and ad-supported</strong> <code>99helpers.com</code></a> - <a href="https://news.ycombinator.com/item?id=47205890">284 comments 532 points</a></li>
-<li><a href="https://mlu-explain.github.io/decision-tree/"><strong>Decision trees – the unreasonable power of nested decision rules</strong> <code>mlu-explain.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47204964">74 comments 463 points</a></li>
-<li><a href="https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/"><strong>AI Made Writing Code Easier. It Made Being an Engineer Harder</strong> <code>www.ivanturkovic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47206824">301 comments 382 points</a></li>
-<li><a href="https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html"><strong>When does MCP make sense vs CLI?</strong> <code>ejholmes.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47208398">228 comments 361 points</a></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/02/260228093456.htm"><strong>New iron nanomaterial wipes out cancer cells without harming healthy tissue</strong> <code>www.sciencedaily.com</code></a> - <a href="https://news.ycombinator.com/item?id=47207404">97 comments 283 points</a></li>
-<li><a href="https://developer.chrome.com/blog/webmcp-epp"><strong>WebMCP is available for early preview</strong> <code>developer.chrome.com</code></a> - <a href="https://news.ycombinator.com/item?id=47211249">141 comments 259 points</a></li>
-<li><a href="https://growingswe.com/blog/microgpt"><strong>Microgpt explained interactively</strong> <code>growingswe.com</code></a> - <a href="https://news.ycombinator.com/item?id=47205208">37 comments 258 points</a></li>
-<li><a href="https://modernaicourse.org"><strong>10-202: Introduction to Modern AI (CMU)</strong> <code>modernaicourse.org</code></a> - <a href="https://news.ycombinator.com/item?id=47204559">56 comments 242 points</a></li>
-<li><a href="https://atlas.flexport.com/"><strong>Flightradar24 for Ships</strong> <code>atlas.flexport.com</code></a> - <a href="https://news.ycombinator.com/item?id=47205637">46 comments 215 points</a></li>
-<li><a href="https://glthr.com/XML-fundamental-to-Claude"><strong>Why XML tags are so fundamental to Claude</strong> <code>glthr.com</code></a> - <a href="https://news.ycombinator.com/item?id=47207236">132 comments 193 points</a></li>
-<li><a href="https://health.aws.amazon.com/health/status"><strong>Operational issue – Multiple services (UAE)</strong> <code>health.aws.amazon.com</code></a> - <a href="https://news.ycombinator.com/item?id=47209781">87 comments 188 points</a></li>
-<li><a href="https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/"><strong>AI is making junior devs useless</strong> <code>beabetterdev.com</code></a> - <a href="https://news.ycombinator.com/item?id=47206663">324 comments 175 points</a></li>
-<li><a href="https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae"><strong>Everett shuts down Flock camera network after judge rules footage public record</strong> <code>www.wltx.com</code></a> - <a href="https://news.ycombinator.com/item?id=47213764">28 comments 174 points</a></li>
-<li><a href="https://redirect.github.com/mandel-macaque/memento"><strong>If AI writes code, should the session be part of the commit?</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47212355">183 comments 171 points</a></li>
-<li><a href="https://rsaksida.com/blog/ape-coding/"><strong>Ape Coding [fiction]</strong> <code>rsaksida.com</code></a> - <a href="https://news.ycombinator.com/item?id=47206798">112 comments 166 points</a></li>
-<li><a href="https://twitter.com/cabsav456/status/2027937130995921119"><strong>A new Polymarket account made over $500k betting on the U.S. strike against Iran</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47209773">97 comments 134 points</a></li>
-<li><a href="https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/"><strong>Why is the first C++ (m)allocation always 72 KB?</strong> <code>joelsiks.com</code></a> - <a href="https://news.ycombinator.com/item?id=47205129">30 comments 123 points</a></li>
-<li><a href="https://www.mysanantonio.com/news/austin/article/waymo-austin-shooting-21948947.php"><strong>Waymo blocking ambulance during deadly Austin shooting</strong> <code>www.mysanantonio.com</code></a> - <a href="https://news.ycombinator.com/item?id=47211145">171 comments 113 points</a></li>
-<li><a href="https://littlefreelibrary.org/"><strong>Little Free Library</strong> <code>littlefreelibrary.org</code></a> - <a href="https://news.ycombinator.com/item?id=47211280">52 comments 108 points</a></li>
-<li><a href="https://redirect.github.com/kossisoroyce/timber"><strong>Show HN: Timber – Ollama for classical ML models, 336x faster than Python</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47212576">12 comments 108 points</a></li>
-<li><a href="https://redirect.github.com/AlexsJones/llmfit"><strong>Right-sizes LLM models to your system&#39;s RAM, CPU, and GPU</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47211830">26 comments 103 points</a></li>
-<li><a href="https://maurycyz.com/misc/c_files/"><strong>Why does C have the best file API</strong> <code>maurycyz.com</code></a> - <a href="https://news.ycombinator.com/item?id=47209788">71 comments 102 points</a></li>
-<li><a href="https://9to5mac.com/2026/03/01/claude-hits-1-on-the-app-store-as-users-rally-behind-anthropics-government-standoff/"><strong>Claude hits #1 on the App Store as users rally behind Anthropic</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=47213124">2 comments 98 points</a></li>
-<li><a href="https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived"><strong>How the Government Deceived Congress in the Debate over Surveillance Powers (2013)</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=47210572">10 comments 97 points</a></li>
-<li><a href="https://www.axios.com/2026/03/01/anthropic-claude-chatgpt-app-downloads-pentagon"><strong>Claude dethrones ChatGPT as top U.S. app after Pentagon saga</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=47209443">7 comments 88 points</a></li>
-<li><a href="https://www.scottsmitelli.com/articles/you-dont-have-to/"><strong>You don&#39;t have to</strong> <code>www.scottsmitelli.com</code></a> - <a href="https://news.ycombinator.com/item?id=47211029">39 comments 87 points</a></li>
-<li><a href="https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict"><strong>Allegations of insider trading over prediction-market bets tied to Iran conflict</strong> <code>www.morningstar.com</code></a> - <a href="https://news.ycombinator.com/item?id=47211476">45 comments 86 points</a></li>
-<li><a href="https://shawnfromportland.substack.com/p/this-system-can-go-fuck-itself-and"><strong>This system can go fuck itself and burn in hell</strong> <code>shawnfromportland.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47210157">55 comments 83 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
