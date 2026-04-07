@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 06 Apr 2026 06:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 06:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-04-06]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1299</link>
+            <guid isPermaLink="false">1299</guid>
+            <pubDate>Mon, 06 Apr 2026 06:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://ergosphere.blog/posts/the-machines-are-fine/"><strong>The threat is comfortable drift toward not understanding what you&#39;re doing</strong> <code>ergosphere.blog</code></a> - <a href="https://news.ycombinator.com/item?id=47647788">570 comments 855 points</a></li>
+<li><a href="https://redirect.github.com/JuliusBrussee/caveman"><strong>Caveman: Why use many token when few token do trick</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47647455">325 comments 748 points</a></li>
+<li><a href="https://lalitm.com/post/building-syntaqlite-ai/"><strong>Eight years of wanting, three months of building with AI</strong> <code>lalitm.com</code></a> - <a href="https://news.ycombinator.com/item?id=47648828">222 comments 744 points</a></li>
+<li><a href="https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337"><strong>Gemma 4 on iPhone</strong> <code>apps.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=47652561">144 comments 557 points</a></li>
+<li><a href="https://www.bbc.com/news/videos/ce3d5gkd2geo"><strong>Artemis II crew see first glimpse of far side of Moon [video]</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47649721">359 comments 464 points</a></li>
+<li><a href="https://sschueller.github.io/posts/the-free-market-lie/"><strong>Why Switzerland has 25 Gbit internet and America doesn&#39;t</strong> <code>sschueller.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47652400">290 comments 392 points</a></li>
+<li><a href="https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/"><strong>Someone at BrowserStack is leaking users&#39; email addresses</strong> <code>shkspr.mobi</code></a> - <a href="https://news.ycombinator.com/item?id=47649117">100 comments 370 points</a></li>
+<li><a href="https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/"><strong>Microsoft hasn&#39;t had a coherent GUI strategy since Petzold</strong> <code>www.jsnover.com</code></a> - <a href="https://news.ycombinator.com/item?id=47651703">196 comments 354 points</a></li>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract"><strong>Finnish sauna heat exposure induces stronger immune cell than cytokine responses</strong> <code>www.tandfonline.com</code></a> - <a href="https://news.ycombinator.com/item?id=47649113">230 comments 353 points</a></li>
+<li><a href="https://zencapital.substack.com/p/sad-story-of-my-google-workspace"><strong>My Google Workspace account suspension</strong> <code>zencapital.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47648404">197 comments 345 points</a></li>
+<li><a href="https://redirect.github.com/arman-bd/guppylm"><strong>Show HN: I built a tiny LLM to demystify how language models work</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47655408">26 comments 315 points</a></li>
+<li><a href="https://lisette.run/"><strong>Lisette a little language inspired by Rust that compiles to Go</strong> <code>lisette.run</code></a> - <a href="https://news.ycombinator.com/item?id=47646843">138 comments 257 points</a></li>
+<li><a href="https://ai.georgeliu.com/p/running-google-gemma-4-locally-with"><strong>Running Gemma 4 locally with LM Studio&#39;s new headless CLI and Claude Code</strong> <code>ai.georgeliu.com</code></a> - <a href="https://news.ycombinator.com/item?id=47651540">57 comments 242 points</a></li>
+<li><a href="https://help.openai.com/en/articles/20001106-codex-rate-card"><strong>Codex pricing to align with API token usage, instead of per-message</strong> <code>help.openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=47650726">182 comments 199 points</a></li>
+<li><a href="https://playlists.at/youtube/search/"><strong>Show HN: I made a YouTube search form with advanced filters</strong> <code>playlists.at</code></a> - <a href="https://news.ycombinator.com/item?id=47655392">116 comments 192 points</a></li>
+<li><a href="https://redirect.github.com/salmanmohammadi/nanocode/discussions/1"><strong>Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47649742">24 comments 181 points</a></li>
+<li><a href="https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/"><strong>LibreOffice – Let&#39;s put an end to the speculation</strong> <code>blog.documentfoundation.org</code></a> - <a href="https://news.ycombinator.com/item?id=47652324">105 comments 170 points</a></li>
+<li><a href="https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb"><strong>Employers use your personal data to figure out the lowest salary you&#39;ll accept</strong> <code>www.marketwatch.com</code></a> - <a href="https://news.ycombinator.com/item?id=47655466">76 comments 166 points</a></li>
+<li><a href="https://musicforprogramming.net"><strong>Music for Programming</strong> <code>musicforprogramming.net</code></a> - <a href="https://news.ycombinator.com/item?id=47652322">63 comments 155 points</a></li>
+<li><a href="https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"><strong>In Japan, the robot isn&#39;t coming for your job; it&#39;s filling the one nobody wants</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=47654620">180 comments 154 points</a></li>
+<li><a href="https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz"><strong>Japanese, French and Omani vessels cross Strait of Hormuz</strong> <code>japantoday.com</code></a> - <a href="https://news.ycombinator.com/item?id=47649811">202 comments 152 points</a></li>
+<li><a href="https://www.mattkeeter.com/blog/2026-04-05-tailcall/"><strong>A tail-call interpreter in (nightly) Rust</strong> <code>www.mattkeeter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47650312">28 comments 152 points</a></li>
+<li><a href="https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"><strong>Copilot is &#39;for entertainment purposes only&#39;, per Microsoft&#39;s terms of use</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=47655329">33 comments 150 points</a></li>
+<li><a href="https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic"><strong>OpenAI&#39;s fall from grace as investors race to Anthropic</strong> <code>www.latimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47655058">98 comments 144 points</a></li>
+<li><a href="https://friendi.ca/"><strong>Friendica – A Decentralized Social Network</strong> <code>friendi.ca</code></a> - <a href="https://news.ycombinator.com/item?id=47648048">51 comments 143 points</a></li>
+<li><a href="https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline"><strong>Phone-free bars and restaurants on the rise across the U.S.</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=47650172">139 comments 142 points</a></li>
+<li><a href="https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength"><strong>Bacteria found in the human intestine capable of improving muscle strength</strong> <code>www.ugr.es</code></a> - <a href="https://news.ycombinator.com/item?id=47652726">73 comments 142 points</a></li>
+<li><a href="https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/"><strong>Ubuntu now requires more RAM than Windows 11</strong> <code>www.howtogeek.com</code></a> - <a href="https://news.ycombinator.com/item?id=47648452">179 comments 138 points</a></li>
+<li><a href="https://websites.umich.edu/~mejn/cp2/"><strong>Computational Physics (2nd Edition) (2025)</strong> <code>websites.umich.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47650502">17 comments 133 points</a></li>
+<li><a href="https://www.cnn.com/2026/04/05/us/colorado-field-drug-test-law"><strong>Common drug tests lead to tens of thousands wrongful arrests a year</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=47648438">93 comments 116 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-04-05]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1298</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://redirect.github.com/karpathy/autoresearch"><strong>Autoresearch: Agents researching on single-GPU nanochat training automatically</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47291123">24 comments 90 points</a></li>
 <li><a href="https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/"><strong>The surprising whimsy of the Time Zone Database</strong> <code>muddy.jprs.me</code></a> - <a href="https://news.ycombinator.com/item?id=47290198">24 comments 88 points</a></li>
 <li><a href="https://www.seangoedecke.com/will-my-job-still-exist/"><strong>I don&#39;t know if my job will still exist in ten years</strong> <code>www.seangoedecke.com</code></a> - <a href="https://news.ycombinator.com/item?id=47292902">69 comments 79 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-03-07]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1268</link>
-            <guid isPermaLink="false">1268</guid>
-            <pubDate>Sat, 07 Mar 2026 07:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.researchsquare.com/article/rs-6079807/v1"><strong>Global warming has accelerated significantly</strong> <code>www.researchsquare.com</code></a> - <a href="https://news.ycombinator.com/item?id=47275088">1029 comments 1034 points</a></li>
-<li><a href="https://twitter.com/JosephPolitano/status/2029916364664611242"><strong>Tech employment now significantly worse than the 2008 or 2020 recessions</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47278426">559 comments 828 points</a></li>
-<li><a href="https://www.anthropic.com/news/mozilla-firefox-security"><strong>Hardening Firefox with Anthropic&#39;s Red Team</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47273854">153 comments 549 points</a></li>
-<li><a href="https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs"><strong>Workers who love ‘synergizing paradigms’ might be bad at their jobs</strong> <code>news.cornell.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47274676">304 comments 538 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/cjd98091g28o"><strong>US economy unexpectedly sheds 92k jobs in February</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47275035">697 comments 515 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=47282777"><strong>Tell HN: I&#39;m 60 years old. Claude Code has re-ignited a passion</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47282777">228 comments 358 points</a></li>
-<li><a href="https://plasma-bigscreen.org"><strong>Plasma Bigscreen – 10-foot interface for KDE plasma</strong> <code>plasma-bigscreen.org</code></a> - <a href="https://news.ycombinator.com/item?id=47282736">99 comments 310 points</a></li>
-<li><a href="https://libresprite.github.io/"><strong>LibreSprite – open-source pixel art editor</strong> <code>libresprite.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47272799">86 comments 272 points</a></li>
-<li><a href="https://redirect.github.com/moongate-community/moongatev2"><strong>Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47275236">137 comments 244 points</a></li>
-<li><a href="https://www.fivetran.com/blog/anthropic-please-make-a-new-slack"><strong>Anthropic, please make a new Slack</strong> <code>www.fivetran.com</code></a> - <a href="https://news.ycombinator.com/item?id=47280200">212 comments 231 points</a></li>
-<li><a href="https://will-keleher.com/posts/this-css-makes-me-human/"><strong>this css proves me human</strong> <code>will-keleher.com</code></a> - <a href="https://news.ycombinator.com/item?id=47281593">78 comments 225 points</a></li>
-<li><a href="https://www.lumafield.com/scan-of-the-month/health-wearables"><strong>CT Scans of Health Wearables</strong> <code>www.lumafield.com</code></a> - <a href="https://news.ycombinator.com/item?id=47275152">43 comments 205 points</a></li>
-<li><a href="https://yasint.dev/we-might-all-be-ai-engineers-now/"><strong>We might all be AI engineers now</strong> <code>yasint.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47272734">304 comments 192 points</a></li>
-<li><a href="https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/"><strong>TSA leaves passenger needing surgery after illegally forcing her through scanner</strong> <code>www.thetravel.com</code></a> - <a href="https://news.ycombinator.com/item?id=47279189">124 comments 161 points</a></li>
-<li><a href="https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code"><strong>LLMs work best when the user defines their acceptance criteria first</strong> <code>blog.katanaquant.com</code></a> - <a href="https://news.ycombinator.com/item?id=47283337">114 comments 156 points</a></li>
-<li><a href="https://redirect.github.com/elder-plinius/OBLITERATUS"><strong>A tool that removes censorship from open-weight LLMs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47275291">65 comments 147 points</a></li>
-<li><a href="https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/"><strong>Paul Brainerd, founder of Aldus PageMaker, has died</strong> <code>blog.adafruit.com</code></a> - <a href="https://news.ycombinator.com/item?id=47276220">27 comments 146 points</a></li>
-<li><a href="https://www.cnn.com/2026/03/06/world/video/updates-suggests-us-responsible-iran-school-strike-digvid"><strong>New imagery suggests U.S. responsible for Iran school strike</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=47279251">93 comments 145 points</a></li>
-<li><a href="https://twitter.com/Al_Grigor/status/2029889772181934425"><strong>Claude Code wiped our production database with a Terraform command</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47278720">146 comments 134 points</a></li>
-<li><a href="https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/"><strong>It took four years until 2011’s iOS 5 gave everyone an emoji keyboard</strong> <code>unsung.aresluna.org</code></a> - <a href="https://news.ycombinator.com/item?id=47272338">80 comments 133 points</a></li>
-<li><a href="https://www.adaic.org/ada-resources/standards/ada22/"><strong>Ada 2022</strong> <code>www.adaic.org</code></a> - <a href="https://news.ycombinator.com/item?id=47280352">27 comments 127 points</a></li>
-<li><a href="https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan"><strong>Entomologists use a particle accelerator to image ants at scale</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=47276539">22 comments 122 points</a></li>
-<li><a href="https://www.scribd.com/document/1008639172/Nintendo-Sues-U-S-Government-For-Tariff-Refunds"><strong>Nintendo Sues U.S. Government for Tariff Refunds</strong> <code>www.scribd.com</code></a> - <a href="https://news.ycombinator.com/item?id=47281328">47 comments 119 points</a></li>
-<li><a href="https://redirect.github.com/golang/go/issues/62026"><strong>UUID package coming to Go standard library</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47283665">55 comments 118 points</a></li>
-<li><a href="https://community.torproject.org/relay/community-resources/good-bad-isps/"><strong>Good Bad ISPs</strong> <code>community.torproject.org</code></a> - <a href="https://news.ycombinator.com/item?id=47275230">38 comments 116 points</a></li>
-<li><a href="https://bezoscalculator.com/"><strong>How Much Money Jeff Bezos Made Since You Started Reading This Page</strong> <code>bezoscalculator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47273070">140 comments 108 points</a></li>
-<li><a href="https://www.profgmedia.com/p/the-worst-acquisition-in-history"><strong>The worst acquisition in history, again</strong> <code>www.profgmedia.com</code></a> - <a href="https://news.ycombinator.com/item?id=47281080">74 comments 108 points</a></li>
-<li><a href="https://runxiyu.org/comp/gplproxy/"><strong>GPL upgrades via section 14 proxy delegation</strong> <code>runxiyu.org</code></a> - <a href="https://news.ycombinator.com/item?id=47272534">50 comments 101 points</a></li>
-<li><a href="https://bookstr.com/article/70k-books-found-in-hidden-library-in-this-germany-home/"><strong>70k Books Found in Hidden Library in This Germany Home (2023)</strong> <code>bookstr.com</code></a> - <a href="https://news.ycombinator.com/item?id=47274086">64 comments 94 points</a></li>
-<li><a href="https://acid.vegas/blog/the-shady-world-of-ip-leasing/"><strong>The shady world of IP leasing</strong> <code>acid.vegas</code></a> - <a href="https://news.ycombinator.com/item?id=47281221">49 comments 93 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
