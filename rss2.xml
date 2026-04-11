@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 10 Apr 2026 06:52:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 06:00:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-04-10]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1303</link>
+            <guid isPermaLink="false">1303</guid>
+            <pubDate>Fri, 10 Apr 2026 06:52:24 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.eff.org/deeplinks/2026/04/eff-leaving-x"><strong>EFF is leaving X</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=47706268">1085 comments 1282 points</a></li>
+<li><a href="https://www.axios.com/2026/04/09/meta-social-media-addiction-ads"><strong>Meta removes ads for social media addiction litigation</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=47703419">235 comments 578 points</a></li>
+<li><a href="https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/"><strong>Help Keep Thunderbird Alive</strong> <code>updates.thunderbird.net</code></a> - <a href="https://news.ycombinator.com/item?id=47700388">367 comments 537 points</a></li>
+<li><a href="https://arhan.sh/blog/native-instant-space-switching-on-macos/"><strong>Native Instant Space Switching on macOS</strong> <code>arhan.sh</code></a> - <a href="https://news.ycombinator.com/item?id=47708818">203 comments 441 points</a></li>
+<li><a href="https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo"><strong>The Pentagon Threatened Pope Leo XIV&#39;s Ambassador with the Avignon Papacy</strong> <code>www.thelettersfromleo.com</code></a> - <a href="https://news.ycombinator.com/item?id=47705952">277 comments 432 points</a></li>
+<li><a href="https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html"><strong>Claude mixes up who said what</strong> <code>dwyer.co.za</code></a> - <a href="https://news.ycombinator.com/item?id=47701233">330 comments 424 points</a></li>
+<li><a href="https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/"><strong>Reallocating $100/Month Claude Code Spend to Zed and OpenRouter</strong> <code>braw.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47700972">216 comments 323 points</a></li>
+<li><a href="https://freebsdfoundation.github.io/freebsd-laptop-testing/"><strong>Top laptops to use with FreeBSD</strong> <code>freebsdfoundation.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47701148">174 comments 309 points</a></li>
+<li><a href="https://lzon.ca/posts/other/microsoft-user-abuse/"><strong>Microsoft is employing dark patterns to goad users into paying for storage?</strong> <code>lzon.ca</code></a> - <a href="https://news.ycombinator.com/item?id=47710149">175 comments 307 points</a></li>
+<li><a href="https://pizzalegacy.nl/blog/traffic-system.html"><strong>How Pizza Tycoon simulated traffic on a 25 MHz CPU</strong> <code>pizzalegacy.nl</code></a> - <a href="https://news.ycombinator.com/item?id=47703123">59 comments 278 points</a></li>
+<li><a href="https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers"><strong>Maine is about to become the first state to ban major new data centers</strong> <code>www.gadgetreview.com</code></a> - <a href="https://news.ycombinator.com/item?id=47708817">387 comments 275 points</a></li>
+<li><a href="https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/"><strong>How NASA built Artemis II’s fault-tolerant computer</strong> <code>cacm.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=47704804">88 comments 273 points</a></li>
+<li><a href="https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry"><strong>The Vercel plugin on Claude Code wants to read your prompts</strong> <code>akshaychugh.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=47704881">104 comments 262 points</a></li>
+<li><a href="https://german.millermanschool.com/"><strong>Am I German or Autistic?</strong> <code>german.millermanschool.com</code></a> - <a href="https://news.ycombinator.com/item?id=47703072">218 comments 247 points</a></li>
+<li><a href="https://colaptop.pages.dev/"><strong>Old laptops in a colo as low cost servers</strong> <code>colaptop.pages.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47707477">124 comments 222 points</a></li>
+<li><a href="https://chatgpt.com/pricing/"><strong>ChatGPT Pro now starts at $100/month</strong> <code>chatgpt.com</code></a> - <a href="https://news.ycombinator.com/item?id=47707253">224 comments 202 points</a></li>
+<li><a href="https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us"><strong>Wit, unker, Git: The lost medieval pronouns of English intimacy</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47701572">126 comments 199 points</a></li>
+<li><a href="https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/"><strong>Netflix Prices Went Up Again – I Bought a DVD Player Instead</strong> <code>aywren.com</code></a> - <a href="https://news.ycombinator.com/item?id=47709251">226 comments 195 points</a></li>
+<li><a href="https://www.unfolder.app/"><strong>Unfolder for Mac – A 3D model unfolding tool for creating papercraft</strong> <code>www.unfolder.app</code></a> - <a href="https://news.ycombinator.com/item?id=47706140">39 comments 191 points</a></li>
+<li><a href="https://charcuterie.elastiq.ch/"><strong>Charcuterie – Visual similarity Unicode explorer</strong> <code>charcuterie.elastiq.ch</code></a> - <a href="https://news.ycombinator.com/item?id=47709158">34 comments 190 points</a></li>
+<li><a href="https://davidoks.blog/p/how-funerals-keep-africa-poor"><strong>Many African families spend fortunes burying their dead</strong> <code>davidoks.blog</code></a> - <a href="https://news.ycombinator.com/item?id=47710907">167 comments 184 points</a></li>
+<li><a href="https://lichess.org/@/Lichess/blog/lichess-and-take-take-take-sign-cooperation-agreement/DZS0S0Dy"><strong>Lichess and Take Take Take Sign Cooperation Agreement</strong> <code>lichess.org</code></a> - <a href="https://news.ycombinator.com/item?id=47702499">55 comments 181 points</a></li>
+<li><a href="https://eaw.app/picoz80/"><strong>PicoZ80 – Drop-In Z80 Replacement</strong> <code>eaw.app</code></a> - <a href="https://news.ycombinator.com/item?id=47708041">30 comments 177 points</a></li>
+<li><a href="https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/"><strong>New iPhone age and identity checks restrict internet freedom in the UK</strong> <code>bigbrotherwatch.org.uk</code></a> - <a href="https://news.ycombinator.com/item?id=47712222">87 comments 176 points</a></li>
+<li><a href="https://blog.skypilot.co/research-driven-agents/"><strong>Research-Driven Agents: When an agent reads before it codes</strong> <code>blog.skypilot.co</code></a> - <a href="https://news.ycombinator.com/item?id=47706141">48 comments 165 points</a></li>
+<li><a href="https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn"><strong>Emperor penguin and Antarctic fur seal now endangered</strong> <code>iucn.org</code></a> - <a href="https://news.ycombinator.com/item?id=47705324">49 comments 154 points</a></li>
+<li><a href="https://cssstudio.ai"><strong>Show HN: CSS Studio. Design by hand, code by agent</strong> <code>cssstudio.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47702196">95 comments 150 points</a></li>
+<li><a href="https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/"><strong>BunnyCDN has been silently losing our production files for 15 months</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=47710845">31 comments 147 points</a></li>
+<li><a href="https://redirect.github.com/randerson112/craft"><strong>Show HN: I built a Cargo-like build tool for C/C++</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47705413">126 comments 143 points</a></li>
+<li><a href="https://getsession.org/donate"><strong>Session is shutting down in 90 days</strong> <code>getsession.org</code></a> - <a href="https://news.ycombinator.com/item?id=47703065">167 comments 140 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-04-09]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1302</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://fuelingcuriosity.com/game.html"><strong>Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids</strong> <code>fuelingcuriosity.com</code></a> - <a href="https://news.ycombinator.com/item?id=47338091">45 comments 95 points</a></li>
 <li><a href="https://redirect.github.com/manuelschipper/nah/"><strong>Show HN: A context-aware permission guard for Claude Code</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47343927">37 comments 91 points</a></li>
 <li><a href="https://support.apple.com/en-us/126632"><strong>Apple releases iOS 15.8.7 to fix Coruna exploit for iPhone 6S from 2015</strong> <code>support.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=47345050">36 comments 90 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-03-11]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1272</link>
-            <guid isPermaLink="false">1272</guid>
-            <pubDate>Wed, 11 Mar 2026 07:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html"><strong>Tony Hoare has died</strong> <code>blog.computationalcomplexity.org</code></a> - <a href="https://news.ycombinator.com/item?id=47324054">218 comments 1703 points</a></li>
-<li><a href="https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html"><strong>Online age-verification tools for child safety are surveilling adults</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47322635">316 comments 599 points</a></li>
-<li><a href="https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/"><strong>After outages, Amazon to make senior engineers sign off on AI-assisted changes</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47323017">433 comments 542 points</a></li>
-<li><a href="https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network"><strong>Meta acquires Moltbook</strong> <code>www.axios.com</code></a> - <a href="https://news.ycombinator.com/item?id=47323900">317 comments 476 points</a></li>
-<li><a href="https://howisfelix.today/"><strong>I put my whole life into a single database</strong> <code>howisfelix.today</code></a> - <a href="https://news.ycombinator.com/item?id=47321233">208 comments 442 points</a></li>
-<li><a href="https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"><strong>Yann LeCun raises $1B to build AI that understands the physical world</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=47320600">358 comments 430 points</a></li>
-<li><a href="https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"><strong>Yann LeCun&#39;s AI startup raises $1B in Europe&#39;s largest ever seed round</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=47321533">2 comments 409 points</a></li>
-<li><a href="https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"><strong>Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy</strong> <code>gitlab.redox-os.org</code></a> - <a href="https://news.ycombinator.com/item?id=47320661">391 comments 383 points</a></li>
-<li><a href="https://dnhkng.github.io/posts/rys/"><strong>Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs</strong> <code>dnhkng.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47322887">101 comments 379 points</a></li>
-<li><a href="https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"><strong>Debian decides not to decide on AI-generated contributions</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=47324087">240 comments 317 points</a></li>
-<li><a href="https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep"><strong>Agents that run while I sleep</strong> <code>www.claudecodecamp.com</code></a> - <a href="https://news.ycombinator.com/item?id=47327559">294 comments 303 points</a></li>
-<li><a href="https://twitter.com/lukolejnik/status/2031257644724342957"><strong>Amazon is holding a mandatory meeting about AI breaking its systems</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47324211">10 comments 286 points</a></li>
-<li><a href="https://ionathan.ch/2026/02/16/angzarr.html"><strong>U+237C ⍼ Is Azimuth</strong> <code>ionathan.ch</code></a> - <a href="https://news.ycombinator.com/item?id=47329605">25 comments 258 points</a></li>
-<li><a href="https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/"><strong>Cloudflare crawl endpoint</strong> <code>developers.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=47329557">98 comments 249 points</a></li>
-<li><a href="https://spectrum.ieee.org/fhe-intel"><strong>Intel Demos Chip to Compute with Encrypted Data</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=47322815">105 comments 238 points</a></li>
-<li><a href="https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/"><strong>RISC-V Is Sloooow</strong> <code>marcin.juszkiewicz.com.pl</code></a> - <a href="https://news.ycombinator.com/item?id=47328214">201 comments 210 points</a></li>
-<li><a href="https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html"><strong>Universal vaccine against respiratory infections and allergens</strong> <code>med.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47329608">71 comments 207 points</a></li>
-<li><a href="https://redirect.github.com/RunanywhereAI/rcli"><strong>Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47326101">124 comments 204 points</a></li>
-<li><a href="https://entropicthoughts.com/rebasing-in-magit"><strong>Rebasing in Magit</strong> <code>entropicthoughts.com</code></a> - <a href="https://news.ycombinator.com/item?id=47323105">132 comments 200 points</a></li>
-<li><a href="https://redirect.github.com/steelbrain/ffmpeg-over-ip"><strong>FFmpeg-over-IP – Connect to remote FFmpeg servers</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47327015">57 comments 169 points</a></li>
-<li><a href="https://ziglang.org/devlog/2026/#2026-03-10"><strong>Zig – Type Resolution Redesign and Language Changes</strong> <code>ziglang.org</code></a> - <a href="https://news.ycombinator.com/item?id=47330836">52 comments 156 points</a></li>
-<li><a href="https://www.bassimeledath.com/blog/levels-of-agentic-engineering"><strong>Levels of Agentic Engineering</strong> <code>www.bassimeledath.com</code></a> - <a href="https://news.ycombinator.com/item?id=47320614">76 comments 149 points</a></li>
-<li><a href="https://www.freebsd.org/releases/14.4R/announce/"><strong>FreeBSD 14.4-Release Announcement</strong> <code>www.freebsd.org</code></a> - <a href="https://news.ycombinator.com/item?id=47321499">65 comments 147 points</a></li>
-<li><a href="https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html"><strong>Create value for others and don’t worry about the returns</strong> <code>geohot.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47332074">45 comments 134 points</a></li>
-<li><a href="https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/"><strong>We are building data breach machines and nobody cares</strong> <code>idealloc.me</code></a> - <a href="https://news.ycombinator.com/item?id=47324058">43 comments 123 points</a></li>
-<li><a href="https://radar.cloudflare.com/traffic/ru?dateRange=52w"><strong>Traffic from Russia to Cloudflare is 60% down from last year</strong> <code>radar.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=47322629">78 comments 122 points</a></li>
-<li><a href="https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be"><strong>RFC 454545 – Human Em Dash Standard</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47323891">112 comments 118 points</a></li>
-<li><a href="https://ankursethi.com/blog/programming-language-claude-code/"><strong>I built a programming language using Claude Code</strong> <code>ankursethi.com</code></a> - <a href="https://news.ycombinator.com/item?id=47325595">160 comments 117 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=47321760"><strong>Ask HN: Remember Fidonet?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47321760">66 comments 116 points</a></li>
-<li><a href="https://pluralistic.net/2026/03/10/ice-tech/#foreseeable-outcomes"><strong>Ad-tech is fascist tech</strong> <code>pluralistic.net</code></a> - <a href="https://news.ycombinator.com/item?id=47325280">56 comments 111 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
