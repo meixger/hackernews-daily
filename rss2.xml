@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 14 Apr 2026 06:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 06:53:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-04-14]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1307</link>
+            <guid isPermaLink="false">1307</guid>
+            <pubDate>Tue, 14 Apr 2026 06:52:15 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/"><strong>Someone bought 30 WordPress plugins and planted a backdoor in all of them</strong> <code>anchor.host</code></a> - <a href="https://news.ycombinator.com/item?id=47755629">242 comments 868 points</a></li>
+<li><a href="https://github.github.com/gh-stack/"><strong>GitHub Stacked PRs</strong> <code>github.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47757495">350 comments 633 points</a></li>
+<li><a href="https://servo.org/blog/2026/04/13/servo-0.1.0-release/"><strong>Servo is now available on crates.io</strong> <code>servo.org</code></a> - <a href="https://news.ycombinator.com/item?id=47750872">143 comments 445 points</a></li>
+<li><a href="https://redirect.github.com/sterlingcrispin/nothing-ever-happens"><strong>Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47753472">220 comments 401 points</a></li>
+<li><a href="https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/"><strong>US appeals court declares 158-year-old home distilling ban unconstitutional</strong> <code>nypost.com</code></a> - <a href="https://news.ycombinator.com/item?id=47751781">251 comments 368 points</a></li>
+<li><a href="https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"><strong>Make tmux pretty and usable (2024)</strong> <code>hamvocke.com</code></a> - <a href="https://news.ycombinator.com/item?id=47752819">222 comments 352 points</a></li>
+<li><a href="https://www.blackmagicdesign.com/products/davinciresolve/photo"><strong>DaVinci Resolve releases Photo Editor</strong> <code>www.blackmagicdesign.com</code></a> - <a href="https://news.ycombinator.com/item?id=47760529">79 comments 348 points</a></li>
+<li><a href="https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/"><strong>Android now stops you sharing your location in photos</strong> <code>shkspr.mobi</code></a> - <a href="https://news.ycombinator.com/item?id=47750669">293 comments 344 points</a></li>
+<li><a href="https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/"><strong>Microsoft isn&#39;t removing Copilot from Windows 11, it&#39;s just renaming it</strong> <code>www.neowin.net</code></a> - <a href="https://news.ycombinator.com/item?id=47751936">257 comments 341 points</a></li>
+<li><a href="https://ringmast4r.substack.com/p/we-may-be-living-through-the-most"><strong>This year’s insane timeline of hacks</strong> <code>ringmast4r.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47752884">179 comments 297 points</a></li>
+<li><a href="https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety"><strong>The Future of Everything Is Lies, I Guess: Safety</strong> <code>aphyr.com</code></a> - <a href="https://news.ycombinator.com/item?id=47754379">160 comments 292 points</a></li>
+<li><a href="https://blog.cloudflare.com/cf-cli-local-explorer/"><strong>Building a CLI for all of Cloudflare</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=47753689">96 comments 291 points</a></li>
+<li><a href="https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"><strong>Stanford report highlights growing disconnect between AI insiders and everyone</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=47758028">328 comments 234 points</a></li>
+<li><a href="https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html"><strong>Michigan &#39;digital age&#39; bills pulled after privacy concerns raised</strong> <code>www.thecentersquare.com</code></a> - <a href="https://news.ycombinator.com/item?id=47750821">121 comments 212 points</a></li>
+<li><a href="https://kirancodes.me/posts/log-who-watches-the-watchers.html"><strong>Lean proved this program correct; then I found a bug</strong> <code>kirancodes.me</code></a> - <a href="https://news.ycombinator.com/item?id=47759709">107 comments 209 points</a></li>
+<li><a href="https://developers.google.com/search/blog/2026/04/back-button-hijacking"><strong>A new spam policy for &quot;back button hijacking&quot;</strong> <code>developers.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=47760764">109 comments 207 points</a></li>
+<li><a href="https://substack.com/home/post/p-193626949"><strong>I went to America&#39;s worst national parks so you don&#39;t have to</strong> <code>substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47751029">182 comments 195 points</a></li>
+<li><a href="https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"><strong>AI could be the end of the digital wave, not the next big thing</strong> <code>thenextwavefutures.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=47751032">257 comments 178 points</a></li>
+<li><a href="https://redirect.github.com/brightbeanxyz/brightbean-studio"><strong>Show HN: I built a social media management tool in 3 weeks with Claude and Codex</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47749674">120 comments 177 points</a></li>
+<li><a href="https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/"><strong>How to make Firefox builds 17% faster</strong> <code>blog.farre.se</code></a> - <a href="https://news.ycombinator.com/item?id=47756321">30 comments 162 points</a></li>
+<li><a href="https://www.ithihasas.in"><strong>Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours</strong> <code>www.ithihasas.in</code></a> - <a href="https://news.ycombinator.com/item?id=47756569">35 comments 142 points</a></li>
+<li><a href="https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/"><strong>Hacker compromises A16Z-backed phone farm, calling them the &#39;antichrist&#39;</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=47760925">34 comments 129 points</a></li>
+<li><a href="https://status.claude.com/incidents/6jd2m42f8mld"><strong>Claude.ai down</strong> <code>status.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=47753643">123 comments 128 points</a></li>
+<li><a href="https://redirect.github.com/fabienmillet/WiiFin"><strong>WiiFin – Jellyfin Client for Nintendo Wii</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47759341">55 comments 127 points</a></li>
+<li><a href="https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259"><strong>Missouri town fires half its city council over data center deal</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=47754002">128 comments 126 points</a></li>
+<li><a href="https://theyseeyourphotos.com/"><strong>They See Your Photos</strong> <code>theyseeyourphotos.com</code></a> - <a href="https://news.ycombinator.com/item?id=47751669">111 comments 126 points</a></li>
+<li><a href="https://amd-gaia.ai/docs"><strong>GAIA – Open-source framework for building AI agents that run on local hardware</strong> <code>amd-gaia.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47756772">30 comments 124 points</a></li>
+<li><a href="https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/"><strong>Sometimes powerful people just do dumb shit</strong> <code>www.joanwestenberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=47760750">37 comments 114 points</a></li>
+<li><a href="https://www.propublica.org/article/impersonating-propublica-reporter"><strong>Who&#39;s Been Impersonating This ProPublica Reporter?</strong> <code>www.propublica.org</code></a> - <a href="https://news.ycombinator.com/item?id=47754100">2 comments 114 points</a></li>
+<li><a href="https://taxwrapped.com"><strong>Tax Wrapped 2025</strong> <code>taxwrapped.com</code></a> - <a href="https://news.ycombinator.com/item?id=47755604">60 comments 111 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-04-13]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1306</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://signet.watch"><strong>Show HN: Signet – Autonomous wildfire tracking from satellite and weather data</strong> <code>signet.watch</code></a> - <a href="https://news.ycombinator.com/item?id=47386581">30 comments 109 points</a></li>
 <li><a href="https://www.youtube.com/watch?v=8rS3fTbC7TE"><strong>SpaceX IPO Scandal</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=47388640">24 comments 108 points</a></li>
 <li><a href="https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/"><strong>Cannabinoids remove plaque-forming Alzheimer&#39;s proteins from brain cells (2016)</strong> <code>www.salk.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47393619">67 comments 107 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-03-15]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1276</link>
-            <guid isPermaLink="false">1276</guid>
-            <pubDate>Sun, 15 Mar 2026 07:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://agelesslinux.org/"><strong>Ageless Linux – Software for humans of indeterminate age</strong> <code>agelesslinux.org</code></a> - <a href="https://news.ycombinator.com/item?id=47381791">351 comments 537 points</a></li>
-<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable"><strong>What happens when US economic data becomes unreliable</strong> <code>mitsloan.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47378638">344 comments 328 points</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens"><strong>RAM kits are now sold with one fake RAM stick alongside a real one</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=47375085">176 comments 267 points</a></li>
-<li><a href="https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/"><strong>Montana passes Right to Compute act (2025)</strong> <code>www.westernmt.news</code></a> - <a href="https://news.ycombinator.com/item?id=47376767">229 comments 261 points</a></li>
-<li><a href="https://unplannedobsolescence.com/blog/xml-cheap-dsl/"><strong>XML is a cheap DSL</strong> <code>unplannedobsolescence.com</code></a> - <a href="https://news.ycombinator.com/item?id=47375764">245 comments 250 points</a></li>
-<li><a href="https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion"><strong>Claude March 2026 usage promotion</strong> <code>support.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=47380647">138 comments 228 points</a></li>
-<li><a href="https://www.gimp.org/news/2026/03/14/gimp-3-2-released/"><strong>GIMP 3.2 released</strong> <code>www.gimp.org</code></a> - <a href="https://news.ycombinator.com/item?id=47380465">61 comments 217 points</a></li>
-<li><a href="https://twitter.com/BrendanCarrFCC/status/2032855414233047172"><strong>Head of FCC threatens broadcaster licenses over critical coverage of Iran war</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47380294">100 comments 211 points</a></li>
-<li><a href="https://backnotprop.com/blog/do-not-ab-test-my-workflow/"><strong>Please do not A/B test my workflow</strong> <code>backnotprop.com</code></a> - <a href="https://news.ycombinator.com/item?id=47375682">202 comments 163 points</a></li>
-<li><a href="https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/"><strong>2026 tech layoffs reach 45,000 in March</strong> <code>technode.global</code></a> - <a href="https://news.ycombinator.com/item?id=47380405">135 comments 158 points</a></li>
-<li><a href="https://nmap.org/movies/"><strong>Nmap in the movies (2008)</strong> <code>nmap.org</code></a> - <a href="https://news.ycombinator.com/item?id=47378268">20 comments 157 points</a></li>
-<li><a href="https://redirect.github.com/xodn348/han"><strong>Show HN: Han – A Korean programming language written in Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47381382">89 comments 156 points</a></li>
-<li><a href="https://redirect.github.com/EdoStra/Marketing-for-Founders"><strong>Marketing for Founders</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47380295">61 comments 155 points</a></li>
-<li><a href="https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/"><strong>Starlink militarization and its impact on global strategic stability (2023)</strong> <code>interpret.csis.org</code></a> - <a href="https://news.ycombinator.com/item?id=47374796">199 comments 154 points</a></li>
-<li><a href="https://www.openttd.org/news/2026/03/14/steam-changes"><strong>Changes to OpenTTD Distribution on Steam</strong> <code>www.openttd.org</code></a> - <a href="https://news.ycombinator.com/item?id=47381746">98 comments 154 points</a></li>
-<li><a href="https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363"><strong>Philosoph Jürgen Habermas Gestorben</strong> <code>www.spiegel.de</code></a> - <a href="https://news.ycombinator.com/item?id=47376848">48 comments 145 points</a></li>
-<li><a href="https://jazzband.co/news/2026/03/14/sunsetting-jazzband"><strong>Sunsetting Jazzband</strong> <code>jazzband.co</code></a> - <a href="https://news.ycombinator.com/item?id=47379067">50 comments 140 points</a></li>
-<li><a href="https://www.anthropic.com/news/claude-partner-network"><strong>Launching the Claude Partner Network</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47381340">60 comments 129 points</a></li>
-<li><a href="https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/"><strong>How kernel anti-cheats work</strong> <code>s4dbrd.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47382791">94 comments 125 points</a></li>
-<li><a href="https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european"><strong>Airbus is preparing two uncrewed combat aircraft</strong> <code>www.airbus.com</code></a> - <a href="https://news.ycombinator.com/item?id=47382277">68 comments 121 points</a></li>
-<li><a href="https://purplesyringa.moe/blog/an-ode-to-bzip/"><strong>An ode to bzip</strong> <code>purplesyringa.moe</code></a> - <a href="https://news.ycombinator.com/item?id=47377998">68 comments 121 points</a></li>
-<li><a href="https://redirect.github.com/drojaazu/megadev"><strong>Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47374745">7 comments 121 points</a></li>
-<li><a href="https://robenglander.com/writing/ai-did-not-simplify/"><strong>AI didn&#39;t simplify software engineering: It just made bad engineering easier</strong> <code>robenglander.com</code></a> - <a href="https://news.ycombinator.com/item?id=47377262">103 comments 120 points</a></li>
-<li><a href="https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity"><strong>UBI as a productivity dividend</strong> <code>scottsantens.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47378399">239 comments 118 points</a></li>
-<li><a href="https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/"><strong>MCP is dead; long live MCP</strong> <code>chrlschn.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47380270">116 comments 114 points</a></li>
-<li><a href="https://www.gitagent.sh/"><strong>Show HN: GitAgent – An open standard that turns any Git repo into an AI agent</strong> <code>www.gitagent.sh</code></a> - <a href="https://news.ycombinator.com/item?id=47376584">18 comments 109 points</a></li>
-<li><a href="https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/"><strong>FCC chairman threatens TV broadcast licenses over news coverage</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=47382739">1 comments 107 points</a></li>
-<li><a href="https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/"><strong>Bumblebee queens breathe underwater to survive drowning</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=47381011">26 comments 106 points</a></li>
-<li><a href="https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/"><strong>Allow me to get to know you, mistakes and all</strong> <code>sebi.io</code></a> - <a href="https://news.ycombinator.com/item?id=47381736">34 comments 104 points</a></li>
-<li><a href="https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo"><strong>It&#39;s time to move your docs in the repo</strong> <code>www.dein.fr</code></a> - <a href="https://news.ycombinator.com/item?id=47380231">68 comments 101 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
