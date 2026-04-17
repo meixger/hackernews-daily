@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 16 Apr 2026 06:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 06:57:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-04-16]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1309</link>
+            <guid isPermaLink="false">1309</guid>
+            <pubDate>Thu, 16 Apr 2026 06:56:14 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data"><strong>Google broke its promise to me – now ICE has my data</strong> <code>www.eff.org</code></a> - <a href="https://news.ycombinator.com/item?id=47782570">579 comments 1349 points</a></li>
+<li><a href="https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/"><strong>God sleeps in the minerals</strong> <code>wchambliss.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=47778475">100 comments 511 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds"><strong>Live Nation illegally monopolized ticketing market, jury finds</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=47783713">146 comments 504 points</a></li>
+<li><a href="https://prog21.dadgum.com/30.html"><strong>Want to write a compiler? Just read these two papers (2008)</strong> <code>prog21.dadgum.com</code></a> - <a href="https://news.ycombinator.com/item?id=47776796">143 comments 479 points</a></li>
+<li><a href="https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose"><strong>Backpacks got worse on purpose</strong> <code>www.worseonpurpose.com</code></a> - <a href="https://news.ycombinator.com/item?id=47777209">367 comments 402 points</a></li>
+<li><a href="https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/"><strong>Anna&#39;s Archive loses $322M Spotify piracy case without a fight</strong> <code>torrentfreak.com</code></a> - <a href="https://news.ycombinator.com/item?id=47776035">400 comments 397 points</a></li>
+<li><a href="https://super-memory.com/articles/sleep.htm"><strong>Good sleep, good learning, good life (2012)</strong> <code>super-memory.com</code></a> - <a href="https://news.ycombinator.com/item?id=47776557">198 comments 388 points</a></li>
+<li><a href="https://www.mcdonalds.co.jp/en/menu/burger/"><strong>The buns in McDonald&#39;s Japan&#39;s burger photos are all slightly askew</strong> <code>www.mcdonalds.co.jp</code></a> - <a href="https://news.ycombinator.com/item?id=47785738">182 comments 364 points</a></li>
+<li><a href="https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats"><strong>Open Source Isn&#39;t Dead</strong> <code>www.strix.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47780712">169 comments 321 points</a></li>
+<li><a href="https://cal.com/blog/cal-com-goes-closed-source-why"><strong>Cal.com is going closed source</strong> <code>cal.com</code></a> - <a href="https://news.ycombinator.com/item?id=47780456">199 comments 280 points</a></li>
+<li><a href="https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes"><strong>YouTube users get option to set their Shorts time limit to zero minutes</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=47786791">126 comments 272 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=47783940"><strong>Ask HN: Who is using OpenClaw?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47783940">317 comments 264 points</a></li>
+<li><a href="https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs"><strong>The Future of Everything Is Lies, I Guess: New Jobs</strong> <code>aphyr.com</code></a> - <a href="https://news.ycombinator.com/item?id=47778758">169 comments 255 points</a></li>
+<li><a href="https://claudestatus.com/"><strong>Elevated errors on Claude.ai, API, Claude Code</strong> <code>claudestatus.com</code></a> - <a href="https://news.ycombinator.com/item?id=47779730">218 comments 242 points</a></li>
+<li><a href="https://www.dbpro.app/blog/do-you-even-need-a-database"><strong>Do you even need a database?</strong> <code>www.dbpro.app</code></a> - <a href="https://news.ycombinator.com/item?id=47778086">264 comments 236 points</a></li>
+<li><a href="https://redirect.github.com/steipete/wacli"><strong>Wacli – WhatsApp CLI</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47775628">150 comments 234 points</a></li>
+<li><a href="https://substack.com/home/post/p-193593234"><strong>Why are Flock employees watching our children?</strong> <code>substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47784045">43 comments 234 points</a></li>
+<li><a href="https://redirect.github.com/gastownhall/gastown/issues/3649"><strong>Does Gas Town &#39;steal&#39; usage from users&#39; LLM credits to improve itself?</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47785053">112 comments 229 points</a></li>
+<li><a href="https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"><strong>AI-assisted cognition endangers human development?</strong> <code>heidenstedt.org</code></a> - <a href="https://news.ycombinator.com/item?id=47783024">174 comments 221 points</a></li>
+<li><a href="https://deepmind.google/blog/gemini-robotics-er-1-6/"><strong>Gemini Robotics-ER 1.6</strong> <code>deepmind.google</code></a> - <a href="https://news.ycombinator.com/item?id=47779094">69 comments 208 points</a></li>
+<li><a href="https://keepandroidopen.org/cta/"><strong>Keep Android Open</strong> <code>keepandroidopen.org</code></a> - <a href="https://news.ycombinator.com/item?id=47778274">65 comments 194 points</a></li>
+<li><a href="https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows"><strong>Direct Win32 API, weird-shaped windows, and why they mostly disappeared</strong> <code>warped3.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47776667">107 comments 180 points</a></li>
+<li><a href="https://tracksuccession.com/explore"><strong>Show HN: Every CEO and CFO change at US public companies, live from SEC</strong> <code>tracksuccession.com</code></a> - <a href="https://news.ycombinator.com/item?id=47778306">63 comments 174 points</a></li>
+<li><a href="https://chatgpt.com/apps/spreadsheets/"><strong>ChatGPT for Excel</strong> <code>chatgpt.com</code></a> - <a href="https://news.ycombinator.com/item?id=47785397">125 comments 173 points</a></li>
+<li><a href="https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/"><strong>AI ruling prompts warnings from US lawyers: Your chats could be used against you</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=47778308">96 comments 148 points</a></li>
+<li><a href="https://wherethefuckdidmytaxesgo.com/"><strong>Where did my taxes go?</strong> <code>wherethefuckdidmytaxesgo.com</code></a> - <a href="https://news.ycombinator.com/item?id=47781864">194 comments 133 points</a></li>
+<li><a href="https://darkbloom.dev"><strong>Darkbloom – Private inference on idle Macs</strong> <code>darkbloom.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47788542">72 comments 132 points</a></li>
+<li><a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/"><strong>The Gemini app is now on Mac</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=47782256">63 comments 131 points</a></li>
+<li><a href="https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html"><strong>CRISPR takes important step toward silencing Down syndrome’s extra chromosome</strong> <code>medicalxpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=47781286">72 comments 126 points</a></li>
+<li><a href="https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases"><strong>Kalshi CEO expects US DOJ to prosecute insider trading cases</strong> <code>www.semafor.com</code></a> - <a href="https://news.ycombinator.com/item?id=47782972">134 comments 123 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-04-15]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1308</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://arxiv.org/abs/2603.15381"><strong>Why AI systems don&#39;t learn – On autonomous learning from cognitive science</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=47418722">26 comments 90 points</a></li>
 <li><a href="https://redirect.github.com/antflydb/antfly"><strong>Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47414291">37 comments 85 points</a></li>
 <li><a href="https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design"><strong>The pleasures of poor product design</strong> <code>www.inconspicuous.info</code></a> - <a href="https://news.ycombinator.com/item?id=47420432">30 comments 83 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-03-17]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1278</link>
-            <guid isPermaLink="false">1278</guid>
-            <pubDate>Tue, 17 Mar 2026 07:38:13 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/"><strong>Polymarket gamblers threaten to kill me over Iran missile story</strong> <code>www.timesofisrael.com</code></a> - <a href="https://news.ycombinator.com/item?id=47397822">930 comments 1450 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/c70n2x7p22do"><strong>Palestinian boy, 12, describes how Israeli forces killed his family in car</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47402950">299 comments 1059 points</a></li>
-<li><a href="https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full"><strong>Corruption erodes social trust more in democracies than in autocracies</strong> <code>www.frontiersin.org</code></a> - <a href="https://news.ycombinator.com/item?id=47397593">364 comments 696 points</a></li>
-<li><a href="https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets"><strong>MoD sources warn Palantir role at heart of government is threat to UK security</strong> <code>www.thenerve.news</code></a> - <a href="https://news.ycombinator.com/item?id=47397797">257 comments 620 points</a></li>
-<li><a href="https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/"><strong>US SEC preparing to scrap quarterly reporting requirement</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=47406779">294 comments 542 points</a></li>
-<li><a href="https://karpathy.ai/jobs/"><strong>US Job Market Visualizer</strong> <code>karpathy.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47400060">333 comments 455 points</a></li>
-<li><a href="https://mistral.ai/news/leanstral"><strong>Leanstral: Open-source agent for trustworthy coding and formal proof engineering</strong> <code>mistral.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47404796">91 comments 436 points</a></li>
-<li><a href="https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/"><strong>Meta’s renewed commitment to jemalloc</strong> <code>engineering.fb.com</code></a> - <a href="https://news.ycombinator.com/item?id=47402640">180 comments 411 points</a></li>
-<li><a href="https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/"><strong>Why I love FreeBSD</strong> <code>it-notes.dragas.net</code></a> - <a href="https://news.ycombinator.com/item?id=47397574">197 comments 410 points</a></li>
-<li><a href="https://kevinboone.me/small_web_is_big.html"><strong>The “small web” is bigger than you might think</strong> <code>kevinboone.me</code></a> - <a href="https://news.ycombinator.com/item?id=47401879">163 comments 383 points</a></li>
-<li><a href="https://translate.kagi.com/?from=en&to=LinkedIn+speak"><strong>Kagi Translate now supports LinkedIn Speak as an output language</strong> <code>translate.kagi.com</code></a> - <a href="https://news.ycombinator.com/item?id=47408703">89 comments 363 points</a></li>
-<li><a href="https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860"><strong>My Journey to a reliable and enjoyable locally hosted voice assistant (2025)</strong> <code>community.home-assistant.io</code></a> - <a href="https://news.ycombinator.com/item?id=47398534">103 comments 362 points</a></li>
-<li><a href="https://redirect.github.com/rexrodeo/american-healthcare-conundrum"><strong>The American Healthcare Conundrum</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47401809">275 comments 322 points</a></li>
-<li><a href="https://www.politico.eu/article/obsession-with-growth-destroying-nature-150-countries-warn/"><strong>Obsession with growth is destroying nature, 150 countries warn</strong> <code>www.politico.eu</code></a> - <a href="https://news.ycombinator.com/item?id=47397920">206 comments 273 points</a></li>
-<li><a href="https://www.apple.com/airpods-max/"><strong>AirPods Max 2</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=47398681">448 comments 268 points</a></li>
-<li><a href="https://www.jackpearce.co.uk/posts/starlink-failover/"><strong>Starlink Mini as a failover</strong> <code>www.jackpearce.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=47396264">185 comments 247 points</a></li>
-<li><a href="https://redirect.github.com/htdt/godogen"><strong>Show HN: Claude Code skills that build complete Godot games</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47400868">141 comments 234 points</a></li>
-<li><a href="https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/"><strong>&#39;Pokémon Go&#39; players unknowingly trained delivery robots with 30B images</strong> <code>www.popsci.com</code></a> - <a href="https://news.ycombinator.com/item?id=47398479">93 comments 195 points</a></li>
-<li><a href="https://redirect.github.com/emin-ozata/lazycut"><strong>Lazycut: A simple terminal video trimmer using FFmpeg</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47397857">56 comments 190 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=47397190"><strong>Ask HN: What is it like being in a CS major program these days?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47397190">174 comments 177 points</a></li>
-<li><a href="https://apenwarr.ca/log/20260316"><strong>Every layer of review makes you 10x slower</strong> <code>apenwarr.ca</code></a> - <a href="https://news.ycombinator.com/item?id=47408205">67 comments 160 points</a></li>
-<li><a href="https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"><strong>Nvidia Launches Vera CPU, Purpose-Built for Agentic AI</strong> <code>nvidianews.nvidia.com</code></a> - <a href="https://news.ycombinator.com/item?id=47404074">87 comments 155 points</a></li>
-<li><a href="https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"><strong>Apideck CLI – An AI-agent interface with much lower context consumption than MCP</strong> <code>www.apideck.com</code></a> - <a href="https://news.ycombinator.com/item?id=47400261">108 comments 128 points</a></li>
-<li><a href="https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/"><strong>The return-to-the-office trend backfires</strong> <code>thehill.com</code></a> - <a href="https://news.ycombinator.com/item?id=47402651">95 comments 119 points</a></li>
-<li><a href="https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/"><strong>Beyond has dropped “meat” from its name and expanded its high-protein drink line</strong> <code>plantbasednews.org</code></a> - <a href="https://news.ycombinator.com/item?id=47404798">199 comments 114 points</a></li>
-<li><a href="https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/"><strong>Even faster asin() was staring right at me</strong> <code>16bpp.net</code></a> - <a href="https://news.ycombinator.com/item?id=47398080">52 comments 109 points</a></li>
-<li><a href="https://pyrefly.org/blog/typing-conformance-comparison/"><strong>Comparing Python Type Checkers: Typing Spec Conformance</strong> <code>pyrefly.org</code></a> - <a href="https://news.ycombinator.com/item?id=47398023">45 comments 105 points</a></li>
-<li><a href="https://arxiv.org/abs/2511.04427"><strong>Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=47401734">58 comments 103 points</a></li>
-<li><a href="https://www.sciencedaily.com/releases/2025/10/251027023816.htm"><strong>MM120, a pharmaceutical form of LSD, shown to reduce anxiety symptoms (2025)</strong> <code>www.sciencedaily.com</code></a> - <a href="https://news.ycombinator.com/item?id=47397528">84 comments 92 points</a></li>
-<li><a href="https://arxiv.org/abs/2603.12229"><strong>Language model teams as distributed systems</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=47401901">39 comments 89 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
