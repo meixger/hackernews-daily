@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 23 Apr 2026 06:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 07:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-04-23]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1316</link>
+            <guid isPermaLink="false">1316</guid>
+            <pubDate>Thu, 23 Apr 2026 06:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/"><strong>Alberta startup sells no-tech tractors for half price</strong> <code>wheelfront.com</code></a> - <a href="https://news.ycombinator.com/item?id=47865868">527 comments 1633 points</a></li>
+<li><a href="https://social.hails.org/@hailey/116446826733136456"><strong>Windows 9x Subsystem for Linux</strong> <code>social.hails.org</code></a> - <a href="https://news.ycombinator.com/item?id=47861270">218 comments 935 points</a></li>
+<li><a href="https://qwen.ai/blog?id=qwen3.6-27b"><strong>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</strong> <code>qwen.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47863217">377 comments 807 points</a></li>
+<li><a href="https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/"><strong>We found a stable Firefox identifier linking all your private Tor identities</strong> <code>fingerprint.com</code></a> - <a href="https://news.ycombinator.com/item?id=47866697">167 comments 615 points</a></li>
+<li><a href="https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/"><strong>Apple fixes bug that cops used to extract deleted chat messages from iPhones</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=47868867">132 comments 529 points</a></li>
+<li><a href="https://cli.github.com/telemetry"><strong>GitHub CLI now collects pseudoanonymous telemetry</strong> <code>cli.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47862331">318 comments 435 points</a></li>
+<li><a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/"><strong>Our eighth generation TPUs: two chips for the agentic era</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=47862497">211 comments 429 points</a></li>
+<li><a href="https://nrehiew.github.io/blog/minimal_editing/"><strong>Over-editing refers to a model modifying code beyond what is necessary</strong> <code>nrehiew.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47866913">193 comments 343 points</a></li>
+<li><a href="https://tech.marksblogg.com/american-solar-farms-v2.html"><strong>3.4M Solar Panels</strong> <code>tech.marksblogg.com</code></a> - <a href="https://news.ycombinator.com/item?id=47862386">234 comments 306 points</a></li>
+<li><a href="https://www.adriankrebs.ch/blog/design-slop/"><strong>Scoring Show HN submissions for AI design patterns</strong> <code>www.adriankrebs.ch</code></a> - <a href="https://news.ycombinator.com/item?id=47864393">214 comments 301 points</a></li>
+<li><a href="https://martinfowler.com/fragments/2026-04-02.html"><strong>Technical, cognitive, and intent debt</strong> <code>martinfowler.com</code></a> - <a href="https://news.ycombinator.com/item?id=47865661">62 comments 251 points</a></li>
+<li><a href="https://flipbook.page/"><strong>Website streamed live directly from a model</strong> <code>flipbook.page</code></a> - <a href="https://news.ycombinator.com/item?id=47867048">68 comments 238 points</a></li>
+<li><a href="https://perthirtysix.com/how-the-heck-does-gps-work"><strong>How does GPS work?</strong> <code>perthirtysix.com</code></a> - <a href="https://news.ycombinator.com/item?id=47861087">49 comments 230 points</a></li>
+<li><a href="https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time"><strong>Ultraviolet corona discharges on treetops during storms</strong> <code>www.psu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47863324">64 comments 224 points</a></li>
+<li><a href="https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/"><strong>Irony as Meta staff unhappy about running surveillance software on work PCs</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=47860742">169 comments 220 points</a></li>
+<li><a href="https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html"><strong>Youth Suicides Declined After Creation of National Hotline</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47865622">136 comments 212 points</a></li>
+<li><a href="https://zed.dev/blog/parallel-agents"><strong>Parallel agents in Zed</strong> <code>zed.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47866750">116 comments 212 points</a></li>
+<li><a href="https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247"><strong>XOR&#39;ing a register with itself is the idiom for zeroing it out. Why not sub?</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=47859861">205 comments 208 points</a></li>
+<li><a href="https://www.nationsreportcard.gov/highlights/ltt/2023/"><strong>Scores decline again for 13-year-old students in reading and mathematics</strong> <code>www.nationsreportcard.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47867755">264 comments 192 points</a></li>
+<li><a href="https://crawshaw.io/blog/building-a-cloud"><strong>I am building a cloud</strong> <code>crawshaw.io</code></a> - <a href="https://news.ycombinator.com/item?id=47872324">44 comments 158 points</a></li>
+<li><a href="https://duckdb.org/2026/04/13/announcing-duckdb-152"><strong>DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser</strong> <code>duckdb.org</code></a> - <a href="https://news.ycombinator.com/item?id=47864454">49 comments 151 points</a></li>
+<li><a href="https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/"><strong>CATL&#39;s new LFP battery can charge from 10 to 98% in less than 7 minutes</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47861703">90 comments 134 points</a></li>
+<li><a href="https://openai.com/index/introducing-workspace-agents-in-chatgpt/"><strong>Workspace Agents in ChatGPT</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=47866860">49 comments 132 points</a></li>
+<li><a href="https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million"><strong>Nobody got fired for Uber&#39;s $8M ledger mistake?</strong> <code>news.alvaroduran.com</code></a> - <a href="https://news.ycombinator.com/item?id=47861731">81 comments 123 points</a></li>
+<li><a href="https://twitter.com/orsonscottcard/status/2046702294406680751"><strong>You don&#39;t need advice from editors on rejected manuscripts</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47860682">72 comments 123 points</a></li>
+<li><a href="https://lwn.net/Articles/1068928/"><strong>Kernel code removals driven by LLM-created security reports</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=47862230">94 comments 112 points</a></li>
+<li><a href="https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"><strong>Meta employees are up in arms over a mandatory program to train AI on their</strong> <code>www.businessinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=47860961">87 comments 111 points</a></li>
+<li><a href="https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/"><strong>Surveillance Pricing: Exploiting Information Asymmetries</strong> <code>lpeproject.org</code></a> - <a href="https://news.ycombinator.com/item?id=47866395">46 comments 110 points</a></li>
+<li><a href="https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/"><strong>Ping-pong robot beats top-level human players</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=47864785">113 comments 108 points</a></li>
+<li><a href="https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/"><strong>Columnar Storage Is Normalization</strong> <code>buttondown.com</code></a> - <a href="https://news.ycombinator.com/item?id=47862626">37 comments 108 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-04-22]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1315</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"><strong>The AI Industry Is Lying to You</strong> <code>www.wheresyoured.at</code></a> - <a href="https://news.ycombinator.com/item?id=47506259">122 comments 153 points</a></li>
 <li><a href="https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation"><strong>Jury finds Meta liable in case over child sexual exploitation on its platforms</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=47509984">62 comments 151 points</a></li>
 <li><a href="https://astrid.tech/2026/03/24/0/curl-to-dev-sda/"><strong>curl &gt; /dev/sda: How I made a Linux distro that runs wget | dd</strong> <code>astrid.tech</code></a> - <a href="https://news.ycombinator.com/item?id=47500522">60 comments 142 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-03-24]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1285</link>
-            <guid isPermaLink="false">1285</guid>
-            <pubDate>Tue, 24 Mar 2026 07:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://rz01.org/eu-migration/"><strong>Migrating to the EU</strong> <code>rz01.org</code></a> - <a href="https://news.ycombinator.com/item?id=47487436">657 comments 858 points</a></li>
-<li><a href="https://twitter.com/anemll/status/2035901335984611412"><strong>iPhone 17 Pro Demonstrated Running a 400B LLM</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47490070">265 comments 579 points</a></li>
-<li><a href="https://www.theregister.com/2026/02/10/github_outages/"><strong>GitHub appears to be struggling with measly three nines availability</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=47487584">232 comments 448 points</a></li>
-<li><a href="https://indieweb.org/POSSE"><strong>POSSE – Publish on your Own Site, Syndicate Elsewhere</strong> <code>indieweb.org</code></a> - <a href="https://news.ycombinator.com/item?id=47486726">81 comments 397 points</a></li>
-<li><a href="https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html"><strong>US and TotalEnergies reach &#39;nearly $1B&#39; deal to end offshore wind projects</strong> <code>www.lemonde.fr</code></a> - <a href="https://news.ycombinator.com/item?id=47492599">315 comments 396 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/cy01g522ww4o"><strong>Two pilots dead after plane and ground vehicle collide at LaGuardia</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47486386">600 comments 392 points</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S016517652200283X"><strong>Student beauty and grades under in-person and remote teaching</strong> <code>www.sciencedirect.com</code></a> - <a href="https://news.ycombinator.com/item?id=47488015">491 comments 353 points</a></li>
-<li><a href="https://ykumar.me/blog/eclip-autoresearch/"><strong>Autoresearch on an old research idea</strong> <code>ykumar.me</code></a> - <a href="https://news.ycombinator.com/item?id=47493460">72 comments 344 points</a></li>
-<li><a href="https://cc.storyfox.cz"><strong>Claude Code Cheat Sheet</strong> <code>cc.storyfox.cz</code></a> - <a href="https://news.ycombinator.com/item?id=47495527">103 comments 330 points</a></li>
-<li><a href="https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers"><strong>FCC updates covered list to include foreign-made consumer routers</strong> <code>www.fcc.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47495344">197 comments 297 points</a></li>
-<li><a href="https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs"><strong>Epoch confirms GPT5.4 Pro solved a frontier math open problem</strong> <code>epoch.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47497757">234 comments 285 points</a></li>
-<li><a href="https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"><strong>I built an AI receptionist for a mechanic shop</strong> <code>www.itsthatlady.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47487536">277 comments 263 points</a></li>
-<li><a href="https://redirect.github.com/andreasjansson/win-3.1-backgrounds"><strong>Windows 3.1 tiled background .bmp archive</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47496221">64 comments 235 points</a></li>
-<li><a href="https://skylarbpayne.com/posts/dspy-engineering-patterns/"><strong>If DSPy is so great, why isn&#39;t anyone using it?</strong> <code>skylarbpayne.com</code></a> - <a href="https://news.ycombinator.com/item?id=47490365">118 comments 210 points</a></li>
-<li><a href="https://redirect.github.com/localstack/localstack"><strong>Local Stack Archived their GitHub repo and requires an account to run</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47493657">106 comments 187 points</a></li>
-<li><a href="https://neilkakkar.com/productive-with-claude-code.html"><strong>How I&#39;m Productive with Claude Code</strong> <code>neilkakkar.com</code></a> - <a href="https://news.ycombinator.com/item?id=47494890">106 comments 183 points</a></li>
-<li><a href="https://isitapint.com/"><strong>Is it a pint?</strong> <code>isitapint.com</code></a> - <a href="https://news.ycombinator.com/item?id=47491496">156 comments 179 points</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket"><strong>Bets on US-Iran ceasefire show signs of insider knowledge, say experts</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=47494629">165 comments 174 points</a></li>
-<li><a href="https://www.boxyuwu.blog/posts/an-incoherent-rust/"><strong>An incoherent Rust</strong> <code>www.boxyuwu.blog</code></a> - <a href="https://news.ycombinator.com/item?id=47490648">78 comments 174 points</a></li>
-<li><a href="https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/"><strong>Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=47489058">192 comments 163 points</a></li>
-<li><a href="https://www.cyber.mil/stigs/downloads"><strong>Cyber.mil serving file downloads using TLS certificate which expired 3 days ago</strong> <code>www.cyber.mil</code></a> - <a href="https://news.ycombinator.com/item?id=47490816">154 comments 158 points</a></li>
-<li><a href="https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back"><strong>America tells private firms to “hack back”</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=47489044">140 comments 130 points</a></li>
-<li><a href="https://blog.mozilla.ai/cq-stack-overflow-for-agents/"><strong>Show HN: Cq – Stack Overflow for AI coding agents</strong> <code>blog.mozilla.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47491466">40 comments 125 points</a></li>
-<li><a href="https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/"><strong>American aviation is near collapse?</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47494469">92 comments 106 points</a></li>
-<li><a href="https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834"><strong>Dataframe 1.0.0.0</strong> <code>discourse.haskell.org</code></a> - <a href="https://news.ycombinator.com/item?id=47486915">24 comments 105 points</a></li>
-<li><a href="https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses"><strong>Study: &#39;Security Fatigue&#39; May Weaken Digital Defenses</strong> <code>www.albany.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47490150">59 comments 88 points</a></li>
-<li><a href="https://redirect.github.com/duriantaco/fyn"><strong>Fyn: An uv fork with new features, bug fixes, stripped telemetry</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47488635">79 comments 85 points</a></li>
-<li><a href="https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/"><strong>The Resolv hack: How one compromised key printed $23M</strong> <code>www.chainalysis.com</code></a> - <a href="https://news.ycombinator.com/item?id=47495719">107 comments 84 points</a></li>
-<li><a href="https://redirect.github.com/bjarneo/cliamp"><strong>A retro terminal music player inspired by Winamp</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47494821">16 comments 82 points</a></li>
-<li><a href="https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html"><strong>Pentagon Adopts New Limits for Journalists After Court Loss</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47496305">18 comments 77 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
