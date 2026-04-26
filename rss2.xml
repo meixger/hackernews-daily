@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sat, 25 Apr 2026 06:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 06:56:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-04-25]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1318</link>
+            <guid isPermaLink="false">1318</guid>
+            <pubDate>Sat, 25 Apr 2026 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://nickyreinert.de/en/2026/2026-04-24-claude-critics/"><strong>I cancelled Claude: Token issues, declining quality, and poor support</strong> <code>nickyreinert.de</code></a> - <a href="https://news.ycombinator.com/item?id=47892019">500 comments 848 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic"><strong>Google plans to invest up to $40B in Anthropic</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=47892074">484 comments 489 points</a></li>
+<li><a href="https://kevinlynagh.com/newsletter/2026_04_overthinking/"><strong>Sabotaging projects by overthinking, scope creep, and structural diffing</strong> <code>kevinlynagh.com</code></a> - <a href="https://news.ycombinator.com/item?id=47890799">104 comments 397 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s"><strong>Norway set to become latest country to ban social media for under 16s</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=47891019">440 comments 382 points</a></li>
+<li><a href="https://nate.leaflet.pub/3mk4xkaxobc2p"><strong>How to be anti-social – a guide to incoherent and isolating social experiences</strong> <code>nate.leaflet.pub</code></a> - <a href="https://news.ycombinator.com/item?id=47888372">312 comments 337 points</a></li>
+<li><a href="https://redirect.github.com/matz/spinel"><strong>Spinel: Ruby AOT Native Compiler</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47887334">86 comments 319 points</a></li>
+<li><a href="https://redirect.github.com/libsdl-org/SDL/pull/15377"><strong>SDL Now Supports DOS</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47892291">99 comments 244 points</a></li>
+<li><a href="https://ynarwal.github.io/how-llms-work/"><strong>Show HN: How LLMs Work – Interactive visual guide based on Karpathy&#39;s lecture</strong> <code>ynarwal.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47886517">53 comments 234 points</a></li>
+<li><a href="https://developers.openai.com/api/docs/changelog"><strong>OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API</strong> <code>developers.openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=47894000">125 comments 230 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c4gx1n0dl9no"><strong>South Korea police arrest man for posting AI photo of runaway wolf</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47887683">149 comments 222 points</a></li>
+<li><a href="https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"><strong>Google to invest up to $40B in Anthropic in cash and compute</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=47895080">7 comments 206 points</a></li>
+<li><a href="https://hhh.hn/rodecaster-duo-fw/"><strong>My audio interface has SSH enabled by default</strong> <code>hhh.hn</code></a> - <a href="https://news.ycombinator.com/item?id=47894747">68 comments 204 points</a></li>
+<li><a href="https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/"><strong>The Classic American Diner</strong> <code>blogs.loc.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47894435">120 comments 197 points</a></li>
+<li><a href="https://arxiv.org/abs/2604.21691"><strong>There Will Be a Scientific Theory of Deep Learning</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=47893779">76 comments 196 points</a></li>
+<li><a href="https://redirect.github.com/AndrewVos/endless-toil"><strong>Hear your agent suffer through your code</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47888465">84 comments 186 points</a></li>
+<li><a href="https://www.bmj.com/content/393/bmj.s781"><strong>UK Biobank leak: Health details of 500k people offered for sale on Alibaba</strong> <code>www.bmj.com</code></a> - <a href="https://news.ycombinator.com/item?id=47888557">79 comments 186 points</a></li>
+<li><a href="https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/"><strong>I&#39;m done making desktop applications (2009)</strong> <code>www.kalzumeus.com</code></a> - <a href="https://news.ycombinator.com/item?id=47891801">182 comments 160 points</a></li>
+<li><a href="https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html"><strong>Tariffs Raised Consumers&#39; Prices, but the Refunds Go Only to Businesses</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47893060">57 comments 153 points</a></li>
+<li><a href="https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/"><strong>Refuse to let your doctor record you</strong> <code>buttondown.com</code></a> - <a href="https://news.ycombinator.com/item?id=47891872">196 comments 150 points</a></li>
+<li><a href="https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/"><strong>SFO Quiet Airport (2025)</strong> <code>viewfromthewing.com</code></a> - <a href="https://news.ycombinator.com/item?id=47894081">81 comments 141 points</a></li>
+<li><a href="https://itsfoss.com/news/firefox-ships-brave-adblock-engine/"><strong>Firefox Has Integrated Brave&#39;s Adblock Engine</strong> <code>itsfoss.com</code></a> - <a href="https://news.ycombinator.com/item?id=47897891">53 comments 130 points</a></li>
+<li><a href="https://www.flowmusic.app/"><strong>Google Flow Music</strong> <code>www.flowmusic.app</code></a> - <a href="https://news.ycombinator.com/item?id=47895765">123 comments 126 points</a></li>
+<li><a href="https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/"><strong>The operating cost of adult and gambling startups</strong> <code>orchidfiles.com</code></a> - <a href="https://news.ycombinator.com/item?id=47889279">191 comments 119 points</a></li>
+<li><a href="https://dynomight.net/aspartame/"><strong>Aspartame is not that bad? (2022)</strong> <code>dynomight.net</code></a> - <a href="https://news.ycombinator.com/item?id=47889030">243 comments 118 points</a></li>
+<li><a href="https://www.cambra.dev/blog/announcement/"><strong>Composition shouldn&#39;t be this hard</strong> <code>www.cambra.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47886773">72 comments 118 points</a></li>
+<li><a href="https://redirect.github.com/NV404/gova"><strong>Show HN: Gova – The declarative GUI framework for Go</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47886272">26 comments 118 points</a></li>
+<li><a href="https://jeroen.github.io/notes/webassembly-tar/"><strong>Mounting tar archives as a filesystem in WebAssembly</strong> <code>jeroen.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47888124">37 comments 116 points</a></li>
+<li><a href="https://gigazine.net/gsc_news/en/20260424-filco-diatec/"><strong>Diatec, known for its mechanical keyboard brand FILCO, has ceased operations</strong> <code>gigazine.net</code></a> - <a href="https://news.ycombinator.com/item?id=47892236">39 comments 109 points</a></li>
+<li><a href="https://hostednowhere.com/"><strong>nowhere: an entire website encoded in a URL</strong> <code>hostednowhere.com</code></a> - <a href="https://news.ycombinator.com/item?id=47888337">62 comments 101 points</a></li>
+<li><a href="https://redirect.github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md"><strong>Replace IBM Quantum back end with /dev/urandom</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47897647">13 comments 99 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-04-24]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1317</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://colibri.social/"><strong>Colibri – chat platform built on the AT Protocol for communities big and small</strong> <code>colibri.social</code></a> - <a href="https://news.ycombinator.com/item?id=47533283">69 comments 115 points</a></li>
 <li><a href="https://code.claude.com/docs/en/web-scheduled-tasks"><strong>Schedule tasks on the web</strong> <code>code.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=47539188">63 comments 94 points</a></li>
 <li><a href="https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix"><strong>Building a Blog with Elixir and Phoenix</strong> <code>jola.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47533090">8 comments 85 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-03-26]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1287</link>
-            <guid isPermaLink="false">1287</guid>
-            <pubDate>Thu, 26 Mar 2026 07:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://fightchatcontrol.eu/?foo=bar"><strong>The EU still wants to scan  your private messages and photos</strong> <code>fightchatcontrol.eu</code></a> - <a href="https://news.ycombinator.com/item?id=47522709">263 comments 1006 points</a></li>
-<li><a href="https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/"><strong>Thoughts on slowing the fuck down</strong> <code>mariozechner.at</code></a> - <a href="https://news.ycombinator.com/item?id=47517539">375 comments 807 points</a></li>
-<li><a href="https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a"><strong>Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=47519519">245 comments 571 points</a></li>
-<li><a href="https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/"><strong>Running Tesla Model 3&#39;s computer on my desk using parts from crashed cars</strong> <code>bugs.xdavidhu.me</code></a> - <a href="https://news.ycombinator.com/item?id=47523330">172 comments 562 points</a></li>
-<li><a href="https://andregarzia.com/2026/03/apple-just-lost-me.html"><strong>Apple Just Lost Me</strong> <code>andregarzia.com</code></a> - <a href="https://news.ycombinator.com/item?id=47517701">428 comments 449 points</a></li>
-<li><a href="https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"><strong>Meta and YouTube found negligent in landmark social media addiction case</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47520505">213 comments 444 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/cql75dn07n2o"><strong>Meta told to pay $375M for misleading users over child safety</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47514916">2 comments 422 points</a></li>
-<li><a href="https://www.nature.com/articles/d41586-026-00950-w"><strong>Antimatter has been transported for the first time</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=47518171">174 comments 384 points</a></li>
-<li><a href="https://lapcatsoftware.com/articles/2026/3/11.html"><strong>Apple randomly closes bug reports unless you &quot;verify&quot; the bug remains unfixed</strong> <code>lapcatsoftware.com</code></a> - <a href="https://news.ycombinator.com/item?id=47521876">209 comments 370 points</a></li>
-<li><a href="https://arcprize.org/arc-agi/3"><strong>ARC-AGI-3</strong> <code>arcprize.org</code></a> - <a href="https://news.ycombinator.com/item?id=47521150">239 comments 369 points</a></li>
-<li><a href="https://ente.com/blog/ensu/"><strong>Ensu – Ente’s Local LLM app</strong> <code>ente.com</code></a> - <a href="https://news.ycombinator.com/item?id=47516650">162 comments 350 points</a></li>
-<li><a href="https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html"><strong>Supreme Court Sides with Cox in Copyright Fight over Pirated Music</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47518281">258 comments 333 points</a></li>
-<li><a href="https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/"><strong>Updates to GitHub Copilot interaction data usage policy</strong> <code>github.blog</code></a> - <a href="https://news.ycombinator.com/item?id=47521799">135 comments 293 points</a></li>
-<li><a href="https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict"><strong>Jury says Meta knowingly harmed children for profit, awarding landmark verdict</strong> <code>www.latimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47519625">2 comments 276 points</a></li>
-<li><a href="https://www.claudescode.dev/?window=since_launch"><strong>90% of Claude-linked output going to GitHub repos w &lt;2 stars</strong> <code>www.claudescode.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47521157">153 comments 259 points</a></li>
-<li><a href="https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/"><strong>False claims in a widely-cited paper</strong> <code>statmodeling.stat.columbia.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47525378">96 comments 251 points</a></li>
-<li><a href="https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/"><strong>FreeCAD  v1.1</strong> <code>blog.freecad.org</code></a> - <a href="https://news.ycombinator.com/item?id=47521945">74 comments 243 points</a></li>
-<li><a href="https://ngrok.com/blog/quantization"><strong>Quantization from the Ground Up</strong> <code>ngrok.com</code></a> - <a href="https://news.ycombinator.com/item?id=47519295">46 comments 240 points</a></li>
-<li><a href="https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html"><strong>Tracy Kidder has died</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47519802">63 comments 239 points</a></li>
-<li><a href="https://tildeweb.nl/~michiel/httpxyz.html"><strong>Why I forked httpx</strong> <code>tildeweb.nl</code></a> - <a href="https://news.ycombinator.com/item?id=47514603">172 comments 237 points</a></li>
-<li><a href="https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing"><strong>China is mass-producing hypersonic missiles for $99,000</strong> <code>kdwalmsley.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47523106">141 comments 179 points</a></li>
-<li><a href="https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/"><strong>Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=47522608">116 comments 168 points</a></li>
-<li><a href="https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780"><strong>Woman who never stopped updating her lost dog&#39;s chip reunites with him after 11y</strong> <code>www.cbc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=47524719">94 comments 166 points</a></li>
-<li><a href="https://codepen.io/mrdoob_/full/NPRwLZd"><strong>Ball Pit</strong> <code>codepen.io</code></a> - <a href="https://news.ycombinator.com/item?id=47521787">41 comments 162 points</a></li>
-<li><a href="https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"><strong>I tried to prove I&#39;m not AI. My aunt wasn&#39;t convinced</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47515502">176 comments 156 points</a></li>
-<li><a href="https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/"><strong>Earthquake scientists reveal how overplowing weakens soil at experimental farm</strong> <code>www.washington.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47517606">60 comments 148 points</a></li>
-<li><a href="https://supreme.justia.com/cases/federal/us/607/24-171/"><strong>Sony V. Cox Decision Reversed</strong> <code>supreme.justia.com</code></a> - <a href="https://news.ycombinator.com/item?id=47518785">2 comments 147 points</a></li>
-<li><a href="https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes"><strong>Health NZ staff told to stop using ChatGPT to write clinical notes</strong> <code>www.rnz.co.nz</code></a> - <a href="https://news.ycombinator.com/item?id=47523169">46 comments 138 points</a></li>
-<li><a href="https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html"><strong>A Eulogy for Vim</strong> <code>drewdevault.com</code></a> - <a href="https://news.ycombinator.com/item?id=47519308">131 comments 127 points</a></li>
-<li><a href="https://www.bbc.co.uk/news/articles/cm2rew2dgzzo"><strong>Musketeer d&#39;Artagnan&#39;s remains believed found under Dutch church</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=47518965">40 comments 109 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
