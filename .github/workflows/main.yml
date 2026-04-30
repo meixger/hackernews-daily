@@ -3,7 +3,8 @@ name: hackernews-daily
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 7 * * *"
+  - cron: "0 6 * * *"
+# cant get timezone to work
     timezone: "Europe/Rome"
 # old way of daylight saving workaround
 #  - cron: "40 6 * 11-12,1-3 *"
