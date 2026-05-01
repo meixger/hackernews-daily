@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 30 Apr 2026 07:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 06:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-04-30]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1323</link>
+            <guid isPermaLink="false">1323</guid>
+            <pubDate>Thu, 30 Apr 2026 07:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://zed.dev/blog/zed-1-0"><strong>Zed 1.0</strong> <code>zed.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47949027">562 comments 1748 points</a></li>
+<li><a href="https://redirect.github.com/anthropics/claude-code/issues/53262"><strong>HERMES.md in commit messages causes requests to route to extra usage billing</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47952722">461 comments 1088 points</a></li>
+<li><a href="https://x.com/GlennMeder/status/2049088498163216560"><strong>Online age verification is the hill to die on</strong> <code>x.com</code></a> - <a href="https://news.ycombinator.com/item?id=47950091">575 comments 871 points</a></li>
+<li><a href="https://copy.fail/"><strong>Copy Fail</strong> <code>copy.fail</code></a> - <a href="https://news.ycombinator.com/item?id=47952181">321 comments 849 points</a></li>
+<li><a href="https://neal.fun/cursor-camp/"><strong>Cursor Camp</strong> <code>neal.fun</code></a> - <a href="https://news.ycombinator.com/item?id=47949939">136 comments 845 points</a></li>
+<li><a href="https://blog.tangled.org/federation/"><strong>We need a federation of forges</strong> <code>blog.tangled.org</code></a> - <a href="https://news.ycombinator.com/item?id=47948603">344 comments 557 points</a></li>
+<li><a href="https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/"><strong>Soft launch of open-source code platform for government</strong> <code>www.nldigitalgovernment.nl</code></a> - <a href="https://news.ycombinator.com/item?id=47945918">124 comments 536 points</a></li>
+<li><a href="https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5"><strong>Mistral Medium 3.5</strong> <code>mistral.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47949642">211 comments 455 points</a></li>
+<li><a href="https://openai.com/index/where-the-goblins-came-from/"><strong>Where the goblins came from</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=47957688">202 comments 406 points</a></li>
+<li><a href="https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/"><strong>HashiCorp co-founder says GitHub &#39;no longer a place for serious work&#39;</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=47946958">226 comments 400 points</a></li>
+<li><a href="https://jivx.com/kyoto-bloom"><strong>Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years</strong> <code>jivx.com</code></a> - <a href="https://news.ycombinator.com/item?id=47953275">88 comments 318 points</a></li>
+<li><a href="https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies"><strong>FastCGI: 30 years old and still the better protocol for reverse proxies</strong> <code>www.agwa.name</code></a> - <a href="https://news.ycombinator.com/item?id=47950510">74 comments 315 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing"><strong>Maryland becomes first state to ban surveillance pricing in grocery stores</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=47951007">187 comments 289 points</a></li>
+<li><a href="https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"><strong>Why AI companies want you to be afraid of them</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47949750">212 comments 275 points</a></li>
+<li><a href="https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation"><strong>Third editor fired in Elsevier’s citation cartel crackdown</strong> <code>www.chrisbrunet.com</code></a> - <a href="https://news.ycombinator.com/item?id=47950022">78 comments 249 points</a></li>
+<li><a href="https://lawsofux.com/"><strong>Laws of UX</strong> <code>lawsofux.com</code></a> - <a href="https://news.ycombinator.com/item?id=47951137">35 comments 242 points</a></li>
+<li><a href="https://redirect.github.com/GliaX/Stethoscope"><strong>An open-source stethoscope that costs between $2.5 and $5 to produce</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47949204">104 comments 238 points</a></li>
+<li><a href="https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"><strong>He asked AI to count carbs 27000 times. It couldn&#39;t give the same answer twice</strong> <code>www.diabettech.com</code></a> - <a href="https://news.ycombinator.com/item?id=47947490">297 comments 237 points</a></li>
+<li><a href="https://opentrafficmap.org/"><strong>OpenTrafficMap</strong> <code>opentrafficmap.org</code></a> - <a href="https://news.ycombinator.com/item?id=47953541">50 comments 219 points</a></li>
+<li><a href="https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html"><strong>Why I still reach for Lisp and Scheme instead of Haskell</strong> <code>jointhefreeworld.org</code></a> - <a href="https://news.ycombinator.com/item?id=47945707">98 comments 210 points</a></li>
+<li><a href="https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79"><strong>Craig Venter has died</strong> <code>www.jcvi.org</code></a> - <a href="https://news.ycombinator.com/item?id=47957101">35 comments 204 points</a></li>
+<li><a href="https://rip.so"><strong>Show HN: Rip.so – a graveyard for dead internet things</strong> <code>rip.so</code></a> - <a href="https://news.ycombinator.com/item?id=47945955">111 comments 170 points</a></li>
+<li><a href="https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"><strong>&quot;People who don&#39;t use AI will be left behind&quot;</strong> <code>migrainebrain.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47953011">215 comments 157 points</a></li>
+<li><a href="https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle"><strong>HardenedBSD Is Now Officially on Radicle</strong> <code>hardenedbsd.org</code></a> - <a href="https://news.ycombinator.com/item?id=47944864">34 comments 154 points</a></li>
+<li><a href="https://simonwillison.net/2026/Apr/30/zig-anti-ai/"><strong>The Zig project&#39;s rationale for their firm anti-AI contribution policy</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=47957294">65 comments 153 points</a></li>
+<li><a href="https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409"><strong>Germany Overtakes US in Ammunition Production Capacity</strong> <code>www.newsweek.com</code></a> - <a href="https://news.ycombinator.com/item?id=47944924">184 comments 152 points</a></li>
+<li><a href="https://redirect.github.com/DOS-History/Paterson-Listings"><strong>GitHub – DOS 1.0: Transcription of Tim Paterson&#39;s DOS Printouts</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47946813">9 comments 139 points</a></li>
+<li><a href="https://read.thecoder.cafe/p/linux-broke-postgresql"><strong>Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained</strong> <code>read.thecoder.cafe</code></a> - <a href="https://news.ycombinator.com/item?id=47949585">67 comments 129 points</a></li>
+<li><a href="https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/"><strong>Germany has become the largest ammunition producer in the world</strong> <code>prm.ua</code></a> - <a href="https://news.ycombinator.com/item?id=47955297">92 comments 128 points</a></li>
+<li><a href="https://blog.jeffschomay.com/letting-ai-play-my-game"><strong>Letting AI play my game – building an agentic test harness to help play-testing</strong> <code>blog.jeffschomay.com</code></a> - <a href="https://news.ycombinator.com/item?id=47947525">29 comments 128 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-04-29]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1322</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career"><strong>Nobody is coming to save your career</strong> <code>alifeengineered.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586814">107 comments 103 points</a></li>
 <li><a href="https://rubycentral.org/news/rubygems-fracture-incident-report/"><strong>RubyGems Fracture Incident Report</strong> <code>rubycentral.org</code></a> - <a href="https://news.ycombinator.com/item?id=47587631">38 comments 91 points</a></li>
 <li><a href="https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"><strong>Ordinary Lab Gloves May Have Skewed Microplastic Data</strong> <code>nautil.us</code></a> - <a href="https://news.ycombinator.com/item?id=47593634">30 comments 91 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-03-31]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1292</link>
-            <guid isPermaLink="false">1292</guid>
-            <pubDate>Tue, 31 Mar 2026 06:53:25 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://nbailey.ca/post/router/"><strong>How to turn anything into a router</strong> <code>nbailey.ca</code></a> - <a href="https://news.ycombinator.com/item?id=47574034">227 comments 653 points</a></li>
-<li><a href="https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/"><strong>Fedware: Government apps that spy harder than the apps they ban</strong> <code>www.sambent.com</code></a> - <a href="https://news.ycombinator.com/item?id=47577761">166 comments 529 points</a></li>
-<li><a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"><strong>Axios compromised on NPM – Malicious versions drop remote access trojan</strong> <code>www.stepsecurity.io</code></a> - <a href="https://news.ycombinator.com/item?id=47582220">149 comments 490 points</a></li>
-<li><a href="https://alexhwoods.com/dont-let-ai-write-for-you/"><strong>Do your own writing</strong> <code>alexhwoods.com</code></a> - <a href="https://news.ycombinator.com/item?id=47573519">174 comments 476 points</a></li>
-<li><a href="https://www.codingfont.com/"><strong>CodingFont: A game to help you pick a coding font</strong> <code>www.codingfont.com</code></a> - <a href="https://news.ycombinator.com/item?id=47575403">193 comments 385 points</a></li>
-<li><a href="https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"><strong>How the AI Bubble Bursts</strong> <code>martinvol.pe</code></a> - <a href="https://news.ycombinator.com/item?id=47573420">482 comments 357 points</a></li>
-<li><a href="https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/"><strong>1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot</strong> <code>www.neowin.net</code></a> - <a href="https://news.ycombinator.com/item?id=47575212">10 comments 340 points</a></li>
-<li><a href="https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/"><strong>New Washington state law bans noncompete agreements</strong> <code>www.seattletimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47576861">116 comments 315 points</a></li>
-<li><a href="https://www.dhanishsemar.com/writing/bird-brains"><strong>Bird brains (2023)</strong> <code>www.dhanishsemar.com</code></a> - <a href="https://news.ycombinator.com/item?id=47573887">195 comments 312 points</a></li>
-<li><a href="https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"><strong>I am definitely missing the pre-AI writing era</strong> <code>www.lesswrong.com</code></a> - <a href="https://news.ycombinator.com/item?id=47571279">223 comments 303 points</a></li>
-<li><a href="https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803"><strong>15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die</strong> <code>community.webminal.org</code></a> - <a href="https://news.ycombinator.com/item?id=47570940">55 comments 286 points</a></li>
-<li><a href="https://anishathalye.com/macbook-touchscreen/"><strong>Turning a MacBook into a touchscreen with $1 of hardware (2018)</strong> <code>anishathalye.com</code></a> - <a href="https://news.ycombinator.com/item?id=47578572">132 comments 284 points</a></li>
-<li><a href="https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party"><strong>FTC action against Match and OkCupid for deceiving users, sharing personal data</strong> <code>www.ftc.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47575616">137 comments 283 points</a></li>
-<li><a href="https://blog.lysk.tech/excalidraw-frame-export/"><strong>I use Excalidraw to manage my diagrams for my blog</strong> <code>blog.lysk.tech</code></a> - <a href="https://news.ycombinator.com/item?id=47571376">111 comments 275 points</a></li>
-<li><a href="https://redirect.github.com/drona23/claude-token-efficient"><strong>Universal Claude.md – cut Claude output tokens</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47581701">93 comments 244 points</a></li>
-<li><a href="https://30u30.fyi"><strong>Show HN: 30u30.fyi – Is your startup founder on Forbes&#39; most fraudulent list?</strong> <code>30u30.fyi</code></a> - <a href="https://news.ycombinator.com/item?id=47580350">98 comments 232 points</a></li>
-<li><a href="https://claude.nagdy.me/"><strong>Learn Claude Code by doing, not reading</strong> <code>claude.nagdy.me</code></a> - <a href="https://news.ycombinator.com/item?id=47579229">100 comments 221 points</a></li>
-<li><a href="https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html"><strong>Android Developer Verification</strong> <code>android-developers.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=47580297">206 comments 215 points</a></li>
-<li><a href="https://eco3min.fr/en/us-inflation-is-not-linear/"><strong>72% of the dollar&#39;s purchasing power was destroyed in just four episodes</strong> <code>eco3min.fr</code></a> - <a href="https://news.ycombinator.com/item?id=47575089">253 comments 208 points</a></li>
-<li><a href="https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm"><strong>Artemis II is not safe to fly</strong> <code>idlewords.com</code></a> - <a href="https://news.ycombinator.com/item?id=47582043">118 comments 203 points</a></li>
-<li><a href="https://arxiv.org/abs/2603.26524"><strong>Mathematical methods and human thought in the age of AI</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=47572771">83 comments 202 points</a></li>
-<li><a href="https://brianschrader.com/archive/take-better-notes-by-hand/"><strong>Take better notes, by hand</strong> <code>brianschrader.com</code></a> - <a href="https://news.ycombinator.com/item?id=47576317">87 comments 193 points</a></li>
-<li><a href="https://dani2442.github.io/posts/continuous-rl/"><strong>Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models</strong> <code>dani2442.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47571495">46 comments 156 points</a></li>
-<li><a href="https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/"><strong>Vulnerability research is cooked</strong> <code>sockpuppet.org</code></a> - <a href="https://news.ycombinator.com/item?id=47578086">107 comments 152 points</a></li>
-<li><a href="https://www.mgrunwald.com/ghostmoon/"><strong>Ghostmoon.app – A Swiss Army Knife for your macOS menu bar</strong> <code>www.mgrunwald.com</code></a> - <a href="https://news.ycombinator.com/item?id=47572910">115 comments 143 points</a></li>
-<li><a href="https://ollama.com/blog/mlx"><strong>Ollama is now powered by MLX on Apple Silicon in preview</strong> <code>ollama.com</code></a> - <a href="https://news.ycombinator.com/item?id=47582482">46 comments 142 points</a></li>
-<li><a href="https://karlbode.com/ceo-said-a-thing-journalism/"><strong>“CEO said a thing” journalism</strong> <code>karlbode.com</code></a> - <a href="https://news.ycombinator.com/item?id=47577735">71 comments 129 points</a></li>
-<li><a href="https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/"><strong>You are falling behind because you haven&#39;t fed the insincerity machine</strong> <code>christianheilmann.com</code></a> - <a href="https://news.ycombinator.com/item?id=47576978">33 comments 129 points</a></li>
-<li><a href="https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors"><strong>OCR for construction documents does not work, we fixed it</strong> <code>www.getanchorgrid.com</code></a> - <a href="https://news.ycombinator.com/item?id=47576055">89 comments 122 points</a></li>
-<li><a href="https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/"><strong>America Is Now a Rogue Superpower</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47579200">89 comments 114 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
