@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 01 May 2026 06:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 06:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-05-01]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1324</link>
+            <guid isPermaLink="false">1324</guid>
+            <pubDate>Fri, 01 May 2026 06:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://twitter.com/theo/status/2049645973350363168"><strong>Claude Code refuses requests or charges extra if your commits mention &quot;OpenClaw&quot;</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47963204">595 comments 1079 points</a></li>
+<li><a href="https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/"><strong>Belgium stops decommissioning nuclear power plants</strong> <code>dpa-international.com</code></a> - <a href="https://news.ycombinator.com/item?id=47961319">771 comments 790 points</a></li>
+<li><a href="https://redirect.github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313"><strong>Mozilla&#39;s opposition to Chrome&#39;s Prompt API</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47959463">222 comments 608 points</a></li>
+<li><a href="https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle"><strong>Can I disable all data collection from my vehicle?</strong> <code>rivian.com</code></a> - <a href="https://news.ycombinator.com/item?id=47967786">232 comments 589 points</a></li>
+<li><a href="https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/"><strong>How Mark Klein told the EFF about Room 641A [book excerpt]</strong> <code>thereader.mitpress.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47965060">177 comments 532 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c5y7yvgy0w6o"><strong>Meta in row after workers who saw smart glasses users having sex lose jobs</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47961838">392 comments 492 points</a></li>
+<li><a href="https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/"><strong>Spain&#39;s parliament will act against massive IP blockages by LaLiga</strong> <code>www.democrata.es</code></a> - <a href="https://news.ycombinator.com/item?id=47964034">186 comments 459 points</a></li>
+<li><a href="https://www.openwall.com/lists/oss-security/2026/04/30/10"><strong>For Linux kernel vulnerabilities, there is no heads-up to distributions</strong> <code>www.openwall.com</code></a> - <a href="https://news.ycombinator.com/item?id=47965108">337 comments 453 points</a></li>
+<li><a href="https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/"><strong>LinkedIn is scanning browser extensions</strong> <code>404privacy.com</code></a> - <a href="https://news.ycombinator.com/item?id=47967262">189 comments 417 points</a></li>
+<li><a href="https://www.construction-physics.com/p/how-an-oil-refinery-works"><strong>How an oil refinery works</strong> <code>www.construction-physics.com</code></a> - <a href="https://news.ycombinator.com/item?id=47962548">119 comments 387 points</a></li>
+<li><a href="https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"><strong>Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library</strong> <code>semgrep.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47964617">127 comments 375 points</a></li>
+<li><a href="https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd"><strong>U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=47967289">96 comments 292 points</a></li>
+<li><a href="https://gcc.gnu.org/gcc-16/changes.html"><strong>GCC 16 has been released</strong> <code>gcc.gnu.org</code></a> - <a href="https://news.ycombinator.com/item?id=47961004">51 comments 291 points</a></li>
+<li><a href="https://firethering.com/granite-4-1-ibm-open-source-model-family/"><strong>Granite 4.1: IBM&#39;s 8B Model Matching 32B MoE</strong> <code>firethering.com</code></a> - <a href="https://news.ycombinator.com/item?id=47960507">181 comments 288 points</a></li>
+<li><a href="https://bidprowl.com"><strong>I aggregated 28 US Government auction sites into one search</strong> <code>bidprowl.com</code></a> - <a href="https://news.ycombinator.com/item?id=47961378">75 comments 271 points</a></li>
+<li><a href="https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/"><strong>I built a Game Boy emulator in F#</strong> <code>nickkossolapov.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47965503">54 comments 254 points</a></li>
+<li><a href="https://honker.dev/"><strong>Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file</strong> <code>honker.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47963316">52 comments 202 points</a></li>
+<li><a href="https://theupsellgame.com/"><strong>Vercel’s pricing page</strong> <code>theupsellgame.com</code></a> - <a href="https://news.ycombinator.com/item?id=47967508">49 comments 170 points</a></li>
+<li><a href="https://www.wsj.com/economy/u-s-debt-tops-100-of-gdp-81c013d7"><strong>U.S. Debt Tops 100% of GDP</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=47961804">215 comments 159 points</a></li>
+<li><a href="https://datacenter.fm/"><strong>DataCenter.FM – background noise app featuring the sound of the AI bubble</strong> <code>datacenter.fm</code></a> - <a href="https://news.ycombinator.com/item?id=47959513">26 comments 135 points</a></li>
+<li><a href="https://markready.io/blog/fcc-accredited-test-labs-complete-guide"><strong>The FCC is about to ban 21% of its test labs today. I mapped them all</strong> <code>markready.io</code></a> - <a href="https://news.ycombinator.com/item?id=47962386">81 comments 129 points</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"><strong>The More Young People Use AI, the More They Hate It</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=47963163">134 comments 116 points</a></li>
+<li><a href="https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres"><strong>Does Postgres Scale?</strong> <code>www.dbos.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47966625">55 comments 114 points</a></li>
+<li><a href="https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html"><strong>Full-Text Search with DuckDB</strong> <code>peterdohertys.website</code></a> - <a href="https://news.ycombinator.com/item?id=47966254">28 comments 114 points</a></li>
+<li><a href="https://twitter.com/benbawan/status/2049303326999609846"><strong>For the first time in history, more Americans are moving to EU than vice versa</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47960953">149 comments 109 points</a></li>
+<li><a href="https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time"><strong>American Dads Became the Parents Their Fathers Never Were</strong> <code>www.derekthompson.org</code></a> - <a href="https://news.ycombinator.com/item?id=47965027">116 comments 102 points</a></li>
+<li><a href="https://www.404media.co/japan-cardboard-drones-air-kamuy/"><strong>Japan is building cardboard suicide drones</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=47963499">67 comments 90 points</a></li>
+<li><a href="https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/"><strong>A 1960s art school experiment that redefined creativity</strong> <code>thereader.mitpress.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47963868">29 comments 90 points</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/"><strong>Apple reports second quarter results</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=47967863">94 comments 87 points</a></li>
+<li><a href="https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/"><strong>CPanel and WHM Authentication Bypass – CVE-2026-41940</strong> <code>labs.watchtowr.com</code></a> - <a href="https://news.ycombinator.com/item?id=47969288">24 comments 85 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-04-30]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1323</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.euronews.com/business/2026/03/29/a-new-way-to-measure-poverty-shows-the-us-falling-behind-europe"><strong>A new way to measure poverty shows the US falling behind Europe</strong> <code>www.euronews.com</code></a> - <a href="https://news.ycombinator.com/item?id=47603534">79 comments 90 points</a></li>
 <li><a href="https://www.elizabethspiers.com/the-anti-intellectualism-of-silicon-valley-elites/"><strong>The Anti-Intellectualism of Silicon Valley Elites</strong> <code>www.elizabethspiers.com</code></a> - <a href="https://news.ycombinator.com/item?id=47606040">20 comments 89 points</a></li>
 <li><a href="https://idiallo.com/blog/what-is-copilot-exactly"><strong>What Is Copilot Exactly?</strong> <code>idiallo.com</code></a> - <a href="https://news.ycombinator.com/item?id=47603231">57 comments 83 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-04-01]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1293</link>
-            <guid isPermaLink="false">1293</guid>
-            <pubDate>Wed, 01 Apr 2026 07:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://twitter.com/Fried_rice/status/2038894956459290963"><strong>Claude Code&#39;s source code has been leaked via a map file in their NPM registry</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47584540">960 comments 1962 points</a></li>
-<li><a href="https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"><strong>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</strong> <code>alex000kim.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586778">425 comments 1096 points</a></li>
-<li><a href="https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/"><strong>Oracle slashes 30k jobs</strong> <code>rollingout.com</code></a> - <a href="https://news.ycombinator.com/item?id=47587935">780 comments 857 points</a></li>
-<li><a href="https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse"><strong>Microsoft: Copilot is for entertainment purposes only</strong> <code>www.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=47587866">181 comments 504 points</a></li>
-<li><a href="https://damrnelson.github.io/github-historical-uptime/"><strong>GitHub&#39;s Historic Uptime</strong> <code>damrnelson.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47591928">111 comments 455 points</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/"><strong>OkCupid gave 3M dating-app photos to facial recognition firm, FTC says</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47591104">91 comments 435 points</a></li>
-<li><a href="https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"><strong>OpenAI closes funding round at an $852B valuation</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47592755">360 comments 413 points</a></li>
-<li><a href="https://solvespace.com/webver.pl"><strong>Open source CAD in the browser (Solvespace)</strong> <code>solvespace.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586614">104 comments 320 points</a></li>
-<li><a href="https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/"><strong>Claude Code users hitting usage limits &#39;way faster than expected&#39;</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586176">183 comments 297 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=47588658"><strong>Tell HN: Chrome says &quot;suspicious download&quot; when trying to download yt-dlp</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47588658">89 comments 276 points</a></li>
-<li><a href="https://responsiblestatecraft.org/iran-strait-of-hormuz/"><strong>Why the US Navy won&#39;t blast the Iranians and &#39;open&#39; Strait of Hormuz</strong> <code>responsiblestatecraft.org</code></a> - <a href="https://news.ycombinator.com/item?id=47584795">700 comments 262 points</a></li>
-<li><a href="https://scottlawsonbc.com/post/dot-system"><strong>A dot a day keeps the clutter away</strong> <code>scottlawsonbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47593556">80 comments 258 points</a></li>
-<li><a href="https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security"><strong>U.S. exempts oil industry from protecting Gulf animals, for &#39;national security&#39;</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=47595620">84 comments 224 points</a></li>
-<li><a href="https://www.greptile.com/blog/ai-slopware-future"><strong>Slop is not necessarily the future</strong> <code>www.greptile.com</code></a> - <a href="https://news.ycombinator.com/item?id=47587953">371 comments 216 points</a></li>
-<li><a href="https://prismml.com/"><strong>Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs</strong> <code>prismml.com</code></a> - <a href="https://news.ycombinator.com/item?id=47593422">86 comments 208 points</a></li>
-<li><a href="https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/"><strong>We intercepted the White House app&#39;s network traffic</strong> <code>www.atomic.computer</code></a> - <a href="https://news.ycombinator.com/item?id=47595865">60 comments 201 points</a></li>
-<li><a href="https://ministack.org/"><strong>MiniStack (replacement for LocalStack)</strong> <code>ministack.org</code></a> - <a href="https://news.ycombinator.com/item?id=47593285">38 comments 197 points</a></li>
-<li><a href="https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/"><strong>Italy blocks US use of Sicily air base for Middle East war</strong> <code>www.politico.eu</code></a> - <a href="https://news.ycombinator.com/item?id=47589011">99 comments 189 points</a></li>
-<li><a href="https://cohere.com/blog/transcribe"><strong>Cohere Transcribe: Speech Recognition</strong> <code>cohere.com</code></a> - <a href="https://news.ycombinator.com/item?id=47589818">55 comments 183 points</a></li>
-<li><a href="https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/"><strong>My son pleasured himself on Gemini Live. Entire family&#39;s Google accounts banned</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=47595971">124 comments 169 points</a></li>
-<li><a href="https://tinyapl.rubenverg.com/docs/info/combinators"><strong>Combinators</strong> <code>tinyapl.rubenverg.com</code></a> - <a href="https://news.ycombinator.com/item?id=47585974">39 comments 140 points</a></li>
-<li><a href="https://www.wsj.com/finance/stocks/wall-street-is-finishing-the-worst-quarter-for-stocks-in-four-years-31ac41ea"><strong>U.S. stocks are set to deliver their worst quarter in nearly four years</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586018">223 comments 138 points</a></li>
-<li><a href="https://redirect.github.com/timescale/pg_textsearch"><strong>Show HN: Postgres extension for BM25 relevance-ranked full-text search</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47589856">40 comments 136 points</a></li>
-<li><a href="https://ccunpacked.dev/"><strong>Claude Code Unpacked : A visual guide</strong> <code>ccunpacked.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47597085">30 comments 131 points</a></li>
-<li><a href="https://lettermatic.com/custom/monaspace-case-study"><strong>GitHub Monaspace Case Study</strong> <code>lettermatic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47588349">40 comments 127 points</a></li>
-<li><a href="https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"><strong>Neanderthals survived on a knife&#39;s edge for 350k years</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=47595572">54 comments 112 points</a></li>
-<li><a href="https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"><strong>I traced my traffic through a home Tailscale exit node</strong> <code>tech.stonecharioteer.com</code></a> - <a href="https://news.ycombinator.com/item?id=47592462">48 comments 105 points</a></li>
-<li><a href="https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career"><strong>Nobody is coming to save your career</strong> <code>alifeengineered.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47586814">107 comments 103 points</a></li>
-<li><a href="https://rubycentral.org/news/rubygems-fracture-incident-report/"><strong>RubyGems Fracture Incident Report</strong> <code>rubycentral.org</code></a> - <a href="https://news.ycombinator.com/item?id=47587631">38 comments 91 points</a></li>
-<li><a href="https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"><strong>Ordinary Lab Gloves May Have Skewed Microplastic Data</strong> <code>nautil.us</code></a> - <a href="https://news.ycombinator.com/item?id=47593634">30 comments 91 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
