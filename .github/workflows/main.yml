@@ -1,14 +1,16 @@
 name: hackernews-daily
 
+# exectuion should be scheduled at 08:00 local time CET/CEST
+# execution time is not guaranteed and could be delayed up to 1h
+# cant get timezone on cron schedule to work
+# old way of daylight saving workaround:
+#  - cron: "40 6 * 11-12,1-3 *"
+#  - cron: "40 5 * 4-10 *"
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 6 * * *"
-# cant get timezone to work
+  - cron: "30 5 * * *"
     timezone: "Europe/Rome"
-# old way of daylight saving workaround
-#  - cron: "40 6 * 11-12,1-3 *"
-#  - cron: "40 5 * 4-10 *"
 
 env:
  BRANCH_NAME: ${{ github.head_ref || github.ref_name }} 
