@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 07 May 2026 06:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 05:39:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-05-07]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1331</link>
+            <guid isPermaLink="false">1331</guid>
+            <pubDate>Thu, 07 May 2026 06:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license"><strong>Valve releases Steam Controller CAD files under Creative Commons license</strong> <code>www.digitalfoundry.net</code></a> - <a href="https://news.ycombinator.com/item?id=48037555">390 comments 1265 points</a></li>
+<li><a href="https://nooneshappy.com/article/appearing-productive-in-the-workplace/"><strong>Appearing productive in the workplace</strong> <code>nooneshappy.com</code></a> - <a href="https://news.ycombinator.com/item?id=48038001">363 comments 939 points</a></li>
+<li><a href="https://red-squares.cian.lol/"><strong>Red Squares – GitHub outages as contributions</strong> <code>red-squares.cian.lol</code></a> - <a href="https://news.ycombinator.com/item?id=48034587">164 comments 737 points</a></li>
+<li><a href="https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/"><strong>Vibe coding and agentic engineering are getting closer than I&#39;d like</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=48037128">572 comments 524 points</a></li>
+<li><a href="https://www.anthropic.com/news/higher-limits-spacex"><strong>Higher usage limits for Claude and a compute deal with SpaceX</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=48037986">388 comments 447 points</a></li>
+<li><a href="https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html"><strong>Inkscape 1.4.4</strong> <code>inkscape.org</code></a> - <a href="https://news.ycombinator.com/item?id=48040622">83 comments 269 points</a></li>
+<li><a href="https://www.stvn.sh/writing/programming-still-sucks-fqffhyp"><strong>Programming Still Sucks</strong> <code>www.stvn.sh</code></a> - <a href="https://news.ycombinator.com/item?id=48040269">104 comments 266 points</a></li>
+<li><a href="https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/"><strong>Google Cloud fraud defense, the next evolution of reCAPTCHA</strong> <code>cloud.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=48039362">257 comments 263 points</a></li>
+<li><a href="https://www.cnn.com/2026/05/06/us/ted-turner-death"><strong>Ted Turner has died</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=48037009">204 comments 260 points</a></li>
+<li><a href="https://blog.val.town/better-auth"><strong>From Supabase to Clerk to Better Auth</strong> <code>blog.val.town</code></a> - <a href="https://news.ycombinator.com/item?id=48038827">164 comments 238 points</a></li>
+<li><a href="https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html"><strong>Reverse-engineering the 1998 Ultima Online demo server</strong> <code>draxinar.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48032976">63 comments 236 points</a></li>
+<li><a href="https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/"><strong>BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=48039739">386 comments 235 points</a></li>
+<li><a href="https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime"><strong>Life During Class Wartime</strong> <code>www.tbray.org</code></a> - <a href="https://news.ycombinator.com/item?id=48038307">191 comments 199 points</a></li>
+<li><a href="http://halupedia.com/"><strong>Show HN: Hallucinopedia</strong> <code>halupedia.com</code></a> - <a href="https://news.ycombinator.com/item?id=48038257">178 comments 193 points</a></li>
+<li><a href="https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/"><strong>Going Full Time on Open Source</strong> <code>jdx.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48038864">38 comments 180 points</a></li>
+<li><a href="https://tilde.run/"><strong>Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem</strong> <code>tilde.run</code></a> - <a href="https://news.ycombinator.com/item?id=48037724">105 comments 148 points</a></li>
+<li><a href="https://gizmodo.com/shrinkflation-is-quietly-making-all-gadgets-worse-2000754565"><strong>RAM prices are forcing companies to choose higher prices, worse specs, or both</strong> <code>gizmodo.com</code></a> - <a href="https://news.ycombinator.com/item?id=48035617">102 comments 135 points</a></li>
+<li><a href="https://sqlite.org/locrsf.html"><strong>SQLite Is a Library of Congress Recommended Storage Format</strong> <code>sqlite.org</code></a> - <a href="https://news.ycombinator.com/item?id=48042434">31 comments 135 points</a></li>
+<li><a href="https://catstret.ch/202605/srss-hipster202510/"><strong>Setting up a Sun Ray server on OpenIndiana Hipster 2025.10</strong> <code>catstret.ch</code></a> - <a href="https://news.ycombinator.com/item?id=48034762">47 comments 133 points</a></li>
+<li><a href="https://www.latimes.com/environment/story/2026-04-26/colombia-hosts-talks-on-exiting-fossil-fuels-as-global-energy-crisis-deepens"><strong>Colombia hosts talks on exiting fossil fuels as global energy crisis deepens</strong> <code>www.latimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=48038489">120 comments 126 points</a></li>
+<li><a href="https://play.templatical.com"><strong>Show HN: I built an open-source email builder, alternative to Beefree/Unlayer</strong> <code>play.templatical.com</code></a> - <a href="https://news.ycombinator.com/item?id=48038019">31 comments 126 points</a></li>
+<li><a href="https://sander.ai/2026/05/06/flow-maps.html"><strong>Learning the Integral of a Diffusion Model</strong> <code>sander.ai</code></a> - <a href="https://news.ycombinator.com/item?id=48040002">20 comments 124 points</a></li>
+<li><a href="https://proton.me/business/blog/introducing-proton-meet"><strong>Proton Meet</strong> <code>proton.me</code></a> - <a href="https://news.ycombinator.com/item?id=48039674">43 comments 121 points</a></li>
+<li><a href="https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"><strong>Iran hit more U.S. military targets than has been reported, satellite images</strong> <code>www.washingtonpost.com</code></a> - <a href="https://news.ycombinator.com/item?id=48043736">62 comments 112 points</a></li>
+<li><a href="https://www.vatican.va/latin/latin_index.html"><strong>The Vatican&#39;s Website in Latin</strong> <code>www.vatican.va</code></a> - <a href="https://news.ycombinator.com/item?id=48044311">64 comments 103 points</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/"><strong>OpenAI president forced to read his personal diary entries to jury</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=48035969">90 comments 84 points</a></li>
+<li><a href="https://permacomputing.net/principles/"><strong>Permacomputing Principles</strong> <code>permacomputing.net</code></a> - <a href="https://news.ycombinator.com/item?id=48044638">20 comments 83 points</a></li>
+<li><a href="https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/"><strong>UK businesses brace for jet fuel rationing</strong> <code>bmmagazine.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=48042918">104 comments 80 points</a></li>
+<li><a href="https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code"><strong>Apple is enforcing an old App Store rule against a new kind of software</strong> <code>adaptivesoftware.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=48042099">29 comments 73 points</a></li>
+<li><a href="https://api-docs.deepseek.com/quick_start/pricing"><strong>DeepSeek V4 Pro at 75% off until 31 May</strong> <code>api-docs.deepseek.com</code></a> - <a href="https://news.ycombinator.com/item?id=48043040">74 comments 71 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-05-06]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1330</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://redirect.github.com/pcruz1905/hls-restream-proxy"><strong>Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47689165">30 comments 99 points</a></li>
 <li><a href="https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"><strong>The AI Great Leap Forward</strong> <code>leehanchung.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47695647">44 comments 89 points</a></li>
 <li><a href="https://astral.sh/blog/open-source-security-at-astral"><strong>Open Source Security at Astral</strong> <code>astral.sh</code></a> - <a href="https://news.ycombinator.com/item?id=47699181">5 comments 85 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-04-08]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1301</link>
-            <guid isPermaLink="false">1301</guid>
-            <pubDate>Wed, 08 Apr 2026 06:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.anthropic.com/glasswing"><strong>Project Glasswing: Securing critical software for the AI era</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47679121">532 comments 1127 points</a></li>
-<li><a href="https://sam-burns.com/posts/concrete-laptop-stand/"><strong>Show HN: Brutalist Concrete Laptop Stand (2024)</strong> <code>sam-burns.com</code></a> - <a href="https://news.ycombinator.com/item?id=47673360">227 comments 742 points</a></li>
-<li><a href="https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf"><strong>System Card: Claude Mythos Preview [pdf]</strong> <code>www-cdn.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47679258">449 comments 635 points</a></li>
-<li><a href="https://idiocracy.wtf/"><strong>Are We Idiocracy Yet?</strong> <code>idiocracy.wtf</code></a> - <a href="https://news.ycombinator.com/item?id=47672818">517 comments 603 points</a></li>
-<li><a href="https://www.nasa.gov/gallery/lunar-flyby/"><strong>Lunar Flyby</strong> <code>www.nasa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47676509">133 comments 577 points</a></li>
-<li><a href="https://z.ai/blog/glm-5.1"><strong>GLM-5.1: Towards Long-Horizon Tasks</strong> <code>z.ai</code></a> - <a href="https://news.ycombinator.com/item?id=47677853">197 comments 486 points</a></li>
-<li><a href="https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/"><strong>We found an undocumented bug in the Apollo 11 guidance computer code</strong> <code>www.juxt.pro</code></a> - <a href="https://news.ycombinator.com/item?id=47673005">192 comments 407 points</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire"><strong>US and Iran agree to provisional ceasefire</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=47682276">1056 comments 391 points</a></li>
-<li><a href="https://jola.dev/posts/dropping-cloudflare"><strong>Dropping Cloudflare for Bunny.net</strong> <code>jola.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47675013">194 comments 381 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/c0rx7xzd10xo"><strong>Cambodia unveils statue to honour famous landmine-sniffing rat</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47678573">71 comments 352 points</a></li>
-<li><a href="https://sheets.works/data-viz/every-gpu"><strong>Every GPU That Mattered</strong> <code>sheets.works</code></a> - <a href="https://news.ycombinator.com/item?id=47672295">195 comments 311 points</a></li>
-<li><a href="https://blog.cloudflare.com/post-quantum-roadmap/"><strong>Cloudflare targets 2029 for full post-quantum security</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=47675625">95 comments 305 points</a></li>
-<li><a href="https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined"><strong>12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)</strong> <code>www.sciencealert.com</code></a> - <a href="https://news.ycombinator.com/item?id=47677142">111 comments 281 points</a></li>
-<li><a href="https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"><strong>OpenAI says its new model GPT-2 is too dangerous to release (2019)</strong> <code>slate.com</code></a> - <a href="https://news.ycombinator.com/item?id=47684326">82 comments 280 points</a></li>
-<li><a href="https://red.anthropic.com/2026/mythos-preview/"><strong>Assessing Claude Mythos Preview&#39;s cybersecurity capabilities</strong> <code>red.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47679155">40 comments 278 points</a></li>
-<li><a href="https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html"><strong>S3 Files</strong> <code>www.allthingsdistributed.com</code></a> - <a href="https://news.ycombinator.com/item?id=47680404">77 comments 266 points</a></li>
-<li><a href="https://www.reuters.com/world/middle-east/trump-says-a-whole-civilization-will-die-tonight-if-iran-does-not-make-deal-2026-04-07/"><strong>Trump says &#39;a whole civilization will die tonight&#39; if Iran does not make a deal</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=47674286">156 comments 243 points</a></li>
-<li><a href="https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"><strong>Taste in the age of AI and LLMs</strong> <code>rajnandan.com</code></a> - <a href="https://news.ycombinator.com/item?id=47677241">193 comments 233 points</a></li>
-<li><a href="https://locker.dev"><strong>Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead</strong> <code>locker.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47673394">194 comments 232 points</a></li>
-<li><a href="https://redirect.github.com/anthropics/claude-code/issues/44257"><strong>Claude Code login fails with OAuth timeout on Windows</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47676521">294 comments 218 points</a></li>
-<li><a href="https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"><strong>AI may be making us think and write more alike</strong> <code>dornsife.usc.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47673541">230 comments 217 points</a></li>
-<li><a href="https://www.infoq.com/news/2026/04/google-agent-testbed-scion/"><strong>Google open-sources experimental agent orchestration testbed Scion</strong> <code>www.infoq.com</code></a> - <a href="https://news.ycombinator.com/item?id=47675213">49 comments 182 points</a></li>
-<li><a href="https://printervention.app/details"><strong>Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP</strong> <code>printervention.app</code></a> - <a href="https://news.ycombinator.com/item?id=47677885">79 comments 181 points</a></li>
-<li><a href="https://tubesoundquiz.com/"><strong>Identify a London Underground Line just by listening to it</strong> <code>tubesoundquiz.com</code></a> - <a href="https://news.ycombinator.com/item?id=47672884">53 comments 173 points</a></li>
-<li><a href="https://www.johnsto.co.uk/blog/blackholing-my-email/"><strong>Blackholing My Email</strong> <code>www.johnsto.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=47672318">33 comments 171 points</a></li>
-<li><a href="https://middle-earth-interactive-map.web.app/"><strong>Show HN: An interactive map of Tolkien&#39;s Middle-earth</strong> <code>middle-earth-interactive-map.web.app</code></a> - <a href="https://news.ycombinator.com/item?id=47681112">31 comments 159 points</a></li>
-<li><a href="https://redirect.github.com/mattmireles/gemma-tuner-multimodal"><strong>Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47680309">22 comments 158 points</a></li>
-<li><a href="https://www.intofarlands.com/atlasofarda"><strong>Show HN: A cartographer&#39;s attempt to realistically map Tolkien&#39;s world</strong> <code>www.intofarlands.com</code></a> - <a href="https://news.ycombinator.com/item?id=47674027">28 comments 156 points</a></li>
-<li><a href="https://www.nbcnews.com/politics/white-house/trump-threat-whole-civilization-will-die-iran-war-deadline-hormuz-rcna267059"><strong>A whole civilization might die tonight</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=47678666">94 comments 141 points</a></li>
-<li><a href="https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html"><strong>Bitcoin and quantum computing</strong> <code>nehanarula.org</code></a> - <a href="https://news.ycombinator.com/item?id=47681274">92 comments 131 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
