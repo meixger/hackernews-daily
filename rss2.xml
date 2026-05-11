@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 10 May 2026 06:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 06:54:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-05-10]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1334</link>
+            <guid isPermaLink="false">1334</guid>
+            <pubDate>Sun, 10 May 2026 06:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/"><strong>Internet Archive Switzerland</strong> <code>blog.archive.org</code></a> - <a href="https://news.ycombinator.com/item?id=48074265">88 comments 586 points</a></li>
+<li><a href="https://twitter.com/jarredsumner/status/2053047748191232310"><strong>Bun&#39;s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=48073680">465 comments 497 points</a></li>
+<li><a href="https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/"><strong>EU Parliamentary Research Service calls VPNs &quot;a loophole that needs closing&quot;</strong> <code>cyberinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=48072190">319 comments 478 points</a></li>
+<li><a href="https://arxiv.org/abs/2604.15597"><strong>LLMs corrupt your documents when you delegate</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=48073246">148 comments 388 points</a></li>
+<li><a href="https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"><strong>Meta&#39;s embrace of AI is making its employees miserable</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=48077126">380 comments 366 points</a></li>
+<li><a href="https://chrismorgan.info/no-query-strings"><strong>I’ve banned query strings</strong> <code>chrismorgan.info</code></a> - <a href="https://news.ycombinator.com/item?id=48076173">186 comments 341 points</a></li>
+<li><a href="https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/"><strong>The hypocrisy of cyberlibertarianism</strong> <code>matduggan.com</code></a> - <a href="https://news.ycombinator.com/item?id=48074952">266 comments 299 points</a></li>
+<li><a href="https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/"><strong>GrapheneOS fixes Android VPN leak Google refused to patch</strong> <code>cyberinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=48075144">105 comments 280 points</a></li>
+<li><a href="https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels"><strong>Distributing Mac software is increasing my cortisol levels</strong> <code>blog.kronis.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48075366">174 comments 254 points</a></li>
+<li><a href="https://zed.dev/theme-builder"><strong>Zed Editor Theme-Builder</strong> <code>zed.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48076651">57 comments 191 points</a></li>
+<li><a href="https://sundaicity.com/blogs/getting-arrested-in-japan"><strong>Getting arrested in Japan</strong> <code>sundaicity.com</code></a> - <a href="https://news.ycombinator.com/item?id=48078647">235 comments 186 points</a></li>
+<li><a href="https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"><strong>All my clients wanted a carousel, now it&#39;s an AI chatbot</strong> <code>adele.pages.casa</code></a> - <a href="https://news.ycombinator.com/item?id=48072720">74 comments 181 points</a></li>
+<li><a href="https://reclaimthenet.org/france-moves-to-break-encrypted-messaging"><strong>France moves to break encrypted messaging</strong> <code>reclaimthenet.org</code></a> - <a href="https://news.ycombinator.com/item?id=48078811">79 comments 160 points</a></li>
+<li><a href="https://redirect.github.com/imtomt/ymawky"><strong>Show HN: Building a web server in assembly to give my life (a lack of) meaning</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48080587">61 comments 159 points</a></li>
+<li><a href="https://redirect.github.com/nooga/let-go"><strong>Show HN: I made a Clojure-like language in Go, boots in 7ms</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48076815">39 comments 135 points</a></li>
+<li><a href="https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"><strong>Local privilege escalation via execve()</strong> <code>www.freebsd.org</code></a> - <a href="https://news.ycombinator.com/item?id=48077971">70 comments 124 points</a></li>
+<li><a href="https://dillo-browser.org/lab/web-fork/"><strong>Forking the Web</strong> <code>dillo-browser.org</code></a> - <a href="https://news.ycombinator.com/item?id=48074087">124 comments 120 points</a></li>
+<li><a href="https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/"><strong>CPanel&#39;s Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers</strong> <code>www.copahost.com</code></a> - <a href="https://news.ycombinator.com/item?id=48076465">66 comments 118 points</a></li>
+<li><a href="https://redirect.github.com/ThatXliner/rust-but-lisp"><strong>Show HN: Rust but Lisp</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48078575">61 comments 116 points</a></li>
+<li><a href="https://twitter.com/jarredsumner/status/2053047748191232310"><strong>Bun ported to Rust in 6 days</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=48077231">3 comments 99 points</a></li>
+<li><a href="https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/"><strong>Killswitch: Per-function short-circuit mitigation primitive</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=48073394">21 comments 81 points</a></li>
+<li><a href="https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/"><strong>Read Programming as Theory Building</strong> <code>codeutopia.net</code></a> - <a href="https://news.ycombinator.com/item?id=48074829">19 comments 80 points</a></li>
+<li><a href="https://stonetools.ghost.io/pipedream-archimedes/"><strong>PipeDream on the Acorn Archimedes</strong> <code>stonetools.ghost.io</code></a> - <a href="https://news.ycombinator.com/item?id=48075528">37 comments 78 points</a></li>
+<li><a href="https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number"><strong>The FCC wants your ID before you get a phone number</strong> <code>reclaimthenet.org</code></a> - <a href="https://news.ycombinator.com/item?id=48075185">93 comments 76 points</a></li>
+<li><a href="https://antman-does-software.com/i-will-never-use-ai-to-code-or-write"><strong>I Will Never Use AI to Code</strong> <code>antman-does-software.com</code></a> - <a href="https://news.ycombinator.com/item?id=48072319">79 comments 63 points</a></li>
+<li><a href="https://english.elpais.com/international/2026-05-07/hondurasgate-the-alleged-us-and-israeli-interference-plot-to-destabilize-mexico-and-other-progressive-governments.html"><strong>Hondurasgate: US, Israeli Plot to Destabilize Mexico, Latin America</strong> <code>english.elpais.com</code></a> - <a href="https://news.ycombinator.com/item?id=48072945">9 comments 56 points</a></li>
+<li><a href="https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html"><strong>First, the FBI Searched Her Home. Then, She Won a Pulitzer.</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=48075520">8 comments 55 points</a></li>
+<li><a href="https://www.economist.com/by-invitation/2026/05/06/vladimir-putin-is-losing-his-grip-on-russia"><strong>Vladimir Putin is losing his grip on Russia</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=48073887">51 comments 53 points</a></li>
+<li><a href="https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html"><strong>Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=48073978">18 comments 52 points</a></li>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"><strong>Gemini API File Search is now multimodal</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=48080702">4 comments 48 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-05-09]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1333</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional"><strong>US appeals court declares 158-year-old home distilling ban unconstitutional</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=47736298">26 comments 55 points</a></li>
 <li><a href="https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en"><strong>New synthesis of astronomical measurements shows Hubble tension is real</strong> <code>noirlab.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47733066">13 comments 53 points</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Killing_of_Hind_Rajab"><strong>Killing of Hind Rajab (2024)</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=47732660">5 comments 53 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-04-11]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1304</link>
-            <guid isPermaLink="false">1304</guid>
-            <pubDate>Sat, 11 Apr 2026 06:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/"><strong>France Launches Government Linux Desktop Plan as Windows Exit Begins</strong> <code>www.numerique.gouv.fr</code></a> - <a href="https://news.ycombinator.com/item?id=47716043">423 comments 832 points</a></li>
-<li><a href="https://rowan441.github.io/1dchess/chess.html"><strong>1D Chess</strong> <code>rowan441.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47719740">135 comments 747 points</a></li>
-<li><a href="https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/"><strong>Artemis II safely splashes down</strong> <code>www.cbsnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=47725583">249 comments 705 points</a></li>
-<li><a href="https://kentwalters.com/posts/corners/"><strong>Filing the corners off my MacBooks</strong> <code>kentwalters.com</code></a> - <a href="https://news.ycombinator.com/item?id=47724352">319 comments 601 points</a></li>
-<li><a href="https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/"><strong>FBI used iPhone notification data to retrieve deleted Signal messages</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=47716490">288 comments 579 points</a></li>
-<li><a href="https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"><strong>France to ditch Windows for Linux to reduce reliance on US tech</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=47719486">195 comments 474 points</a></li>
-<li><a href="https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/"><strong>You can&#39;t trust macOS Privacy and Security settings</strong> <code>eclecticlight.co</code></a> - <a href="https://news.ycombinator.com/item?id=47719602">155 comments 451 points</a></li>
-<li><a href="https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html"><strong>WireGuard makes new Windows release following Microsoft signing resolution</strong> <code>lists.zx2c4.com</code></a> - <a href="https://news.ycombinator.com/item?id=47719942">123 comments 439 points</a></li>
-<li><a href="https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"><strong>OpenAI backs Illinois bill that would limit when AI labs can be held liable</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=47717587">309 comments 427 points</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/"><strong>Microsoft suspends dev accounts for high-profile open source projects</strong> <code>www.bleepingcomputer.com</code></a> - <a href="https://news.ycombinator.com/item?id=47716412">133 comments 361 points</a></li>
-<li><a href="https://redirect.github.com/Keychron/Keychron-Keyboards-Hardware-Design"><strong>Industrial design files for Keychron keyboards and mice</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47720419">107 comments 342 points</a></li>
-<li><a href="https://www.theregister.com/2026/04/10/cpuid_site_hijacked/"><strong>CPU-Z and HWMonitor compromised</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=47717847">85 comments 297 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/cr71lkzv49po"><strong>Chimpanzees in Uganda locked in eight-year &#39;civil war&#39;, say researchers</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47722333">149 comments 291 points</a></li>
-<li><a href="https://www.construction-physics.com/p/helium-is-hard-to-replace"><strong>Helium is hard to replace</strong> <code>www.construction-physics.com</code></a> - <a href="https://news.ycombinator.com/item?id=47719274">196 comments 284 points</a></li>
-<li><a href="https://jack.cab/blog/every-firefox-extension"><em><em>Installing every</em> Firefox extension</em>* <code>jack.cab</code></a> - <a href="https://news.ycombinator.com/item?id=47724118">29 comments 268 points</a></li>
-<li><a href="https://blog.samaltman.com/2279512"><strong>Sam Altman&#39;s response to Molotov cocktail incident</strong> <code>blog.samaltman.com</code></a> - <a href="https://news.ycombinator.com/item?id=47724921">560 comments 262 points</a></li>
-<li><a href="https://redirect.github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"><strong>AI assistance when contributing to the Linux kernel</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47721953">168 comments 252 points</a></li>
-<li><a href="https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/"><strong>DOJ wants to scrap Watergate-era rule that makes presidential records public</strong> <code>theintercept.com</code></a> - <a href="https://news.ycombinator.com/item?id=47722566">52 comments 224 points</a></li>
-<li><a href="https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html"><strong>Molotov cocktail is hurled at home of Sam Altman</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=47722096">523 comments 217 points</a></li>
-<li><a href="https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/"><strong>A compelling title that is cryptic enough to get you to take action on it</strong> <code>ericwbailey.website</code></a> - <a href="https://news.ycombinator.com/item?id=47720827">110 comments 193 points</a></li>
-<li><a href="https://redirect.github.com/callumlocke/json-formatter"><strong>JSON formatter Chrome plugin now closed and injecting adware</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47721946">102 comments 187 points</a></li>
-<li><a href="https://steveblank.com/2026/04/09/nowhere-is-safe/"><strong>Nowhere is safe</strong> <code>steveblank.com</code></a> - <a href="https://news.ycombinator.com/item?id=47722562">206 comments 166 points</a></li>
-<li><a href="https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html"><strong>YouTube locked my accounts and I can&#39;t cancel my subscription</strong> <code>pocketables.com</code></a> - <a href="https://news.ycombinator.com/item?id=47713839">101 comments 155 points</a></li>
-<li><a href="https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/"><strong>Intel 486 CPU announced April 10, 1989</strong> <code>dfarq.homeip.net</code></a> - <a href="https://news.ycombinator.com/item?id=47716809">148 comments 154 points</a></li>
-<li><a href="https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia"><strong>Penguin &#39;Toxicologists&#39; Find PFAS Chemicals in Remote Patagonia</strong> <code>www.ucdavis.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47714273">69 comments 146 points</a></li>
-<li><a href="https://www.bbc.co.uk/news/articles/cgld65x396go"><strong>White House staff told not to place bets on prediction markets</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=47716663">80 comments 145 points</a></li>
-<li><a href="https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2"><strong>Bluesky April 2026 Outage Post-Mortem</strong> <code>pckt.blog</code></a> - <a href="https://news.ycombinator.com/item?id=47719975">70 comments 134 points</a></li>
-<li><a href="https://fluidcad.io/"><strong>Show HN: FluidCAD – Parametric CAD with JavaScript</strong> <code>fluidcad.io</code></a> - <a href="https://news.ycombinator.com/item?id=47721997">25 comments 122 points</a></li>
-<li><a href="https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/"><strong>CPU-Z and HWMonitor compromised</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=47718830">1 comments 122 points</a></li>
-<li><a href="https://olano.dev/blog/code-is-run-more-than-read/"><strong>Code is run more than read (2023)</strong> <code>olano.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47718470">89 comments 120 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
