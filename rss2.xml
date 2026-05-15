@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 14 May 2026 06:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 06:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-05-14]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1338</link>
+            <guid isPermaLink="false">1338</guid>
+            <pubDate>Thu, 14 May 2026 06:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/"><strong>I moved my digital stack to Europe</strong> <code>monokai.com</code></a> - <a href="https://news.ycombinator.com/item?id=48120629">553 comments 930 points</a></li>
+<li><a href="https://jorijn.com/en/blog/leaving-github-for-forgejo/"><strong>Leaving GitHub for Forgejo</strong> <code>jorijn.com</code></a> - <a href="https://news.ycombinator.com/item?id=48121266">294 comments 563 points</a></li>
+<li><a href="https://fredchan.org/blog/locality-domains-guide/">*<em>Setting up a free <em>.city.state.us locality domain (2025)</em></em> <code>fredchan.org</code></a> - <a href="https://news.ycombinator.com/item?id=48122635">171 comments 544 points</a></li>
+<li><a href="https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648"><strong>Kickstarter is forced to ban adult content by payment processors</strong> <code>kotaku.com</code></a> - <a href="https://news.ycombinator.com/item?id=48123198">258 comments 362 points</a></li>
+<li><a href="https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent"><strong>Princeton mandates proctoring for in-person exams, upending 133 year precedent</strong> <code>www.dailyprincetonian.com</code></a> - <a href="https://news.ycombinator.com/item?id=48126848">441 comments 303 points</a></li>
+<li><a href="https://sockpuppet.org/blog/2026/05/12/emacsification/"><strong>The Emacsification of Software</strong> <code>sockpuppet.org</code></a> - <a href="https://news.ycombinator.com/item?id=48118727">171 comments 265 points</a></li>
+<li><a href="https://ossresistance.com/"><strong>Open Source Resistance: keep OSS alive on company time</strong> <code>ossresistance.com</code></a> - <a href="https://news.ycombinator.com/item?id=48123015">80 comments 253 points</a></li>
+<li><a href="https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies"><strong>Dutch suicide prevention website shares data with tech companies without consent</strong> <code>nltimes.nl</code></a> - <a href="https://news.ycombinator.com/item?id=48121299">183 comments 246 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48128003"><strong>Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=48128003">70 comments 244 points</a></li>
+<li><a href="https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/"><strong>SecurityBaseline.eu</strong> <code>internetcleanup.foundation</code></a> - <a href="https://news.ycombinator.com/item?id=48118763">104 comments 226 points</a></li>
+<li><a href="http://www.scorch2000.com/web/"><strong>Scorched Earth 2000 – Web</strong> <code>www.scorch2000.com</code></a> - <a href="https://news.ycombinator.com/item?id=48129694">79 comments 204 points</a></li>
+<li><a href="https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations"><strong>&quot;Not Medically Necessary&quot;: Helping America&#39;s Health Insurers Deny Coverage</strong> <code>www.propublica.org</code></a> - <a href="https://news.ycombinator.com/item?id=48126000">175 comments 189 points</a></li>
+<li><a href="https://avkcode.github.io/blog/us-winning-ai-race.html"><strong>The US is winning the AI race where it matters most: commercialization</strong> <code>avkcode.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48121929">516 comments 187 points</a></li>
+<li><a href="https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/"><strong>MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble</strong> <code>www.jdhodges.com</code></a> - <a href="https://news.ycombinator.com/item?id=48125617">183 comments 173 points</a></li>
+<li><a href="https://www.haiku-os.org"><strong>Haiku</strong> <code>www.haiku-os.org</code></a> - <a href="https://news.ycombinator.com/item?id=48124002">82 comments 163 points</a></li>
+<li><a href="https://www.theverge.com/tech/929091/meta-ai-threads-account-block"><strong>Meta won&#39;t let you block its AI account on Threads</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=48126981">73 comments 154 points</a></li>
+<li><a href="https://blogs.cisco.com/news/our-path-forward"><strong>Cisco workforce reductions</strong> <code>blogs.cisco.com</code></a> - <a href="https://news.ycombinator.com/item?id=48130123">111 comments 146 points</a></li>
+<li><a href="https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/"><strong>50K Tahoe residents need power as utility eyes redirecting lines to data centers</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=48123090">145 comments 141 points</a></li>
+<li><a href="https://www.anthropic.com/news/claude-for-small-business"><strong>Claude for Small Business</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=48130950">77 comments 136 points</a></li>
+<li><a href="https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/"><strong>Making the news available at no cost is a victory</strong> <code>www.sltrib.com</code></a> - <a href="https://news.ycombinator.com/item?id=48126156">121 comments 124 points</a></li>
+<li><a href="https://grantmestrength.github.io/S100/"><strong>S-100 Virtual Workbench</strong> <code>grantmestrength.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48123546">25 comments 114 points</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor"><strong>Microsoft BitLocker – YellowKey zero-day exploit</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=48130519">57 comments 108 points</a></li>
+<li><a href="https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758"><strong>Mystery Microsoft bug leaker keeps the zero-days coming</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=48129789">39 comments 106 points</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/"><strong>Altman forced to confront claims at OpenAI trial that he&#39;s a prolific liar</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=48125801">39 comments 93 points</a></li>
+<li><a href="https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"><strong>Software Developers Say AI Is Rotting Their Brains</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=48121717">108 comments 90 points</a></li>
+<li><a href="https://bitplane.net/log/2026/05/rars/"><strong>Rars: a Rust RAR implementation, mostly written by LLMs</strong> <code>bitplane.net</code></a> - <a href="https://news.ycombinator.com/item?id=48126675">77 comments 83 points</a></li>
+<li><a href="https://vittorioromeo.com/index/blog/refl_enum_to_string.html"><strong>Cost of enum-to-string: C++26 reflection vs. the old ways</strong> <code>vittorioromeo.com</code></a> - <a href="https://news.ycombinator.com/item?id=48119326">126 comments 82 points</a></li>
+<li><a href="https://www.tryardent.com/"><strong>Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration</strong> <code>www.tryardent.com</code></a> - <a href="https://news.ycombinator.com/item?id=48124436">33 comments 82 points</a></li>
+<li><a href="https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html"><strong>Using OR-Tools CP-SAT for Scheduling Problems</strong> <code>atalaykutlay.com</code></a> - <a href="https://news.ycombinator.com/item?id=48120351">28 comments 77 points</a></li>
+<li><a href="https://cipp.ug.edu.pl/A-desire-for-a-loud-car-with-a-modified-muffler-is-predicted-by-being-a-man-and-higher,162006,0,2.html"><strong>A desire for a loud car correlates with higher scores on psychopathy and sadism</strong> <code>cipp.ug.edu.pl</code></a> - <a href="https://news.ycombinator.com/item?id=48127889">28 comments 76 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-05-13]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1337</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/"><strong>The Gemini app is now on Mac</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=47782256">63 comments 131 points</a></li>
 <li><a href="https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html"><strong>CRISPR takes important step toward silencing Down syndrome’s extra chromosome</strong> <code>medicalxpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=47781286">72 comments 126 points</a></li>
 <li><a href="https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases"><strong>Kalshi CEO expects US DOJ to prosecute insider trading cases</strong> <code>www.semafor.com</code></a> - <a href="https://news.ycombinator.com/item?id=47782972">134 comments 123 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-04-15]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1308</link>
-            <guid isPermaLink="false">1308</guid>
-            <pubDate>Wed, 15 Apr 2026 06:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://rareese.com/posts/backblaze/"><strong>Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others</strong> <code>rareese.com</code></a> - <a href="https://news.ycombinator.com/item?id=47762864">627 comments 1053 points</a></li>
-<li><a href="https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/"><strong>Rare concert recordings are landing on the Internet Archive</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=47765604">178 comments 609 points</a></li>
-<li><a href="https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html"><strong>I wrote to Flock&#39;s privacy contact to opt out of their domestic spying program</strong> <code>honeypot.net</code></a> - <a href="https://news.ycombinator.com/item?id=47768813">231 comments 580 points</a></li>
-<li><a href="https://stopflock.com"><strong>Stop Flock</strong> <code>stopflock.com</code></a> - <a href="https://news.ycombinator.com/item?id=47772012">144 comments 573 points</a></li>
-<li><a href="https://code.claude.com/docs/en/routines"><strong>Claude Code Routines</strong> <code>code.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=47768133">334 comments 565 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=47769796"><strong>Tell HN: Fiverr left customer files public and searchable</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47769796">111 comments 553 points</a></li>
-<li><a href="https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html"><strong>jj – the CLI for Jujutsu</strong> <code>steveklabnik.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47763759">447 comments 517 points</a></li>
-<li><a href="https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731"><strong>Spain to expand internet blocks to tennis, golf, movies broadcasting times</strong> <code>bandaancha.eu</code></a> - <a href="https://news.ycombinator.com/item?id=47768195">416 comments 408 points</a></li>
-<li><a href="https://introspective-diffusion.github.io/"><strong>Introspective Diffusion Language Models</strong> <code>introspective-diffusion.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47762641">45 comments 259 points</a></li>
-<li><a href="https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work"><strong>The future of everything is lies, I guess: Work</strong> <code>aphyr.com</code></a> - <a href="https://news.ycombinator.com/item?id=47766550">206 comments 258 points</a></li>
-<li><a href="https://redirect.github.com/openssl/openssl/releases/tag/openssl-4.0.0"><strong>OpenSSL 4.0.0</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47768788">81 comments 245 points</a></li>
-<li><a href="https://www.tobru.ch/an-ai-vibe-coding-horror-story/"><strong>An AI Vibe Coding Horror Story</strong> <code>www.tobru.ch</code></a> - <a href="https://news.ycombinator.com/item?id=47762901">202 comments 205 points</a></li>
-<li><a href="https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/"><strong>Google, Microsoft, Meta All Tracking You Even When You Opt Out</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=47767191">93 comments 178 points</a></li>
-<li><a href="https://redirect.github.com/citguru/openduck"><strong>Distributed DuckDB Instance</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47761997">33 comments 170 points</a></li>
-<li><a href="https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b"><strong>40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal</strong> <code>iopscience.iop.org</code></a> - <a href="https://news.ycombinator.com/item?id=47769183">266 comments 159 points</a></li>
-<li><a href="https://e360.yale.edu/digest/us-renewables-natural-gas-coal"><strong>For the first time in the U.S., renewables generate more power than natural gas</strong> <code>e360.yale.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47767160">158 comments 158 points</a></li>
-<li><a href="https://kb.databasedesignbook.com/posts/5nf/"><strong>5NF and Database Design</strong> <code>kb.databasedesignbook.com</code></a> - <a href="https://news.ycombinator.com/item?id=47767676">57 comments 155 points</a></li>
-<li><a href="https://www.worksinprogress.news/p/the-secret-behind-japans-railways"><strong>The secrets of the Shinkansen</strong> <code>www.worksinprogress.news</code></a> - <a href="https://news.ycombinator.com/item?id=47762060">151 comments 153 points</a></li>
-<li><a href="https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"><strong>Turn your best AI prompts into one-click tools in Chrome</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=47768339">74 comments 148 points</a></li>
-<li><a href="https://ascii.textfiles.com/archives/1717"><strong>Fuck the cloud (2009)</strong> <code>ascii.textfiles.com</code></a> - <a href="https://news.ycombinator.com/item?id=47772048">83 comments 138 points</a></li>
-<li><a href="https://ziglang.org/download/0.16.0/release-notes.html"><strong>Zig 0.16.0 Release Notes</strong> <code>ziglang.org</code></a> - <a href="https://news.ycombinator.com/item?id=47767194">31 comments 136 points</a></li>
-<li><a href="https://redirect.github.com/ginlix-ai/langalpha"><strong>Show HN: LangAlpha – what if Claude Code was built for Wall Street?</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47766370">41 comments 129 points</a></li>
-<li><a href="https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/"><strong>California ghost-gun bill wants 3D printers to play cop, EFF says</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=47769967">2 comments 120 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=47764215"><strong>Ask HN: I quit my job over weaponized robots to start my own venture</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47764215">72 comments 110 points</a></li>
-<li><a href="https://www.congress.gov/bill/119th-congress/house-bill/8250/all-info"><strong>H.R.8250 – To require operating system providers to verify the age of any user</strong> <code>www.congress.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47772203">81 comments 105 points</a></li>
-<li><a href="https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec"><strong>Gas Town: From Clown Show to v1.0</strong> <code>steve-yegge.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=47770124">133 comments 103 points</a></li>
-<li><a href="https://nim-lang.org/blog/2026/04/07/nimconf-2026.html"><strong>NimConf 2026: Dates Announced, Registrations Open</strong> <code>nim-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=47764098">30 comments 103 points</a></li>
-<li><a href="https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/"><strong>OpenAI&#39;s $852B valuation faces investor scrutiny amid strategy shift, FT reports</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=47773640">114 comments 102 points</a></li>
-<li><a href="https://so.long.thanks.fish/can-claude-fly-a-plane/"><strong>Can Claude Fly a Plane?</strong> <code>so.long.thanks.fish</code></a> - <a href="https://news.ycombinator.com/item?id=47762006">96 comments 102 points</a></li>
-<li><a href="https://lewiscampbell.tech/blog/260414.html"><strong>Saying goodbye to Agile</strong> <code>lewiscampbell.tech</code></a> - <a href="https://news.ycombinator.com/item?id=47774781">86 comments 102 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
