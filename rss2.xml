@@ -4,9 +4,48 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 17 May 2026 06:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 07:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-05-17]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1341</link>
+            <guid isPermaLink="false">1341</guid>
+            <pubDate>Sun, 17 May 2026 06:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/"><strong>Moving away from Tailwind, and learning to structure my CSS</strong> <code>jvns.ca</code></a> - <a href="https://news.ycombinator.com/item?id=48158400">306 comments 490 points</a></li>
+<li><a href="https://kabir.au/blog/the-ctf-scene-is-dead"><strong>Frontier AI has broken the open CTF format</strong> <code>kabir.au</code></a> - <a href="https://news.ycombinator.com/item?id=48157559">360 comments 358 points</a></li>
+<li><a href="https://nvlabs.github.io/Sana/WM/"><strong>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</strong> <code>nvlabs.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48159445">133 comments 322 points</a></li>
+<li><a href="https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/"><strong>HTML Lists</strong> <code>blog.frankmtaylor.com</code></a> - <a href="https://news.ycombinator.com/item?id=48161861">77 comments 313 points</a></li>
+<li><a href="https://crates.io/crates/zerostack/1.0.0"><strong>Zerostack – A Unix-inspired coding agent written in pure Rust</strong> <code>crates.io</code></a> - <a href="https://news.ycombinator.com/item?id=48164287">111 comments 304 points</a></li>
+<li><a href="https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/"><strong>Fecal transplants for autism deliver success in clinical trials (2019)</strong> <code>refractor.io</code></a> - <a href="https://news.ycombinator.com/item?id=48158494">207 comments 298 points</a></li>
+<li><a href="https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html"><strong>Accelerando (2005)</strong> <code>www.antipope.org</code></a> - <a href="https://news.ycombinator.com/item?id=48159241">153 comments 271 points</a></li>
+<li><a href="https://user8.bearblog.dev/the-world-is-too-complicated/"><strong>We&#39;ve made the world too complicated</strong> <code>user8.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48158065">231 comments 253 points</a></li>
+<li><a href="https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681"><strong>Where to buy a non-Apple, non-Google smartphone</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=48158130">233 comments 245 points</a></li>
+<li><a href="https://www.seangoedecke.com/steering-vectors/"><strong>DeepSeek-V4-Flash means LLM steering is interesting again</strong> <code>www.seangoedecke.com</code></a> - <a href="https://news.ycombinator.com/item?id=48160807">70 comments 225 points</a></li>
+<li><a href="https://arxiv.org/abs/2605.12357"><strong>δ-mem: Efficient Online Memory for Large Language Models</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=48158506">55 comments 204 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"><strong>US is starting to see heavy job losses in roles exposed to AI</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=48162354">236 comments 150 points</a></li>
+<li><a href="https://twitter.com/steipete/status/2055346265869721905"><strong>OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=48159227">181 comments 150 points</a></li>
+<li><a href="https://openai.com/index/malta-chatgpt-plus-partnership/"><strong>OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=48163392">136 comments 143 points</a></li>
+<li><a href="https://third-bit.com/2026/05/15/technofascism/"><strong>Technofascism</strong> <code>third-bit.com</code></a> - <a href="https://news.ycombinator.com/item?id=48161974">46 comments 136 points</a></li>
+<li><a href="https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock"><strong>A nicer voltmeter clock</strong> <code>lcamtuf.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=48164432">20 comments 131 points</a></li>
+<li><a href="https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574"><strong>Kioxia and Dell cram 10 PB into slim 2RU server</strong> <code>www.blocksandfiles.com</code></a> - <a href="https://news.ycombinator.com/item?id=48161997">85 comments 124 points</a></li>
+<li><a href="https://parttelescopes.web.app/"><strong>PART Telescopes – Bringing radio astronomy within reach of rural schools</strong> <code>parttelescopes.web.app</code></a> - <a href="https://news.ycombinator.com/item?id=48160914">30 comments 120 points</a></li>
+<li><a href="https://labs.randomquark.com/alphabet_cards/"><strong>Greek Alphabet Cards</strong> <code>labs.randomquark.com</code></a> - <a href="https://news.ycombinator.com/item?id=48159354">50 comments 116 points</a></li>
+<li><a href="https://unstack.io/halt-and-catch-fire"><strong>Halt and Catch Fire</strong> <code>unstack.io</code></a> - <a href="https://news.ycombinator.com/item?id=48162468">62 comments 115 points</a></li>
+<li><a href="https://futhark-lang.org/examples.html"><strong>Futhark by example (2020)</strong> <code>futhark-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=48158606">31 comments 115 points</a></li>
+<li><a href="https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735"><strong>Europe built sovereign clouds to escape US control. Forgot about the processors</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=48159282">114 comments 110 points</a></li>
+<li><a href="https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/"><strong>Fisker went bankrupt and owners built an open source car company from the ashes</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=48164891">42 comments 109 points</a></li>
+<li><a href="https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html"><strong>Japan’s robot wolf sells out as record bear attacks drive demand</strong> <code>www.independent.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=48162882">60 comments 103 points</a></li>
+<li><a href="https://sfstandard.com/pacific-standard-time/2026/05/15/meta-employee-gets-real-horror-working-right-now/"><strong>A Meta employee gets real about the horror of working there</strong> <code>sfstandard.com</code></a> - <a href="https://news.ycombinator.com/item?id=48159528">90 comments 93 points</a></li>
+<li><a href="https://maurycyz.com/projects/mcusite/"><strong>Hosting a website on an 8-bit microcontroller</strong> <code>maurycyz.com</code></a> - <a href="https://news.ycombinator.com/item?id=48165295">5 comments 93 points</a></li>
+<li><a href="https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/"><strong>My Favorite Bugs: Invalid Surrogate Pairs</strong> <code>george.mand.is</code></a> - <a href="https://news.ycombinator.com/item?id=48159790">44 comments 91 points</a></li>
+<li><a href="https://redirect.github.com/AccelerateHS/accelerate"><strong>Accelerate – Embedded language for high-performance array computations</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48160211">18 comments 82 points</a></li>
+<li><a href="https://www.antipope.org/charlie/old/antipope.html"><strong>Why is this site named Antipope?</strong> <code>www.antipope.org</code></a> - <a href="https://news.ycombinator.com/item?id=48162922">42 comments 78 points</a></li>
+<li><a href="https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page"><strong>MCP Hello Page</strong> <code>www.hybridlogic.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=48164294">27 comments 75 points</a></li>
+</ol>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-05-16]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1340</link>
@@ -1135,45 +1174,6 @@
 <li><a href="https://runxiyu.org/comp/doubleslash/"><strong>It is incorrect to &quot;normalize&quot; // in HTTP URL paths</strong> <code>runxiyu.org</code></a> - <a href="https://news.ycombinator.com/item?id=47813454">61 comments 65 points</a></li>
 <li><a href="https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/"><strong>Zero-Copy GPU Inference from WebAssembly on Apple Silicon</strong> <code>abacusnoir.com</code></a> - <a href="https://news.ycombinator.com/item?id=47820195">21 comments 60 points</a></li>
 <li><a href="https://news.ycombinator.com/item?id=47814832"><strong>Claude Code Opus 4.7 keeps checking on malware</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47814832">56 comments 59 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-04-18]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1311</link>
-            <guid isPermaLink="false">1311</guid>
-            <pubDate>Sat, 18 Apr 2026 06:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.anthropic.com/news/claude-design-anthropic-labs"><strong>Claude Design</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=47806725">635 comments 963 points</a></li>
-<li><a href="https://hex.ooo/library/last_question.html"><strong>Isaac Asimov: The Last Question (1956)</strong> <code>hex.ooo</code></a> - <a href="https://news.ycombinator.com/item?id=47804965">272 comments 689 points</a></li>
-<li><a href="https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation"><strong>Ban the sale of precise geolocation</strong> <code>www.lawfaremedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=47806304">172 comments 669 points</a></li>
-<li><a href="https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you"><strong>Measuring Claude 4.7&#39;s tokenizer costs</strong> <code>www.claudecodecamp.com</code></a> - <a href="https://news.ycombinator.com/item?id=47807006">402 comments 576 points</a></li>
-<li><a href="https://redirect.github.com/smol-machines/smolvm"><strong>Show HN: Smol machines – subsecond coldstart, portable virtual machines</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47808268">92 comments 297 points</a></li>
-<li><a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon"><strong>All 12 moonwalkers had &quot;lunar hay fever&quot; from dust smelling like gunpowder (2018)</strong> <code>www.esa.int</code></a> - <a href="https://news.ycombinator.com/item?id=47808913">167 comments 296 points</a></li>
-<li><a href="https://www.iqiipi.com/the-quiet-colossus.html"><strong>Ada, its design, and the language that built the languages</strong> <code>www.iqiipi.com</code></a> - <a href="https://news.ycombinator.com/item?id=47803844">181 comments 260 points</a></li>
-<li><a href="https://nasaforce.gov/"><strong>NASA Force</strong> <code>nasaforce.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47807209">260 comments 256 points</a></li>
-<li><a href="https://www.thehistoryblog.com/archives/75848"><strong>Middle schooler finds coin from Troy in Berlin</strong> <code>www.thehistoryblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=47806484">99 comments 219 points</a></li>
-<li><a href="https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/"><strong>Tesla tells HW3 owner to &#39;be patient&#39; after 7 years of waiting for FSD</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=47809347">146 comments 195 points</a></li>
-<li><a href="https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/"><strong>NIST gives up enriching most CVEs</strong> <code>risky.biz</code></a> - <a href="https://news.ycombinator.com/item?id=47806777">44 comments 190 points</a></li>
-<li><a href="https://www.theguardian.com/world/2026/apr/16/israel-escalates-attacks-on-medics-in-lebanon-with-deadly-quadruple-tap"><strong>Israel escalates attacks on medics in Lebanon with deadly &#39;quadruple tap&#39;</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=47806596">113 comments 189 points</a></li>
-<li><a href="https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint"><strong>How Big Tech wrote secrecy into EU law to hide data centres&#39; environmental toll</strong> <code>www.investigate-europe.eu</code></a> - <a href="https://news.ycombinator.com/item?id=47803745">63 comments 179 points</a></li>
-<li><a href="https://redirect.github.com/paniclock/paniclock/"><strong>Show HN: PanicLock – Close your MacBook lid disable TouchID –&gt; password unlock</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47807809">67 comments 172 points</a></li>
-<li><a href="https://twitter.com/finmoorhouse/status/2044933442236776794"><strong>Hyperscalers have already outspent most famous US megaprojects</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47807619">136 comments 171 points</a></li>
-<li><a href="https://miguelconner.substack.com/p/im-coding-by-hand"><strong>Spending 3 months coding by hand</strong> <code>miguelconner.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47807583">174 comments 169 points</a></li>
-<li><a href="https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/"><strong>Healthchecks.io now uses self-hosted object storage</strong> <code>blog.healthchecks.io</code></a> - <a href="https://news.ycombinator.com/item?id=47806348">67 comments 161 points</a></li>
-<li><a href="https://www.corsix.org/content/simplified-model-of-fil-c"><strong>A simplified model of Fil-C</strong> <code>www.corsix.org</code></a> - <a href="https://news.ycombinator.com/item?id=47810872">73 comments 151 points</a></li>
-<li><a href="https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not"><strong>&quot;cat readme.txt&quot; is not safe if you use iTerm2</strong> <code>blog.calif.io</code></a> - <a href="https://news.ycombinator.com/item?id=47809190">78 comments 150 points</a></li>
-<li><a href="https://awnist.com/slop-cop"><strong>Slop Cop</strong> <code>awnist.com</code></a> - <a href="https://news.ycombinator.com/item?id=47806845">85 comments 143 points</a></li>
-<li><a href="https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/"><strong>Teddy Roosevelt and Abraham Lincoln in the same photo (2010)</strong> <code>prologue.blogs.archives.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47803992">45 comments 141 points</a></li>
-<li><a href="https://www.nongnu.org/fbi-improved/"><strong>FIM – Linux framebuffer image viewer</strong> <code>www.nongnu.org</code></a> - <a href="https://news.ycombinator.com/item?id=47803323">76 comments 140 points</a></li>
-<li><a href="https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/"><strong>Silicon Valley is turning scientists into exploited gig workers?</strong> <code>www.thenation.com</code></a> - <a href="https://news.ycombinator.com/item?id=47804708">100 comments 118 points</a></li>
-<li><a href="https://www.iceye.com/open-data-initiative"><strong>Experiment with ICEYE Open Data</strong> <code>www.iceye.com</code></a> - <a href="https://news.ycombinator.com/item?id=47806440">14 comments 110 points</a></li>
-<li><a href="https://isitagentready.com"><strong>Scan your website to see how ready it is for AI agents</strong> <code>isitagentready.com</code></a> - <a href="https://news.ycombinator.com/item?id=47805998">166 comments 103 points</a></li>
-<li><a href="https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models"><strong>We reproduced Anthropic&#39;s Mythos findings with public models</strong> <code>blog.vidocsecurity.com</code></a> - <a href="https://news.ycombinator.com/item?id=47806116">56 comments 99 points</a></li>
-<li><a href="https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions"><strong>US tech firms lobbied EU to keep datacentre emissions secret</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=47802962">12 comments 79 points</a></li>
-<li><a href="https://xcancel.com/Paul_Reviews/status/2044723123287666921"><strong>EU age verification app hacked, 2 minute How to posted</strong> <code>xcancel.com</code></a> - <a href="https://news.ycombinator.com/item?id=47803773">28 comments 73 points</a></li>
-<li><a href="https://www.nature.com/articles/d41586-026-01204-5"><strong>Landmark ancient-genome study shows surprise acceleration of human evolution</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=47811283">61 comments 67 points</a></li>
-<li><a href="https://electrek.co/2026/04/16/tesla-cybertruck-spacex-1279-q4-sales-inflated/"><strong>Tesla Cybertruck sales inflated: SpaceX bought 1,279 units</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=47809310">23 comments 67 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
