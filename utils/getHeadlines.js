@@ -57,7 +57,7 @@ export const getHeadlines = async (date, take) => {
                 const commentsAndPoints = `[${num_comments} comments ${points} points](${ycombinatorUrl})`;
                 return `${i + 1}. ${titleAndDomain} - ${commentsAndPoints}`;
             })
-            .join(EOL);
+            .join(EOL) + `${EOL}${EOL}${date.toTimeString()}`;
 
         return contents;
     } catch (error) {
