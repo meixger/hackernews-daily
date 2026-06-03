@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 02 Jun 2026 07:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 07:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-06-02]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1357</link>
+            <guid isPermaLink="false">1357</guid>
+            <pubDate>Tue, 02 Jun 2026 07:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.0xsid.com/blog/meta-account-takeover-fiasco"><strong>The newest Instagram “exploit” is the goofiest I&#39;ve seen</strong> <code>www.0xsid.com</code></a> - <a href="https://news.ycombinator.com/item?id=48359102">373 comments 1636 points</a></li>
+<li><a href="https://redirect.github.com/RedHatInsights/javascript-clients/issues/492"><strong>Malicious npm packages detected across Red Hat Cloud Services</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48356625">423 comments 745 points</a></li>
+<li><a href="https://point.free/blog/gemma-4-on-a-2016-xeon/"><strong>A 10 year old Xeon is all you need</strong> <code>point.free</code></a> - <a href="https://news.ycombinator.com/item?id=48353348">274 comments 689 points</a></li>
+<li><a href="https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/"><strong>The Pirate Bay Remains Resilient, 20 Years After the Raid</strong> <code>torrentfreak.com</code></a> - <a href="https://news.ycombinator.com/item?id=48357154">263 comments 554 points</a></li>
+<li><a href="https://www.anthropic.com/news/confidential-draft-s1-sec"><strong>Anthropic confidentially submits draft S-1 to the SEC</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=48358646">386 comments 480 points</a></li>
+<li><a href="https://cs336.stanford.edu/"><strong>CS336: Language Modeling from Scratch</strong> <code>cs336.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=48357075">45 comments 431 points</a></li>
+<li><a href="https://redirect.github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"><strong>AI Agent Guidelines for CS336 at Stanford</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48359232">126 comments 382 points</a></li>
+<li><a href="https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"><strong>DuckDuckGo makes its &#39;no-AI&#39; search engine easier to access as its traffic booms</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=48359130">144 comments 296 points</a></li>
+<li><a href="https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai"><strong>Can the stockmarket swallow Anthropic, SpaceX and OpenAI?</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=48364055">494 comments 274 points</a></li>
+<li><a href="https://30fps.net/pages/255-vs-256-division/"><strong>Should you normalize RGB values by 255 or 256?</strong> <code>30fps.net</code></a> - <a href="https://news.ycombinator.com/item?id=48360054">101 comments 245 points</a></li>
+<li><a href="https://kde.org/anniversaries/30/"><strong>KDE at 30</strong> <code>kde.org</code></a> - <a href="https://news.ycombinator.com/item?id=48357355">116 comments 235 points</a></li>
+<li><a href="https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"><strong>OpenAI frontier models and Codex are now available on AWS</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=48363132">82 comments 231 points</a></li>
+<li><a href="https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/"><strong>What appear to be biochemical processes may be a natural feature of geology</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=48357905">76 comments 222 points</a></li>
+<li><a href="https://eblog.fly.dev/githubbad.html"><strong>GitHub and the crime against software</strong> <code>eblog.fly.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48361064">103 comments 215 points</a></li>
+<li><a href="https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"><strong>Florida sues OpenAI and Sam Altman over AI risks</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=48358667">169 comments 210 points</a></li>
+<li><a href="https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet"><strong>Age verification for social media, the beginning of the end for a free internet?</strong> <code>mullvad.net</code></a> - <a href="https://news.ycombinator.com/item?id=48363882">104 comments 201 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival"><strong>Legal action forces Facebook whistleblower to sit in silence at Hay festival</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=48353965">52 comments 200 points</a></li>
+<li><a href="https://debug.com/"><strong>Debug Project</strong> <code>debug.com</code></a> - <a href="https://news.ycombinator.com/item?id=48362347">80 comments 198 points</a></li>
+<li><a href="https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/"><strong>macOS needs its grid back</strong> <code>blog.hopefullyuseful.com</code></a> - <a href="https://news.ycombinator.com/item?id=48364800">108 comments 195 points</a></li>
+<li><a href="https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/"><strong>Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra</strong> <code>www.windowslatest.com</code></a> - <a href="https://news.ycombinator.com/item?id=48355720">417 comments 194 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48357725"><strong>Ask HN: Who is hiring? (June 2026)</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=48357725">259 comments 184 points</a></li>
+<li><a href="https://redirect.github.com/cyberpapiii/chipotlai-max"><strong>Chipotlai Max</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48363765">30 comments 174 points</a></li>
+<li><a href="https://www.wsj.com/lifestyle/careers/white-collar-workers-career-nyu-study-a81a7d9c"><strong>Roughly a quarter of American professionals hit a wall in their careers</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=48357063">210 comments 171 points</a></li>
+<li><a href="https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"><strong>Alphabet announces $80B equity capital raise to expand AI infra and compute</strong> <code>abc.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=48362515">148 comments 163 points</a></li>
+<li><a href="https://redirect.github.com/ahegazy0/linux-basics-for-hackers-notes"><strong>Linux Basics for Hackers (2019)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48356468">36 comments 149 points</a></li>
+<li><a href="https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/"><strong>Windows GOG DOS Games on M-Series Macs</strong> <code>f055.net</code></a> - <a href="https://news.ycombinator.com/item?id=48356603">83 comments 147 points</a></li>
+<li><a href="https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/"><strong>Nvidia Cosmos 3</strong> <code>developer.nvidia.com</code></a> - <a href="https://news.ycombinator.com/item?id=48356654">27 comments 145 points</a></li>
+<li><a href="https://redirect.github.com/NishantJoshi00/flipper-template"><strong>Flipper Zero Zig Template</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48356490">11 comments 139 points</a></li>
+<li><a href="https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"><strong>When AI Crosses the Line: The Matplotlib Incident</strong> <code>members.sigmazero.cc</code></a> - <a href="https://news.ycombinator.com/item?id=48355751">141 comments 133 points</a></li>
+<li><a href="https://idlewords.com/talks/superintelligence.htm"><strong>Superintelligence: The Idea That Eats Smart People (2016)</strong> <code>idlewords.com</code></a> - <a href="https://news.ycombinator.com/item?id=48360137">171 comments 130 points</a></li>
+</ol>
+<p>07:13:53 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-06-01]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1356</link>
@@ -1135,45 +1175,6 @@
 <li><a href="https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/"><strong>A mushroom that makes people have the exact same hallucination</strong> <code>www.vice.com</code></a> - <a href="https://news.ycombinator.com/item?id=47918657">81 comments 124 points</a></li>
 <li><a href="https://status.npmjs.org"><strong>NPM website was down</strong> <code>status.npmjs.org</code></a> - <a href="https://news.ycombinator.com/item?id=47927526">56 comments 121 points</a></li>
 <li><a href="https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/"><strong>Running local LLMs offline on a ten-hour flight</strong> <code>deploy.live</code></a> - <a href="https://news.ycombinator.com/item?id=47921064">91 comments 118 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-04-27]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1320</link>
-            <guid isPermaLink="false">1320</guid>
-            <pubDate>Mon, 27 Apr 2026 07:31:40 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d"><strong>I bought Friendster for $30k – Here&#39;s what I&#39;m doing with it</strong> <code>ca98am79.medium.com</code></a> - <a href="https://news.ycombinator.com/item?id=47914165">368 comments 699 points</a></li>
-<li><a href="https://twitter.com/lifeof_jer/status/2048103471019434248"><strong>An AI agent deleted our production database. The agent&#39;s confession is below</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=47911524">785 comments 626 points</a></li>
-<li><a href="https://asahilinux.org/2026/04/progress-report-7-0/"><strong>Asahi Linux Progress Linux 7.0</strong> <code>asahilinux.org</code></a> - <a href="https://news.ycombinator.com/item?id=47909226">311 comments 613 points</a></li>
-<li><a href="https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/"><strong>GoDaddy gave a domain to a stranger without any documentation</strong> <code>anchor.host</code></a> - <a href="https://news.ycombinator.com/item?id=47911780">231 comments 588 points</a></li>
-<li><a href="https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"><strong>AI should elevate your thinking, not replace it</strong> <code>www.koshyjohn.com</code></a> - <a href="https://news.ycombinator.com/item?id=47913650">321 comments 431 points</a></li>
-<li><a href="https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo"><strong>Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47914350">244 comments 354 points</a></li>
-<li><a href="https://statecharts.dev/"><strong>Statecharts: hierarchical state machines</strong> <code>statecharts.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47908833">80 comments 296 points</a></li>
-<li><a href="https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/"><strong>SWE-bench Verified no longer measures frontier coding capabilities</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=47910388">160 comments 291 points</a></li>
-<li><a href="https://interblah.net/self-updating-screenshots"><strong>Self-updating screenshots</strong> <code>interblah.net</code></a> - <a href="https://news.ycombinator.com/item?id=47908051">36 comments 243 points</a></li>
-<li><a href="https://redirect.github.com/orgs/community/discussions/192666"><strong>Issue links now open in a popup</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47910546">124 comments 234 points</a></li>
-<li><a href="https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/"><strong>Fast16: High-precision software sabotage 5 years before Stuxnet</strong> <code>www.sentinelone.com</code></a> - <a href="https://news.ycombinator.com/item?id=47913855">49 comments 227 points</a></li>
-<li><a href="https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo"><strong>Waymo says can&#39;t avoid bike lanes because riders want to be dropped off in them</strong> <code>road.cc</code></a> - <a href="https://news.ycombinator.com/item?id=47912645">351 comments 222 points</a></li>
-<li><a href="https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial"><strong>Clay PCB Tutorial</strong> <code>feministhackerspaces.cargo.site</code></a> - <a href="https://news.ycombinator.com/item?id=47911350">129 comments 217 points</a></li>
-<li><a href="https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/"><strong>Butterflies are in decline across North America, a look at the Western Monarch</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=47914677">57 comments 194 points</a></li>
-<li><a href="https://dillo-browser.org/release/3.3.0/"><strong>Dillo Browser Release 3.3.0</strong> <code>dillo-browser.org</code></a> - <a href="https://news.ycombinator.com/item?id=47911977">26 comments 170 points</a></li>
-<li><a href="https://www.barwypowstania.pl/"><strong>The 1944 Warsaw Uprising, in Color</strong> <code>www.barwypowstania.pl</code></a> - <a href="https://news.ycombinator.com/item?id=47913406">56 comments 132 points</a></li>
-<li><a href="https://thermodynamicsbook.com/"><strong>Show HN: Free textbook on engineering thermodynamics</strong> <code>thermodynamicsbook.com</code></a> - <a href="https://news.ycombinator.com/item?id=47911013">34 comments 132 points</a></li>
-<li><a href="https://www.edenai.co"><strong>Eden AI – European Alternative to OpenRouter</strong> <code>www.edenai.co</code></a> - <a href="https://news.ycombinator.com/item?id=47908433">67 comments 128 points</a></li>
-<li><a href="https://eblong.com/infocom/visi/zork1/"><strong>The Visible Zorker: Zork 1</strong> <code>eblong.com</code></a> - <a href="https://news.ycombinator.com/item?id=47911644">23 comments 125 points</a></li>
-<li><a href="https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation"><strong>At least 10 people tied to sensitive US research have died or disappeared</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=47909942">78 comments 116 points</a></li>
-<li><a href="https://arkaung.github.io/interactive-turboquant/"><strong>TurboQuant: A first-principles walkthrough</strong> <code>arkaung.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=47916890">13 comments 110 points</a></li>
-<li><a href="https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/"><strong>If you stop hiring juniors, your senior engineers own you</strong> <code>evalcode.com</code></a> - <a href="https://news.ycombinator.com/item?id=47913641">73 comments 98 points</a></li>
-<li><a href="https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c"><strong>Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=47916410">81 comments 96 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=47913561"><strong>Have you tried Clean Architecture as foundation for your AI project?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=47913561">1 comments 94 points</a></li>
-<li><a href="https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on"><strong>Chernobyl wildlife forty years on</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=47913382">15 comments 89 points</a></li>
-<li><a href="https://redirect.github.com/sachitrafa/YourMemory"><strong>Show HN: AI memory with biological decay (52% recall)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47914367">37 comments 86 points</a></li>
-<li><a href="https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422"><strong>Plants can sense the sound of rain, a new study finds</strong> <code>news.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=47912513">15 comments 85 points</a></li>
-<li><a href="https://developer.chrome.com/docs/ai/prompt-api"><strong>The Prompt API</strong> <code>developer.chrome.com</code></a> - <a href="https://news.ycombinator.com/item?id=47917026">58 comments 82 points</a></li>
-<li><a href="https://ciechanow.ski/exposing-floating-point/"><strong>Exposing Floating Point – Bartosz Ciechanowski (2019)</strong> <code>ciechanow.ski</code></a> - <a href="https://news.ycombinator.com/item?id=47908139">11 comments 82 points</a></li>
-<li><a href="https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca"><strong>Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3</strong> <code>news.adidas.com</code></a> - <a href="https://news.ycombinator.com/item?id=47914438">1 comments 75 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
