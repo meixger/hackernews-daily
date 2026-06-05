@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 04 Jun 2026 07:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 06:55:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-06-04]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1359</link>
+            <guid isPermaLink="false">1359</guid>
+            <pubDate>Thu, 04 Jun 2026 07:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"><strong>Gemma 4 12B: A unified, encoder-free multimodal model</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=48385906">318 comments 798 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c93x0k194yno"><strong>Meta workers can opt out of being tracked at work up to 30 min</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=48383220">686 comments 719 points</a></li>
+<li><a href="https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"><strong>Elixir v1.20: Now a gradually typed language</strong> <code>elixir-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=48388324">261 comments 707 points</a></li>
+<li><a href="https://blog.nns.ee/2026/06/03/katana-badusb/"><strong>Pwnd Blaster: Hacking your PC using your speaker without ever touching it</strong> <code>blog.nns.ee</code></a> - <a href="https://news.ycombinator.com/item?id=48382310">107 comments 664 points</a></li>
+<li><a href="https://burntsushi.net/encephalitis/"><strong>I was recently diagnosed with anti-NMDA receptor encephalitis</strong> <code>burntsushi.net</code></a> - <a href="https://news.ycombinator.com/item?id=48384355">180 comments 583 points</a></li>
+<li><a href="https://maxleiter.com/blog/weights"><strong>&quot;They&#39;re made out of weights&quot;</strong> <code>maxleiter.com</code></a> - <a href="https://news.ycombinator.com/item?id=48391611">136 comments 459 points</a></li>
+<li><a href="https://simonwillison.net/2026/Jun/3/uber-caps-usage/"><strong>Uber&#39;s $1,500/month AI limit is a useful signal for AI tool pricing</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=48383056">560 comments 453 points</a></li>
+<li><a href="https://www.blackmagicdesign.com/products/davinciresolve/whatsnew"><strong>DaVinci Resolve 21</strong> <code>www.blackmagicdesign.com</code></a> - <a href="https://news.ycombinator.com/item?id=48384482">198 comments 440 points</a></li>
+<li><a href="https://e360.yale.edu/digest/trump-ooi-amoc"><strong>U.S. to dismantle system tracking Atlantic currents that are at risk of collapse</strong> <code>e360.yale.edu</code></a> - <a href="https://news.ycombinator.com/item?id=48392232">274 comments 416 points</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"><strong>32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=48383241">356 comments 392 points</a></li>
+<li><a href="https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"><strong>Artificial intelligence is not conscious – Ted Chiang</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=48387270">641 comments 365 points</a></li>
+<li><a href="https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/"><strong>MacBook Neo is so popular that Apple doubled production</strong> <code>www.macrumors.com</code></a> - <a href="https://news.ycombinator.com/item?id=48386238">396 comments 361 points</a></li>
+<li><a href="https://www.copetti.org/writings/consoles/playstation/"><strong>PlayStation Architecture</strong> <code>www.copetti.org</code></a> - <a href="https://news.ycombinator.com/item?id=48382142">57 comments 288 points</a></li>
+<li><a href="https://www.espressif.com/en/products/socs/esp32-s31"><strong>ESP32-S31</strong> <code>www.espressif.com</code></a> - <a href="https://news.ycombinator.com/item?id=48385965">151 comments 281 points</a></li>
+<li><a href="https://letsencrypt.org/2026/06/03/pq-certs"><strong>A Post-Quantum Future for Let&#39;s Encrypt</strong> <code>letsencrypt.org</code></a> - <a href="https://news.ycombinator.com/item?id=48385114">136 comments 249 points</a></li>
+<li><a href="https://fzakaria.com/2026/06/01/every-byte-matters"><strong>Every Byte Matters</strong> <code>fzakaria.com</code></a> - <a href="https://news.ycombinator.com/item?id=48382382">118 comments 238 points</a></li>
+<li><a href="https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"><strong>Mathematicians issue warning as AI rapidly gains ground</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=48382052">257 comments 216 points</a></li>
+<li><a href="https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/"><strong>I built a ceiling projection mapping of the planes flying over my house</strong> <code>old.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=48383823">32 comments 213 points</a></li>
+<li><a href="https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/"><strong>The Public Should Own Half of the Big A.I. Companies</strong> <code>www.sanders.senate.gov</code></a> - <a href="https://news.ycombinator.com/item?id=48386551">250 comments 212 points</a></li>
+<li><a href="https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"><strong>Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes</strong> <code>www.dailycal.org</code></a> - <a href="https://news.ycombinator.com/item?id=48392004">126 comments 200 points</a></li>
+<li><a href="https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/"><strong>I built a vulnerable app and spent $1,500 seeing if LLMs could hack it</strong> <code>kasra.blog</code></a> - <a href="https://news.ycombinator.com/item?id=48392343">65 comments 163 points</a></li>
+<li><a href="https://redirect.github.com/duanebester/gooey"><strong>Gooey: A GPU-accelerated UI framework for Zig</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48386725">59 comments 162 points</a></li>
+<li><a href="https://radar.cloudflare.com/traffic#bot-vs-human"><strong>Bot vs human traffic</strong> <code>radar.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=48387144">74 comments 137 points</a></li>
+<li><a href="https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers"><strong>It is an amazing time for programmers</strong> <code>46elks.com</code></a> - <a href="https://news.ycombinator.com/item?id=48381211">107 comments 133 points</a></li>
+<li><a href="https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn"><strong>American capitalism has taken an apocalyptic turn</strong> <code>economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=48393043">229 comments 126 points</a></li>
+<li><a href="https://leidendeclaration.ai/"><strong>Leiden Declaration on Artificial Intelligence and Mathematics</strong> <code>leidendeclaration.ai</code></a> - <a href="https://news.ycombinator.com/item?id=48380670">77 comments 126 points</a></li>
+<li><a href="https://nutrepedia.com/en-us/"><strong>Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx</strong> <code>nutrepedia.com</code></a> - <a href="https://news.ycombinator.com/item?id=48386129">27 comments 120 points</a></li>
+<li><a href="https://blog.angular.dev/announcing-angular-v22-c52bb83a4664"><strong>Angular v22</strong> <code>blog.angular.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48386463">59 comments 119 points</a></li>
+<li><a href="https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/"><strong>A Man Who Reads Books for a Living</strong> <code>lithub.com</code></a> - <a href="https://news.ycombinator.com/item?id=48389284">80 comments 106 points</a></li>
+<li><a href="https://www.ableton.com/en/live/extensions/"><strong>Ableton Extensions SDK</strong> <code>www.ableton.com</code></a> - <a href="https://news.ycombinator.com/item?id=48389681">41 comments 105 points</a></li>
+</ol>
+<p>07:12:13 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-06-03]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1358</link>
@@ -1137,45 +1177,6 @@
 <li><a href="https://read.thecoder.cafe/p/linux-broke-postgresql"><strong>Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained</strong> <code>read.thecoder.cafe</code></a> - <a href="https://news.ycombinator.com/item?id=47949585">67 comments 129 points</a></li>
 <li><a href="https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/"><strong>Germany has become the largest ammunition producer in the world</strong> <code>prm.ua</code></a> - <a href="https://news.ycombinator.com/item?id=47955297">92 comments 128 points</a></li>
 <li><a href="https://blog.jeffschomay.com/letting-ai-play-my-game"><strong>Letting AI play my game – building an agentic test harness to help play-testing</strong> <code>blog.jeffschomay.com</code></a> - <a href="https://news.ycombinator.com/item?id=47947525">29 comments 128 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-04-29]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1322</link>
-            <guid isPermaLink="false">1322</guid>
-            <pubDate>Wed, 29 Apr 2026 07:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://mitchellh.com/writing/ghostty-leaving-github"><strong>Ghostty is leaving GitHub</strong> <code>mitchellh.com</code></a> - <a href="https://news.ycombinator.com/item?id=47939579">685 comments 2301 points</a></li>
-<li><a href="https://keepandroidopen.org/en/"><strong>Your phone is about to stop being yours</strong> <code>keepandroidopen.org</code></a> - <a href="https://news.ycombinator.com/item?id=47935853">575 comments 1254 points</a></li>
-<li><a href="https://redirect.github.com/localsend/localsend"><strong>Localsend: An open-source cross-platform alternative to AirDrop</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47933208">244 comments 797 points</a></li>
-<li><a href="https://lucumr.pocoo.org/2026/4/28/before-github/"><strong>Before GitHub</strong> <code>lucumr.pocoo.org</code></a> - <a href="https://news.ycombinator.com/item?id=47940921">120 comments 399 points</a></li>
-<li><a href="https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d"><strong>UAE to leave OPEC</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=47933983">539 comments 398 points</a></li>
-<li><a href="https://github.blog/news-insights/company-news/an-update-on-github-availability/"><strong>An update on GitHub availability</strong> <code>github.blog</code></a> - <a href="https://news.ycombinator.com/item?id=47932422">228 comments 357 points</a></li>
-<li><a href="https://gtfobins.org/"><strong>GTFOBins</strong> <code>gtfobins.org</code></a> - <a href="https://news.ycombinator.com/item?id=47931035">87 comments 350 points</a></li>
-<li><a href="https://legallayer.substack.com/p/who-owns-the-claude-code-wrote"><strong>Who owns the code Claude Code wrote?</strong> <code>legallayer.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47932937">352 comments 348 points</a></li>
-<li><a href="https://redirect.github.com/microsoft/VibeVoice"><strong>VibeVoice: Open-source frontier voice AI</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47933236">169 comments 348 points</a></li>
-<li><a href="https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been"><strong>Period tracking app, Flo, found to be selling user data to Meta</strong> <code>femtechdesigndesk.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=47932990">230 comments 345 points</a></li>
-<li><a href="https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"><strong>GitHub RCE Vulnerability: CVE-2026-3854 Breakdown</strong> <code>www.wiz.io</code></a> - <a href="https://news.ycombinator.com/item?id=47936479">74 comments 317 points</a></li>
-<li><a href="https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/"><strong>UAE Leaves OPEC</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=47934120">2 comments 314 points</a></li>
-<li><a href="https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"><strong>Google and Pentagon reportedly agree on deal for &#39;any lawful&#39; use of AI</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=47936156">264 comments 288 points</a></li>
-<li><a href="https://status.claude.com/incidents/9l93x2ht4s5w"><strong>Claude.ai unavailable and elevated errors on the API</strong> <code>status.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=47938097">242 comments 282 points</a></li>
-<li><a href="https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/"><strong>OpenAI CEO&#39;s Identity Verification Company Announced Fake Bruno Mars Partnership</strong> <code>www.vice.com</code></a> - <a href="https://news.ycombinator.com/item?id=47934269">106 comments 280 points</a></li>
-<li><a href="https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/"><strong>How ChatGPT serves ads</strong> <code>www.buchodi.com</code></a> - <a href="https://news.ycombinator.com/item?id=47942437">181 comments 273 points</a></li>
-<li><a href="https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/"><strong>GitHub Copilot code review will start consuming GitHub Actions minutes</strong> <code>github.blog</code></a> - <a href="https://news.ycombinator.com/item?id=47932028">186 comments 269 points</a></li>
-<li><a href="https://waymo.com/blog/shorts/waymo-in-portland/"><strong>Waymo in Portland</strong> <code>waymo.com</code></a> - <a href="https://news.ycombinator.com/item?id=47938184">466 comments 265 points</a></li>
-<li><a href="https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/"><strong>Anthropic Joins the Blender Development Fund as Corporate Patron</strong> <code>www.blender.org</code></a> - <a href="https://news.ycombinator.com/item?id=47936370">198 comments 247 points</a></li>
-<li><a href="https://www.warp.dev/blog/warp-is-now-open-source"><strong>Warp is now open-source</strong> <code>www.warp.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47936264">68 comments 236 points</a></li>
-<li><a href="https://redirect.github.com/warpdotdev/warp"><strong>Warp is now open-source</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47937349">157 comments 231 points</a></li>
-<li><a href="https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/"><strong>OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs</strong> <code>stratechery.com</code></a> - <a href="https://news.ycombinator.com/item?id=47939320">80 comments 229 points</a></li>
-<li><a href="https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html"><strong>GitHub Actions is the weakest link</strong> <code>nesbitt.io</code></a> - <a href="https://news.ycombinator.com/item?id=47933257">78 comments 227 points</a></li>
-<li><a href="https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/"><strong>FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger</strong> <code>deadline.com</code></a> - <a href="https://news.ycombinator.com/item?id=47936210">146 comments 217 points</a></li>
-<li><a href="https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/"><strong>Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=47940271">71 comments 215 points</a></li>
-<li><a href="https://www.wheresyoured.at/ais-economics-dont-make-sense/"><strong>AI&#39;s economics don&#39;t make sense</strong> <code>www.wheresyoured.at</code></a> - <a href="https://news.ycombinator.com/item?id=47936867">168 comments 211 points</a></li>
-<li><a href="https://redirect.github.com/anthropics/claude-code/issues/49363"><strong>Regression: malware reminder on every read still causes subagent refusals</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=47942492">94 comments 197 points</a></li>
-<li><a href="https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent"><strong>Bankruptcies increase 11.9 percent</strong> <code>www.uscourts.gov</code></a> - <a href="https://news.ycombinator.com/item?id=47938756">113 comments 182 points</a></li>
-<li><a href="https://corrode.dev/blog/bugs-rust-wont-catch/"><strong>Bugs Rust won&#39;t catch</strong> <code>corrode.dev</code></a> - <a href="https://news.ycombinator.com/item?id=47943499">55 comments 179 points</a></li>
-<li><a href="https://www.lumara-space.app/"><strong>Show HN: Live Sun and Moon Dashboard with NASA Footage</strong> <code>www.lumara-space.app</code></a> - <a href="https://news.ycombinator.com/item?id=47934261">60 comments 176 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
