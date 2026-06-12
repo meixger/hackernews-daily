@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 11 Jun 2026 07:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 07:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-06-11]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1366</link>
+            <guid isPermaLink="false">1366</guid>
+            <pubDate>Thu, 11 Jun 2026 07:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://mohkohn.co.uk/writing/html-first/"><strong>Building an HTML-first site doubled our users overnight</strong> <code>mohkohn.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=48475483">490 comments 1081 points</a></li>
+<li><a href="https://redirect.github.com/philipl/pifs"><strong>πFS</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48480978">154 comments 702 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48477135"><strong>I&#39;m Eric Ries, author of &quot;The Lean Startup&quot; and new book &quot;Incorruptible&quot; – AMA</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=48477135">472 comments 626 points</a></li>
+<li><a href="https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf"><strong>Mercedes‑Benz starts large‑scale production of electric axial flux motor</strong> <code>media.mercedes-benz.com</code></a> - <a href="https://news.ycombinator.com/item?id=48472877">334 comments 527 points</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade"><strong>Farmer donates land for a park, city sells it for $10M as data center land</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=48481126">3 comments 452 points</a></li>
+<li><a href="https://pgdog.dev/blog/our-funding-announcement"><strong>PgDog is funded and coming to a database near you</strong> <code>pgdog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48476466">217 comments 438 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48473166"><strong>AWS Bedrock to require sharing data with Anthropic for Mythos and future models</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=48473166">242 comments 402 points</a></li>
+<li><a href="https://redirect.github.com/anthropics/claude-code/issues/29045"><strong>Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48479452">281 comments 394 points</a></li>
+<li><a href="https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"><strong>Cybersecurity researchers aren&#39;t happy about the guardrails on Anthropic&#39;s Fable</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=48478969">343 comments 380 points</a></li>
+<li><a href="https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"><strong>AI agent runs amok in Fedora and elsewhere</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=48484584">111 comments 346 points</a></li>
+<li><a href="https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated"><strong>Anthropic&#39;s model naming, extrapolated</strong> <code>samwilkinson.io</code></a> - <a href="https://news.ycombinator.com/item?id=48480852">89 comments 301 points</a></li>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/"><strong>DiffusionGemma: 4x Faster Text Generation</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=48478471">76 comments 301 points</a></li>
+<li><a href="https://www.bls.gov/news.release/cpi.nr0.htm"><strong>US Consumer Price Index up 4.2%</strong> <code>www.bls.gov</code></a> - <a href="https://news.ycombinator.com/item?id=48477551">285 comments 261 points</a></li>
+<li><a href="https://www.adafruit.com/product/6125?src=raspberrypi"><strong>Raspberry Pi 5 – 16GB RAM</strong> <code>www.adafruit.com</code></a> - <a href="https://news.ycombinator.com/item?id=48481857">243 comments 238 points</a></li>
+<li><a href="https://jivx.com/eki"><strong>All 9,300 Japanese train station, animated by the year it opened (1872–2026)</strong> <code>jivx.com</code></a> - <a href="https://news.ycombinator.com/item?id=48475100">76 comments 231 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48475871"><strong>Ask HN: Are most corporate SWE jobs performative?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=48475871">257 comments 219 points</a></li>
+<li><a href="https://geolibre.app/"><strong>GeoLibre 1.0</strong> <code>geolibre.app</code></a> - <a href="https://news.ycombinator.com/item?id=48479852">18 comments 216 points</a></li>
+<li><a href="https://spectrum.ieee.org/curiosity-rover-jpl-mars-science"><strong>How JPL keeps the 13-year-old Curiosity rover doing science</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=48479705">57 comments 214 points</a></li>
+<li><a href="https://burr.apache.org/"><strong>Apache Burr: Build reliable AI agents and applications</strong> <code>burr.apache.org</code></a> - <a href="https://news.ycombinator.com/item?id=48477400">99 comments 202 points</a></li>
+<li><a href="https://www.extend.ai/ui"><strong>Show HN: Extend UI – open-source UI kit for modern document apps</strong> <code>www.extend.ai</code></a> - <a href="https://news.ycombinator.com/item?id=48478469">46 comments 197 points</a></li>
+<li><a href="https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"><strong>A €0.01 bank transfer could compromise a banking AI agent</strong> <code>blue41.com</code></a> - <a href="https://news.ycombinator.com/item?id=48476136">168 comments 178 points</a></li>
+<li><a href="https://danq.me/2026/06/09/fn-keys/"><strong>I Hate (Most) Keyboard &#39;Fn&#39; Keys</strong> <code>danq.me</code></a> - <a href="https://news.ycombinator.com/item?id=48475938">188 comments 177 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48476474"><strong>Notes on DeepSeek</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=48476474">111 comments 174 points</a></li>
+<li><a href="https://www.matteast.io/spacex-escape-velocity.html"><strong>Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely</strong> <code>www.matteast.io</code></a> - <a href="https://news.ycombinator.com/item?id=48479947">178 comments 172 points</a></li>
+<li><a href="https://www.githubstatus.com/incidents/fcj3088jg1wx"><strong>Authentication issues related to API requests</strong> <code>www.githubstatus.com</code></a> - <a href="https://news.ycombinator.com/item?id=48477851">32 comments 158 points</a></li>
+<li><a href="https://darioamodei.com/post/policy-on-the-ai-exponential"><strong>Policy on the AI Exponential</strong> <code>darioamodei.com</code></a> - <a href="https://news.ycombinator.com/item?id=48480719">208 comments 149 points</a></li>
+<li><a href="https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/"><strong>Sequoyah’s syllabary created a written language for the Cherokee</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=48483387">91 comments 144 points</a></li>
+<li><a href="https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs"><strong>ICE denies having a protester database. A letter to Congress sheds more light</strong> <code>www.npr.org</code></a> - <a href="https://news.ycombinator.com/item?id=48476067">68 comments 143 points</a></li>
+<li><a href="https://redirect.github.com/react/react/pull/36173"><strong>Port React Compiler to Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48473662">116 comments 120 points</a></li>
+<li><a href="https://redirect.github.com/HelixDB/helix-db/tree/main"><strong>Show HN: HelixDB – A graph database built on object storage</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48478148">33 comments 116 points</a></li>
+</ol>
+<p>07:18:53 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-06-10]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1365</link>
@@ -1144,45 +1184,6 @@
 <li><a href="https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/"><strong>UK businesses brace for jet fuel rationing</strong> <code>bmmagazine.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=48042918">104 comments 80 points</a></li>
 <li><a href="https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code"><strong>Apple is enforcing an old App Store rule against a new kind of software</strong> <code>adaptivesoftware.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=48042099">29 comments 73 points</a></li>
 <li><a href="https://api-docs.deepseek.com/quick_start/pricing"><strong>DeepSeek V4 Pro at 75% off until 31 May</strong> <code>api-docs.deepseek.com</code></a> - <a href="https://news.ycombinator.com/item?id=48043040">74 comments 71 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-05-05]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1329</link>
-            <guid isPermaLink="false">1329</guid>
-            <pubDate>Tue, 05 May 2026 06:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://thienantran.com/talking-to-35-strangers-at-the-gym/"><strong>Talking to strangers at the gym</strong> <code>thienantran.com</code></a> - <a href="https://news.ycombinator.com/item?id=48007438">604 comments 1282 points</a></li>
-<li><a href="https://www.bbc.co.uk/news/articles/cn0p8yled1do"><strong>GameStop makes $55.5B takeover offer for eBay</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=48006402">634 comments 667 points</a></li>
-<li><a href="https://notepad-plus-plus.org/news/npp-trademark-infringement/"><strong>Trademark violation: Fake Notepad++ for Mac</strong> <code>notepad-plus-plus.org</code></a> - <a href="https://news.ycombinator.com/item?id=48006445">276 comments 597 points</a></li>
-<li><a href="https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/"><strong>Removable batteries in smartphones will be mandatory in the EU starting in 2027</strong> <code>www.ecopv-eu.com</code></a> - <a href="https://news.ycombinator.com/item?id=48009697">499 comments 552 points</a></li>
-<li><a href="https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730"><strong>Microsoft Edge stores all passwords in memory in clear text, even when unused</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=48012735">175 comments 489 points</a></li>
-<li><a href="https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/"><strong>US healthcare marketplaces shared citizenship and race data with ad tech giants</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=48011689">154 comments 472 points</a></li>
-<li><a href="https://wwj.dev/posts/i-am-worried-about-bun/"><strong>I am worried about Bun</strong> <code>wwj.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48011184">308 comments 457 points</a></li>
-<li><a href="https://www.githubstatus.com/incidents/72q3n8yxthcy"><strong>Incident with Issues and Webhooks – Resolved</strong> <code>www.githubstatus.com</code></a> - <a href="https://news.ycombinator.com/item?id=48010301">259 comments 421 points</a></li>
-<li><a href="https://www.dayswithoutgithubincident.com/"><strong>Days without GitHub incidents</strong> <code>www.dayswithoutgithubincident.com</code></a> - <a href="https://news.ycombinator.com/item?id=48012022">153 comments 365 points</a></li>
-<li><a href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"><strong>How OpenAI delivers low-latency voice AI at scale</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=48013919">116 comments 360 points</a></li>
-<li><a href="https://redirect.github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"><strong>Bun is being ported from Zig to Rust</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48016880">236 comments 355 points</a></li>
-<li><a href="https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works"><strong>How Monero’s proof of work works</strong> <code>blog.alcazarsec.com</code></a> - <a href="https://news.ycombinator.com/item?id=48009020">190 comments 267 points</a></li>
-<li><a href="https://antirez.com/news/164"><strong>Redis array: short story of a long development process</strong> <code>antirez.com</code></a> - <a href="https://news.ycombinator.com/item?id=48009172">87 comments 262 points</a></li>
-<li><a href="https://www.nber.org/papers/w35117"><strong>Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks</strong> <code>www.nber.org</code></a> - <a href="https://news.ycombinator.com/item?id=48009983">236 comments 260 points</a></li>
-<li><a href="https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to"><strong>Stop big tech from making users behave in ways they don&#39;t want to</strong> <code>economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=48011603">165 comments 260 points</a></li>
-<li><a href="https://redirect.github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0"><strong>PyInfra 3.8.0</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48008083">88 comments 251 points</a></li>
-<li><a href="https://daringfireball.net/2026/05/y_combinators_stake_in_openai"><strong>Y Combinator&#39;s Stake in OpenAI (0.6%)</strong> <code>daringfireball.net</code></a> - <a href="https://news.ycombinator.com/item?id=48016534">24 comments 246 points</a></li>
-<li><a href="https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/"><strong>Heat pump sales rise across Europe</strong> <code>www.pv-magazine.com</code></a> - <a href="https://news.ycombinator.com/item?id=48012003">139 comments 239 points</a></li>
-<li><a href="https://addyosmani.com/blog/agent-skills/"><strong>Agent Skills</strong> <code>addyosmani.com</code></a> - <a href="https://news.ycombinator.com/item?id=48015397">87 comments 199 points</a></li>
-<li><a href="https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"><strong>Securing a DoD contractor: Finding a multi-tenant authorization vulnerability</strong> <code>www.strix.ai</code></a> - <a href="https://news.ycombinator.com/item?id=48012162">79 comments 190 points</a></li>
-<li><a href="https://www.fuelinsight.co.uk"><strong>UK Fuel Price Intelligence – Market analytics from reporting stations</strong> <code>www.fuelinsight.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=48009747">78 comments 171 points</a></li>
-<li><a href="https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/"><strong>1966 Ford Mustang Converted into a Tesla with Working &#39;Full Self-Driving&#39;</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=48009840">115 comments 159 points</a></li>
-<li><a href="https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/"><strong>What I&#39;m Hearing About Cognitive Debt (So Far)</strong> <code>margaretstorey.com</code></a> - <a href="https://news.ycombinator.com/item?id=48017298">77 comments 157 points</a></li>
-<li><a href="https://www.b-list.org/weblog/2026/apr/09/llms/"><strong>Let&#39;s talk about LLMs</strong> <code>www.b-list.org</code></a> - <a href="https://news.ycombinator.com/item?id=48011904">129 comments 153 points</a></li>
-<li><a href="https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview"><strong>“Kitten Space Agency”, a Spiritual Successor to “Kerbal Space Program” (2025)</strong> <code>www.space.com</code></a> - <a href="https://news.ycombinator.com/item?id=48011980">58 comments 153 points</a></li>
-<li><a href="https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever"><strong>Newton&#39;s law of gravity passes its biggest test</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=48008074">132 comments 144 points</a></li>
-<li><a href="https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"><strong>Formatting a 25M-line codebase overnight</strong> <code>stripe.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48014325">78 comments 144 points</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis"><strong>&#39;Point of no return&#39;: New Orleans relocation must start now due to sea level</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=48015218">134 comments 122 points</a></li>
-<li><a href="https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/"><strong>Alberta voter list leak is a potential public safety disaster</strong> <code>globalnews.ca</code></a> - <a href="https://news.ycombinator.com/item?id=48010208">89 comments 117 points</a></li>
-<li><a href="https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"><strong>OpenAI, Google, and Microsoft Back Bill to Fund &#39;AI Literacy&#39; in Schools</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=48010774">106 comments 115 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
