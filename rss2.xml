@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 25 Jun 2026 06:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 06:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-06-25]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1380</link>
+            <guid isPermaLink="false">1380</guid>
+            <pubDate>Thu, 25 Jun 2026 06:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://bunny.net/blog/were-making-bunny-dns-free/"><strong>We’re making Bunny DNS free</strong> <code>bunny.net</code></a> - <a href="https://news.ycombinator.com/item?id=48657030">258 comments 876 points</a></li>
+<li><a href="https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"><strong>OpenAI unveils its first custom chip, built by Broadcom</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=48663324">368 comments 646 points</a></li>
+<li><a href="https://paolino.me/founding-a-company-in-germany/"><strong>Founding a company in Germany: €9600, 152 days and I still can&#39;t send an invoice</strong> <code>paolino.me</code></a> - <a href="https://news.ycombinator.com/item?id=48658718">697 comments 569 points</a></li>
+<li><a href="https://twitter.com/ID_AA_Carmack/status/2069799283369345247"><strong>There are a few things that I look back on as my mistakes in the early days</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=48661825">257 comments 515 points</a></li>
+<li><a href="https://rubyllm.com/"><strong>RubyLLM: A Ruby framework for all major AI providers</strong> <code>rubyllm.com</code></a> - <a href="https://news.ycombinator.com/item?id=48660711">60 comments 373 points</a></li>
+<li><a href="https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"><strong>Anthropic says Alibaba illicitly extracted Claude AI model capabilities</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=48664814">508 comments 292 points</a></li>
+<li><a href="https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/"><strong>45°C cooling design cuts data center water use to near zero</strong> <code>blogs.nvidia.com</code></a> - <a href="https://news.ycombinator.com/item?id=48660178">177 comments 280 points</a></li>
+<li><a href="https://www.slate.auto/en"><strong>Slate EV truck starts at $24,950</strong> <code>www.slate.auto</code></a> - <a href="https://news.ycombinator.com/item?id=48659451">406 comments 267 points</a></li>
+<li><a href="https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html"><strong>NSA lost access to Mythos amid Anthropic dispute</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=48658300">253 comments 241 points</a></li>
+<li><a href="https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"><strong>Reid Hoffman says SpaceX &#39;not an AI company&#39;, xAI &#39;complete train wreck&#39;</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=48658647">260 comments 227 points</a></li>
+<li><a href="https://redirect.github.com/nubjs/nub"><strong>Show HN: Nub – A Bun-like all-in-one toolkit for Node.js</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48660267">66 comments 226 points</a></li>
+<li><a href="https://ben-mini.com/2026/stealing-is-a-skill"><strong>Stealing Is a Skill</strong> <code>ben-mini.com</code></a> - <a href="https://news.ycombinator.com/item?id=48659165">132 comments 225 points</a></li>
+<li><a href="https://blog.omgmog.net/post/xteink-x4-e-ink-reader/"><strong>The Xteink X4 E-Ink Reader</strong> <code>blog.omgmog.net</code></a> - <a href="https://news.ycombinator.com/item?id=48662381">124 comments 213 points</a></li>
+<li><a href="https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"><strong>For most of the world, open-source AI is the only way forward</strong> <code>techstrong.ai</code></a> - <a href="https://news.ycombinator.com/item?id=48660839">135 comments 209 points</a></li>
+<li><a href="https://www.greptile.com/blog/prs-on-openclaw"><strong>PR spam today looks like email spam in the early 2000s</strong> <code>www.greptile.com</code></a> - <a href="https://news.ycombinator.com/item?id=48660579">120 comments 207 points</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"><strong>Computer use in Gemini 3.5 Flash</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=48662999">129 comments 203 points</a></li>
+<li><a href="https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/"><strong>Thomann takes legal action against Fender</strong> <code>www.thomann.de</code></a> - <a href="https://news.ycombinator.com/item?id=48664384">119 comments 189 points</a></li>
+<li><a href="https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading"><strong>A deadly fungus that can infect cats and people is spreading</strong> <code>www.sciencenews.org</code></a> - <a href="https://news.ycombinator.com/item?id=48658186">136 comments 186 points</a></li>
+<li><a href="https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/"><strong>Qualcomm to Acquire Modular</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=48659798">52 comments 184 points</a></li>
+<li><a href="https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees"><strong>Elastic lays off 7% of employees</strong> <code>www.elastic.co</code></a> - <a href="https://news.ycombinator.com/item?id=48666100">156 comments 177 points</a></li>
+<li><a href="https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"><strong>Blogging can just be stating the obvious</strong> <code>blog.jim-nielsen.com</code></a> - <a href="https://news.ycombinator.com/item?id=48666927">60 comments 168 points</a></li>
+<li><a href="https://infosec.exchange/@mttaggart/116806641273303255"><strong>GitHub shouldn&#39;t be a dependency for publishing Rust on crates.io</strong> <code>infosec.exchange</code></a> - <a href="https://news.ycombinator.com/item?id=48664733">60 comments 166 points</a></li>
+<li><a href="https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489"><strong>Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=48661535">56 comments 164 points</a></li>
+<li><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"><strong>OpenAI and Broadcom unveil LLM-optimized inference chip</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=48659257">1 comments 141 points</a></li>
+<li><a href="https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"><strong>Big AI labs are hiring philosophers</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=48662452">117 comments 132 points</a></li>
+<li><a href="https://blog.interceptfund.com/p/ending-respiratory-infections"><strong>Ending respiratory infections</strong> <code>blog.interceptfund.com</code></a> - <a href="https://news.ycombinator.com/item?id=48667588">60 comments 128 points</a></li>
+<li><a href="https://redirect.github.com/LuaJIT/LuaJIT/issues/1475"><strong>LuaJIT 3.0 proposed syntax extensions</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48667336">72 comments 124 points</a></li>
+<li><a href="https://posthog.com/blog/sql-parser"><strong>I rewrote PostHog&#39;s SQL parser, 70x faster, while barely looking at the code</strong> <code>posthog.com</code></a> - <a href="https://news.ycombinator.com/item?id=48663544">60 comments 124 points</a></li>
+<li><a href="https://images.minimus.io/"><strong>Minimus container images are now free</strong> <code>images.minimus.io</code></a> - <a href="https://news.ycombinator.com/item?id=48658361">75 comments 121 points</a></li>
+<li><a href="https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634"><strong>Quebec town recognizes trees as living beings with rights</strong> <code>www.cbc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=48661536">87 comments 110 points</a></li>
+</ol>
+<p>06:36:33 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-06-24]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1379</link>
@@ -1158,45 +1198,6 @@
 <li><a href="https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players"><strong>Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=48284032">30 comments 98 points</a></li>
 <li><a href="https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/"><strong>Flatpak Will Depend on Systemd</strong> <code>www.osnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=48277355">120 comments 97 points</a></li>
 <li><a href="https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/"><strong>Sonny Rollins, jazz saxophonist, has died</strong> <code>www.rollingstone.com</code></a> - <a href="https://news.ycombinator.com/item?id=48287678">13 comments 97 points</a></li>
-</ol>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-05-25]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1349</link>
-            <guid isPermaLink="false">1349</guid>
-            <pubDate>Mon, 25 May 2026 06:58:40 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://esengine.github.io/DeepSeek-Reasonix/"><strong>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</strong> <code>esengine.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48256953">218 comments 523 points</a></li>
-<li><a href="https://epoch.ai/data-insights/ai-chip-component-cost-shares"><strong>Memory has grown to nearly two-thirds of AI chip component costs</strong> <code>epoch.ai</code></a> - <a href="https://news.ycombinator.com/item?id=48258684">373 comments 365 points</a></li>
-<li><a href="https://audiomass.co/?multitrack=1"><strong>Show HN: Audiomass – a free, open-source multitrack audio editor for the web</strong> <code>audiomass.co</code></a> - <a href="https://news.ycombinator.com/item?id=48258015">63 comments 302 points</a></li>
-<li><a href="https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html"><strong>The Eternal Sloptember</strong> <code>geohot.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48263238">184 comments 250 points</a></li>
-<li><a href="https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/"><strong>The four-day workweek in Australia: insights from early adopters of 100:80:100</strong> <code>scienceaim.com</code></a> - <a href="https://news.ycombinator.com/item?id=48259990">220 comments 241 points</a></li>
-<li><a href="https://www.hollandtech.net/claude-is-not-your-architect/"><strong>Claude is not your architect. Stop letting it pretend</strong> <code>www.hollandtech.net</code></a> - <a href="https://news.ycombinator.com/item?id=48259784">175 comments 241 points</a></li>
-<li><a href="https://corrode.dev/learn/migration-guides/go-to-rust/"><strong>Migrating from Go to Rust</strong> <code>corrode.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48259808">213 comments 221 points</a></li>
-<li><a href="https://arxiv.org/abs/2605.06445"><strong>Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=48256912">116 comments 217 points</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"><strong>DeepSeek to Make Permanent 75% Discount on Flagship AI Model</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=48257410">2 comments 206 points</a></li>
-<li><a href="https://fs.blog/knowledge-project-podcast/greg-brockman/"><strong>Greg Brockman interview [video]</strong> <code>fs.blog</code></a> - <a href="https://news.ycombinator.com/item?id=48255593">199 comments 194 points</a></li>
-<li><a href="https://susam.net/childhood-computing.html"><strong>Childhood Computing</strong> <code>susam.net</code></a> - <a href="https://news.ycombinator.com/item?id=48256597">93 comments 188 points</a></li>
-<li><a href="https://usborne.com/us/books/computer-and-coding-books"><strong>Usborne 1980s Computer Books</strong> <code>usborne.com</code></a> - <a href="https://news.ycombinator.com/item?id=48258194">53 comments 174 points</a></li>
-<li><a href="https://abyss.fish/your_dotfiles_are_not_a_distro"><strong>Omarchy Is Not A Distro</strong> <code>abyss.fish</code></a> - <a href="https://news.ycombinator.com/item?id=48257612">154 comments 167 points</a></li>
-<li><a href="https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"><strong>&#39;AI washing&#39;: firms are scrambling to rebrand themselves as tech-focused</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=48257980">148 comments 157 points</a></li>
-<li><a href="https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/"><strong>The seed oil panic is hurting my cardiac patients</strong> <code>www.statnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=48257532">220 comments 154 points</a></li>
-<li><a href="https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices"><strong>CBP Directive 3340-049B: Border Search of Electronic Devices</strong> <code>www.cbp.gov</code></a> - <a href="https://news.ycombinator.com/item?id=48260140">104 comments 146 points</a></li>
-<li><a href="https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/"><strong>A fundamental principle of aeronautical engineering has been overturned</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=48260117">69 comments 139 points</a></li>
-<li><a href="https://mastering.dyalog.com/README.html"><strong>Mastering Dyalog APL</strong> <code>mastering.dyalog.com</code></a> - <a href="https://news.ycombinator.com/item?id=48256475">36 comments 137 points</a></li>
-<li><a href="https://ti.to/codeforgood/rubyforgood"><strong>Ruby for Good</strong> <code>ti.to</code></a> - <a href="https://news.ycombinator.com/item?id=48258254">53 comments 130 points</a></li>
-<li><a href="https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/"><strong>Defeating Git Rigour Fatigue with Jujutsu</strong> <code>ikesau.co</code></a> - <a href="https://news.ycombinator.com/item?id=48259861">120 comments 117 points</a></li>
-<li><a href="https://apple.github.io/ml-pico/"><strong>Perceptual Image Codec: What Matters in Practical Learned Image Compression</strong> <code>apple.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48256565">33 comments 108 points</a></li>
-<li><a href="https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver"><strong>FreeBSD Foundation executive director tries daily driving FreeBSD on laptop</strong> <code>www.phoronix.com</code></a> - <a href="https://news.ycombinator.com/item?id=48258736">66 comments 89 points</a></li>
-<li><a href="https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/"><strong>Microsoft&#39;s 6502 BASIC is now Open Source (2025)</strong> <code>opensource.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=48257058">26 comments 84 points</a></li>
-<li><a href="https://seriot.ch/computation/jira.html"><strong>Jira Is Turing-Complete</strong> <code>seriot.ch</code></a> - <a href="https://news.ycombinator.com/item?id=48263253">23 comments 79 points</a></li>
-<li><a href="https://lucumr.pocoo.org/2026/5/24/pi-oss/"><strong>Building Pi with Pi</strong> <code>lucumr.pocoo.org</code></a> - <a href="https://news.ycombinator.com/item?id=48259192">24 comments 67 points</a></li>
-<li><a href="https://www.scotusblog.com/2026/05/when-if-ever-its-appropriate-to-make-jokes-take-selfies-or-curse-before-the-court/"><strong>When (if ever) it&#39;s appropriate to make jokes before the US Supreme Court</strong> <code>www.scotusblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=48258236">50 comments 63 points</a></li>
-<li><a href="https://cmarmitage.substack.com/p/donald-trump-jr-and-eric-trump-are"><strong>D. Trump Jr. and Eric Trump Running Felony Fraud Scheme Prosecutable in New York</strong> <code>cmarmitage.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=48262841">3 comments 45 points</a></li>
-<li><a href="https://www.nature.com/articles/s41562-026-02474-9"><strong>The political polarization of health outcomes in the USA</strong> <code>www.nature.com</code></a> - <a href="https://news.ycombinator.com/item?id=48260331">24 comments 44 points</a></li>
-<li><a href="https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/"><strong>Don&#39;t know where your data is from? Bayesian modeling for unknown coordinates</strong> <code>christopherkrapu.com</code></a> - <a href="https://news.ycombinator.com/item?id=48259158">1 comments 38 points</a></li>
-<li><a href="https://www.theurbanist.org/west-coast-cities-turn-to-vacancy-taxes-to-grapple-with-housing-crisis/"><strong>West Coast Cities Turn to Vacancy Taxes to Grapple with Housing Crisis</strong> <code>www.theurbanist.org</code></a> - <a href="https://news.ycombinator.com/item?id=48260448">16 comments 35 points</a></li>
 </ol>
 ]]></content:encoded>
         </item>
