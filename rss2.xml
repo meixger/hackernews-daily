@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 12 Jul 2026 05:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 05:55:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-07-12]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1397</link>
+            <guid isPermaLink="false">1397</guid>
+            <pubDate>Sun, 12 Jul 2026 05:44:58 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey"><strong>Female US rower completes historic solo journey from California to Hawaii</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=48873692">94 comments 284 points</a></li>
+<li><a href="https://evanhahn.com/prefer-strict-tables-in-sqlite/"><strong>Prefer strict tables in SQLite</strong> <code>evanhahn.com</code></a> - <a href="https://news.ycombinator.com/item?id=48873940">121 comments 250 points</a></li>
+<li><a href="https://antjs.org"><strong>Show HN: Ant – A JavaScript runtime and ecosystem</strong> <code>antjs.org</code></a> - <a href="https://news.ycombinator.com/item?id=48875377">98 comments 223 points</a></li>
+<li><a href="https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom"><strong>Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom</strong> <code>io-fund.com</code></a> - <a href="https://news.ycombinator.com/item?id=48873836">70 comments 213 points</a></li>
+<li><a href="https://www.mixfont.com/ghost-font"><strong>Ghost Font: A font that humans can read but AI cannot</strong> <code>www.mixfont.com</code></a> - <a href="https://news.ycombinator.com/item?id=48870381">150 comments 204 points</a></li>
+<li><a href="https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/"><strong>The vintage beauty of Soviet control rooms (2018)</strong> <code>designyoutrust.com</code></a> - <a href="https://news.ycombinator.com/item?id=48868996">65 comments 198 points</a></li>
+<li><a href="https://fazamhd.com/mental-models/networking/"><strong>Networking and the Internet, from First Principles</strong> <code>fazamhd.com</code></a> - <a href="https://news.ycombinator.com/item?id=48871470">65 comments 196 points</a></li>
+<li><a href="https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"><strong>AI 2040 and the cult of intelligence</strong> <code>geohot.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48874200">228 comments 195 points</a></li>
+<li><a href="https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"><strong>We scaled PgBouncer to 4x throughput</strong> <code>clickhouse.com</code></a> - <a href="https://news.ycombinator.com/item?id=48872874">39 comments 194 points</a></li>
+<li><a href="https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/"><strong>Leaded gas was a known poison the day it was invented (2016)</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=48873893">121 comments 181 points</a></li>
+<li><a href="https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/"><strong>Modern decor may be straining people&#39;s brains</strong> <code>studyfinds.com</code></a> - <a href="https://news.ycombinator.com/item?id=48873424">188 comments 177 points</a></li>
+<li><a href="https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"><strong>What xAI&#39;s Grok Build CLI Actually Sends to xAI</strong> <code>gist.github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48877371">93 comments 175 points</a></li>
+<li><a href="https://www.iroh.computer/blog/mesh-llm"><strong>Mesh LLM: distributed AI computing on iroh</strong> <code>www.iroh.computer</code></a> - <a href="https://news.ycombinator.com/item?id=48876505">40 comments 174 points</a></li>
+<li><a href="https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"><strong>Stop Telling Me to Ask an LLM</strong> <code>blog.yaelwrites.com</code></a> - <a href="https://news.ycombinator.com/item?id=48876441">102 comments 173 points</a></li>
+<li><a href="https://shipthatcode.com"><strong>Show HN: Learn by rebuilding Redis, Git, a database from scratch</strong> <code>shipthatcode.com</code></a> - <a href="https://news.ycombinator.com/item?id=48871973">41 comments 146 points</a></li>
+<li><a href="https://timeseriesofindia.com/economy/reads/upi-architecture/"><strong>UPI: Anatomy of a Payment Transaction</strong> <code>timeseriesofindia.com</code></a> - <a href="https://news.ycombinator.com/item?id=48873457">52 comments 140 points</a></li>
+<li><a href="https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html"><strong>Weightlifting beats running for blood sugar control, researchers find (2025)</strong> <code>news.vt.edu</code></a> - <a href="https://news.ycombinator.com/item?id=48876593">73 comments 133 points</a></li>
+<li><a href="https://tiki.li/blog/lucky_code.html"><strong>Your code is fast – if you&#39;re lucky</strong> <code>tiki.li</code></a> - <a href="https://news.ycombinator.com/item?id=48870799">83 comments 124 points</a></li>
+<li><a href="https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482"><strong>FCC approves test of space mirror to light night sky</strong> <code>theconversation.com</code></a> - <a href="https://news.ycombinator.com/item?id=48871367">143 comments 119 points</a></li>
+<li><a href="https://archive.cancerworld.net/featured/how-doctors-die/"><strong>Doctors die. It&#39;s not like the rest of us, but it should be (2016)</strong> <code>archive.cancerworld.net</code></a> - <a href="https://news.ycombinator.com/item?id=48876741">67 comments 118 points</a></li>
+<li><a href="https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones"><strong>How to hide from killer drones</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=48874357">153 comments 117 points</a></li>
+<li><a href="https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves"><strong>Why it&#39;s so difficult to produce American-made medical gloves</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=48870258">144 comments 109 points</a></li>
+<li><a href="https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf"><strong>The early History of the Singular Value Decomposition (1993) [pdf]</strong> <code>www.math.ucdavis.edu</code></a> - <a href="https://news.ycombinator.com/item?id=48872858">61 comments 108 points</a></li>
+<li><a href="https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"><strong>Reverse centaurs are the answer to the AI paradox (2025)</strong> <code>pluralistic.net</code></a> - <a href="https://news.ycombinator.com/item?id=48873855">57 comments 102 points</a></li>
+<li><a href="https://redirect.github.com/Wren6991/RISCBoy"><strong>RISCBoy is an open-source portable games console, designed from scratch</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48876245">17 comments 97 points</a></li>
+<li><a href="https://languagelog.ldc.upenn.edu/myl/Good1964.pdf"><strong>Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]</strong> <code>languagelog.ldc.upenn.edu</code></a> - <a href="https://news.ycombinator.com/item?id=48871932">49 comments 91 points</a></li>
+<li><a href="https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext"><strong>Long Covid May Physically Damage the Nerves That Control the Stomach</strong> <code>www.ijidonline.com</code></a> - <a href="https://news.ycombinator.com/item?id=48877192">37 comments 91 points</a></li>
+<li><a href="https://www.sixthtone.com/news/1018753"><strong>The Chinese Voice Actor Forced to Prove He&#39;s Human</strong> <code>www.sixthtone.com</code></a> - <a href="https://news.ycombinator.com/item?id=48875153">13 comments 75 points</a></li>
+<li><a href="https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php"><strong>USAA closed 51% of home insurance claims without making a payment in 2025</strong> <code>www.expressnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=48872517">51 comments 74 points</a></li>
+<li><a href="https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/"><strong>ZeroFS vs. Amazon S3 Files</strong> <code>www.zerofs.net</code></a> - <a href="https://news.ycombinator.com/item?id=48874297">16 comments 74 points</a></li>
+</ol>
+<p>05:44:58 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-07-11]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1396</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/"><strong>EV demand up 50% in France and Germany since Iran war</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=48507986">73 comments 116 points</a></li>
 </ol>
 <p>06:43:31 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-06-12]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1367</link>
-            <guid isPermaLink="false">1367</guid>
-            <pubDate>Fri, 12 Jun 2026 07:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://brew.sh/2026/06/11/homebrew-6.0.0/"><strong>Show HN: Homebrew 6.0.0</strong> <code>brew.sh</code></a> - <a href="https://news.ycombinator.com/item?id=48490024">264 comments 1154 points</a></li>
-<li><a href="https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/"><strong>Pokémon Go Scans Trained the Navigation Tech for Military Drones</strong> <code>dronexl.co</code></a> - <a href="https://news.ycombinator.com/item?id=48487029">310 comments 692 points</a></li>
-<li><a href="https://tombedor.dev/human-attention-and-human-effort/"><strong>If you are asking for human attention, demonstrate human effort</strong> <code>tombedor.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48497609">187 comments 559 points</a></li>
-<li><a href="https://mimo.xiaomi.com/mimocode"><strong>MiMo Code is now released and open-source</strong> <code>mimo.xiaomi.com</code></a> - <a href="https://news.ycombinator.com/item?id=48490826">258 comments 469 points</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal"><strong>Solar generates more energy in US than coal for first time</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=48492306">209 comments 445 points</a></li>
-<li><a href="https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416"><strong>Petition to Withdraw Canada&#39;s Bill C-22</strong> <code>www.ourcommons.ca</code></a> - <a href="https://news.ycombinator.com/item?id=48491830">142 comments 416 points</a></li>
-<li><a href="https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"><strong>Anthropic apologizes for invisible Claude Fable guardrails</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=48489229">365 comments 389 points</a></li>
-<li><a href="https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/"><strong>Lines of code got a better publicist</strong> <code>curlewis.co.nz</code></a> - <a href="https://news.ycombinator.com/item?id=48489402">269 comments 384 points</a></li>
-<li><a href="https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"><strong>Nobody ever gets credit for fixing problems that never happened (2001) [pdf]</strong> <code>web.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=48498385">127 comments 364 points</a></li>
-<li><a href="https://fablepool.com"><strong>Show HN: FablePool – pool money behind a prompt, and Fable builds it in public</strong> <code>fablepool.com</code></a> - <a href="https://news.ycombinator.com/item?id=48496539">184 comments 362 points</a></li>
-<li><a href="https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/"><strong>Claude Fable is relentlessly proactive</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=48498573">279 comments 348 points</a></li>
-<li><a href="https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items"><strong>Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items</strong> <code>daringfireball.net</code></a> - <a href="https://news.ycombinator.com/item?id=48487435">154 comments 308 points</a></li>
-<li><a href="https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype"><strong>Claude Fable 5: mid-tier results on coding tasks</strong> <code>www.endorlabs.com</code></a> - <a href="https://news.ycombinator.com/item?id=48492210">135 comments 295 points</a></li>
-<li><a href="https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"><strong>Why AI hasn&#39;t replaced software engineers, and won&#39;t</strong> <code>www.normaltech.ai</code></a> - <a href="https://news.ycombinator.com/item?id=48487540">334 comments 290 points</a></li>
-<li><a href="https://www.mayrhofer.eu.org/post/leaving-google/"><strong>Why I&#39;m Forced to Say Farewell: Google Management Has Lost Its Moral Compass</strong> <code>www.mayrhofer.eu.org</code></a> - <a href="https://news.ycombinator.com/item?id=48496396">174 comments 273 points</a></li>
-<li><a href="https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"><strong>Workers are spending over 6 hours a week botsitting AI, fueling job frustration</strong> <code>www.businessinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=48490057">214 comments 268 points</a></li>
-<li><a href="https://mrbruh.com/amd2/"><strong>The RCE that AMD wouldn&#39;t fix</strong> <code>mrbruh.com</code></a> - <a href="https://news.ycombinator.com/item?id=48492215">112 comments 255 points</a></li>
-<li><a href="https://zed.dev/blog/introducing-deltadb"><strong>Software is made between commits</strong> <code>zed.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48492533">180 comments 245 points</a></li>
-<li><a href="https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"><strong>AI agent bankrupted their operator while trying to scan DN42</strong> <code>lantian.pub</code></a> - <a href="https://news.ycombinator.com/item?id=48500012">51 comments 226 points</a></li>
-<li><a href="https://redirect.github.com/huggingface/open-r1"><strong>Open Reproduction of DeepSeek-R1</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48489917">18 comments 226 points</a></li>
-<li><a href="https://www.kennethpayne.uk/p/shall-we-play-a-game"><strong>Shall we play a game? My AI nuclear simulation</strong> <code>www.kennethpayne.uk</code></a> - <a href="https://news.ycombinator.com/item?id=48495575">177 comments 190 points</a></li>
-<li><a href="https://mapcomplete.org/"><strong>MapComplete: Maps about various topics which you can contribute to</strong> <code>mapcomplete.org</code></a> - <a href="https://news.ycombinator.com/item?id=48490532">44 comments 186 points</a></li>
-<li><a href="https://waymo.com/blog/2026/06/waymo-premier/"><strong>Waymo Premier</strong> <code>waymo.com</code></a> - <a href="https://news.ycombinator.com/item?id=48492304">444 comments 181 points</a></li>
-<li><a href="https://vale.rocks/posts/game-console-browsers"><strong>Web Browsers on Video Game Consoles</strong> <code>vale.rocks</code></a> - <a href="https://news.ycombinator.com/item?id=48487897">78 comments 160 points</a></li>
-<li><a href="https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/"><strong>BYD is bringing its 5-min &#39;Flash&#39; electric car charging to Canada</strong> <code>electrek.co</code></a> - <a href="https://news.ycombinator.com/item?id=48489004">135 comments 127 points</a></li>
-<li><a href="https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html"><strong>Apple didn&#39;t revolutionize power supplies; new transistors did (2012)</strong> <code>www.righto.com</code></a> - <a href="https://news.ycombinator.com/item?id=48493564">12 comments 120 points</a></li>
-<li><a href="https://redirect.github.com/icitry/FPS.cob"><strong>FPS.cob: A first person shooter in COBOL</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48491486">65 comments 119 points</a></li>
-<li><a href="https://nextcloud.com/blog/nextcloud-hub26-spring/"><strong>Nextcloud Hub 26 Spring: Built together, designed for the future</strong> <code>nextcloud.com</code></a> - <a href="https://news.ycombinator.com/item?id=48490715">90 comments 118 points</a></li>
-<li><a href="https://www.bbc.com/news/videos/clyrvrde160o"><strong>US-Canada border library gets new Quebec-only entrance</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=48490245">129 comments 117 points</a></li>
-<li><a href="https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/"><strong>Car headlights don&#39;t have to be this blinding</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=48491214">119 comments 113 points</a></li>
-</ol>
-<p>07:09:01 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
