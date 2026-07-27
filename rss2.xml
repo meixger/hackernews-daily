@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 26 Jul 2026 05:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 06:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-07-26]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1411</link>
+            <guid isPermaLink="false">1411</guid>
+            <pubDate>Sun, 26 Jul 2026 05:48:13 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/"><strong>Android May Soon Restrict On-Device ADB</strong> <code>kitsumed.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49045159">441 comments 898 points</a></li>
+<li><a href="https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"><strong>Open-weight AI is having its Kubernetes moment</strong> <code>tobi.knaup.me</code></a> - <a href="https://news.ycombinator.com/item?id=49048034">279 comments 351 points</a></li>
+<li><a href="https://didtheyghostyou.com/"><strong>Did They Ghost You?</strong> <code>didtheyghostyou.com</code></a> - <a href="https://news.ycombinator.com/item?id=49051120">158 comments 349 points</a></li>
+<li><a href="https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"><strong>The new rules of context engineering for Claude 5 generation models</strong> <code>claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=49051361">159 comments 248 points</a></li>
+<li><a href="https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6"><strong>Bitchat is now on Radicle</strong> <code>radicle.network</code></a> - <a href="https://news.ycombinator.com/item?id=49047365">128 comments 227 points</a></li>
+<li><a href="https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras"><strong>The growing vigilante movement to knock out Flock surveillance cameras</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=49050538">128 comments 221 points</a></li>
+<li><a href="https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics"><strong>The Dark Night of Mathematics</strong> <code>kirwinhampshire.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=49048681">215 comments 186 points</a></li>
+<li><a href="https://fly.io/blog/kurt-scott-money-sprites/"><strong>Turn And Face The Strange</strong> <code>fly.io</code></a> - <a href="https://news.ycombinator.com/item?id=49051369">123 comments 179 points</a></li>
+<li><a href="https://www.augmental.tech/"><strong>MouthPad: A Tongue-Controlled Touchpad</strong> <code>www.augmental.tech</code></a> - <a href="https://news.ycombinator.com/item?id=49045446">38 comments 172 points</a></li>
+<li><a href="https://arcprize.org/leaderboard"><strong>ARC-AGI Leaderboard</strong> <code>arcprize.org</code></a> - <a href="https://news.ycombinator.com/item?id=49045040">141 comments 168 points</a></li>
+<li><a href="https://spectrum.ieee.org/sodium-ion-battery-peak-energy"><strong>GM Backs Sodium Ion Batteries for U.S. Grid Storage</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=49051947">63 comments 162 points</a></li>
+<li><a href="https://brolly.sh/forecast/RWFP2qW8"><strong>Show HN: Brolly, a plain-text weather forecast site</strong> <code>brolly.sh</code></a> - <a href="https://news.ycombinator.com/item?id=49049693">48 comments 161 points</a></li>
+<li><a href="https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/"><strong>Tile&#39;s security is so bad it&#39;s a feature for stalkers</strong> <code>blog.adafruit.com</code></a> - <a href="https://news.ycombinator.com/item?id=49050152">43 comments 154 points</a></li>
+<li><a href="https://supakeen.com/weblog/the-fedora-45-sausage-factory/"><strong>The Fedora 45 Sausage Factory</strong> <code>supakeen.com</code></a> - <a href="https://news.ycombinator.com/item?id=49046525">39 comments 141 points</a></li>
+<li><a href="https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/"><strong>A 77-year-old Republican man is staging a solo protest against Flock cameras</strong> <code>www.cltampa.com</code></a> - <a href="https://news.ycombinator.com/item?id=49051816">78 comments 136 points</a></li>
+<li><a href="https://karimjedda.com/engineering-management-after-cost-of-code-collapse/"><strong>Engineering management after the cost of code collapsed</strong> <code>karimjedda.com</code></a> - <a href="https://news.ycombinator.com/item?id=49048212">180 comments 127 points</a></li>
+<li><a href="https://redirect.github.com/slvDev/esp32-ai"><strong>Running a 28.9M parameter LLM on an $8 microcontroller</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49050512">28 comments 127 points</a></li>
+<li><a href="https://www.jetzero.aero"><strong>JetZero</strong> <code>www.jetzero.aero</code></a> - <a href="https://news.ycombinator.com/item?id=49054224">88 comments 126 points</a></li>
+<li><a href="https://redirect.github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf"><strong>DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49052912">84 comments 120 points</a></li>
+<li><a href="https://www.debian.org/vote/2026/vote_002"><strong>LLM Usage in Debian: Three Proposals</strong> <code>www.debian.org</code></a> - <a href="https://news.ycombinator.com/item?id=49050859">106 comments 119 points</a></li>
+<li><a href="https://extinct-media-museum.blog.jp/otemachi/"><strong>Extinct Media Museum Tokyo</strong> <code>extinct-media-museum.blog.jp</code></a> - <a href="https://news.ycombinator.com/item?id=49044874">29 comments 118 points</a></li>
+<li><a href="https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/"><strong>Producing ammonia and fertiliser using wind power in Morris, Minnesota</strong> <code>ammoniaenergy.org</code></a> - <a href="https://news.ycombinator.com/item?id=49050735">78 comments 112 points</a></li>
+<li><a href="https://golfcoursebrowser.com/"><strong>Show HN: I mapped every US golf course</strong> <code>golfcoursebrowser.com</code></a> - <a href="https://news.ycombinator.com/item?id=49054010">37 comments 88 points</a></li>
+<li><a href="https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/"><strong>Wind turbine is being used to produce zero-carbon &quot;green ammonia&quot; fertilizer</strong> <code>energiesmedia.com</code></a> - <a href="https://news.ycombinator.com/item?id=49048819">93 comments 83 points</a></li>
+<li><a href="https://blog.cloudflare.com/content-independence-day-ai-options/"><strong>Cloudflare&#39;s new AI traffic options for customers</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=49052564">54 comments 83 points</a></li>
+<li><a href="https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes"><strong>Clinical failure rates over the decades: yikes</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=49052628">45 comments 81 points</a></li>
+<li><a href="https://www.dropsitenews.com/p/prosecutor-investigating-ecuador-boat-strikes-murdered"><strong>Prosecutor Investigating U.S. Boat Strikes Was Murdered in Ecuador</strong> <code>www.dropsitenews.com</code></a> - <a href="https://news.ycombinator.com/item?id=49048120">4 comments 79 points</a></li>
+<li><a href="https://itsallaboutthebit.com/memory-safety-absolutists/"><strong>Memory Safety Absolutists</strong> <code>itsallaboutthebit.com</code></a> - <a href="https://news.ycombinator.com/item?id=49050058">103 comments 78 points</a></li>
+<li><a href="https://bribes.fyi/before-you-go"><strong>Show HN: Bribes.fyi – Know before you go. New feature added</strong> <code>bribes.fyi</code></a> - <a href="https://news.ycombinator.com/item?id=49050566">47 comments 73 points</a></li>
+<li><a href="https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/"><strong>Bringing PyTorch Monarch to AMD GPUs</strong> <code>pytorch.org</code></a> - <a href="https://news.ycombinator.com/item?id=49048689">6 comments 72 points</a></li>
+</ol>
+<p>05:48:12 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-07-25]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1410</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://www.bbc.com/news/articles/c74yn7v7k4qo"><strong>Long Wave radio era set to end with Droitwich switch-off</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=48690709">30 comments 74 points</a></li>
 </ol>
 <p>06:17:57 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-06-26]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1381</link>
-            <guid isPermaLink="false">1381</guid>
-            <pubDate>Fri, 26 Jun 2026 06:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://scrollprize.org/firstscroll"><strong>An entire Herculaneum scroll has been read for the first time</strong> <code>scrollprize.org</code></a> - <a href="https://news.ycombinator.com/item?id=48675179">247 comments 1183 points</a></li>
-<li><a href="https://om.co/2026/06/24/1966-2026/"><strong>Om Malik has died</strong> <code>om.co</code></a> - <a href="https://news.ycombinator.com/item?id=48678852">81 comments 766 points</a></li>
-<li><a href="https://hackernewstrends.com"><strong>Show HN: I made Google Trends for Hacker News by indexing 18 years of comments</strong> <code>hackernewstrends.com</code></a> - <a href="https://news.ycombinator.com/item?id=48673671">147 comments 695 points</a></li>
-<li><a href="https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/"><strong>Apple raises prices of MacBooks, iPads</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=48672732">993 comments 689 points</a></li>
-<li><a href="https://hl2.slqnt.dev/"><strong>Half-Life 2 in a Browser</strong> <code>hl2.slqnt.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48669534">258 comments 648 points</a></li>
-<li><a href="https://expression.fire.org/p/the-papers-please-era-of-the-internet"><strong>The &#39;papers, please&#39; era of the internet will decimate your privacy</strong> <code>expression.fire.org</code></a> - <a href="https://news.ycombinator.com/item?id=48679608">268 comments 594 points</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"><strong>Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=48674446">310 comments 586 points</a></li>
-<li><a href="https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/"><strong>LastPass notifies users of yet another data breach</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=48671468">215 comments 493 points</a></li>
-<li><a href="https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology"><strong>IBM debuts sub-1 nanometer chip technology</strong> <code>newsroom.ibm.com</code></a> - <a href="https://news.ycombinator.com/item?id=48674967">160 comments 298 points</a></li>
-<li><a href="https://mullvad.net/en/why-privacy-matters/state-mass-surveillance"><strong>Countries are competing to see which can carry out mass surveillance the best</strong> <code>mullvad.net</code></a> - <a href="https://news.ycombinator.com/item?id=48672764">112 comments 296 points</a></li>
-<li><a href="https://twitter.com/mfts0/status/2070080422482977095"><strong>Hey Nico, you didn&#39;t vibe code your data room but stole it from Papermark</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=48672328">109 comments 266 points</a></li>
-<li><a href="https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c"><strong>Apple increases MacBook and iPad prices by 20%</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=48674096">4 comments 258 points</a></li>
-<li><a href="https://redirect.github.com/inkeep/open-knowledge"><strong>Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48675435">124 comments 250 points</a></li>
-<li><a href="https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/"><strong>Windows 10 quietly gets one more year of support and updates</strong> <code>www.neowin.net</code></a> - <a href="https://news.ycombinator.com/item?id=48675369">205 comments 231 points</a></li>
-<li><a href="https://ziglang.org/devlog/2026/#2026-06-25"><strong>Zig&#39;s new bitCast semantics and LLVM back end improvements</strong> <code>ziglang.org</code></a> - <a href="https://news.ycombinator.com/item?id=48673825">114 comments 226 points</a></li>
-<li><a href="https://yllan.org/software/OS9Map/"><strong>OS9Map</strong> <code>yllan.org</code></a> - <a href="https://news.ycombinator.com/item?id=48674484">40 comments 217 points</a></li>
-<li><a href="https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/"><strong>Dolphin Emulator Progress Release 2606</strong> <code>dolphin-emu.org</code></a> - <a href="https://news.ycombinator.com/item?id=48671392">34 comments 216 points</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"><strong>Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=48676795">163 comments 206 points</a></li>
-<li><a href="https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html"><strong>Federal agents track down woman, demand she remove Instagram post about ICE</strong> <code>www.syracuse.com</code></a> - <a href="https://news.ycombinator.com/item?id=48673787">79 comments 200 points</a></li>
-<li><a href="https://utaw.tech/news/wikipedia-recognition"><strong>Wikipedia Workers in Britain set global first by seeking union recognition</strong> <code>utaw.tech</code></a> - <a href="https://news.ycombinator.com/item?id=48669932">3 comments 199 points</a></li>
-<li><a href="https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/"><strong>Military branches restore flu shot requirement after virus swept through base</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=48679934">103 comments 197 points</a></li>
-<li><a href="https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"><strong>AI children&#39;s books, body horror edition</strong> <code>lcamtuf.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=48681250">54 comments 173 points</a></li>
-<li><a href="https://trakkr.ai/bias"><strong>Political bias in AI: Where the AI models stand</strong> <code>trakkr.ai</code></a> - <a href="https://news.ycombinator.com/item?id=48672779">253 comments 142 points</a></li>
-<li><a href="https://deno.com/blog/v2.9"><strong>Deno 2.9</strong> <code>deno.com</code></a> - <a href="https://news.ycombinator.com/item?id=48675717">59 comments 139 points</a></li>
-<li><a href="https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/"><strong>Un-0: Generating Images with Coupled Oscillators</strong> <code>unconv.ai</code></a> - <a href="https://news.ycombinator.com/item?id=48679007">32 comments 135 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/"><strong>Framework&#39;s 10G Ethernet module exposes USB-C&#39;s complexity</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=48681220">63 comments 125 points</a></li>
-<li><a href="https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html"><strong>OpenAI Leans Toward Waiting Until Next Year for IPO</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=48678873">91 comments 110 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=48673194"><strong>Tell HN: OpenAI has started putting ads on paid programs</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=48673194">57 comments 110 points</a></li>
-<li><a href="https://gchandbook.org/"><strong>The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)</strong> <code>gchandbook.org</code></a> - <a href="https://news.ycombinator.com/item?id=48680370">14 comments 106 points</a></li>
-<li><a href="https://calpaterson.com/bank-python.html"><strong>An oral history of Bank Python (2021)</strong> <code>calpaterson.com</code></a> - <a href="https://news.ycombinator.com/item?id=48678645">31 comments 100 points</a></li>
-</ol>
-<p>06:39:41 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
