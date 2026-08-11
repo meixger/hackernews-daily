@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Mon, 10 Aug 2026 04:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 04:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-08-10]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1426</link>
+            <guid isPermaLink="false">1426</guid>
+            <pubDate>Mon, 10 Aug 2026 04:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html"><strong>Mea Culpa – Dark Hours</strong> <code>blog.terrygodier.com</code></a> - <a href="https://news.ycombinator.com/item?id=49231154">259 comments 576 points</a></li>
+<li><a href="https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"><strong>How I use LLMs to learn complex topics</strong> <code>laurentiugabriel.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49234675">283 comments 497 points</a></li>
+<li><a href="https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html"><strong>Windows 11&#39;s built-in Weather app wastes more than 1 GB of RAM</strong> <code>www.notebookcheck.net</code></a> - <a href="https://news.ycombinator.com/item?id=49232138">351 comments 425 points</a></li>
+<li><a href="https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week"><strong>Retraction: The App Store Rejection of the Week That Was a Correct Rejection</strong> <code>daringfireball.net</code></a> - <a href="https://news.ycombinator.com/item?id=49228166">64 comments 329 points</a></li>
+<li><a href="https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"><strong>Silicon Valley misreads science fiction and undermines democracy</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=49232221">198 comments 250 points</a></li>
+<li><a href="https://www.techeblog.com/tom-stanton-supersonic-trebuchet/"><strong>Tom Stanton&#39;s supersonic trebuchet breaks sound barrier with gravity alone</strong> <code>www.techeblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=49232110">76 comments 239 points</a></li>
+<li><a href="https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/"><strong>Everything you do is being recorded</strong> <code>www.theatlantic.com</code></a> - <a href="https://news.ycombinator.com/item?id=49230477">190 comments 237 points</a></li>
+<li><a href="https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650"><strong>Taxi drivers rarely die of Alzheimer&#39;s</strong> <code>theconversation.com</code></a> - <a href="https://news.ycombinator.com/item?id=49232253">163 comments 219 points</a></li>
+<li><a href="https://www.w3.org/Provider/Style/URI"><strong>Cool URIs Don&#39;t Change (1998)</strong> <code>www.w3.org</code></a> - <a href="https://news.ycombinator.com/item?id=49231809">50 comments 207 points</a></li>
+<li><a href="http://longbets.org/601/"><strong>The original URL for this prediction will no longer be available in 11 years (2011)</strong> <code>longbets.org</code></a> - <a href="https://news.ycombinator.com/item?id=49228458">97 comments 202 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=49233423"><strong>Ask HN: What are you working on? (August 2026)</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=49233423">715 comments 200 points</a></li>
+<li><a href="https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981"><strong>Analyzing data from Silicon Valley ventures and founders prosecuted for fraud</strong> <code>pubsonline.informs.org</code></a> - <a href="https://news.ycombinator.com/item?id=49232318">88 comments 189 points</a></li>
+<li><a href="https://gukov.dev/math/2026/08/02/new-magic-hexagons.html"><strong>There Are Magic Hexagons of Every Order</strong> <code>gukov.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49229174">31 comments 185 points</a></li>
+<li><a href="https://redirect.github.com/jmarshall23/msword"><strong>Microsoft Word for Windows 1.1a, Native X64 Port</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49228663">69 comments 162 points</a></li>
+<li><a href="https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html"><strong>Reviving a four year old reMarkable 2</strong> <code>oskrim.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49230514">88 comments 134 points</a></li>
+<li><a href="https://kibotronics.net/unlisted/lilly-machines/"><strong>John C. Lilly on solid state intelligence and the elimination of man (1978)</strong> <code>kibotronics.net</code></a> - <a href="https://news.ycombinator.com/item?id=49231397">99 comments 133 points</a></li>
+<li><a href="https://openchamber.dev/"><strong>OpenChamber: An Agentic Development Environment</strong> <code>openchamber.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49233448">67 comments 121 points</a></li>
+<li><a href="https://itsfoss.com/news/illinois-age-verification-bill/"><strong>Illinois just told every operating system to start reporting your kid&#39;s age</strong> <code>itsfoss.com</code></a> - <a href="https://news.ycombinator.com/item?id=49228350">115 comments 119 points</a></li>
+<li><a href="https://rozumem.xyz/posts/19"><strong>Saying No</strong> <code>rozumem.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=49234379">96 comments 118 points</a></li>
+<li><a href="https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/"><strong>Georgia police officers fired after Flock camera misuse</strong> <code>www.wtoc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49236033">105 comments 115 points</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows"><strong>FCC moves to ban Lidar-equipped foreign drones from US</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=49232857">99 comments 111 points</a></li>
+<li><a href="https://redirect.github.com/rochus-keller/OberonSystem/tree/op2-rv32"><strong>Show HN: A Project Oberon System version running on RISC-V instead of RISC-5</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49230891">16 comments 108 points</a></li>
+<li><a href="https://phrack.org/issues/72/19#article"><strong>The Hacker&#39;s Renaissance (2025)</strong> <code>phrack.org</code></a> - <a href="https://news.ycombinator.com/item?id=49235378">78 comments 107 points</a></li>
+<li><a href="https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium"><strong>Poland now 6th-largest EU economy, ahead of Switzerland and Belgium</strong> <code>www.euronews.com</code></a> - <a href="https://news.ycombinator.com/item?id=49235323">132 comments 104 points</a></li>
+<li><a href="https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn"><strong>The main way I&#39;ve seen people turn ideologically crazy (2025)</strong> <code>blog.andymasley.com</code></a> - <a href="https://news.ycombinator.com/item?id=49235349">84 comments 102 points</a></li>
+<li><a href="https://portswigger.net/research/css-the-bomb-inside-your-inbox"><strong>CSS: The bomb inside your inbox</strong> <code>portswigger.net</code></a> - <a href="https://news.ycombinator.com/item?id=49230066">34 comments 95 points</a></li>
+<li><a href="https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"><strong>SAP stops most travel and hiring because of AI&#39;s soaring cost</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=49229412">68 comments 94 points</a></li>
+<li><a href="https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media"><strong>New Zealand lost its music media, and what we&#39;re building to replace it</strong> <code>propelmusic.co.nz</code></a> - <a href="https://news.ycombinator.com/item?id=49235641">52 comments 92 points</a></li>
+<li><a href="https://mynoise.net/vlog.php?ep=20260803"><strong>I made tinnitus my friend, then it disappeared [video]</strong> <code>mynoise.net</code></a> - <a href="https://news.ycombinator.com/item?id=49234271">72 comments 91 points</a></li>
+<li><a href="https://blog.teknogeek.io/posts/what-happened-to-hackerone/"><strong>What Happened to HackerOne?</strong> <code>blog.teknogeek.io</code></a> - <a href="https://news.ycombinator.com/item?id=49238561">28 comments 90 points</a></li>
+</ol>
+<p>04:19:18 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-08-09]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1425</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/"><strong>ZeroFS vs. Amazon S3 Files</strong> <code>www.zerofs.net</code></a> - <a href="https://news.ycombinator.com/item?id=48874297">16 comments 74 points</a></li>
 </ol>
 <p>05:44:58 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-07-11]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1396</link>
-            <guid isPermaLink="false">1396</guid>
-            <pubDate>Sat, 11 Jul 2026 05:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/"><strong>Apple sues OpenAI, accuses ex-employees of stealing trade secrets</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=48865019">403 comments 806 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/"><strong>QuadRF can spot drones and see WiFi through my wall</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=48861717">184 comments 510 points</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban"><strong>New York City to ban deceptive subscription practices</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=48863464">235 comments 479 points</a></li>
-<li><a href="https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"><strong>GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</strong> <code>cdn.openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=48863490">313 comments 406 points</a></li>
-<li><a href="https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"><strong>Good Tools Are Invisible</strong> <code>www.gingerbill.org</code></a> - <a href="https://news.ycombinator.com/item?id=48858121">182 comments 389 points</a></li>
-<li><a href="https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/"><strong>Late Bronze Age Collapse</strong> <code>acoup.blog</code></a> - <a href="https://news.ycombinator.com/item?id=48858737">235 comments 345 points</a></li>
-<li><a href="https://unstack.io/write-code-like-a-human-will-maintain-it"><strong>Write code like a human will maintain it</strong> <code>unstack.io</code></a> - <a href="https://news.ycombinator.com/item?id=48859701">282 comments 328 points</a></li>
-<li><a href="https://nevo-project.epfl.ch/"><strong>AI-generated videos to maximally drive a target brain region</strong> <code>nevo-project.epfl.ch</code></a> - <a href="https://news.ycombinator.com/item?id=48856904">227 comments 273 points</a></li>
-<li><a href="https://ec.europa.eu/commission/presscorner/home/en"><strong>EU Commission: addictive design Instagram and Facebook in breach of the DSA</strong> <code>ec.europa.eu</code></a> - <a href="https://news.ycombinator.com/item?id=48858292">173 comments 254 points</a></li>
-<li><a href="http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html"><strong>In Emacs, everything looks like a service</strong> <code>yummymelon.com</code></a> - <a href="https://news.ycombinator.com/item?id=48857230">101 comments 238 points</a></li>
-<li><a href="https://ianreppel.org/how-successful-companies-go-blind/"><strong>Successful Companies Go Blind</strong> <code>ianreppel.org</code></a> - <a href="https://news.ycombinator.com/item?id=48859678">72 comments 203 points</a></li>
-<li><a href="https://casp.ac/reports/ai-enabled-terrorism"><strong>How the terrorist group Boko Haram uses frontier AI</strong> <code>casp.ac</code></a> - <a href="https://news.ycombinator.com/item?id=48863707">163 comments 199 points</a></li>
-<li><a href="https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/"><strong>The tech of &#39;Terminator 2&#39; – an oral history (2017)</strong> <code>vfxblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=48862365">70 comments 194 points</a></li>
-<li><a href="https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot"><strong>Mayor Mamdani announces &quot;Click-to-Cancel&quot; rules</strong> <code>www.nyc.gov</code></a> - <a href="https://news.ycombinator.com/item?id=48864158">2 comments 181 points</a></li>
-<li><a href="https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity"><strong>Einstein&#39;s relativity rules chemical bonds in heavy elements, new research shows</strong> <code>www.brown.edu</code></a> - <a href="https://news.ycombinator.com/item?id=48866134">57 comments 173 points</a></li>
-<li><a href="https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/"><strong>Snails&#39; teeth beats spider silk as nature&#39;s strongest material (2015)</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=48862252">133 comments 171 points</a></li>
-<li><a href="https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html"><strong>Punk, or why I don&#39;t stream anymore</strong> <code>geohot.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48859671">198 comments 155 points</a></li>
-<li><a href="https://lesleylai.info/en/flashcards/"><strong>A love letter to flashcards</strong> <code>lesleylai.info</code></a> - <a href="https://news.ycombinator.com/item?id=48861319">88 comments 143 points</a></li>
-<li><a href="https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"><strong>An update on residential proxies and the scraper situation</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=48864252">129 comments 141 points</a></li>
-<li><a href="https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"><strong>GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps</strong> <code>www.tryai.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48865093">80 comments 140 points</a></li>
-<li><a href="https://waratlas.org"><strong>War Atlas: An interactive cartography of every named war in human history</strong> <code>waratlas.org</code></a> - <a href="https://news.ycombinator.com/item?id=48863080">58 comments 137 points</a></li>
-<li><a href="https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/"><strong>SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth</strong> <code>www.zdnet.com</code></a> - <a href="https://news.ycombinator.com/item?id=48863064">381 comments 131 points</a></li>
-<li><a href="https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246"><strong>Please don&#39;t discontinue Gemini 2.5 Flash</strong> <code>discuss.ai.google.dev</code></a> - <a href="https://news.ycombinator.com/item?id=48864507">78 comments 117 points</a></li>
-<li><a href="https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept"><strong>Computation as a universal and fundamental concept</strong> <code>ergo.org</code></a> - <a href="https://news.ycombinator.com/item?id=48861213">79 comments 109 points</a></li>
-<li><a href="https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html"><strong>Apple sues OpenAI, accusing it of stealing company secrets</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=48865431">13 comments 109 points</a></li>
-<li><a href="https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html"><strong>After 7 years in production, Scarf has reluctantly moved away from Haskell</strong> <code>avi.press</code></a> - <a href="https://news.ycombinator.com/item?id=48859673">124 comments 105 points</a></li>
-<li><a href="https://novaramedia.com/2026/07/09/europes-largest-unions-demand-right-to-cancel-work-on-days-above-30c/"><strong>Europe&#39;s Largest Unions Demand Right to Cancel Work on Days Above 30C</strong> <code>novaramedia.com</code></a> - <a href="https://news.ycombinator.com/item?id=48859298">125 comments 89 points</a></li>
-<li><a href="https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc"><strong>45% of Enthusiasts &#39;Seriously Considering&#39; Leaving Sony for PC</strong> <code>www.pushsquare.com</code></a> - <a href="https://news.ycombinator.com/item?id=48863602">113 comments 80 points</a></li>
-<li><a href="https://www.wsj.com/tech/apple-openai-lawsuit-f86bd58c"><strong>Apple Sues OpenAI, Alleging It Stole Trade Secrets</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=48864887">5 comments 77 points</a></li>
-<li><a href="https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/"><strong>Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can&#39;t</strong> <code>vettedconsumer.com</code></a> - <a href="https://news.ycombinator.com/item?id=48858171">55 comments 71 points</a></li>
-</ol>
-<p>05:29:22 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
