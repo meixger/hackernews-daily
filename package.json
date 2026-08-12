@@ -20,9 +20,9 @@
     "@octokit/auth-token": "^6.0.0",
     "@octokit/core": "^7.0.6",
     "dayjs": "^1.11.20",
-    "feed": "^5.2.0",
-    "marked": "^17.0.5",
+    "feed": "^6.0.0",
+    "marked": "^18.0.9",
     "timeago.js": "^4.0.2",
-    "undici": "^6.27.0"
+    "undici": "^8.10.0"
   }
 }
