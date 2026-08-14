@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 13 Aug 2026 04:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 04:39:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-08-13]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1429</link>
+            <guid isPermaLink="false">1429</guid>
+            <pubDate>Thu, 13 Aug 2026 04:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://tailscale.com/blog/sqlite-wal-reset-bug"><strong>Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug</strong> <code>tailscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=49272832">173 comments 880 points</a></li>
+<li><a href="https://openrouter.ai/deepseek/deepseek-v4-pro-0813"><strong>DeepSeek V4 Pro 0813</strong> <code>openrouter.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49274600">321 comments 811 points</a></li>
+<li><a href="https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"><strong>AI is removing the middle class of software engineering?</strong> <code>blog.florianherrengt.com</code></a> - <a href="https://news.ycombinator.com/item?id=49271994">730 comments 785 points</a></li>
+<li><a href="https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/"><strong>License plate reader searches should require a warrant</strong> <code>andrewpwheeler.com</code></a> - <a href="https://news.ycombinator.com/item?id=49273165">335 comments 565 points</a></li>
+<li><a href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"><strong>Qwen3.8-2.4T</strong> <code>huggingface.co</code></a> - <a href="https://news.ycombinator.com/item?id=49273478">119 comments 540 points</a></li>
+<li><a href="https://www.cringebot3000.com/"><strong>LinkedIn CringeBot 3000</strong> <code>www.cringebot3000.com</code></a> - <a href="https://news.ycombinator.com/item?id=49268564">201 comments 467 points</a></li>
+<li><a href="https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696"><strong>Controversial creators are benefiting from monetization programs run by Meta</strong> <code>www.abc.net.au</code></a> - <a href="https://news.ycombinator.com/item?id=49269818">322 comments 466 points</a></li>
+<li><a href="https://jonty.github.io/2026_eclipse_webcams/"><strong>2026 Eclipse Webcams</strong> <code>jonty.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49270953">124 comments 462 points</a></li>
+<li><a href="https://x.ai/news/grok-4-6"><strong>Grok 4.6</strong> <code>x.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49274027">435 comments 461 points</a></li>
+<li><a href="https://zed.dev/blog/introducing-delta"><strong>Delta</strong> <code>zed.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49276574">155 comments 458 points</a></li>
+<li><a href="https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"><strong>uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook</strong> <code>digitalescapetools.com</code></a> - <a href="https://news.ycombinator.com/item?id=49270726">478 comments 355 points</a></li>
+<li><a href="https://llama.app"><strong>llama.cpp</strong> <code>llama.app</code></a> - <a href="https://news.ycombinator.com/item?id=49267928">167 comments 351 points</a></li>
+<li><a href="https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"><strong>Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index</strong> <code>artificialanalysis.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49275385">349 comments 322 points</a></li>
+<li><a href="https://guillaumetech.github.io/posts/jpg-scaling-chrome/"><strong>Why tiny JPEGs look different in Chrome</strong> <code>guillaumetech.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49272549">61 comments 273 points</a></li>
+<li><a href="https://woxi.ad-si.com"><strong>Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation</strong> <code>woxi.ad-si.com</code></a> - <a href="https://news.ycombinator.com/item?id=49270040">40 comments 266 points</a></li>
+<li><a href="https://knownagents.com/insights"><strong>Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot</strong> <code>knownagents.com</code></a> - <a href="https://news.ycombinator.com/item?id=49272569">188 comments 251 points</a></li>
+<li><a href="https://amiga-news.de/en/news/AN-2026-08-00070-EN.html"><strong>Tim King, AmigaDOS developer, has died</strong> <code>amiga-news.de</code></a> - <a href="https://news.ycombinator.com/item?id=49272655">30 comments 247 points</a></li>
+<li><a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/"><strong>What sort of maths are LLMs good at?</strong> <code>gowers.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=49270022">138 comments 246 points</a></li>
+<li><a href="https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/"><strong>Facebook ads are so hard to block that uBlock Origin stopped filtering them</strong> <code>www.neowin.net</code></a> - <a href="https://news.ycombinator.com/item?id=49271126">2 comments 188 points</a></li>
+<li><a href="https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/"><strong>Delphi 13 Community Edition Is Now Available</strong> <code>blogs.embarcadero.com</code></a> - <a href="https://news.ycombinator.com/item?id=49270621">124 comments 168 points</a></li>
+<li><a href="https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/"><strong>HTML over WebSockets: real-time SPAs with barely any JavaScript</strong> <code>en.andros.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49275335">112 comments 165 points</a></li>
+<li><a href="https://shademap.app"><strong>Shade Map</strong> <code>shademap.app</code></a> - <a href="https://news.ycombinator.com/item?id=49271757">43 comments 164 points</a></li>
+<li><a href="https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland"><strong>Beef and dairy drive 41% of biodiversity damage linked to global farmland</strong> <code>www.oxfordmartin.ox.ac.uk</code></a> - <a href="https://news.ycombinator.com/item?id=49269789">198 comments 128 points</a></li>
+<li><a href="https://discoveredmaterials.com/research/"><strong>Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials</strong> <code>discoveredmaterials.com</code></a> - <a href="https://news.ycombinator.com/item?id=49269090">28 comments 127 points</a></li>
+<li><a href="https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/"><strong>Pixel Watch 5</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=49274757">226 comments 117 points</a></li>
+<li><a href="https://www.severe-weather.eu/global-weather/excessive-heat-dome-heatwave-western-europe-mid-august-2026-mk/"><strong>5th Heat Dome Expands Across Europe: 40°C+ Target Western and Central Europe</strong> <code>www.severe-weather.eu</code></a> - <a href="https://news.ycombinator.com/item?id=49270857">158 comments 114 points</a></li>
+<li><a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/"><strong>People who grew up with high economic connectedness earn more</strong> <code>julienreszka.com</code></a> - <a href="https://news.ycombinator.com/item?id=49276534">135 comments 110 points</a></li>
+<li><a href="https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/"><strong>German advocacy group lodges criminal complaint over Meta AI glasses</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=49272620">46 comments 109 points</a></li>
+<li><a href="https://lovable.dev/blog/series-c"><strong>Lovable raises $400M Series C</strong> <code>lovable.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49274858">107 comments 106 points</a></li>
+<li><a href="https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/"><strong>Pixel 11 Pro Fold</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=49273330">146 comments 103 points</a></li>
+</ol>
+<p>04:42:10 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-08-12]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1428</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://ryanjk5.github.io/posts/rjk-duck/"><strong>Show HN: Beautiful Type Erasure with C++26 Reflection</strong> <code>ryanjk5.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48905914">47 comments 110 points</a></li>
 </ol>
 <p>05:19:04 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-07-14]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1399</link>
-            <guid isPermaLink="false">1399</guid>
-            <pubDate>Tue, 14 Jul 2026 05:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://raymyers.org/post/zed-creator-calls-spade-a-spade/"><strong>Zig Creator Calls Spade a Spade, Anthropic Blows Smoke</strong> <code>raymyers.org</code></a> - <a href="https://news.ycombinator.com/item?id=48889637">723 comments 1438 points</a></li>
-<li><a href="https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news"><strong>A graph that should be front-page news</strong> <code>www.lyrebirddreaming.com</code></a> - <a href="https://news.ycombinator.com/item?id=48888331">404 comments 637 points</a></li>
-<li><a href="https://get-inscribe.com/blog/apple-speech-api-benchmark.html"><strong>Apple&#39;s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor</strong> <code>get-inscribe.com</code></a> - <a href="https://news.ycombinator.com/item?id=48894752">196 comments 503 points</a></li>
-<li><a href="https://twitter.com/a_green_being/status/2076598897779020159"><strong>Grok uploaded my user directory to xAI&#39;s servers</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=48892512">17 comments 493 points</a></li>
-<li><a href="https://19thnews.org/2026/07/noaa-climate-data-website/"><strong>Former NOAA employees built Climate.us to preserve climate data and resources</strong> <code>19thnews.org</code></a> - <a href="https://news.ycombinator.com/item?id=48897945">181 comments 472 points</a></li>
-<li><a href="https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78"><strong>Sam Neill has died</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=48888468">106 comments 452 points</a></li>
-<li><a href="https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/"><strong>LAPD lets contract with surveillance giant Flock expire</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=48893947">389 comments 441 points</a></li>
-<li><a href="https://twitter.com/a_green_being/status/2076598897779020159"><strong>Grok CLI uploaded the whole home directory to GCS</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=48892468">394 comments 385 points</a></li>
-<li><a href="https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"><strong>Building and shipping Mac and iOS apps without opening Xcode</strong> <code>scottwillsey.com</code></a> - <a href="https://news.ycombinator.com/item?id=48896665">161 comments 377 points</a></li>
-<li><a href="https://superdario.pawb.de"><strong>Show HN: Super Dario</strong> <code>superdario.pawb.de</code></a> - <a href="https://news.ycombinator.com/item?id=48896286">96 comments 373 points</a></li>
-<li><a href="https://jivx.com/densha"><strong>A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese</strong> <code>jivx.com</code></a> - <a href="https://news.ycombinator.com/item?id=48890959">70 comments 359 points</a></li>
-<li><a href="https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia"><strong>DOGE is done. What happened to its records?</strong> <code>www.ms.now</code></a> - <a href="https://news.ycombinator.com/item?id=48894641">272 comments 302 points</a></li>
-<li><a href="https://neow.in/cWsyMTV3"><strong>Samsung Health app threatens data deletion if users opt out AI training</strong> <code>neow.in</code></a> - <a href="https://news.ycombinator.com/item?id=48897991">82 comments 297 points</a></li>
-<li><a href="https://www.whois.com/whois/t.me"><strong>Telegram&#39;s t.me domain has been suspended</strong> <code>www.whois.com</code></a> - <a href="https://news.ycombinator.com/item?id=48897878">207 comments 290 points</a></li>
-<li><a href="https://mmapped.blog/posts/52-backtrack-free-cursive"><strong>Backtrack-Free Cursive</strong> <code>mmapped.blog</code></a> - <a href="https://news.ycombinator.com/item?id=48888518">118 comments 255 points</a></li>
-<li><a href="https://fabiensanglard.net/silpheed/index.html"><strong>The art and engineering of Sega CD Silpheed</strong> <code>fabiensanglard.net</code></a> - <a href="https://news.ycombinator.com/item?id=48893639">50 comments 238 points</a></li>
-<li><a href="https://antirez.com/news/169"><strong>Control the Ideas, Not the Code</strong> <code>antirez.com</code></a> - <a href="https://news.ycombinator.com/item?id=48891184">173 comments 207 points</a></li>
-<li><a href="https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/"><strong>Interrail: 6,379Km and 13 Countries over 7 weeks</strong> <code>shkspr.mobi</code></a> - <a href="https://news.ycombinator.com/item?id=48889350">137 comments 193 points</a></li>
-<li><a href="https://redirect.github.com/clawkwork/clawk"><strong>Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48892859">140 comments 185 points</a></li>
-<li><a href="https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop"><strong>An Infuriating Goodbye to Photoshop</strong> <code>anderegg.ca</code></a> - <a href="https://news.ycombinator.com/item?id=48891200">123 comments 182 points</a></li>
-<li><a href="https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/"><strong>Japan develops a method to recover up to 90% of lithium from used EV batteries</strong> <code>tech.supercarblondie.com</code></a> - <a href="https://news.ycombinator.com/item?id=48901569">45 comments 173 points</a></li>
-<li><a href="https://lalitm.com/post/git-history/"><strong>The Git history command deserves more attention</strong> <code>lalitm.com</code></a> - <a href="https://news.ycombinator.com/item?id=48901010">96 comments 161 points</a></li>
-<li><a href="https://blog.cloudflare.com/introducing-precursor/"><strong>Precursor</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=48893446">149 comments 157 points</a></li>
-<li><a href="https://playcode.io/blog/real-price-of-frontier-models"><strong>The real prices of frontier models</strong> <code>playcode.io</code></a> - <a href="https://news.ycombinator.com/item?id=48896800">76 comments 150 points</a></li>
-<li><a href="https://redirect.github.com/floodtide/dom-docx"><strong>Show HN: DOM-docx – HTML to native, editable Word docs (MIT)</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48891267">33 comments 141 points</a></li>
-<li><a href="https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php"><strong>The infinite scroll may become endangered if controversial Calif. law passes</strong> <code>www.sfgate.com</code></a> - <a href="https://news.ycombinator.com/item?id=48897104">219 comments 128 points</a></li>
-<li><a href="https://redirect.github.com/thephw/claude-meseeks"><strong>Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=48899529">54 comments 128 points</a></li>
-<li><a href="https://esologic.com/benchmarking-tesla-gpus/"><strong>Benchmarking 15 “E-Waste” GPUs with Modern Workloads</strong> <code>esologic.com</code></a> - <a href="https://news.ycombinator.com/item?id=48892638">49 comments 120 points</a></li>
-<li><a href="https://cakehonolulu.github.io/linux-on-32x/"><strong>Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?</strong> <code>cakehonolulu.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=48896600">23 comments 113 points</a></li>
-<li><a href="https://www.wired.com/story/sfpd-drone-video-leak-surveillance/"><strong>Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=48891463">197 comments 108 points</a></li>
-</ol>
-<p>05:17:58 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
