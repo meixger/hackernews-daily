@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 26 Aug 2026 03:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 13:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-08-26]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1442</link>
+            <guid isPermaLink="false">1442</guid>
+            <pubDate>Wed, 26 Aug 2026 03:41:46 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead"><strong>Dolly Parton has died</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=49438052">199 comments 1310 points</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"><strong>Apple introduces M6 and M5 Ultra</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=49433292">942 comments 1010 points</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"><strong>New Mac Studio with M5 Max and M5 Ultra</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=49433316">476 comments 718 points</a></li>
+<li><a href="https://redirect.github.com/zedeus/nitter/issues/1442"><strong>Nitter and XCancel receive cease and desist notices</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49437283">606 comments 708 points</a></li>
+<li><a href="https://rorz.io/writing/my-friend-aaron"><strong>My Friend Aaron</strong> <code>rorz.io</code></a> - <a href="https://news.ycombinator.com/item?id=49437069">133 comments 478 points</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"><strong>New Mac mini, featuring M6 and M5 Pro</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=49433450">278 comments 450 points</a></li>
+<li><a href="https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"><strong>OpenAI Jalapeño: Better than Nvidia Blackwell</strong> <code>newsletter.semianalysis.com</code></a> - <a href="https://news.ycombinator.com/item?id=49434378">256 comments 369 points</a></li>
+<li><a href="https://dontwordle.com/"><strong>Don&#39;t Wordle</strong> <code>dontwordle.com</code></a> - <a href="https://news.ycombinator.com/item?id=49432319">117 comments 322 points</a></li>
+<li><a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar"><strong>FDA authorizes first wearable device that monitors ketone and blood sugar levels</strong> <code>www.fda.gov</code></a> - <a href="https://news.ycombinator.com/item?id=49439017">153 comments 314 points</a></li>
+<li><a href="https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next"><strong>Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)</strong> <code>modelscope.cn</code></a> - <a href="https://news.ycombinator.com/item?id=49432317">142 comments 312 points</a></li>
+<li><a href="https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1"><strong>Firefox 157 will include JPEG XL by default on all platforms</strong> <code>groups.google.com</code></a> - <a href="https://news.ycombinator.com/item?id=49437946">82 comments 308 points</a></li>
+<li><a href="https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown"><strong>Building a backyard office, the build and cost breakdown</strong> <code>www.imkylelambert.com</code></a> - <a href="https://news.ycombinator.com/item?id=49434645">199 comments 284 points</a></li>
+<li><a href="https://e360.yale.edu/digest/bomb-fishing-coral-reefs"><strong>Bomb fishing is wreaking havoc on Indonesia&#39;s coral reefs</strong> <code>e360.yale.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49434820">146 comments 284 points</a></li>
+<li><a href="https://blog.coredump.cx/p/how-much-of-hn-is-ai"><strong>How much of HN is AI?</strong> <code>blog.coredump.cx</code></a> - <a href="https://news.ycombinator.com/item?id=49435728">305 comments 253 points</a></li>
+<li><a href="https://www.spacex.com/sites/starbase-la"><strong>Starbase, LA</strong> <code>www.spacex.com</code></a> - <a href="https://news.ycombinator.com/item?id=49436822">437 comments 247 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=49440786"><strong>XCancel also down, at least for time being</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=49440786">15 comments 222 points</a></li>
+<li><a href="https://arxiv.org/abs/2608.21590"><strong>Black hole singularity is a surface not a point</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=49437210">146 comments 210 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c4g36yze692o"><strong>Why some US restaurants are banning tips</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49431364">389 comments 188 points</a></li>
+<li><a href="https://sebsite.pw/w/20260801-pythonconstants.html"><strong>Python&#39;s pre-declared constants are kinda weird</strong> <code>sebsite.pw</code></a> - <a href="https://news.ycombinator.com/item?id=49441033">154 comments 164 points</a></li>
+<li><a href="https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer"><strong>Credit Card Rewards Became a $9.2B Wealth Transfer</strong> <code>www.library.hbs.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49432201">291 comments 149 points</a></li>
+<li><a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"><strong>AI is hitting entry-level jobs hardest, Stanford study finds</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=49435147">160 comments 137 points</a></li>
+<li><a href="https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/"><strong>Run OpenBSD on DigitalOcean for $4/month</strong> <code>nil.wallyjones.com</code></a> - <a href="https://news.ycombinator.com/item?id=49437483">65 comments 136 points</a></li>
+<li><a href="https://chipsandcheese.com/p/sifives-first-server-platform"><strong>SiFive&#39;s First Server Platform</strong> <code>chipsandcheese.com</code></a> - <a href="https://news.ycombinator.com/item?id=49428638">41 comments 132 points</a></li>
+<li><a href="https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/"><strong>Tooltips need a delay, and then they need to skip it</strong> <code>blog.master.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49436786">33 comments 130 points</a></li>
+<li><a href="https://redirect.github.com/jeffhajewski/latticedb"><strong>Show HN: LatticeDB – Like SQLite but for graph databases</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49437049">35 comments 121 points</a></li>
+<li><a href="https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents"><strong>Headlong: A microharness for persistent agents</strong> <code>www.laude.org</code></a> - <a href="https://news.ycombinator.com/item?id=49428882">53 comments 120 points</a></li>
+<li><a href="https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8"><strong>Anthropic tells staff to work from home due to possible security team strike</strong> <code>www.businessinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=49434291">123 comments 118 points</a></li>
+<li><a href="https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/"><strong>Windows 95 released August 24, 1995</strong> <code>dfarq.homeip.net</code></a> - <a href="https://news.ycombinator.com/item?id=49430007">89 comments 118 points</a></li>
+<li><a href="https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/"><strong>France&#39;s tax agency got hacked (in French)</strong> <code>www.cybernetica.fr</code></a> - <a href="https://news.ycombinator.com/item?id=49433064">53 comments 116 points</a></li>
+<li><a href="https://redirect.github.com/ThinkOffApp/CarWatch"><strong>Show HN: I made a Raspberry with Qwen my local car AI</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49435675">29 comments 114 points</a></li>
+</ol>
+<p>03:41:45 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-08-25]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1441</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://usefeyn.com/blog/feynobg/"><strong>Show HN: FeyNoBg – Automatic background removal model and training library</strong> <code>usefeyn.com</code></a> - <a href="https://news.ycombinator.com/item?id=49072462">22 comments 101 points</a></li>
 </ol>
 <p>05:34:48 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-07-27]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1412</link>
-            <guid isPermaLink="false">1412</guid>
-            <pubDate>Mon, 27 Jul 2026 06:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://killthecookiebanner.eu/"><strong>Kill The Cookie Banner</strong> <code>killthecookiebanner.eu</code></a> - <a href="https://news.ycombinator.com/item?id=49057175">441 comments 913 points</a></li>
-<li><a href="https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"><strong>US citizen charged after GrapheneOS phone wipes during airport search</strong> <code>www.techspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=49063022">332 comments 490 points</a></li>
-<li><a href="https://swag.htmx.org/en-cad/products/htmx-4-the-game"><strong>Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy</strong> <code>swag.htmx.org</code></a> - <a href="https://news.ycombinator.com/item?id=49057241">140 comments 406 points</a></li>
-<li><a href="https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices"><strong>GrapheneOS protections against data extraction from locked devices</strong> <code>discuss.grapheneos.org</code></a> - <a href="https://news.ycombinator.com/item?id=49055169">224 comments 402 points</a></li>
-<li><a href="https://nikolays.github.io/PGSimCity/"><strong>PGSimCity - How PostgreSQL Works</strong> <code>nikolays.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49063754">41 comments 379 points</a></li>
-<li><a href="https://astral.sh/blog/ruff-v0.16.0"><strong>Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</strong> <code>astral.sh</code></a> - <a href="https://news.ycombinator.com/item?id=49056112">224 comments 339 points</a></li>
-<li><a href="https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c"><strong>Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=49057574">296 comments 318 points</a></li>
-<li><a href="https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time"><strong>French firefighters face &#39;pyrocumulonimbus&#39; for first time</strong> <code>www.france24.com</code></a> - <a href="https://news.ycombinator.com/item?id=49060495">159 comments 277 points</a></li>
-<li><a href="https://beyondloom.com/decker/"><strong>Decker, a platform that builds on the legacy of Hypercard and classic macOS</strong> <code>beyondloom.com</code></a> - <a href="https://news.ycombinator.com/item?id=49060856">71 comments 277 points</a></li>
-<li><a href="https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/"><strong>London Gatwick has launched a robotic airport parking service</strong> <code>aerospaceglobalnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=49058669">239 comments 275 points</a></li>
-<li><a href="https://www.theclimatebrink.com/p/the-strongest-el-nino-ever"><strong>The Strongest El Niño Ever</strong> <code>www.theclimatebrink.com</code></a> - <a href="https://news.ycombinator.com/item?id=49060978">247 comments 241 points</a></li>
-<li><a href="https://english.mapn.ro/"><strong>Third Drone Shot Down in Three Days in Romanian Territory</strong> <code>english.mapn.ro</code></a> - <a href="https://news.ycombinator.com/item?id=49057248">289 comments 225 points</a></li>
-<li><a href="https://stephango.com/design-is-compromise"><strong>Design is compromise</strong> <code>stephango.com</code></a> - <a href="https://news.ycombinator.com/item?id=49059367">78 comments 225 points</a></li>
-<li><a href="https://pkg.go.dev/golang.org/x/tools/go/analysis"><strong>Go Analysis Framework: modular static analysis by go team</strong> <code>pkg.go.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49057398">52 comments 195 points</a></li>
-<li><a href="https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/"><strong>It&#39;s not empowering to hand off the details</strong> <code>davidnicholaswilliams.com</code></a> - <a href="https://news.ycombinator.com/item?id=49060592">114 comments 192 points</a></li>
-<li><a href="https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"><strong>The New AI Superpowers: Focus and Followthrough</strong> <code>www.rickmanelius.com</code></a> - <a href="https://news.ycombinator.com/item?id=49057877">54 comments 186 points</a></li>
-<li><a href="https://sunflowersgame.com/"><strong>Show HN: Reverse Minesweeper</strong> <code>sunflowersgame.com</code></a> - <a href="https://news.ycombinator.com/item?id=49057666">57 comments 185 points</a></li>
-<li><a href="https://vectoral.com/blog/token-relay-market"><strong>The relay market powering token resellers and fraud</strong> <code>vectoral.com</code></a> - <a href="https://news.ycombinator.com/item?id=49058993">104 comments 180 points</a></li>
-<li><a href="https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf"><strong>Introduction to Data-Oriented Design [pdf]</strong> <code>www.gamedevs.org</code></a> - <a href="https://news.ycombinator.com/item?id=49060724">40 comments 149 points</a></li>
-<li><a href="https://www.imperialviolet.org/2026/07/26/zstd-lean.html"><strong>We have proof automation now</strong> <code>www.imperialviolet.org</code></a> - <a href="https://news.ycombinator.com/item?id=49062291">30 comments 136 points</a></li>
-<li><a href="https://redirect.github.com/gmrandazzo/CheapSecurity"><strong>Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49059398">24 comments 122 points</a></li>
-<li><a href="https://grego.site/blog/thinkphone"><strong>Using ThinkPad T480 as a mobile phone</strong> <code>grego.site</code></a> - <a href="https://news.ycombinator.com/item?id=49059977">45 comments 120 points</a></li>
-<li><a href="https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf"><strong>Terence Tao: Mathematics in the Age of AI [pdf]</strong> <code>teorth.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49056620">49 comments 116 points</a></li>
-<li><a href="https://thelampmagazine.com/blog/how-to-write-english-prose"><strong>How to write English prose (2023)</strong> <code>thelampmagazine.com</code></a> - <a href="https://news.ycombinator.com/item?id=49060295">52 comments 106 points</a></li>
-<li><a href="https://redirect.github.com/AARomanov1985/Audio-Cassette-Simulation"><strong>Simulate cassette tape audio profiles using FFmpeg</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49061887">43 comments 104 points</a></li>
-<li><a href="https://orchidfiles.com/github-security-team/"><strong>What does GitHub&#39;s security team even do?</strong> <code>orchidfiles.com</code></a> - <a href="https://news.ycombinator.com/item?id=49061769">28 comments 99 points</a></li>
-<li><a href="https://redirect.github.com/vercel-labs/scriptc"><strong>Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49063175">38 comments 97 points</a></li>
-<li><a href="https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/"><strong>How to Block Some of the Bots</strong> <code>nochan.net</code></a> - <a href="https://news.ycombinator.com/item?id=49060945">112 comments 94 points</a></li>
-<li><a href="https://status.claude.com/incidents/zftg3gqkmv18"><strong>Elevated Errors for Opus 5</strong> <code>status.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=49056194">80 comments 93 points</a></li>
-<li><a href="https://astgrep.com/blog/tree-sitter-rust-rewrite"><strong>How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster</strong> <code>astgrep.com</code></a> - <a href="https://news.ycombinator.com/item?id=49060509">15 comments 85 points</a></li>
-</ol>
-<p>06:14:07 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
