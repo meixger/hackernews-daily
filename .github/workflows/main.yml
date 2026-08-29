@@ -8,9 +8,9 @@ name: hackernews-daily
 #  - cron: "40 5 * 4-10 *"
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "0 5 * * *"
-    timezone: "Europe/Rome"
+#  schedule:
+#  - cron: "0 5 * * *"
+#    timezone: "Europe/Rome"
 
 env:
  BRANCH_NAME: ${{ github.head_ref || github.ref_name }} 
