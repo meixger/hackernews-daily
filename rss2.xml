@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 30 Aug 2026 07:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 04:50:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-08-30]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1448</link>
+            <guid isPermaLink="false">1448</guid>
+            <pubDate>Sun, 30 Aug 2026 07:50:27 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://lwn.net/Articles/1091231/"><strong>Debian votes to allow &quot;responsible use of generative AI&quot;</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=49489982">448 comments 480 points</a></li>
+<li><a href="https://www.stephendiehl.com/posts/internet_predatory_cesspit/"><strong>The internet is kind of a predatory cesspit now</strong> <code>www.stephendiehl.com</code></a> - <a href="https://news.ycombinator.com/item?id=49492193">285 comments 421 points</a></li>
+<li><a href="https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"><strong>DHS is using obscure law to snoop on journalists, non-profits, unions</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=49492219">78 comments 390 points</a></li>
+<li><a href="https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"><strong>Good Culture Is the Biggest Productivity Hack, Not AI</strong> <code>newsletter.eng-leadership.com</code></a> - <a href="https://news.ycombinator.com/item?id=49491568">81 comments 364 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/cn45vdxyvvlo"><strong>Iceland votes on whether to restart talks on joining EU</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49489057">435 comments 328 points</a></li>
+<li><a href="https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e"><strong>GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=49490702">153 comments 288 points</a></li>
+<li><a href="https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/"><strong>Lawmakers added $1 to car insurance policies. That money paid for Flock cameras</strong> <code>www.texastribune.org</code></a> - <a href="https://news.ycombinator.com/item?id=49494182">140 comments 271 points</a></li>
+<li><a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/"><strong>Hy4 preview</strong> <code>www.tencent.com</code></a> - <a href="https://news.ycombinator.com/item?id=49492632">171 comments 269 points</a></li>
+<li><a href="https://danluu.com/bug-blind/"><strong>Bug Blindness</strong> <code>danluu.com</code></a> - <a href="https://news.ycombinator.com/item?id=49494520">103 comments 208 points</a></li>
+<li><a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt"><strong>California lawmakers unanimously pass Linux exemption from age-verification law</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=49495372">52 comments 189 points</a></li>
+<li><a href="https://science.nasa.gov/mission/roman-space-telescope/"><strong>Nancy Grace Roman Space Telescope</strong> <code>science.nasa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=49490870">73 comments 181 points</a></li>
+<li><a href="https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/"><strong>You Know GDPR Is Good Based on Who Hates It</strong> <code>matduggan.com</code></a> - <a href="https://news.ycombinator.com/item?id=49488282">167 comments 155 points</a></li>
+<li><a href="https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms"><strong>Highest-ever ocean temperature measured as powerful El Niño forms</strong> <code>www.latimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=49494231">156 comments 148 points</a></li>
+<li><a href="https://tucker.wales/writing/bias-towards-action/"><strong>Calibrate Before You Accelerate: Bias Toward Action in a New Role</strong> <code>tucker.wales</code></a> - <a href="https://news.ycombinator.com/item?id=49491714">56 comments 146 points</a></li>
+<li><a href="https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/"><strong>I co-founded Burning Man. The festival has lost its soul</strong> <code>sfstandard.com</code></a> - <a href="https://news.ycombinator.com/item?id=49494151">100 comments 134 points</a></li>
+<li><a href="https://defrag98.com"><strong>Defrag98: Windows 98 Disk Defragmenter Simulator Online</strong> <code>defrag98.com</code></a> - <a href="https://news.ycombinator.com/item?id=49494036">64 comments 114 points</a></li>
+<li><a href="https://redirect.github.com/vllm-project/vllm/releases/tag/v0.28.0"><strong>vLLM v0.28.0</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49492067">36 comments 106 points</a></li>
+<li><a href="https://www.inventati.org/who/manifesto"><strong>Manifesto – who we are and what do we want (2002)</strong> <code>www.inventati.org</code></a> - <a href="https://news.ycombinator.com/item?id=49487786">58 comments 105 points</a></li>
+<li><a href="https://ekunazanu.foo/lab/quantifying-colour/"><strong>Quantifying Colour</strong> <code>ekunazanu.foo</code></a> - <a href="https://news.ycombinator.com/item?id=49490832">8 comments 87 points</a></li>
+<li><a href="https://freecore.org/"><strong>FreeCORE TrueNAS Core – Continued</strong> <code>freecore.org</code></a> - <a href="https://news.ycombinator.com/item?id=49494856">50 comments 81 points</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3830438.3830958"><strong>Functional State Machines in Rust: Typestate and Newtype Patterns</strong> <code>dl.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=49492368">34 comments 79 points</a></li>
+<li><a href="https://coldtake.dev/blog/domain-driven-agents"><strong>Domain-Driven Agents</strong> <code>coldtake.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49492584">16 comments 75 points</a></li>
+<li><a href="https://uecker.codeberg.page/2026-08-29.html"><strong>Indirect Calling of Nested Functions on GCC Without Executable Stack</strong> <code>uecker.codeberg.page</code></a> - <a href="https://news.ycombinator.com/item?id=49490138">51 comments 74 points</a></li>
+<li><a href="https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer"><strong>What we want is a hunter gatherer lifestyle with space age tools (2022)</strong> <code>www.strangeloopcanon.com</code></a> - <a href="https://news.ycombinator.com/item?id=49493244">75 comments 70 points</a></li>
+<li><a href="https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws"><strong>Algorithmic rent-pricing litigation expands under new state and local laws</strong> <code>www.morganlewis.com</code></a> - <a href="https://news.ycombinator.com/item?id=49495127">38 comments 69 points</a></li>
+<li><a href="https://www.dwarkesh.com/p/openai-huggingface"><strong>The Rise and Fall of Agent Civilizations</strong> <code>www.dwarkesh.com</code></a> - <a href="https://news.ycombinator.com/item?id=49494301">34 comments 66 points</a></li>
+<li><a href="https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"><strong>The growing divide between AI hype and software engineering reality</strong> <code>optimizedbyotto.com</code></a> - <a href="https://news.ycombinator.com/item?id=49491113">81 comments 62 points</a></li>
+<li><a href="https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"><strong>Warp builds self-improving agents on Claude</strong> <code>claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=49492432">55 comments 57 points</a></li>
+<li><a href="https://pgaleone.eu/ai/2026/08/29/losing-savviness/"><strong>LLMs are making me lose my savviness</strong> <code>pgaleone.eu</code></a> - <a href="https://news.ycombinator.com/item?id=49492184">74 comments 56 points</a></li>
+<li><a href="https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest"><strong>Trees for a Changing Climate and Resilient Urban Forest (2022)</strong> <code>www.coolboulder.org</code></a> - <a href="https://news.ycombinator.com/item?id=49491175">8 comments 54 points</a></li>
+</ol>
+<p>07:50:26 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-08-29]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1446</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html"><strong>But can your calculator run Linux?</strong> <code>raymii.org</code></a> - <a href="https://news.ycombinator.com/item?id=49137713">6 comments 82 points</a></li>
 </ol>
 <p>05:44:11 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-08-01]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1417</link>
-            <guid isPermaLink="false">1417</guid>
-            <pubDate>Sat, 01 Aug 2026 05:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://john.fun/elevators"><strong>Elevators</strong> <code>john.fun</code></a> - <a href="https://news.ycombinator.com/item?id=49124218">259 comments 1091 points</a></li>
-<li><a href="https://api-docs.deepseek.com/updates/"><strong>DeepSeek-V4-Flash Update</strong> <code>api-docs.deepseek.com</code></a> - <a href="https://news.ycombinator.com/item?id=49119559">329 comments 685 points</a></li>
-<li><a href="https://artificialanalysis.ai/models/deepseek-v4-flash"><strong>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis</strong> <code>artificialanalysis.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49120299">293 comments 542 points</a></li>
-<li><a href="https://redirect.github.com/yc-software/qm"><strong>qm – Multiplayer agent harness for work</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49126604">109 comments 523 points</a></li>
-<li><a href="https://tailscale.com/blog/hugging-face-intrusion"><strong>Tailscale didn&#39;t stop the Hugging Face intrusion</strong> <code>tailscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=49127306">195 comments 508 points</a></li>
-<li><a href="https://blog.google/security/chrome-stronger-with-every-update/"><strong>Google fixed more Chrome bugs in June than over the past two years, thanks to AI</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=49120097">499 comments 490 points</a></li>
-<li><a href="https://hughhowey.com/the-end-of-an-era/"><strong>The End of an Era</strong> <code>hughhowey.com</code></a> - <a href="https://news.ycombinator.com/item?id=49121980">426 comments 400 points</a></li>
-<li><a href="https://lcamtuf.substack.com/p/severance"><strong>Severance</strong> <code>lcamtuf.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=49125971">74 comments 232 points</a></li>
-<li><a href="https://www.lighthousereports.com/investigation/big-food-vs-the-people/"><strong>Big Food vs. the People</strong> <code>www.lighthousereports.com</code></a> - <a href="https://news.ycombinator.com/item?id=49124858">140 comments 215 points</a></li>
-<li><a href="https://redirect.github.com/sqliteai/waste"><strong>Run Kimi K3 using 29 GB of RAM at 0.50 tok/s</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49123386">82 comments 198 points</a></li>
-<li><a href="https://redirect.github.com/mokshablr/gander"><strong>Show HN: Gander, an Android file viewer that asks for no permissions</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49119425">69 comments 198 points</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/"><strong>Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio</strong> <code>www.jeffgeerling.com</code></a> - <a href="https://news.ycombinator.com/item?id=49125034">92 comments 168 points</a></li>
-<li><a href="https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/"><strong>The most official water costs $120k a gallon</strong> <code>signoregalilei.com</code></a> - <a href="https://news.ycombinator.com/item?id=49124042">137 comments 166 points</a></li>
-<li><a href="https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising"><strong>BMW Spider-Man in-car advertising</strong> <code>consumerrights.wiki</code></a> - <a href="https://news.ycombinator.com/item?id=49130756">56 comments 146 points</a></li>
-<li><a href="https://arxiv.org/abs/2607.27197"><strong>The Maxwell Conjecture Is False (GPT 5.6 Sol)</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=49121868">135 comments 145 points</a></li>
-<li><a href="https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"><strong>Situational Awareness down 67% in July in AI stock rout</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=49122994">149 comments 144 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/cn0nqv05g0do"><strong>Danube&#39;s record low levels force shutdown of Hungary&#39;s only nuclear plant</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49120120">137 comments 143 points</a></li>
-<li><a href="https://lwn.net/Articles/1086489/"><strong>Arch Linux disables AUR package adoption</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=49123208">105 comments 142 points</a></li>
-<li><a href="https://redirect.github.com/golang/go/issues/80590"><strong>Golang proposal: container/: generic collection types</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49127031">95 comments 142 points</a></li>
-<li><a href="https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"><strong>Is AI reasoning right for the wrong reasons?</strong> <code>www.quantamagazine.org</code></a> - <a href="https://news.ycombinator.com/item?id=49124358">166 comments 140 points</a></li>
-<li><a href="https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol"><strong>Dubious research tied to Red Bull has shaped energy drink policy</strong> <code>www.theexamination.org</code></a> - <a href="https://news.ycombinator.com/item?id=49124738">195 comments 131 points</a></li>
-<li><a href="https://servo.org/blog/2026/07/31/june-in-servo/"><strong>June in Servo: real world compat, media queries, SharedWorker, and more</strong> <code>servo.org</code></a> - <a href="https://news.ycombinator.com/item?id=49126765">40 comments 128 points</a></li>
-<li><a href="https://arielsalminen.com/2026/progressive-web-components/"><strong>Progressive Web Components</strong> <code>arielsalminen.com</code></a> - <a href="https://news.ycombinator.com/item?id=49121196">17 comments 127 points</a></li>
-<li><a href="https://fred.stlouisfed.org/series/GFDEGDQ188S"><strong>U.S. debt-to-GDP ratio reaches 123%</strong> <code>fred.stlouisfed.org</code></a> - <a href="https://news.ycombinator.com/item?id=49123258">180 comments 115 points</a></li>
-<li><a href="https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/"><strong>Algorithms on billion-scale graph using 10GB RAM: I love DataFusion</strong> <code>semyonsinchenko.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49124658">32 comments 115 points</a></li>
-<li><a href="https://marbleos.com/demo"><strong>Show HN: What should the GUI for AI agents look like?</strong> <code>marbleos.com</code></a> - <a href="https://news.ycombinator.com/item?id=49119274">65 comments 110 points</a></li>
-<li><a href="https://manifest.build/blog/why-we-deprecated-our-llm-router/"><strong>Everyone is building LLM routers, we deprecated ours</strong> <code>manifest.build</code></a> - <a href="https://news.ycombinator.com/item?id=49126630">56 comments 110 points</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba"><strong>Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=49122838">64 comments 106 points</a></li>
-<li><a href="https://www.raptitude.com/2026/07/how-to-exist/"><strong>How to Exist</strong> <code>www.raptitude.com</code></a> - <a href="https://news.ycombinator.com/item?id=49129990">52 comments 101 points</a></li>
-<li><a href="https://code.intellios.ai/cwbrowser/"><strong>Show HN: I worked on a new browser for 2 years, today it passed Acid 3</strong> <code>code.intellios.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49128826">29 comments 91 points</a></li>
-</ol>
-<p>05:43:10 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
