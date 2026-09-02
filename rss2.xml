@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 01 Sep 2026 04:50:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 04:50:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-09-01]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1450</link>
+            <guid isPermaLink="false">1450</guid>
+            <pubDate>Tue, 01 Sep 2026 04:50:29 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/"><strong>Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO</strong> <code>webiterate.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49514878">480 comments 620 points</a></li>
+<li><a href="https://playaphone.com/"><strong>Playa Phone</strong> <code>playaphone.com</code></a> - <a href="https://news.ycombinator.com/item?id=49510514">200 comments 552 points</a></li>
+<li><a href="https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/"><strong>OpenShot 4.0 – Open-source video editor</strong> <code>www.openshot.org</code></a> - <a href="https://news.ycombinator.com/item?id=49507822">129 comments 547 points</a></li>
+<li><a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"><strong>I turned my security cameras into an automatic bird identification system</strong> <code>jasontucker.blog</code></a> - <a href="https://news.ycombinator.com/item?id=49511856">99 comments 413 points</a></li>
+<li><a href="https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/"><strong>A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=49506182">81 comments 368 points</a></li>
+<li><a href="https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"><strong>Breaking Claude Code Opus 5 Auto Mode</strong> <code>embracethered.com</code></a> - <a href="https://news.ycombinator.com/item?id=49506819">113 comments 357 points</a></li>
+<li><a href="https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"><strong>Apple caught off guard by AI demand for Mac Mini and Mac Studio</strong> <code>www.macrumors.com</code></a> - <a href="https://news.ycombinator.com/item?id=49508982">388 comments 352 points</a></li>
+<li><a href="https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary"><strong>I think the military commissary&#39;s freezers were hacked</strong> <code>signalandsilence.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=49508506">162 comments 297 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=3YtygAx_C6A"><strong>A walkable ASCII cyberpunk city in one HTML file [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=49512975">35 comments 266 points</a></li>
+<li><a href="https://redirect.github.com/astral-sh/uv/pull/21327"><strong>uv: Deduplicate all files in the wheel cache</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49506142">105 comments 210 points</a></li>
+<li><a href="https://codex-tool-reference.simonw.chatgpt.site/"><strong>ChatGPT Work Tool and Skill Reference</strong> <code>codex-tool-reference.simonw.chatgpt.site</code></a> - <a href="https://news.ycombinator.com/item?id=49510000">53 comments 201 points</a></li>
+<li><a href="https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/"><strong>A CVE Dispute</strong> <code>daniel.haxx.se</code></a> - <a href="https://news.ycombinator.com/item?id=49508290">44 comments 186 points</a></li>
+<li><a href="https://ravynos.com/"><strong>RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source</strong> <code>ravynos.com</code></a> - <a href="https://news.ycombinator.com/item?id=49511534">105 comments 185 points</a></li>
+<li><a href="https://www.darlinghq.org/"><strong>Run macOS Software on Linux</strong> <code>www.darlinghq.org</code></a> - <a href="https://news.ycombinator.com/item?id=49515830">53 comments 174 points</a></li>
+<li><a href="https://calpaterson.com/memoryfields.html"><strong>Agent memory as a file format</strong> <code>calpaterson.com</code></a> - <a href="https://news.ycombinator.com/item?id=49508317">85 comments 168 points</a></li>
+<li><a href="https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html"><strong>Konrad Zuse Museum shutting down due to lack of funding</strong> <code>www.heise.de</code></a> - <a href="https://news.ycombinator.com/item?id=49511917">75 comments 151 points</a></li>
+<li><a href="https://reactos.org/project-news/reactos-0416-released/"><strong>ReactOS 0.4.16</strong> <code>reactos.org</code></a> - <a href="https://news.ycombinator.com/item?id=49506978">40 comments 150 points</a></li>
+<li><a href="http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"><strong>The safest job from AI may be writing</strong> <code>muratbuffalo.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=49512856">167 comments 122 points</a></li>
+<li><a href="https://datacolada.org/138"><strong>Evidence of Fraud in an Influential Study About Procrastination</strong> <code>datacolada.org</code></a> - <a href="https://news.ycombinator.com/item?id=49516199">84 comments 121 points</a></li>
+<li><a href="https://www.mdubakov.me/malleable-software-solid-bases-custom-code/"><strong>Malleable software = solid bases and custom code</strong> <code>www.mdubakov.me</code></a> - <a href="https://news.ycombinator.com/item?id=49508059">30 comments 98 points</a></li>
+<li><a href="https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101053-rakuten-kobo-re-enters-u-s-retail-as-sales-double.html"><strong>Rakuten Kobo returns to U.S. retail as sales double</strong> <code>www.publishersweekly.com</code></a> - <a href="https://news.ycombinator.com/item?id=49510532">107 comments 95 points</a></li>
+<li><a href="https://www.olafalders.com/2026/08/31/you-rename-my-lake-i-move-my-hosting/"><strong>You Rename My Lake – I Move My Hosting</strong> <code>www.olafalders.com</code></a> - <a href="https://news.ycombinator.com/item?id=49512574">71 comments 94 points</a></li>
+<li><a href="https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/"><strong>Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP</strong> <code>iggy.apache.org</code></a> - <a href="https://news.ycombinator.com/item?id=49510540">26 comments 94 points</a></li>
+<li><a href="https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/"><strong>Study: Blue light impairs the eye&#39;s ability to distinguish fine detail most</strong> <code>research.uga.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49507121">54 comments 86 points</a></li>
+<li><a href="https://www.gadgetreview.com/student-teacher-sent-a-private-snapchat-complaining-about-her-workday-an-hour-later-police-pulled-up-to-her-school"><strong>Student teacher arrested for private Snapchat message</strong> <code>www.gadgetreview.com</code></a> - <a href="https://news.ycombinator.com/item?id=49512789">77 comments 82 points</a></li>
+<li><a href="https://www.cppstories.com/2026/hardening-experiments/"><strong>C++26: Standard Library Hardening Experiments</strong> <code>www.cppstories.com</code></a> - <a href="https://news.ycombinator.com/item?id=49510511">50 comments 79 points</a></li>
+<li><a href="https://fastpotify.rocks/"><strong>Fastpotify</strong> <code>fastpotify.rocks</code></a> - <a href="https://news.ycombinator.com/item?id=49517448">21 comments 75 points</a></li>
+<li><a href="https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven"><strong>You probably own this 7-Eleven (and that&#39;s why it looks so sad)</strong> <code>www.thenewatlantis.com</code></a> - <a href="https://news.ycombinator.com/item?id=49511720">92 comments 74 points</a></li>
+<li><a href="https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide"><strong>Develop Cross-Platform CLI and GUI Tools with Tcl/Tk</strong> <code>cgicoffee.com</code></a> - <a href="https://news.ycombinator.com/item?id=49515662">38 comments 70 points</a></li>
+<li><a href="https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/"><strong>2004 RuneScape fit a multiplayer RPG into 56k dial-up</strong> <code>jkm.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49516699">41 comments 69 points</a></li>
+</ol>
+<p>04:50:28 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-08-31]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1449</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first"><strong>Flock&#39;s CEO Faced Me After Its Cameras Led to My Wrongful Stop</strong> <code>www.thedrive.com</code></a> - <a href="https://news.ycombinator.com/item?id=49156650">112 comments 86 points</a></li>
 </ol>
 <p>05:35:20 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-08-03]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1419</link>
-            <guid isPermaLink="false">1419</guid>
-            <pubDate>Mon, 03 Aug 2026 06:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://qwen.ai/blog?id=qwen3.8"><strong>Qwen3.8-Max: A New Bar for Coding and Cowork</strong> <code>qwen.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49150470">125 comments 338 points</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes"><strong>Wikimedia Foundation refuses union recognition, hires union-busting law firm</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=49143414">310 comments 329 points</a></li>
-<li><a href="https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2"><strong>&#39;Crush this lady&#39;: how eBay harassment campaign led to $56M payout</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=49147435">106 comments 220 points</a></li>
-<li><a href="https://redirect.github.com/wie-project/kakehashi"><strong>Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49145937">45 comments 203 points</a></li>
-<li><a href="https://pudding.cool/2026/07/essential-words/"><strong>How the words we teach English language learners changed</strong> <code>pudding.cool</code></a> - <a href="https://news.ycombinator.com/item?id=49145590">154 comments 199 points</a></li>
-<li><a href="https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8"><strong>US Treasury undertakes historic intervention in yen market</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=49143188">170 comments 191 points</a></li>
-<li><a href="https://meshdiff.com/"><strong>Meshdiff – visually compare two STL versions in the browser, client-side</strong> <code>meshdiff.com</code></a> - <a href="https://news.ycombinator.com/item?id=49143479">19 comments 184 points</a></li>
-<li><a href="https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/"><strong>EU Age Verification Project Mandates Hardware-Bound Attestation</strong> <code>linuxiac.com</code></a> - <a href="https://news.ycombinator.com/item?id=49148128">124 comments 174 points</a></li>
-<li><a href="https://getbor.dev/blog/2026-08-02-bor-v080-release/"><strong>Show HN: Bor – Open-source policy management for Linux desktops</strong> <code>getbor.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49142569">22 comments 173 points</a></li>
-<li><a href="https://fstar-lang.org/"><em><em>F</em>: A general-purpose proof-oriented programming language</em>* <code>fstar-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=49143925">82 comments 172 points</a></li>
-<li><a href="https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/"><strong>SwiftUI After 7 Years</strong> <code>ykvm.com</code></a> - <a href="https://news.ycombinator.com/item?id=49147263">127 comments 158 points</a></li>
-<li><a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open"><strong>Twenty Years of RISC OS Open</strong> <code>www.riscosopen.org</code></a> - <a href="https://news.ycombinator.com/item?id=49143967">30 comments 154 points</a></li>
-<li><a href="https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/"><strong>I don&#39;t recommend Tailwind CSS</strong> <code>en.andros.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49141891">157 comments 153 points</a></li>
-<li><a href="https://sf.isopolis.city/"><strong>Show HN: Isopolis – Isometric pixel map of SF</strong> <code>sf.isopolis.city</code></a> - <a href="https://news.ycombinator.com/item?id=49149966">37 comments 153 points</a></li>
-<li><a href="https://www.ursulakleguin.com/a-rant-about-technology"><strong>A Rant About “Technology” (2005)</strong> <code>www.ursulakleguin.com</code></a> - <a href="https://news.ycombinator.com/item?id=49145201">81 comments 141 points</a></li>
-<li><a href="https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/"><strong>Californians&#39; data deletion requests, DROP, become enforceable Aug. 1</strong> <code>www.nbcsandiego.com</code></a> - <a href="https://news.ycombinator.com/item?id=49148987">77 comments 132 points</a></li>
-<li><a href="https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"><strong>AI poster wins Ohio State Fair contest</strong> <code>www.ohiostatefair.com</code></a> - <a href="https://news.ycombinator.com/item?id=49149188">149 comments 128 points</a></li>
-<li><a href="https://frogs.vaguespac.es/"><strong>My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”</strong> <code>frogs.vaguespac.es</code></a> - <a href="https://news.ycombinator.com/item?id=49147622">61 comments 127 points</a></li>
-<li><a href="https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"><strong>OpenAI&#39;s super PAC is funding AI-generated news site attacking industry critics</strong> <code>www.modelrepublic.org</code></a> - <a href="https://news.ycombinator.com/item?id=49150561">32 comments 124 points</a></li>
-<li><a href="https://publicdomainreview.org/essay/ars-notoria/"><strong>Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge</strong> <code>publicdomainreview.org</code></a> - <a href="https://news.ycombinator.com/item?id=49143001">31 comments 124 points</a></li>
-<li><a href="https://sprocket-demo.spikonado.com"><strong>Show HN: Sprocket – The Best AI Agent for Hardware and Software Development</strong> <code>sprocket-demo.spikonado.com</code></a> - <a href="https://news.ycombinator.com/item?id=49145934">12 comments 123 points</a></li>
-<li><a href="https://redirect.github.com/pg83/shitty"><strong>Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49149326">112 comments 117 points</a></li>
-<li><a href="https://redirect.github.com/graham33/nixos-dgx-spark"><strong>Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49146267">32 comments 110 points</a></li>
-<li><a href="https://fuselang.org"><strong>Show HN: Fuse – statically typed functional programming language</strong> <code>fuselang.org</code></a> - <a href="https://news.ycombinator.com/item?id=49143412">32 comments 106 points</a></li>
-<li><a href="https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/"><strong>Linux Desktop Market Share Surpasses 10% in North America</strong> <code>linuxiac.com</code></a> - <a href="https://news.ycombinator.com/item?id=49146122">73 comments 98 points</a></li>
-<li><a href="https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/"><strong>Rust All Hands 2026 Retrospective</strong> <code>blog.rust-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=49143096">50 comments 98 points</a></li>
-<li><a href="https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/"><strong>Rooting, firmware analysis and persistent credentials of TP-Link TL-841N</strong> <code>blog.juni-mp4.com</code></a> - <a href="https://news.ycombinator.com/item?id=49145883">21 comments 96 points</a></li>
-<li><a href="https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/"><strong>Europe EV Sales BEVs Jump 50% &amp; Reach 26% Market Share</strong> <code>cleantechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=49147450">148 comments 92 points</a></li>
-<li><a href="https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros"><strong>Microsoft raises Xbox prices by up to 43%</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=49147209">96 comments 89 points</a></li>
-<li><a href="https://ssh.place"><strong>Show HN: ssh ssh.place</strong> <code>ssh.place</code></a> - <a href="https://news.ycombinator.com/item?id=49149805">39 comments 85 points</a></li>
-</ol>
-<p>06:00:04 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
