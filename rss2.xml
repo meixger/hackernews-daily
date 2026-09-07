@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 06 Sep 2026 04:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 04:50:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-09-06]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1455</link>
+            <guid isPermaLink="false">1455</guid>
+            <pubDate>Sun, 06 Sep 2026 04:50:32 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/"><strong>The Real Luxuries In Life</strong> <code>feld.com</code></a> - <a href="https://news.ycombinator.com/item?id=49578866">215 comments 454 points</a></li>
+<li><a href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"><strong>Private German rocket makes history, reaches orbit from European soil</strong> <code>www.space.com</code></a> - <a href="https://news.ycombinator.com/item?id=49580369">237 comments 435 points</a></li>
+<li><a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"><strong>AI handles incidents, engineers lose touch with their systems</strong> <code>www.sylvainkalache.com</code></a> - <a href="https://news.ycombinator.com/item?id=49574167">329 comments 369 points</a></li>
+<li><a href="https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/"><strong>Flock used &gt;100 times to track veteran who recorded traffic stop</strong> <code>reason.com</code></a> - <a href="https://news.ycombinator.com/item?id=49578310">184 comments 354 points</a></li>
+<li><a href="https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990"><strong>Netherlands pulls gold out of the US</strong> <code>www.abc.net.au</code></a> - <a href="https://news.ycombinator.com/item?id=49575034">254 comments 349 points</a></li>
+<li><a href="https://pushin.eu"><strong>Git hosting that never leaves Europe</strong> <code>pushin.eu</code></a> - <a href="https://news.ycombinator.com/item?id=49573680">149 comments 327 points</a></li>
+<li><a href="https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/"><strong>The &quot;$60 Gaming PC&quot; – AMD BC-250 (2025)</strong> <code>devquasar.com</code></a> - <a href="https://news.ycombinator.com/item?id=49576386">93 comments 315 points</a></li>
+<li><a href="https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone"><strong>Global warming will exceed 1.5-degree limit, UN says</strong> <code>www.pbs.org</code></a> - <a href="https://news.ycombinator.com/item?id=49576124">353 comments 311 points</a></li>
+<li><a href="https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen"><strong>How the Disaster of &quot;Forever Chemicals&quot; Was Kept Secret</strong> <code>www.propublica.org</code></a> - <a href="https://news.ycombinator.com/item?id=49576986">93 comments 293 points</a></li>
+<li><a href="https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/"><strong>Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA</strong> <code>wikiworkersunited.org</code></a> - <a href="https://news.ycombinator.com/item?id=49577975">142 comments 271 points</a></li>
+<li><a href="https://cloudinabottle.org/blog/launch-post"><strong>Cloud in a Bottle: making self-hosting accessible to everyone</strong> <code>cloudinabottle.org</code></a> - <a href="https://news.ycombinator.com/item?id=49582000">103 comments 242 points</a></li>
+<li><a href="https://arxiv.org/abs/2609.03344"><strong>LLMs as a Cognitive Virus</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=49580164">176 comments 219 points</a></li>
+<li><a href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/"><strong>The revolt of the reader</strong> <code>bcantrill.dtrace.org</code></a> - <a href="https://news.ycombinator.com/item?id=49580939">74 comments 207 points</a></li>
+<li><a href="https://usr.lmf.cnrs.fr/lpo/"><strong>Learn Programming with OCaml</strong> <code>usr.lmf.cnrs.fr</code></a> - <a href="https://news.ycombinator.com/item?id=49578280">81 comments 206 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/cvgyn8q8gqxo"><strong>Why are European countries moving their gold out of North America?</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49573455">298 comments 193 points</a></li>
+<li><a href="https://lapcatsoftware.com/articles/2026/9/1.html"><strong>Chrome again exempts Google from user site data settings</strong> <code>lapcatsoftware.com</code></a> - <a href="https://news.ycombinator.com/item?id=49581870">29 comments 193 points</a></li>
+<li><a href="https://packagemain.tech/p/gitignore-everything-by-default"><strong>.gitignore Everything by Default</strong> <code>packagemain.tech</code></a> - <a href="https://news.ycombinator.com/item?id=49576258">160 comments 165 points</a></li>
+<li><a href="https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/"><strong>Visualizing Rust&#39;s Vtables: How dyn Trait Works In Memory</strong> <code>sofiabelen.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49576343">22 comments 149 points</a></li>
+<li><a href="https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods"><strong>How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)</strong> <code>vcresearch.berkeley.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49577985">113 comments 134 points</a></li>
+<li><a href="https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf"><strong>South African diamond mines are closing due to weak sales and lab-grown stones</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=49580778">113 comments 131 points</a></li>
+<li><a href="http://terpstrakeyboard.com/"><strong>Terpstra Keyboard</strong> <code>terpstrakeyboard.com</code></a> - <a href="https://news.ycombinator.com/item?id=49575150">56 comments 123 points</a></li>
+<li><a href="https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/"><strong>Pentagon rescinds new testosterone screening policy without explanation</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=49576196">101 comments 112 points</a></li>
+<li><a href="https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/"><strong>Meet the Ig Nobel Prize Winners</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=49576611">31 comments 102 points</a></li>
+<li><a href="https://openai.robocurve.org/gpt-6-astra/"><strong>GPT-6 Astra on robot arms</strong> <code>openai.robocurve.org</code></a> - <a href="https://news.ycombinator.com/item?id=49582582">58 comments 101 points</a></li>
+<li><a href="https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/"><strong>There&#39;s No Limit to How Bad Code Can Get</strong> <code>zachkehs.com</code></a> - <a href="https://news.ycombinator.com/item?id=49576704">78 comments 99 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=Ss1DUqLjecc"><strong>Isar Aerospace launch into orbit [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=49580325">18 comments 93 points</a></li>
+<li><a href="https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/"><strong>A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads</strong> <code>buttondown.com</code></a> - <a href="https://news.ycombinator.com/item?id=49575859">12 comments 88 points</a></li>
+<li><a href="https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"><strong>Claude&#39;s new system prompt doesn&#39;t want to reproduce song lyrics</strong> <code>simonwillison.net</code></a> - <a href="https://news.ycombinator.com/item?id=49575143">90 comments 68 points</a></li>
+<li><a href="https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/"><strong>Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)</strong> <code>terrytao.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=49580329">32 comments 64 points</a></li>
+<li><a href="https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/"><strong>America&#39;s two largest school districts impose AI moratoriums</strong> <code>www.techpolicy.press</code></a> - <a href="https://news.ycombinator.com/item?id=49580980">66 comments 56 points</a></li>
+</ol>
+<p>04:50:31 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-09-05]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1454</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie"><strong>Making an AI bid writer refuse to lie</strong> <code>ailucius.com</code></a> - <a href="https://news.ycombinator.com/item?id=49220378">0 comments 50 points</a></li>
 </ol>
 <p>04:06:11 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-08-08]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1424</link>
-            <guid isPermaLink="false">1424</guid>
-            <pubDate>Sat, 08 Aug 2026 04:00:10 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o"><strong>US strikes $1.2B deal to pay German firm to halt offshore wind projects</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49208314">823 comments 861 points</a></li>
-<li><a href="https://arcprize.org/results/deepseek-v4-flash-0731"><strong>DeepSeek V4 Flash 0731</strong> <code>arcprize.org</code></a> - <a href="https://news.ycombinator.com/item?id=49214008">305 comments 513 points</a></li>
-<li><a href="https://www.noemamag.com/why-is-everyone-in-tech-so-sad/"><strong>What happens if an entire class of workers loses faith in their careers</strong> <code>www.noemamag.com</code></a> - <a href="https://news.ycombinator.com/item?id=49209539">578 comments 490 points</a></li>
-<li><a href="https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"><strong>Oracle bans AI-generated code from OpenJDK</strong> <code>app.dealroom.co</code></a> - <a href="https://news.ycombinator.com/item?id=49213754">283 comments 415 points</a></li>
-<li><a href="https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/"><strong>A year of fighting scrapers on my 1.5 million-page website</strong> <code>patronview.com</code></a> - <a href="https://news.ycombinator.com/item?id=49211386">364 comments 395 points</a></li>
-<li><a href="https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138"><strong>U.S. economy lost 23,000 jobs in July, a sudden reversal</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=49209546">340 comments 341 points</a></li>
-<li><a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours"><strong>App Store Rejection of the Week: Dark Hours</strong> <code>daringfireball.net</code></a> - <a href="https://news.ycombinator.com/item?id=49214863">175 comments 292 points</a></li>
-<li><a href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out"><strong>2027 memory capacity is reportedly sold out</strong> <code>www.ign.com</code></a> - <a href="https://news.ycombinator.com/item?id=49207236">263 comments 280 points</a></li>
-<li><a href="https://redirect.github.com/xoreaxeaxeax/asm-hall-of-shame"><strong>Assembly Hall of Shame</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49214098">65 comments 277 points</a></li>
-<li><a href="https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/"><strong>Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD</strong> <code>malisper.me</code></a> - <a href="https://news.ycombinator.com/item?id=49208535">124 comments 262 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=UufMqwyO7pY"><strong>Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=49211438">52 comments 201 points</a></li>
-<li><a href="https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/"><strong>USA Today Co., partners with Palantir to analyze audience data</strong> <code>www.niemanlab.org</code></a> - <a href="https://news.ycombinator.com/item?id=49210589">73 comments 185 points</a></li>
-<li><a href="https://www.databricks.com/blog/managing-ai-coding-costs-scale"><strong>Managing AI Coding Costs at Scale</strong> <code>www.databricks.com</code></a> - <a href="https://news.ycombinator.com/item?id=49214468">181 comments 184 points</a></li>
-<li><a href="https://redirect.github.com/Wyzer-Lang/wyzer"><strong>Show HN: Wyzer Programming Language</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49209385">101 comments 182 points</a></li>
-<li><a href="https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics"><strong>Tax cuts for the wealthy only benefit the rich (2023)</strong> <code>www.lse.ac.uk</code></a> - <a href="https://news.ycombinator.com/item?id=49213097">182 comments 176 points</a></li>
-<li><a href="https://blog.cloudflare.com/kitesurf/"><strong>Kitesurf: Agent-first browser that runs in V8 isolates</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=49208393">44 comments 173 points</a></li>
-<li><a href="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"><strong>Responding to the next frontier of critical cyber capabilities</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=49213029">168 comments 168 points</a></li>
-<li><a href="https://ancientlibrary.net/"><strong>Ancient Library – 1,060 Greek/Latin texts, click any word to parse it</strong> <code>ancientlibrary.net</code></a> - <a href="https://news.ycombinator.com/item?id=49214770">55 comments 168 points</a></li>
-<li><a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413"><strong>The Nixpkgs core team has disbanded</strong> <code>discourse.nixos.org</code></a> - <a href="https://news.ycombinator.com/item?id=49217993">66 comments 163 points</a></li>
-<li><a href="https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"><strong>AI psychosis is the new leadership blind spot</strong> <code>www.fastcompany.com</code></a> - <a href="https://news.ycombinator.com/item?id=49210077">103 comments 162 points</a></li>
-<li><a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070"><strong>Water system controllers don&#39;t belong on the internet, says ex-NSA chief</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=49216362">102 comments 151 points</a></li>
-<li><a href="https://textlog.cc/about"><strong>Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS</strong> <code>textlog.cc</code></a> - <a href="https://news.ycombinator.com/item?id=49208458">62 comments 151 points</a></li>
-<li><a href="https://www.sdss.org/black-hole-mapper-release-20/"><strong>An all-sky map of half a million supermassive black holes</strong> <code>www.sdss.org</code></a> - <a href="https://news.ycombinator.com/item?id=49211921">37 comments 151 points</a></li>
-<li><a href="https://genesisopenmodels.anl.gov/"><strong>U.S. Department of Energy Launches the Genesis Open Models Initiative</strong> <code>genesisopenmodels.anl.gov</code></a> - <a href="https://news.ycombinator.com/item?id=49216946">51 comments 148 points</a></li>
-<li><a href="https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797"><strong>DOGE overstated savings, government watchdog says</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=49209368">66 comments 142 points</a></li>
-<li><a href="https://community.frame.work/t/framework-data-breach-discussion/83939"><strong>Framework discloses data breach via Metabase 0-day</strong> <code>community.frame.work</code></a> - <a href="https://news.ycombinator.com/item?id=49206130">53 comments 142 points</a></li>
-<li><a href="https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization"><strong>The Gargantuan Lie That Is Collapsing the Climate</strong> <code>www.currentaffairs.org</code></a> - <a href="https://news.ycombinator.com/item?id=49208686">166 comments 141 points</a></li>
-<li><a href="https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57"><strong>ICE will release body cam video only when seen in the agency&#39;s &#39;best interests&#39;</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=49214306">73 comments 138 points</a></li>
-<li><a href="https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice"><strong>Radical Study Suggests Life on Earth Arose Twice</strong> <code>www.sciencealert.com</code></a> - <a href="https://news.ycombinator.com/item?id=49209572">90 comments 113 points</a></li>
-<li><a href="https://eco3min.fr/en/us-children-vs-adults-65-and-older/"><strong>Adults over 65 will outnumber children by 2029</strong> <code>eco3min.fr</code></a> - <a href="https://news.ycombinator.com/item?id=49212424">151 comments 85 points</a></li>
-</ol>
-<p>04:00:08 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
