@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 09 Sep 2026 04:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 04:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-09-09]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1458</link>
+            <guid isPermaLink="false">1458</guid>
+            <pubDate>Wed, 09 Sep 2026 04:50:32 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://cims.nyu.edu/~tristanb/statement.pdf"><strong>Navier-Stokes – Tristan Buckmaster [pdf]</strong> <code>cims.nyu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49605915">607 comments 1424 points</a></li>
+<li><a href="https://openai.com/index/navier-stokes-solution/"><strong>On the Navier–Stokes Millennium Prize Problem</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=49613262">1029 comments 1193 points</a></li>
+<li><a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"><strong>Mistral raises €3B</strong> <code>mistral.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49605767">570 comments 814 points</a></li>
+<li><a href="https://manualdousuario.net/en/libreoffice-download-record-no-ai/"><strong>LibreOffice breaks download records after declaring it has no AI features</strong> <code>manualdousuario.net</code></a> - <a href="https://news.ycombinator.com/item?id=49610538">218 comments 658 points</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"><strong>AlphaGenome Atlas: a high-resolution map of human DNA</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=49611251">118 comments 515 points</a></li>
+<li><a href="https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus"><strong>LG TVs caught spying even when offline or on standby</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=49612329">303 comments 509 points</a></li>
+<li><a href="https://ai.meta.com/muse/"><strong>Muse – Meta’s personal AI agent</strong> <code>ai.meta.com</code></a> - <a href="https://news.ycombinator.com/item?id=49615537">413 comments 391 points</a></li>
+<li><a href="https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten"><strong>Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare</strong> <code>ciphercue.com</code></a> - <a href="https://news.ycombinator.com/item?id=49607443">359 comments 377 points</a></li>
+<li><a href="https://www.blackmagicdesign.com/media/release/20260908-03"><strong>DaVinci Resolve 21.1</strong> <code>www.blackmagicdesign.com</code></a> - <a href="https://news.ycombinator.com/item?id=49610181">166 comments 375 points</a></li>
+<li><a href="https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"><strong>We Must Return to the Office to Use AI in Person</strong> <code>www.mcsweeneys.net</code></a> - <a href="https://news.ycombinator.com/item?id=49610229">62 comments 372 points</a></li>
+<li><a href="https://redirect.github.com/ayghri/i-have-adhd"><strong>I-have-ADHD: A skill to stop coding agents from burying the answer</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49610631">272 comments 364 points</a></li>
+<li><a href="https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/"><strong>Paramount Caught Using &#39;Astroturf&#39; Group to Drum Up Fake Support for Merger</strong> <code>www.techdirt.com</code></a> - <a href="https://news.ycombinator.com/item?id=49610900">117 comments 355 points</a></li>
+<li><a href="https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/"><strong>DHS &#39;Predictive Policing&#39; Unit Is Analyzing Americans&#39; Financial Habits</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=49610988">226 comments 334 points</a></li>
+<li><a href="https://jyn.dev/a-year-to-fix-security/"><strong>We have a year to fix security everywhere</strong> <code>jyn.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49605691">337 comments 299 points</a></li>
+<li><a href="https://openai.com/index/introducing-chatgpt-images-2-5/"><strong>ChatGPT Images 2.5</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=49614720">374 comments 289 points</a></li>
+<li><a href="https://mathstodon.xyz/@tao/117237320796901560"><strong>Tao: Open math problems being non-renewably mined by AI</strong> <code>mathstodon.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=49616968">180 comments 250 points</a></li>
+<li><a href="https://redirect.github.com/argonautlabsai/deltafin"><strong>Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49616257">122 comments 234 points</a></li>
+<li><a href="https://vale.rocks/posts/html-relics"><strong>Antiquated HTML Snippets and Artefacts</strong> <code>vale.rocks</code></a> - <a href="https://news.ycombinator.com/item?id=49607991">81 comments 229 points</a></li>
+<li><a href="https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/"><strong>The two Christian saints who are the Buddha</strong> <code>signoregalilei.com</code></a> - <a href="https://news.ycombinator.com/item?id=49611051">173 comments 226 points</a></li>
+<li><a href="https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/"><strong>Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses</strong> <code>quesma.com</code></a> - <a href="https://news.ycombinator.com/item?id=49611128">110 comments 226 points</a></li>
+<li><a href="https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks"><strong>Getting your hands dirty is good for you</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49608023">185 comments 222 points</a></li>
+<li><a href="https://copperhead.sh/"><strong>Show HN: Copperhead – Cursor for circuit boards</strong> <code>copperhead.sh</code></a> - <a href="https://news.ycombinator.com/item?id=49610059">88 comments 218 points</a></li>
+<li><a href="https://twitter.com/hilbertspaess/status/2097476196791709843#m"><strong>I resigned from Anthropic today</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49619227">271 comments 214 points</a></li>
+<li><a href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/"><strong>How to build a printer</strong> <code>nishantjosh.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49617255">40 comments 213 points</a></li>
+<li><a href="https://twitter.com/SouthPark/status/2097364141237539116"><strong>Trey Parker and Matt Stone Are Changing the Name of South Park to South America</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49616239">102 comments 196 points</a></li>
+<li><a href="https://www.pm.gov.au/media/my-feed-my-way"><strong>My Feed, My Way</strong> <code>www.pm.gov.au</code></a> - <a href="https://news.ycombinator.com/item?id=49605782">152 comments 182 points</a></li>
+<li><a href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"><strong>OpenAI fought dirty on career-making math problem</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=49615926">58 comments 161 points</a></li>
+<li><a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2-5"><strong>Mercury 2.5</strong> <code>www.inceptionlabs.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49616354">23 comments 146 points</a></li>
+<li><a href="https://ishamf.dev/p/llm-attention-visualizer/"><strong>Show HN: LLM Attention Visualization</strong> <code>ishamf.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49613068">23 comments 146 points</a></li>
+<li><a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH"><strong>Large language models develop novel social biases through adaptive exploration</strong> <code>openreview.net</code></a> - <a href="https://news.ycombinator.com/item?id=49617581">60 comments 123 points</a></li>
+</ol>
+<p>04:50:31 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-09-08]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1457</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/"><strong>US hires over 2k video gamers as air traffic controllers</strong> <code>www.cbsnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=49265879">87 comments 97 points</a></li>
 </ol>
 <p>04:29:47 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-08-11]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1427</link>
-            <guid isPermaLink="false">1427</guid>
-            <pubDate>Tue, 11 Aug 2026 04:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"><strong>Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows</strong> <code>research.meta.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49241679">588 comments 1063 points</a></li>
-<li><a href="https://www.docker.com/products/docker-sandboxes/"><strong>Docker Sandboxes – Disposable, isolated sandboxes for AI agents</strong> <code>www.docker.com</code></a> - <a href="https://news.ycombinator.com/item?id=49239751">355 comments 637 points</a></li>
-<li><a href="https://bobdahacker.com/blog/tldv-hack"><strong>Tl;dv: Over 180k meetings left wide open</strong> <code>bobdahacker.com</code></a> - <a href="https://news.ycombinator.com/item?id=49242739">182 comments 553 points</a></li>
-<li><a href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"><strong>Mark Zuckerberg attacks &#39;closed&#39; AI rivals as Meta returns to open models</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=49243880">406 comments 420 points</a></li>
-<li><a href="https://www.effort.news/uk-lobby"><strong>The UK&#39;s War on Anonymity Has Come to America</strong> <code>www.effort.news</code></a> - <a href="https://news.ycombinator.com/item?id=49251411">254 comments 388 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/c1j1kjy7gewo"><strong>Mars Bar from 1991 found – and it&#39;s 20g bigger than today&#39;s</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49245023">466 comments 313 points</a></li>
-<li><a href="https://linuxstans.com/illinois-hb5511-operating-system-age-verification/"><strong>Illinois just passed a law that puts Linux on the hook for age verification</strong> <code>linuxstans.com</code></a> - <a href="https://news.ycombinator.com/item?id=49249150">425 comments 303 points</a></li>
-<li><a href="https://claude.com/blog/auto-mode-default-in-claude-code"><strong>Auto mode is now the default in Claude Code</strong> <code>claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=49239021">304 comments 277 points</a></li>
-<li><a href="https://squeak.org/release_notes/6.1/"><strong>Squeak 6.1</strong> <code>squeak.org</code></a> - <a href="https://news.ycombinator.com/item?id=49242653">119 comments 236 points</a></li>
-<li><a href="https://cactuscompute.com/needle"><strong>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</strong> <code>cactuscompute.com</code></a> - <a href="https://news.ycombinator.com/item?id=49246804">91 comments 225 points</a></li>
-<li><a href="https://www.massaschadeconsument.nl/collectieve-acties/playstation/"><strong>Stop Killing Games: It&#39;s time to sue Sony, join us</strong> <code>www.massaschadeconsument.nl</code></a> - <a href="https://news.ycombinator.com/item?id=49249481">100 comments 221 points</a></li>
-<li><a href="https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html"><strong>Mistral Patent for “Code implemented tool calls”</strong> <code>patentsgazette.uspto.gov</code></a> - <a href="https://news.ycombinator.com/item?id=49243397">180 comments 212 points</a></li>
-<li><a href="https://ethw.org/Milestones:Parametron,_1954"><strong>Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes</strong> <code>ethw.org</code></a> - <a href="https://news.ycombinator.com/item?id=49241846">49 comments 202 points</a></li>
-<li><a href="https://www.whodunnitai.com/"><strong>Show HN: Voice driven murder mystery, Interview AI suspects with your voice</strong> <code>www.whodunnitai.com</code></a> - <a href="https://news.ycombinator.com/item?id=49238851">80 comments 195 points</a></li>
-<li><a href="https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"><strong>Humanising LLM Outputs Is Dumb</strong> <code>kuber.studio</code></a> - <a href="https://news.ycombinator.com/item?id=49243474">107 comments 179 points</a></li>
-<li><a href="https://redirect.github.com/shinyquagsire23/Klepton"><strong>Run Android ARM64 VR APKs on Apple Vision Pro</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49238818">58 comments 173 points</a></li>
-<li><a href="https://www.anthropic.com/research/riemann-zeta"><strong>Learning more about Claude&#39;s mathematical capabilities</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=49247070">117 comments 172 points</a></li>
-<li><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive"><strong>Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia</strong> <code>earthquake.usgs.gov</code></a> - <a href="https://news.ycombinator.com/item?id=49245251">66 comments 169 points</a></li>
-<li><a href="https://www.beautifulpublicdata.com/boat-names/"><strong>50k Boat Names</strong> <code>www.beautifulpublicdata.com</code></a> - <a href="https://news.ycombinator.com/item?id=49243029">106 comments 168 points</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/"><strong>Amazon backs power plant that may become top source of US climate pollution</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=49249971">133 comments 165 points</a></li>
-<li><a href="https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/"><strong>&#39;Pervert glasses&#39;: Backlash against Meta&#39;s smart glasses grows</strong> <code>www.seattletimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=49244783">251 comments 164 points</a></li>
-<li><a href="https://www.vectorware.com/blog/simd-on-gpu/"><strong>Rust SIMD on the GPU</strong> <code>www.vectorware.com</code></a> - <a href="https://news.ycombinator.com/item?id=49247477">67 comments 151 points</a></li>
-<li><a href="https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/"><strong>Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints</strong> <code>www.wcax.com</code></a> - <a href="https://news.ycombinator.com/item?id=49244569">157 comments 147 points</a></li>
-<li><a href="https://redirect.github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii"><strong>Exploiting System Management Mode with a very long interrupt</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49245491">52 comments 143 points</a></li>
-<li><a href="https://lwn.net/Articles/1034703/"><strong>Tail-call optimization in C is relatively recent (2025)</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=49242297">124 comments 133 points</a></li>
-<li><a href="https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"><strong>Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines</strong> <code>blog.sshh.io</code></a> - <a href="https://news.ycombinator.com/item?id=49244085">14 comments 125 points</a></li>
-<li><a href="https://redirect.github.com/AntigmaLabs/ante"><strong>Show HN: Ante, a coding agent in a single binary that runs offline</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49245437">75 comments 122 points</a></li>
-<li><a href="https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html"><strong>Study links GLP-1 drugs to bigger jump in women&#39;s employment than a degree</strong> <code>finance.yahoo.com</code></a> - <a href="https://news.ycombinator.com/item?id=49245487">175 comments 121 points</a></li>
-<li><a href="https://thewalrus.ca/google-search-is-dying/"><strong>Google Search Is Dying. What Comes Next Is Worse</strong> <code>thewalrus.ca</code></a> - <a href="https://news.ycombinator.com/item?id=49250836">108 comments 118 points</a></li>
-<li><a href="https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the"><strong>Itadakimasu: A word you say to the food, not the cook</strong> <code>thetokyohermit.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=49244916">66 comments 111 points</a></li>
-</ol>
-<p>04:08:45 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
