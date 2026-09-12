@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 11 Sep 2026 04:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 04:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-09-11]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1460</link>
+            <guid isPermaLink="false">1460</guid>
+            <pubDate>Fri, 11 Sep 2026 04:50:34 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://twitter.com/deepseek_ai/status/2097930608790167907"><strong>DeepSeek v4.1 Flash</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49639090">533 comments 952 points</a></li>
+<li><a href="https://shopify.engineering/back-to-native"><strong>Shopify is moving from React Native back to Swift and Kotlin</strong> <code>shopify.engineering</code></a> - <a href="https://news.ycombinator.com/item?id=49643982">609 comments 900 points</a></li>
+<li><a href="https://mathstodon.xyz/@andreasthom/117240535270608201"><strong>More questions about whether researchers can trust OpenAI with unpublished math</strong> <code>mathstodon.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=49639408">693 comments 757 points</a></li>
+<li><a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"><strong>Rust is tier-1 language at Microsoft</strong> <code>rustfoundation.org</code></a> - <a href="https://news.ycombinator.com/item?id=49643546">363 comments 633 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=49643556"><strong>Tell HN: OpenAI keeps re-enabling the &#39;allow training&#39; setting</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=49643556">178 comments 442 points</a></li>
+<li><a href="https://graybeard.ing/software-drives-people-insane/"><strong>I have a theory that software drives people insane</strong> <code>graybeard.ing</code></a> - <a href="https://news.ycombinator.com/item?id=49646181">175 comments 421 points</a></li>
+<li><a href="https://blog.jim-nielsen.com/2026/hands-off-my-cables/"><strong>Don&#39;t let anyone take away your big box of cables</strong> <code>blog.jim-nielsen.com</code></a> - <a href="https://news.ycombinator.com/item?id=49645393">283 comments 393 points</a></li>
+<li><a href="https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit"><strong>List of references on Sony websites to players &quot;owning&quot; their digital games</strong> <code>consumerrights.wiki</code></a> - <a href="https://news.ycombinator.com/item?id=49642531">126 comments 380 points</a></li>
+<li><a href="https://cognition.com/blog/swe-2"><strong>Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra</strong> <code>cognition.com</code></a> - <a href="https://news.ycombinator.com/item?id=49645443">160 comments 379 points</a></li>
+<li><a href="https://honestlyranked.com/guides/streaming-price-increases/"><strong>The same nine streaming subscriptions cost $702/year more than in 2021</strong> <code>honestlyranked.com</code></a> - <a href="https://news.ycombinator.com/item?id=49641215">370 comments 370 points</a></li>
+<li><a href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683"><strong>What algorithm did Windows XP use to choose your initial user picture?</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=49640646">173 comments 344 points</a></li>
+<li><a href="https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images"><strong>Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)</strong> <code>spinoff.nasa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=49645437">46 comments 292 points</a></li>
+<li><a href="https://twitter.com/ValerioCapraro/status/2097791836269977996"><strong>OpenAI might have stolen another major proof</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49638353">10 comments 291 points</a></li>
+<li><a href="https://mathstodon.xyz/@tao/117244102901892965"><strong>All grown-ups were once children, but only few of them remember it</strong> <code>mathstodon.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=49638280">215 comments 257 points</a></li>
+<li><a href="https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d"><strong>Another researcher says OpenAI trained on conversations, then claimed breakthrou</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=49643112">15 comments 256 points</a></li>
+<li><a href="https://planetscale.com/blog/introducing-neki"><strong>Neki – Sharded Postgres</strong> <code>planetscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=49645686">120 comments 218 points</a></li>
+<li><a href="https://developers.openai.com/api/docs/guides/agents-api/overview"><strong>OpenAI Agents API</strong> <code>developers.openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=49649213">117 comments 186 points</a></li>
+<li><a href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html"><strong>Music Theory for the 21st-Century Classroom</strong> <code>musictheory.pugetsound.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49647134">83 comments 183 points</a></li>
+<li><a href="https://strategictree.bearblog.dev/i-think-i-hate-the-internet/"><strong>I think I hate the internet</strong> <code>strategictree.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49639104">169 comments 176 points</a></li>
+<li><a href="https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex"><strong>Silicon Valley is transforming the military-industrial complex? (2024)</strong> <code>costsofwar.watson.brown.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49645754">326 comments 163 points</a></li>
+<li><a href="https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash"><strong>Thanks to Siri Recaps, your Apple Watch is always listening</strong> <code>www.techradar.com</code></a> - <a href="https://news.ycombinator.com/item?id=49641401">138 comments 162 points</a></li>
+<li><a href="https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md"><strong>Forgejo &lt;=16.0.3 Critical RCE</strong> <code>codeberg.org</code></a> - <a href="https://news.ycombinator.com/item?id=49645907">59 comments 159 points</a></li>
+<li><a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/"><strong>OpenAI’s Navier-Stokes release included a Lean 4 formal proof</strong> <code>www.johndcook.com</code></a> - <a href="https://news.ycombinator.com/item?id=49650326">155 comments 150 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/c8r6y4me2g6o"><strong>Google will buy half the electricity from one of Finland&#39;s nuclear power plants</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49652105">104 comments 145 points</a></li>
+<li><a href="https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat"><strong>Creativity is the new moat</strong> <code>www.inventbuild.studio</code></a> - <a href="https://news.ycombinator.com/item?id=49648732">81 comments 143 points</a></li>
+<li><a href="https://auberon.xyz/blog/posts/deathray/"><strong>The Deathray: A simple way for an untrusted site to freeze a Mac</strong> <code>auberon.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=49649124">75 comments 121 points</a></li>
+<li><a href="https://www.anthropic.com/threat-intelligence-report-september-2026"><strong>Detecting and countering misuse of AI: September 2026</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=49647300">175 comments 103 points</a></li>
+<li><a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/"><strong>Mexican student creates an acoustic fire extinguisher to put out fire in seconds</strong> <code>www.upsocl.com</code></a> - <a href="https://news.ycombinator.com/item?id=49652237">43 comments 102 points</a></li>
+<li><a href="https://neki.dev/"><strong>Neki is sharded Postgres by PlanetScale</strong> <code>neki.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49645763">4 comments 101 points</a></li>
+<li><a href="https://mastodon.social/@tristanbuckmaster/117237555794407063"><strong>OpenAI have no mathematicians capable of understanding what they put out</strong> <code>mastodon.social</code></a> - <a href="https://news.ycombinator.com/item?id=49638622">46 comments 96 points</a></li>
+</ol>
+<p>04:50:33 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-09-10]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1459</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://declaude.org/watermarking/"><strong>How AI text watermarking works</strong> <code>declaude.org</code></a> - <a href="https://news.ycombinator.com/item?id=49292932">78 comments 97 points</a></li>
 </ol>
 <p>04:39:04 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-08-13]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1429</link>
-            <guid isPermaLink="false">1429</guid>
-            <pubDate>Thu, 13 Aug 2026 04:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://tailscale.com/blog/sqlite-wal-reset-bug"><strong>Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug</strong> <code>tailscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=49272832">173 comments 880 points</a></li>
-<li><a href="https://openrouter.ai/deepseek/deepseek-v4-pro-0813"><strong>DeepSeek V4 Pro 0813</strong> <code>openrouter.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49274600">321 comments 811 points</a></li>
-<li><a href="https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"><strong>AI is removing the middle class of software engineering?</strong> <code>blog.florianherrengt.com</code></a> - <a href="https://news.ycombinator.com/item?id=49271994">730 comments 785 points</a></li>
-<li><a href="https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/"><strong>License plate reader searches should require a warrant</strong> <code>andrewpwheeler.com</code></a> - <a href="https://news.ycombinator.com/item?id=49273165">335 comments 565 points</a></li>
-<li><a href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"><strong>Qwen3.8-2.4T</strong> <code>huggingface.co</code></a> - <a href="https://news.ycombinator.com/item?id=49273478">119 comments 540 points</a></li>
-<li><a href="https://www.cringebot3000.com/"><strong>LinkedIn CringeBot 3000</strong> <code>www.cringebot3000.com</code></a> - <a href="https://news.ycombinator.com/item?id=49268564">201 comments 467 points</a></li>
-<li><a href="https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696"><strong>Controversial creators are benefiting from monetization programs run by Meta</strong> <code>www.abc.net.au</code></a> - <a href="https://news.ycombinator.com/item?id=49269818">322 comments 466 points</a></li>
-<li><a href="https://jonty.github.io/2026_eclipse_webcams/"><strong>2026 Eclipse Webcams</strong> <code>jonty.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49270953">124 comments 462 points</a></li>
-<li><a href="https://x.ai/news/grok-4-6"><strong>Grok 4.6</strong> <code>x.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49274027">435 comments 461 points</a></li>
-<li><a href="https://zed.dev/blog/introducing-delta"><strong>Delta</strong> <code>zed.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49276574">155 comments 458 points</a></li>
-<li><a href="https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"><strong>uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook</strong> <code>digitalescapetools.com</code></a> - <a href="https://news.ycombinator.com/item?id=49270726">478 comments 355 points</a></li>
-<li><a href="https://llama.app"><strong>llama.cpp</strong> <code>llama.app</code></a> - <a href="https://news.ycombinator.com/item?id=49267928">167 comments 351 points</a></li>
-<li><a href="https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"><strong>Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index</strong> <code>artificialanalysis.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49275385">349 comments 322 points</a></li>
-<li><a href="https://guillaumetech.github.io/posts/jpg-scaling-chrome/"><strong>Why tiny JPEGs look different in Chrome</strong> <code>guillaumetech.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49272549">61 comments 273 points</a></li>
-<li><a href="https://woxi.ad-si.com"><strong>Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation</strong> <code>woxi.ad-si.com</code></a> - <a href="https://news.ycombinator.com/item?id=49270040">40 comments 266 points</a></li>
-<li><a href="https://knownagents.com/insights"><strong>Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot</strong> <code>knownagents.com</code></a> - <a href="https://news.ycombinator.com/item?id=49272569">188 comments 251 points</a></li>
-<li><a href="https://amiga-news.de/en/news/AN-2026-08-00070-EN.html"><strong>Tim King, AmigaDOS developer, has died</strong> <code>amiga-news.de</code></a> - <a href="https://news.ycombinator.com/item?id=49272655">30 comments 247 points</a></li>
-<li><a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/"><strong>What sort of maths are LLMs good at?</strong> <code>gowers.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=49270022">138 comments 246 points</a></li>
-<li><a href="https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/"><strong>Facebook ads are so hard to block that uBlock Origin stopped filtering them</strong> <code>www.neowin.net</code></a> - <a href="https://news.ycombinator.com/item?id=49271126">2 comments 188 points</a></li>
-<li><a href="https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/"><strong>Delphi 13 Community Edition Is Now Available</strong> <code>blogs.embarcadero.com</code></a> - <a href="https://news.ycombinator.com/item?id=49270621">124 comments 168 points</a></li>
-<li><a href="https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/"><strong>HTML over WebSockets: real-time SPAs with barely any JavaScript</strong> <code>en.andros.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49275335">112 comments 165 points</a></li>
-<li><a href="https://shademap.app"><strong>Shade Map</strong> <code>shademap.app</code></a> - <a href="https://news.ycombinator.com/item?id=49271757">43 comments 164 points</a></li>
-<li><a href="https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland"><strong>Beef and dairy drive 41% of biodiversity damage linked to global farmland</strong> <code>www.oxfordmartin.ox.ac.uk</code></a> - <a href="https://news.ycombinator.com/item?id=49269789">198 comments 128 points</a></li>
-<li><a href="https://discoveredmaterials.com/research/"><strong>Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials</strong> <code>discoveredmaterials.com</code></a> - <a href="https://news.ycombinator.com/item?id=49269090">28 comments 127 points</a></li>
-<li><a href="https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/"><strong>Pixel Watch 5</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=49274757">226 comments 117 points</a></li>
-<li><a href="https://www.severe-weather.eu/global-weather/excessive-heat-dome-heatwave-western-europe-mid-august-2026-mk/"><strong>5th Heat Dome Expands Across Europe: 40°C+ Target Western and Central Europe</strong> <code>www.severe-weather.eu</code></a> - <a href="https://news.ycombinator.com/item?id=49270857">158 comments 114 points</a></li>
-<li><a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/"><strong>People who grew up with high economic connectedness earn more</strong> <code>julienreszka.com</code></a> - <a href="https://news.ycombinator.com/item?id=49276534">135 comments 110 points</a></li>
-<li><a href="https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/"><strong>German advocacy group lodges criminal complaint over Meta AI glasses</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=49272620">46 comments 109 points</a></li>
-<li><a href="https://lovable.dev/blog/series-c"><strong>Lovable raises $400M Series C</strong> <code>lovable.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49274858">107 comments 106 points</a></li>
-<li><a href="https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/"><strong>Pixel 11 Pro Fold</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=49273330">146 comments 103 points</a></li>
-</ol>
-<p>04:42:10 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
