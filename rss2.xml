@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 13 Sep 2026 04:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 04:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-09-13]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1462</link>
+            <guid isPermaLink="false">1462</guid>
+            <pubDate>Sun, 13 Sep 2026 04:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://darioamodei.com/post/we-must-pace-the-frontier"><strong>We must pace the frontier</strong> <code>darioamodei.com</code></a> - <a href="https://news.ycombinator.com/item?id=49672510">827 comments 597 points</a></li>
+<li><a href="https://www.joelotter.com/posts/2026/09/make-it-anyway/"><strong>Fuck it, make it anyway</strong> <code>www.joelotter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49671329">566 comments 555 points</a></li>
+<li><a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"><strong>Nvidia is the central bank of AI</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=49673098">295 comments 427 points</a></li>
+<li><a href="https://high5apps.github.io/josm-plugin-website-wizard/"><strong>Make your first edit to OpenStreetMap</strong> <code>high5apps.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49674050">89 comments 382 points</a></li>
+<li><a href="https://www.claymath.org/news/navier-stokes-announcement/"><strong>Navier-Stokes Announcement</strong> <code>www.claymath.org</code></a> - <a href="https://news.ycombinator.com/item?id=49668706">261 comments 320 points</a></li>
+<li><a href="https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/"><strong>An open letter to Dario: if you mean it, open the weights</strong> <code>jacob.gold</code></a> - <a href="https://news.ycombinator.com/item?id=49676085">93 comments 277 points</a></li>
+<li><a href="https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"><strong>Everyone should slow down AI development except for me</strong> <code>xeiaso.net</code></a> - <a href="https://news.ycombinator.com/item?id=49678683">154 comments 276 points</a></li>
+<li><a href="https://hachyderm.io/@simontatham/117201594980991062"><strong>Linux Zoom client proactively reading everything written to X11 clipboard</strong> <code>hachyderm.io</code></a> - <a href="https://news.ycombinator.com/item?id=49675902">71 comments 226 points</a></li>
+<li><a href="https://eiln.github.io/posts/ane.html"><strong>Retrospectively Reverse-Engineering Apple&#39;s Neural Engine</strong> <code>eiln.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49670032">32 comments 225 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=ToP9xfLDSME"><strong>LG Says We&#39;re Fake News [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=49676324">97 comments 210 points</a></li>
+<li><a href="https://withspecific.com/benchmarks/real-swe"><strong>Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases</strong> <code>withspecific.com</code></a> - <a href="https://news.ycombinator.com/item?id=49676820">91 comments 171 points</a></li>
+<li><a href="https://www.usenet-rewind.com/"><strong>Usenet rewind archive search engine</strong> <code>www.usenet-rewind.com</code></a> - <a href="https://news.ycombinator.com/item?id=49668777">39 comments 127 points</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/crm932el3yjo"><strong>We&#39;ve followed their lives for six decades; now the stars of 7 Up are bowing out</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=49670981">34 comments 123 points</a></li>
+<li><a href="https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun"><strong>Waymo pulls over, calls cops on juvenile riders who had &#39;ghost gun&quot;</strong> <code>www.latimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=49672549">198 comments 120 points</a></li>
+<li><a href="https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"><strong>The worst spam emails: iLands AI agent hustle</strong> <code>tedium.co</code></a> - <a href="https://news.ycombinator.com/item?id=49671159">54 comments 110 points</a></li>
+<li><a href="https://lalitm.com/post/buildprof/"><strong>I made a build visualizer to understand Bun&#39;s compile times</strong> <code>lalitm.com</code></a> - <a href="https://news.ycombinator.com/item?id=49672842">21 comments 108 points</a></li>
+<li><a href="https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations"><strong>LG responds to TV spying allegations</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=49673392">1 comments 102 points</a></li>
+<li><a href="https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html"><strong>Europe&#39;s &quot;Less&quot; Is Doing More Than Anyone Gives It Credit For</strong> <code>oilprice.com</code></a> - <a href="https://news.ycombinator.com/item?id=49672557">50 comments 100 points</a></li>
+<li><a href="https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html"><strong>Microcode in Intel&#39;s 8087 floating-point chip: the scale instruction</strong> <code>www.righto.com</code></a> - <a href="https://news.ycombinator.com/item?id=49673580">28 comments 96 points</a></li>
+<li><a href="https://transformer-circuits.pub/2021/framework/index.html"><strong>A Mathematical Framework for Transformer Circuits (2021)</strong> <code>transformer-circuits.pub</code></a> - <a href="https://news.ycombinator.com/item?id=49672365">17 comments 92 points</a></li>
+<li><a href="https://prydt.xyz/blog/a-few-good-ideas-in-pl/"><strong>A few good ideas in programming languages</strong> <code>prydt.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=49671972">56 comments 89 points</a></li>
+<li><a href="https://arxiv.org/abs/2609.01877"><strong>Will There Be a 7G?</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=49674498">151 comments 87 points</a></li>
+<li><a href="https://redirect.github.com/nefarius/vd_agent/"><strong>I refuse to let SPICE die</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49672641">64 comments 78 points</a></li>
+<li><a href="https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"><strong>OpenAI&#39;s Sam Altman says it would be &#39;ill-advised&#39; to go public in 2026</strong> <code>techcrunch.com</code></a> - <a href="https://news.ycombinator.com/item?id=49676849">61 comments 75 points</a></li>
+<li><a href="https://pluralistic.net/2026/09/12/god-in-the-box/"><strong>LLMs are real, AI is fake</strong> <code>pluralistic.net</code></a> - <a href="https://news.ycombinator.com/item?id=49672281">34 comments 69 points</a></li>
+<li><a href="https://www.ft.com/article/404"><strong>Financial Times&#39; 404 Page not Found</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=49677391">9 comments 67 points</a></li>
+<li><a href="https://twitter.com/ID_AA_Carmack/status/2098443262214230095"><strong>Don&#39;t be the out of touch Kung Fu master – John Carmack</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49677577">37 comments 66 points</a></li>
+<li><a href="https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/"><strong>How Trail of Bits helps verify the integrity of Signal chats</strong> <code>blog.trailofbits.com</code></a> - <a href="https://news.ycombinator.com/item?id=49671237">38 comments 65 points</a></li>
+<li><a href="https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist"><strong>Naomi Klein: Extreme wealth has a deranging effect. Turns you into a supremacist</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=49671135">13 comments 57 points</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"><strong>Resistance Training Prescription for Muscle Function, Hypertrophy in Health</strong> <code>pmc.ncbi.nlm.nih.gov</code></a> - <a href="https://news.ycombinator.com/item?id=49670493">32 comments 56 points</a></li>
+</ol>
+<p>04:50:30 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-09-12]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1461</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/"><strong>Thunderbird&#39;s Desktop Calendar Visual Redesign</strong> <code>blog.thunderbird.net</code></a> - <a href="https://news.ycombinator.com/item?id=49312823">22 comments 64 points</a></li>
 </ol>
 <p>03:36:16 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-08-15]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1431</link>
-            <guid isPermaLink="false">1431</guid>
-            <pubDate>Sat, 15 Aug 2026 03:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://z.ai/blog/glm-5.3"><strong>GLM-5.3: Frontier coding with emergent cyber capabilities</strong> <code>z.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49294997">518 comments 1042 points</a></li>
-<li><a href="https://huggingface.co/Qwen/Qwen3.8-27B-FP8"><strong>Qwen 3.8 27B</strong> <code>huggingface.co</code></a> - <a href="https://news.ycombinator.com/item?id=49299605">617 comments 951 points</a></li>
-<li><a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/"><strong>Why does Opus 5 feel worse to work with?</strong> <code>mun-logadan.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49296740">740 comments 807 points</a></li>
-<li><a href="https://lxe.github.io/everywebsite/"><strong>Every Fucking Website (2020)</strong> <code>lxe.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49299222">449 comments 758 points</a></li>
-<li><a href="https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html"><strong>Firefox is now the last major browser that still supports uBlock Origin</strong> <code>www.pcworld.com</code></a> - <a href="https://news.ycombinator.com/item?id=49303202">191 comments 522 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/ce97mm3vvemo"><strong>Count Binface receives over a quarter of votes in Clacton by-election</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49301260">345 comments 434 points</a></li>
-<li><a href="https://e360.yale.edu/digest/australia-home-batteries"><strong>In Australia, a home battery boom has helped cut wholesale power prices</strong> <code>e360.yale.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49298910">263 comments 325 points</a></li>
-<li><a href="https://blog.plover.com/2026/08/02/"><strong>Seven books I keep close because I love them</strong> <code>blog.plover.com</code></a> - <a href="https://news.ycombinator.com/item?id=49299675">136 comments 311 points</a></li>
-<li><a href="https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"><strong>Google is making private AI practical with homomorphic encryption</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=49300314">178 comments 300 points</a></li>
-<li><a href="https://twitter.com/alibaba_qwen/status/2088280182356611304"><strong>Qwen3.8-27B</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49299684">3 comments 297 points</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters"><strong>US conducted mass spying campaign against leftwing and anti-ICE protesters</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=49294199">88 comments 250 points</a></li>
-<li><a href="https://api-docs.deepseek.com/news/news260813/"><strong>DeepSeek peak/off-peak pricing update</strong> <code>api-docs.deepseek.com</code></a> - <a href="https://news.ycombinator.com/item?id=49296627">3 comments 237 points</a></li>
-<li><a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/"><strong>Going Dark, and the era of law enforcement hacking</strong> <code>blog.cryptographyengineering.com</code></a> - <a href="https://news.ycombinator.com/item?id=49304447">126 comments 235 points</a></li>
-<li><a href="https://rustdesk.com/blog/unattended-remote-access-wayland/"><strong>RustDesk now supports true unattended remote access on Wayland</strong> <code>rustdesk.com</code></a> - <a href="https://news.ycombinator.com/item?id=49300759">101 comments 234 points</a></li>
-<li><a href="https://www.byhand.ai/"><strong>AI by Hand</strong> <code>www.byhand.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49300568">19 comments 224 points</a></li>
-<li><a href="https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/"><strong>France&#39;s top court blocks social media ban for under-15s</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=49300671">152 comments 210 points</a></li>
-<li><a href="https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/"><strong>Dear people who work at the airport</strong> <code>life-after-ssri.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49297801">244 comments 194 points</a></li>
-<li><a href="https://www.mixedbread.com/blog/toast-1"><strong>Introducing Toast 1</strong> <code>www.mixedbread.com</code></a> - <a href="https://news.ycombinator.com/item?id=49299746">59 comments 185 points</a></li>
-<li><a href="https://weightythoughts.com/p/when-genius-failsthe-intellectual"><strong>When Genius Fails: The Intellectual Arrogance of the AI Labs</strong> <code>weightythoughts.com</code></a> - <a href="https://news.ycombinator.com/item?id=49299282">186 comments 170 points</a></li>
-<li><a href="https://heyjonny.dev/posts/rss-to-eink-newspaper/"><strong>I turned my RSS feeds into an e-ink newspaper to stop reading on my phone</strong> <code>heyjonny.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49299081">61 comments 157 points</a></li>
-<li><a href="https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/"><strong>The TEMU-Fication of Software, Digital Goods and Services</strong> <code>xn--gckvb8fzb.com</code></a> - <a href="https://news.ycombinator.com/item?id=49297637">102 comments 145 points</a></li>
-<li><a href="https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"><strong>Maximizing the value of your Claude Code sessions</strong> <code>claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=49300800">98 comments 144 points</a></li>
-<li><a href="https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV"><strong>RISC-V: They should have known better</strong> <code>dmitry.gr</code></a> - <a href="https://news.ycombinator.com/item?id=49305492">118 comments 139 points</a></li>
-<li><a href="https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697"><strong>Jane Street suffers $15B hit after meltdown at Situational Awareness</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=49305927">76 comments 101 points</a></li>
-<li><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive"><strong>Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia</strong> <code>earthquake.usgs.gov</code></a> - <a href="https://news.ycombinator.com/item?id=49306577">18 comments 98 points</a></li>
-<li><a href="https://cursor.com/blog/joining-spacex"><strong>Cursor is now a part of SpaceX</strong> <code>cursor.com</code></a> - <a href="https://news.ycombinator.com/item?id=49298211">109 comments 96 points</a></li>
-<li><a href="https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo"><strong>CEO who fired 900 people on Zoom just before Christmas wants his job back</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=49303592">80 comments 96 points</a></li>
-<li><a href="https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va"><strong>Stop sending me huge PRs; a rant</strong> <code>getsmall.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=49305558">60 comments 95 points</a></li>
-<li><a href="https://www.whatcable.uk/"><strong>WhatCable: Know what your USB-C cable can do</strong> <code>www.whatcable.uk</code></a> - <a href="https://news.ycombinator.com/item?id=49297469">63 comments 89 points</a></li>
-<li><a href="https://ntfy.sh/"><strong>Ntfy – open-source Push to Mobile</strong> <code>ntfy.sh</code></a> - <a href="https://news.ycombinator.com/item?id=49296902">41 comments 86 points</a></li>
-</ol>
-<p>03:26:39 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
