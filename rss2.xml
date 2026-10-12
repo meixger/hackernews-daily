@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 11 Oct 2026 04:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 04:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-10-11]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1490</link>
+            <guid isPermaLink="false">1490</guid>
+            <pubDate>Sun, 11 Oct 2026 04:50:38 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://carette.xyz/posts/lobbying_and_corruption/"><strong>Lobbying is corruption</strong> <code>carette.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=50032556">269 comments 475 points</a></li>
+<li>[<strong>`123456&#39; password used in Danish CPR data breach</strong> <code>cphpost.dk</code>](<a href="https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/">https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/</a>) - <a href="https://news.ycombinator.com/item?id=50031269">194 comments 382 points</a></li>
+<li><a href="https://community.bitwarden.com/t/published-version-update-in-app-stores/102750"><strong>Bitwarden Dual License Model</strong> <code>community.bitwarden.com</code></a> - <a href="https://news.ycombinator.com/item?id=50033407">262 comments 363 points</a></li>
+<li><a href="https://lightbulbcomputer.com/"><strong>The Lightbulb Computer</strong> <code>lightbulbcomputer.com</code></a> - <a href="https://news.ycombinator.com/item?id=50029487">46 comments 315 points</a></li>
+<li><a href="https://redirect.github.com/rociiu/talorys"><strong>Talorys – A self-hosted personal AI agent on Cloudflare&#39;s free tier</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50031614">123 comments 270 points</a></li>
+<li><a href="https://www.opengroup.org//openbrand/register/"><strong>Apple/macOS removed from official Unix registry</strong> <code>www.opengroup.org</code></a> - <a href="https://news.ycombinator.com/item?id=50031653">224 comments 268 points</a></li>
+<li><a href="https://housing.over.pizza/"><strong>A city-building game in which the city would prefer you didn&#39;t</strong> <code>housing.over.pizza</code></a> - <a href="https://news.ycombinator.com/item?id=50036864">87 comments 245 points</a></li>
+<li><a href="https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/"><strong>I would like the value of my home to rise, while my property taxes fall</strong> <code>conversableeconomist.com</code></a> - <a href="https://news.ycombinator.com/item?id=50032758">536 comments 236 points</a></li>
+<li><a href="https://wiki.cateat.fish/art:computers_cannot_make_decisions"><strong>Computers Cannot Make Decisions</strong> <code>wiki.cateat.fish</code></a> - <a href="https://news.ycombinator.com/item?id=50029982">179 comments 196 points</a></li>
+<li><a href="https://wallhop.io/"><strong>WallHop – 12ft.io is gone, so I built a replacement</strong> <code>wallhop.io</code></a> - <a href="https://news.ycombinator.com/item?id=50038634">81 comments 184 points</a></li>
+<li><a href="https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html"><strong>Lobbying</strong> <code>geohot.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=50029630">68 comments 184 points</a></li>
+<li><a href="https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis"><strong>FDA may allow some toxic chemicals to be added to food without safety review</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=50033638">85 comments 180 points</a></li>
+<li><a href="https://www.thomas-huehn.com/knuth-reward-check/"><strong>Knuth reward check</strong> <code>www.thomas-huehn.com</code></a> - <a href="https://news.ycombinator.com/item?id=50034081">63 comments 175 points</a></li>
+<li><a href="https://nishtahir.com/build-your-own-decision-model/"><strong>Build your own decision model</strong> <code>nishtahir.com</code></a> - <a href="https://news.ycombinator.com/item?id=50037949">34 comments 174 points</a></li>
+<li><a href="https://motherduck.com/blog/why-duckdb-20-is-faster/"><strong>Why DuckDB 2.0 is faster</strong> <code>motherduck.com</code></a> - <a href="https://news.ycombinator.com/item?id=50035530">52 comments 171 points</a></li>
+<li><a href="https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"><strong>Nvidia in talks to acquire US &#39;open&#39; model startup Reflection AI</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=50035886">95 comments 142 points</a></li>
+<li><a href="https://wsj.com/tech/ai/tom-brown-athropic-669005ad"><strong>Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal</strong> <code>wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=50033678">56 comments 131 points</a></li>
+<li><a href="https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html"><strong>Food processing influences metabolism and brain activity</strong> <code>news.vt.edu</code></a> - <a href="https://news.ycombinator.com/item?id=50029830">94 comments 125 points</a></li>
+<li><a href="https://chronicles.popvax.com/p/popvax-goes-clinical"><strong>PVX-001: open-source Covid-19 vaccine starts Phase 1 trial</strong> <code>chronicles.popvax.com</code></a> - <a href="https://news.ycombinator.com/item?id=50033721">29 comments 123 points</a></li>
+<li><a href="https://ghuntley.com/unikernels/"><strong>Unikernels were hard. key word: were</strong> <code>ghuntley.com</code></a> - <a href="https://news.ycombinator.com/item?id=50033357">51 comments 120 points</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Takeshi%27s_Castle"><strong>Takeshi&#39;s Castle</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=50036119">37 comments 107 points</a></li>
+<li><a href="https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300"><strong>Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well</strong> <code>kotaku.com</code></a> - <a href="https://news.ycombinator.com/item?id=50035561">75 comments 91 points</a></li>
+<li><a href="https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd"><strong>How Protein Took over the World</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=50034008">149 comments 64 points</a></li>
+<li><a href="https://momo5502.com/posts/2026-10-09-game-decompilation/"><strong>500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter</strong> <code>momo5502.com</code></a> - <a href="https://news.ycombinator.com/item?id=50039092">47 comments 64 points</a></li>
+<li><a href="https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas"><strong>MrBeast &#39;spends millions reverse engineering the algorithms on each platform&#39;</strong> <code>www.barchart.com</code></a> - <a href="https://news.ycombinator.com/item?id=50034123">75 comments 61 points</a></li>
+<li><a href="https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"><strong>My personal AI agent posted my bank details on company Slack</strong> <code>www.businessinsider.com</code></a> - <a href="https://news.ycombinator.com/item?id=50033517">66 comments 60 points</a></li>
+<li><a href="https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/"><strong>AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks</strong> <code>www.warren.senate.gov</code></a> - <a href="https://news.ycombinator.com/item?id=50031156">8 comments 56 points</a></li>
+<li><a href="https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6"><strong>Anthropic Bans Cruelty to Claude, Still Won&#39;t Say What It Protects</strong> <code>rews.cc</code></a> - <a href="https://news.ycombinator.com/item?id=50038383">109 comments 53 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours"><strong>Data Center Darling&#39;s $30B IPO Dream Crushed in 48 Hours</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=50029452">12 comments 53 points</a></li>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218"><strong>Anthropic asks users to stop being mean to Claude</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=50038865">48 comments 46 points</a></li>
+</ol>
+<p>04:50:32 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-10-10]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1489</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia"><strong>Instagram&#39;s head says engagement falls by half without the algorithm</strong> <code>thenextweb.com</code></a> - <a href="https://news.ycombinator.com/item?id=49656564">101 comments 107 points</a></li>
 </ol>
 <p>04:50:31 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-09-11]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1460</link>
-            <guid isPermaLink="false">1460</guid>
-            <pubDate>Fri, 11 Sep 2026 04:50:34 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://twitter.com/deepseek_ai/status/2097930608790167907"><strong>DeepSeek v4.1 Flash</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49639090">533 comments 952 points</a></li>
-<li><a href="https://shopify.engineering/back-to-native"><strong>Shopify is moving from React Native back to Swift and Kotlin</strong> <code>shopify.engineering</code></a> - <a href="https://news.ycombinator.com/item?id=49643982">609 comments 900 points</a></li>
-<li><a href="https://mathstodon.xyz/@andreasthom/117240535270608201"><strong>More questions about whether researchers can trust OpenAI with unpublished math</strong> <code>mathstodon.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=49639408">693 comments 757 points</a></li>
-<li><a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"><strong>Rust is tier-1 language at Microsoft</strong> <code>rustfoundation.org</code></a> - <a href="https://news.ycombinator.com/item?id=49643546">363 comments 633 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=49643556"><strong>Tell HN: OpenAI keeps re-enabling the &#39;allow training&#39; setting</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=49643556">178 comments 442 points</a></li>
-<li><a href="https://graybeard.ing/software-drives-people-insane/"><strong>I have a theory that software drives people insane</strong> <code>graybeard.ing</code></a> - <a href="https://news.ycombinator.com/item?id=49646181">175 comments 421 points</a></li>
-<li><a href="https://blog.jim-nielsen.com/2026/hands-off-my-cables/"><strong>Don&#39;t let anyone take away your big box of cables</strong> <code>blog.jim-nielsen.com</code></a> - <a href="https://news.ycombinator.com/item?id=49645393">283 comments 393 points</a></li>
-<li><a href="https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit"><strong>List of references on Sony websites to players &quot;owning&quot; their digital games</strong> <code>consumerrights.wiki</code></a> - <a href="https://news.ycombinator.com/item?id=49642531">126 comments 380 points</a></li>
-<li><a href="https://cognition.com/blog/swe-2"><strong>Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra</strong> <code>cognition.com</code></a> - <a href="https://news.ycombinator.com/item?id=49645443">160 comments 379 points</a></li>
-<li><a href="https://honestlyranked.com/guides/streaming-price-increases/"><strong>The same nine streaming subscriptions cost $702/year more than in 2021</strong> <code>honestlyranked.com</code></a> - <a href="https://news.ycombinator.com/item?id=49641215">370 comments 370 points</a></li>
-<li><a href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683"><strong>What algorithm did Windows XP use to choose your initial user picture?</strong> <code>devblogs.microsoft.com</code></a> - <a href="https://news.ycombinator.com/item?id=49640646">173 comments 344 points</a></li>
-<li><a href="https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images"><strong>Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)</strong> <code>spinoff.nasa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=49645437">46 comments 292 points</a></li>
-<li><a href="https://twitter.com/ValerioCapraro/status/2097791836269977996"><strong>OpenAI might have stolen another major proof</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49638353">10 comments 291 points</a></li>
-<li><a href="https://mathstodon.xyz/@tao/117244102901892965"><strong>All grown-ups were once children, but only few of them remember it</strong> <code>mathstodon.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=49638280">215 comments 257 points</a></li>
-<li><a href="https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d"><strong>Another researcher says OpenAI trained on conversations, then claimed breakthrou</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=49643112">15 comments 256 points</a></li>
-<li><a href="https://planetscale.com/blog/introducing-neki"><strong>Neki – Sharded Postgres</strong> <code>planetscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=49645686">120 comments 218 points</a></li>
-<li><a href="https://developers.openai.com/api/docs/guides/agents-api/overview"><strong>OpenAI Agents API</strong> <code>developers.openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=49649213">117 comments 186 points</a></li>
-<li><a href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html"><strong>Music Theory for the 21st-Century Classroom</strong> <code>musictheory.pugetsound.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49647134">83 comments 183 points</a></li>
-<li><a href="https://strategictree.bearblog.dev/i-think-i-hate-the-internet/"><strong>I think I hate the internet</strong> <code>strategictree.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49639104">169 comments 176 points</a></li>
-<li><a href="https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex"><strong>Silicon Valley is transforming the military-industrial complex? (2024)</strong> <code>costsofwar.watson.brown.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49645754">326 comments 163 points</a></li>
-<li><a href="https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash"><strong>Thanks to Siri Recaps, your Apple Watch is always listening</strong> <code>www.techradar.com</code></a> - <a href="https://news.ycombinator.com/item?id=49641401">138 comments 162 points</a></li>
-<li><a href="https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md"><strong>Forgejo &lt;=16.0.3 Critical RCE</strong> <code>codeberg.org</code></a> - <a href="https://news.ycombinator.com/item?id=49645907">59 comments 159 points</a></li>
-<li><a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/"><strong>OpenAI’s Navier-Stokes release included a Lean 4 formal proof</strong> <code>www.johndcook.com</code></a> - <a href="https://news.ycombinator.com/item?id=49650326">155 comments 150 points</a></li>
-<li><a href="https://www.bbc.com/news/articles/c8r6y4me2g6o"><strong>Google will buy half the electricity from one of Finland&#39;s nuclear power plants</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49652105">104 comments 145 points</a></li>
-<li><a href="https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat"><strong>Creativity is the new moat</strong> <code>www.inventbuild.studio</code></a> - <a href="https://news.ycombinator.com/item?id=49648732">81 comments 143 points</a></li>
-<li><a href="https://auberon.xyz/blog/posts/deathray/"><strong>The Deathray: A simple way for an untrusted site to freeze a Mac</strong> <code>auberon.xyz</code></a> - <a href="https://news.ycombinator.com/item?id=49649124">75 comments 121 points</a></li>
-<li><a href="https://www.anthropic.com/threat-intelligence-report-september-2026"><strong>Detecting and countering misuse of AI: September 2026</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=49647300">175 comments 103 points</a></li>
-<li><a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/"><strong>Mexican student creates an acoustic fire extinguisher to put out fire in seconds</strong> <code>www.upsocl.com</code></a> - <a href="https://news.ycombinator.com/item?id=49652237">43 comments 102 points</a></li>
-<li><a href="https://neki.dev/"><strong>Neki is sharded Postgres by PlanetScale</strong> <code>neki.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49645763">4 comments 101 points</a></li>
-<li><a href="https://mastodon.social/@tristanbuckmaster/117237555794407063"><strong>OpenAI have no mathematicians capable of understanding what they put out</strong> <code>mastodon.social</code></a> - <a href="https://news.ycombinator.com/item?id=49638622">46 comments 96 points</a></li>
-</ol>
-<p>04:50:33 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
