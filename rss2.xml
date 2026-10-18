@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sat, 17 Oct 2026 04:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 04:50:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-10-17]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1496</link>
+            <guid isPermaLink="false">1496</guid>
+            <pubDate>Sat, 17 Oct 2026 04:50:30 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.anthropic.com/research/ecdsa-curve-origins"><strong>Claude reveals ECDSA curve origins</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=50122800">293 comments 767 points</a></li>
+<li><a href="https://www.mercor.com/research/labor-index/benchmark-map/"><strong>90% of US working hours are spent on tasks not covered well by AI benchmarks</strong> <code>www.mercor.com</code></a> - <a href="https://news.ycombinator.com/item?id=50121179">389 comments 445 points</a></li>
+<li><a href="https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"><strong>I love software rendering</strong> <code>www.jamesfmackenzie.com</code></a> - <a href="https://news.ycombinator.com/item?id=50117746">196 comments 311 points</a></li>
+<li><a href="https://waymo.com/blog/2026/10/waymo-in-toronto/"><strong>Waymo in Toronto</strong> <code>waymo.com</code></a> - <a href="https://news.ycombinator.com/item?id=50118981">409 comments 304 points</a></li>
+<li><a href="https://machinelearning.apple.com/research/mlx-distributed-inference"><strong>Apple ML Research: Muse Spark Open with MLX on Mac Studio</strong> <code>machinelearning.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=50118320">138 comments 287 points</a></li>
+<li><a href="https://claude.dev/blog/solving-code-review-at-anthropic/"><strong>How the Claude Code team does code review</strong> <code>claude.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50122951">257 comments 280 points</a></li>
+<li><a href="https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d"><strong>Anthropic assigned highest junk credit rating in June</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=50122112">71 comments 233 points</a></li>
+<li><a href="https://redirect.github.com/cobanov/PS5LM"><strong>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50122431">62 comments 230 points</a></li>
+<li><a href="https://jakearchibald.com/2026/jpeg-xl-vs-avif/"><strong>JPEG XL vs. AVIF for web use-cases</strong> <code>jakearchibald.com</code></a> - <a href="https://news.ycombinator.com/item?id=50120224">156 comments 221 points</a></li>
+<li><a href="https://redirect.github.com/home-assistant/home-assistant.io/issues/49314"><strong>I never authorized an integration that scans my secrets</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50124251">170 comments 209 points</a></li>
+<li><a href="https://danieltemkin.com/esolangs/folders"><strong>The Folders Programming Language</strong> <code>danieltemkin.com</code></a> - <a href="https://news.ycombinator.com/item?id=50114342">37 comments 206 points</a></li>
+<li><a href="https://starskirmish.com/bench/v0-2/"><strong>Show HN: Gemini 4 Argon plays StarCraft</strong> <code>starskirmish.com</code></a> - <a href="https://news.ycombinator.com/item?id=50118688">90 comments 201 points</a></li>
+<li><a href="https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games"><strong>US Rep Announces Congressional Legislation to Protect Video Game Ownership</strong> <code>ritchietorres.house.gov</code></a> - <a href="https://news.ycombinator.com/item?id=50120101">112 comments 200 points</a></li>
+<li><a href="https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear"><strong>eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear</strong> <code>www.arrl.org</code></a> - <a href="https://news.ycombinator.com/item?id=50122034">153 comments 195 points</a></li>
+<li><a href="https://alexwang.ai/posts/associative-memory/"><strong>You could have invented transformers from memory</strong> <code>alexwang.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50122878">57 comments 191 points</a></li>
+<li><a href="https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx"><strong>Desire to Move Permanently to U.S. at New Low</strong> <code>news.gallup.com</code></a> - <a href="https://news.ycombinator.com/item?id=50120664">194 comments 189 points</a></li>
+<li><a href="https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"><strong>Postgres 19 delayed after AI reviewers find more bugs than humans can fix</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=50119991">73 comments 189 points</a></li>
+<li><a href="https://calif.io/research/big-fish"><strong>Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD</strong> <code>calif.io</code></a> - <a href="https://news.ycombinator.com/item?id=50118977">48 comments 172 points</a></li>
+<li><a href="https://www.worksinprogress.news/p/porcelain"><strong>What on Earth Is Dekton?</strong> <code>www.worksinprogress.news</code></a> - <a href="https://news.ycombinator.com/item?id=50118828">51 comments 142 points</a></li>
+<li><a href="https://dev-null.sh"><strong>/dev/null: social network for developers</strong> <code>dev-null.sh</code></a> - <a href="https://news.ycombinator.com/item?id=50121004">126 comments 137 points</a></li>
+<li><a href="https://bfl.ai/blog/flux-3-image-klein"><strong>FLUX 3 Image Klein</strong> <code>bfl.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50123580">39 comments 137 points</a></li>
+<li><a href="https://dune.fandom.com/wiki/Butlerian_Jihad"><strong>Butlerian Jihad</strong> <code>dune.fandom.com</code></a> - <a href="https://news.ycombinator.com/item?id=50127274">68 comments 127 points</a></li>
+<li><a href="https://www.anthropic.com/research/designing-efficient-quantum-circuits"><strong>Designing more efficient quantum circuits with Claude</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=50121939">24 comments 118 points</a></li>
+<li><a href="https://www.equator.org/articles/arundhati-roy-artificial-intelligence"><strong>Artificial intelligence is capitalism&#39;s final destination</strong> <code>www.equator.org</code></a> - <a href="https://news.ycombinator.com/item?id=50117382">122 comments 106 points</a></li>
+<li><a href="https://dfarq.homeip.net/what-was-a-token-ring-network/"><strong>What was a Token Ring network?</strong> <code>dfarq.homeip.net</code></a> - <a href="https://news.ycombinator.com/item?id=50118318">82 comments 105 points</a></li>
+<li><a href="https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/"><strong>RFC8950: Announce IPv4 with an IPv6 next-hop</strong> <code>anuragbhatia.com</code></a> - <a href="https://news.ycombinator.com/item?id=50118267">63 comments 101 points</a></li>
+<li><a href="https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation"><strong>Inside Polymarket&#39;s paid quote-retweet esports program</strong> <code>www.readergrev.com</code></a> - <a href="https://news.ycombinator.com/item?id=50120010">59 comments 94 points</a></li>
+<li><a href="https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/"><strong>My old job feels distant now</strong> <code>www.pinecoder.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50118048">90 comments 89 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50121562"><strong>Anthropic Console overcharged my card 100x due to internationalization input bug</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=50121562">34 comments 86 points</a></li>
+<li><a href="https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging"><strong>C++26: The New Debugging Header</strong> <code>www.sandordargo.com</code></a> - <a href="https://news.ycombinator.com/item?id=50122736">14 comments 83 points</a></li>
+</ol>
+<p>04:50:29 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-10-16]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1495</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://openai.com/index/model-misalignment-reporting-framework/"><strong>Our framework for reporting model misalignment</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=49737503">93 comments 102 points</a></li>
 </ol>
 <p>04:50:31 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-09-17]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1466</link>
-            <guid isPermaLink="false">1466</guid>
-            <pubDate>Thu, 17 Sep 2026 04:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.bbc.com/news/articles/cjwyzrr9d3dko"><strong>EU chief opens door for Canada to become &#39;associate member&#39;</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49724141">831 comments 653 points</a></li>
-<li><a href="https://mistral.ai/news/mistral-x-mozilla/"><strong>Mistral X Mozilla: Private, Multilingual AI Browsing</strong> <code>mistral.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49723408">188 comments 548 points</a></li>
-<li><a href="https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"><strong>Hackers Got Inside a Flock Camera</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=49726586">231 comments 499 points</a></li>
-<li><a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"><strong>Nvidia announces native GPU programming in Rust</strong> <code>developer.nvidia.com</code></a> - <a href="https://news.ycombinator.com/item?id=49724881">161 comments 458 points</a></li>
-<li><a href="https://rohanbansal.com/qorl"><strong>Training a 4B model to produce 81% faster query plans than Postgres</strong> <code>rohanbansal.com</code></a> - <a href="https://news.ycombinator.com/item?id=49731285">94 comments 455 points</a></li>
-<li><a href="https://will-keleher.com/posts/small-programming-tricks-matter/"><strong>Small programming tricks</strong> <code>will-keleher.com</code></a> - <a href="https://news.ycombinator.com/item?id=49729000">199 comments 444 points</a></li>
-<li><a href="https://gultsch.social/@daniel/117280438824908947"><strong>The Google Play app review process now regularly takes longer than a week</strong> <code>gultsch.social</code></a> - <a href="https://news.ycombinator.com/item?id=49724927">333 comments 346 points</a></li>
-<li><a href="https://mimo.xiaomi.com/rl/"><strong>Xiaomi Mimo 2.6 live post-training dashboard</strong> <code>mimo.xiaomi.com</code></a> - <a href="https://news.ycombinator.com/item?id=49732270">86 comments 329 points</a></li>
-<li><a href="https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/"><strong>PS5 Linux lead quits: &quot;a bunch of noobs using LLMs&quot; that &quot;they don&#39;t understand&quot;</strong> <code>frvr.com</code></a> - <a href="https://news.ycombinator.com/item?id=49727627">213 comments 310 points</a></li>
-<li><a href="https://status.salesforce.com/products/all"><strong>Salesforce Global Outage</strong> <code>status.salesforce.com</code></a> - <a href="https://news.ycombinator.com/item?id=49724488">169 comments 268 points</a></li>
-<li><a href="https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip"><strong>Original Sony PlayStation 2 security chip &#39;broken wide open&#39; after 26 years</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=49725356">77 comments 266 points</a></li>
-<li><a href="https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/"><strong>Learning Programming in an Age of LLMs</strong> <code>blog.ploeh.dk</code></a> - <a href="https://news.ycombinator.com/item?id=49723873">179 comments 234 points</a></li>
-<li><a href="https://claude.com/blog/cowork-is-now-claude"><strong>Claude Cowork and chat are now one Claude</strong> <code>claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=49729412">217 comments 211 points</a></li>
-<li><a href="https://mustafa-suleyman.ai/a-warning-about-model-welfare"><strong>A warning about &#39;model welfare&#39;</strong> <code>mustafa-suleyman.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49727580">542 comments 209 points</a></li>
-<li><a href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html"><strong>Australia says it could follow Canada in forging deeper ties with EU</strong> <code>www.independent.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=49734171">154 comments 197 points</a></li>
-<li><a href="https://arxiv.org/abs/2609.14858"><strong>Dream-RSI: Recursive Self-Improvement through Evolving Worlds</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=49726955">49 comments 188 points</a></li>
-<li><a href="https://arxiv.org/abs/2609.16338"><strong>Breaking the 1.58-bit Barrier for Ternary LLMs</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=49732931">22 comments 167 points</a></li>
-<li><a href="https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html"><strong>Vectorized and performance-portable Quicksort (2022)</strong> <code>opensource.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=49731054">27 comments 166 points</a></li>
-<li><a href="https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/"><strong>Fed hikes rates as inflation worries push up bond yields</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=49731356">197 comments 161 points</a></li>
-<li><a href="https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model"><strong>DeepSeek v4.1 Flash Is Now Our Best Hacking Model</strong> <code>enclave.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49725800">66 comments 161 points</a></li>
-<li><a href="https://institute.deepmind.com/"><strong>The DeepMind Institute</strong> <code>institute.deepmind.com</code></a> - <a href="https://news.ycombinator.com/item?id=49727659">55 comments 158 points</a></li>
-<li><a href="https://openai.com/index/reimagining-advertising-with-ai/"><strong>OpenAI expands ChatGPT ads with Sponsored Agents</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=49727041">172 comments 153 points</a></li>
-<li><a href="https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market"><strong>ER visits for gambling disorders doubled after expanded online gambling market</strong> <code>temertymedicine.utoronto.ca</code></a> - <a href="https://news.ycombinator.com/item?id=49730239">143 comments 153 points</a></li>
-<li><a href="https://filipovski.net/2026/09/16/backups-arent-simple.html"><strong>Backups Aren&#39;t Simple</strong> <code>filipovski.net</code></a> - <a href="https://news.ycombinator.com/item?id=49732513">73 comments 141 points</a></li>
-<li><a href="https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/"><strong>Can we stop with the uptime percentages?</strong> <code>blog.jim-nielsen.com</code></a> - <a href="https://news.ycombinator.com/item?id=49728733">104 comments 135 points</a></li>
-<li><a href="https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/"><strong>macOS 27 Golden Gate – Review</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=49732036">131 comments 112 points</a></li>
-<li><a href="https://openspec.dev/"><strong>OpenSpec – A lightweight and configurable AI spec framework</strong> <code>openspec.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49734264">40 comments 100 points</a></li>
-<li><a href="https://redirect.github.com/vinnylarouge/jevlike"><strong>Reverse-engineered Jev-like model</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49731282">15 comments 97 points</a></li>
-<li><a href="https://arxiv.org/abs/2609.13009"><strong>How good are frontier models at physics?</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=49731620">43 comments 86 points</a></li>
-<li><a href="https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran"><strong>Tech Fascism Has Come for American Democracy</strong> <code>techwontsave.us</code></a> - <a href="https://news.ycombinator.com/item?id=49724194">40 comments 84 points</a></li>
-</ol>
-<p>04:51:06 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
