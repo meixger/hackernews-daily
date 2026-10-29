@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Wed, 28 Oct 2026 05:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 05:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-10-28]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1507</link>
+            <guid isPermaLink="false">1507</guid>
+            <pubDate>Wed, 28 Oct 2026 05:50:33 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://ghostty.org/docs/install/release-notes/1-4-0"><strong>Ghostty 1.4</strong> <code>ghostty.org</code></a> - <a href="https://news.ycombinator.com/item?id=50261998">278 comments 886 points</a></li>
+<li><a href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"><strong>US Government is hiding a secret court ruling about how it spies on Americans</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=50259604">312 comments 882 points</a></li>
+<li><a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"><strong>Genie 4</strong> <code>deepmind.google</code></a> - <a href="https://news.ycombinator.com/item?id=50261319">490 comments 815 points</a></li>
+<li><a href="https://oioannou.com/blog/ai-promised-less-work/"><strong>AI promised less work. I&#39;ve never worked more</strong> <code>oioannou.com</code></a> - <a href="https://news.ycombinator.com/item?id=50257325">623 comments 628 points</a></li>
+<li><a href="https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"><strong>Anthropic trained Claude on illegally obtained Stanford professors&#39; books</strong> <code>stanforddaily.com</code></a> - <a href="https://news.ycombinator.com/item?id=50260814">269 comments 499 points</a></li>
+<li><a href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"><strong>Python&#39;s experimental JIT to be removed</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=50257419">254 comments 473 points</a></li>
+<li><a href="https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"><strong>Wikipedia&#39;s Cleanup of AI-Generated Content</strong> <code>spectrum.ieee.org</code></a> - <a href="https://news.ycombinator.com/item?id=50257326">214 comments 469 points</a></li>
+<li><a href="https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/"><strong>Roblox downloaded 145GB models from us (including adult content) without asking</strong> <code>open3dlab.com</code></a> - <a href="https://news.ycombinator.com/item?id=50256985">268 comments 464 points</a></li>
+<li><a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai"><strong>The Mythical Man-Month in the Age of AI</strong> <code>j11g.com</code></a> - <a href="https://news.ycombinator.com/item?id=50255298">313 comments 449 points</a></li>
+<li><a href="https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"><strong>Police are using AI to pull over drivers for &#39;suspicious&#39; behavior</strong> <code>gizmodo.com</code></a> - <a href="https://news.ycombinator.com/item?id=50261819">279 comments 366 points</a></li>
+<li><a href="https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"><strong>New 14‑inch MacBook Pro with M6</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=50261352">413 comments 324 points</a></li>
+<li><a href="https://www.apple.com/imac/"><strong>New iMac with M6</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=50258538">398 comments 323 points</a></li>
+<li><a href="https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/"><strong>Software may be getting worse, but it used to be horrible</strong> <code>www.bitlog.com</code></a> - <a href="https://news.ycombinator.com/item?id=50257548">324 comments 309 points</a></li>
+<li><a href="https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"><strong>Amazon Is Gutting Its AI Division After Sustained Failure</strong> <code>futurism.com</code></a> - <a href="https://news.ycombinator.com/item?id=50261589">227 comments 298 points</a></li>
+<li><a href="https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover"><strong>Discord will soon let anyone find public server messages through Google</strong> <code>discord.com</code></a> - <a href="https://news.ycombinator.com/item?id=50263854">147 comments 290 points</a></li>
+<li><a href="https://www.brangus.io/survival-llm"><strong>Survival LLM: AI assistant and emergency library that runs on your own computer</strong> <code>www.brangus.io</code></a> - <a href="https://news.ycombinator.com/item?id=50264853">120 comments 269 points</a></li>
+<li><a href="https://tailscale.com/ssh-investigation-update"><strong>Tailscale SSH: Investigation and remediation update</strong> <code>tailscale.com</code></a> - <a href="https://news.ycombinator.com/item?id=50264857">125 comments 248 points</a></li>
+<li><a href="https://lists.debian.org/debian-devel/2026/10/msg00263.html"><strong>I will no longer upload to NEW</strong> <code>lists.debian.org</code></a> - <a href="https://news.ycombinator.com/item?id=50256738">140 comments 234 points</a></li>
+<li><a href="https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/"><strong>A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=50261784">151 comments 225 points</a></li>
+<li><a href="https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training"><strong>Is my data used for model training?</strong> <code>privacy.claude.com</code></a> - <a href="https://news.ycombinator.com/item?id=50259406">101 comments 216 points</a></li>
+<li><a href="https://cfsg.axiommath.ai/"><strong>Classification of Finite Simple Groups Formalized in Lean</strong> <code>cfsg.axiommath.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50261647">52 comments 192 points</a></li>
+<li><a href="https://www.anthropic.com/research/early-progress-drug-development"><strong>Early progress on accelerating drug development with Claude</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=50265609">167 comments 190 points</a></li>
+<li><a href="https://www.wiz.io/blog/php2shell-exploitation-so-far"><strong>PHP2Shell: Exploitation attempts and remediation trends</strong> <code>www.wiz.io</code></a> - <a href="https://news.ycombinator.com/item?id=50259343">59 comments 185 points</a></li>
+<li><a href="https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work"><strong>Here be monsters: What do you still need to know when agents do the work?</strong> <code>blog.adrq.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50258868">89 comments 166 points</a></li>
+<li><a href="https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497"><strong>A $300B &#39;Debt Wall&#39; Is Looming over Private-Equity Backed Companies</strong> <code>www.wsj.com</code></a> - <a href="https://news.ycombinator.com/item?id=50260526">61 comments 164 points</a></li>
+<li><a href="https://gforth.org/manual/1.0/NEWS.html"><strong>Gforth 1.0</strong> <code>gforth.org</code></a> - <a href="https://news.ycombinator.com/item?id=50256952">17 comments 163 points</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"><strong>New 14‑inch MacBook Pro with M6</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=50258521">197 comments 162 points</a></li>
+<li><a href="https://lexifina.com/blog/git-for-the-us-code"><strong>Git for the US Code</strong> <code>lexifina.com</code></a> - <a href="https://news.ycombinator.com/item?id=50268380">74 comments 154 points</a></li>
+<li><a href="https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/"><strong>Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees</strong> <code>bret.dk</code></a> - <a href="https://news.ycombinator.com/item?id=50265594">59 comments 133 points</a></li>
+<li><a href="https://www.liquid.ai/blog/lfm3"><strong>Introducing LFM3: Every Modality for Specialized Intelligence</strong> <code>www.liquid.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50262229">53 comments 133 points</a></li>
+</ol>
+<p>05:50:32 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-10-27]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1506</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html"><strong>U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982</strong> <code>oilprice.com</code></a> - <a href="https://news.ycombinator.com/item?id=49887337">125 comments 116 points</a></li>
 </ol>
 <p>04:50:28 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-09-28]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1477</link>
-            <guid isPermaLink="false">1477</guid>
-            <pubDate>Mon, 28 Sep 2026 04:50:34 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://sancho.bearblog.dev/google-weird/"><strong>When did Google get so weird?</strong> <code>sancho.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49870367">523 comments 959 points</a></li>
-<li><a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"><strong>Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI</strong> <code>authorsguild.org</code></a> - <a href="https://news.ycombinator.com/item?id=49863864">599 comments 610 points</a></li>
-<li><a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/"><strong>Meta Blocks President Lula&#39;s Facebook Page, Campaign Ads 2 Weeks from Election</strong> <code>www.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=49864642">288 comments 432 points</a></li>
-<li><a href="https://fireworks.ai/blog/ember-1"><strong>Ember-1</strong> <code>fireworks.ai</code></a> - <a href="https://news.ycombinator.com/item?id=49868830">197 comments 391 points</a></li>
-<li><a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"><strong>On caring for user data: NeoVim caused Vim undo files to be deleted</strong> <code>unsung.aresluna.org</code></a> - <a href="https://news.ycombinator.com/item?id=49867067">317 comments 357 points</a></li>
-<li><a href="https://hereticpleb.vercel.app/blog/10-tells-of-slop"><strong>Tells of a Slop UI</strong> <code>hereticpleb.vercel.app</code></a> - <a href="https://news.ycombinator.com/item?id=49867038">225 comments 345 points</a></li>
-<li><a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"><strong>There are no &quot;rogue&quot; AI agents</strong> <code>eoinhiggins.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=49868083">247 comments 344 points</a></li>
-<li><a href="https://colo.to/nvidia-stock-narrative.html"><strong>Owed a billion dollars in Nvidia stock</strong> <code>colo.to</code></a> - <a href="https://news.ycombinator.com/item?id=49872723">146 comments 292 points</a></li>
-<li><a href="https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html"><strong>The Normalization of Inexplicable Failures</strong> <code>www.ihatethefuture.com</code></a> - <a href="https://news.ycombinator.com/item?id=49867486">103 comments 257 points</a></li>
-<li><a href="https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html"><strong>In an $80 motel room, a discovery to shed light on the origins of life</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=49866951">83 comments 224 points</a></li>
-<li><a href="https://loficities.com/"><strong>Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi</strong> <code>loficities.com</code></a> - <a href="https://news.ycombinator.com/item?id=49869574">88 comments 200 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=-Nvne3LzBls"><strong>SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.&#39;S Threat to Humanity [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=49868831">91 comments 180 points</a></li>
-<li><a href="https://iain.rocks/blog/dont-couple-your-go-code-to-github"><strong>Don&#39;t couple your Go code to GitHub</strong> <code>iain.rocks</code></a> - <a href="https://news.ycombinator.com/item?id=49868404">89 comments 178 points</a></li>
-<li><a href="https://nura.eco/blog/2026/09/27/nura-rename/"><strong>PostmarketOS is rebranding as Nura</strong> <code>nura.eco</code></a> - <a href="https://news.ycombinator.com/item?id=49867553">51 comments 166 points</a></li>
-<li><a href="https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/"><strong>Replacing the old battery on rechargeable bike lights</strong> <code>jvns.ca</code></a> - <a href="https://news.ycombinator.com/item?id=49866515">82 comments 149 points</a></li>
-<li><a href="https://pixelambacht.nl/2026/ten-lines-of-code/"><strong>Ten lines of code that changed my world</strong> <code>pixelambacht.nl</code></a> - <a href="https://news.ycombinator.com/item?id=49866534">38 comments 124 points</a></li>
-<li><a href="https://reasonable.io/blog/tla-tutorial/"><strong>The internet discovers TLA+. Now what?</strong> <code>reasonable.io</code></a> - <a href="https://news.ycombinator.com/item?id=49863600">61 comments 120 points</a></li>
-<li><a href="https://bleeckerstreetmedia.com/musk"><strong>Musk, the Movie</strong> <code>bleeckerstreetmedia.com</code></a> - <a href="https://news.ycombinator.com/item?id=49872766">42 comments 116 points</a></li>
-<li><a href="https://tinyaiarena.com/"><strong>Show HN: TinyAIArena watch AI agents battle it out</strong> <code>tinyaiarena.com</code></a> - <a href="https://news.ycombinator.com/item?id=49867775">41 comments 105 points</a></li>
-<li><a href="https://arxiv.org/abs/2609.25021"><strong>&quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=49865343">101 comments 101 points</a></li>
-<li><a href="https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/"><strong>Self-Hosting on the Dark Web</strong> <code>david.alvarezrosa.com</code></a> - <a href="https://news.ycombinator.com/item?id=49870295">34 comments 99 points</a></li>
-<li><a href="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11"><strong>Alan Kay&#39;s answer to “Did the ENIAC have a BIOS”?</strong> <code>www.quora.com</code></a> - <a href="https://news.ycombinator.com/item?id=49870070">32 comments 93 points</a></li>
-<li><a href="https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html"><strong>As A.I. makes law firms more efficient, clients ask: &#39;Where&#39;s my discount?&#39;</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=49872522">68 comments 85 points</a></li>
-<li><a href="https://thill.me/2026/09/11/what-i-did-at-rc.html"><strong>What I did at Recurse Center</strong> <code>thill.me</code></a> - <a href="https://news.ycombinator.com/item?id=49869773">25 comments 85 points</a></li>
-<li><a href="https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/"><strong>Rusty thoughts on &quot;Parse, don&#39;t validate&quot;</strong> <code>eli.thegreenplace.net</code></a> - <a href="https://news.ycombinator.com/item?id=49864743">41 comments 82 points</a></li>
-<li><a href="https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey"><strong>Fragment of oldest known peace treaty found in Turkey</strong> <code>www.livescience.com</code></a> - <a href="https://news.ycombinator.com/item?id=49866988">10 comments 76 points</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products"><strong>Research finds 485 chemicals in US pesticide products linked to breast cancer</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=49872497">21 comments 67 points</a></li>
-<li><a href="https://www.propublica.org/article/draftkings-sports-gambling-problem-vip-fanduel"><strong>I Posed as a Problem Gambler. DraftKings Made Me a VIP</strong> <code>www.propublica.org</code></a> - <a href="https://news.ycombinator.com/item?id=49865106">23 comments 66 points</a></li>
-<li><a href="https://www.markdown.beauty/"><strong>Show HN: Building a Markdown editor for Mac, iOS and web</strong> <code>www.markdown.beauty</code></a> - <a href="https://news.ycombinator.com/item?id=49866597">48 comments 64 points</a></li>
-<li><a href="https://www.youtube.com/watch?v=e1Xn3030IvM"><strong>Oral history of John Chowning, inventor of FM synthesis [video]</strong> <code>www.youtube.com</code></a> - <a href="https://news.ycombinator.com/item?id=49869142">15 comments 62 points</a></li>
-</ol>
-<p>04:50:33 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
