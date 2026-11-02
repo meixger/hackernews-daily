@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 01 Nov 2026 05:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 05:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-11-01]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1511</link>
+            <guid isPermaLink="false">1511</guid>
+            <pubDate>Sun, 01 Nov 2026 05:50:40 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://karpathy.bearblog.dev/hacker-tube/"><strong>HackerTube: YouTube built from videos recommended by HN</strong> <code>karpathy.bearblog.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50319510">306 comments 991 points</a></li>
+<li><a href="https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament"><strong>Serbia just elected the world&#39;s brainiest parliament</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=50314654">479 comments 844 points</a></li>
+<li><a href="https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"><strong>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</strong> <code>atlasum.net</code></a> - <a href="https://news.ycombinator.com/item?id=50319143">202 comments 436 points</a></li>
+<li><a href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html"><strong>Digital minimalism</strong> <code>vitalik.eth.limo</code></a> - <a href="https://news.ycombinator.com/item?id=50313661">232 comments 318 points</a></li>
+<li><a href="https://piefed.world/post/1503394"><strong>Molly (Signal fork) has not been updated since 3 months and is vulnerable</strong> <code>piefed.world</code></a> - <a href="https://news.ycombinator.com/item?id=50314666">184 comments 316 points</a></li>
+<li><a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai"><strong>Do the math: How we took over ChatGPT accounts</strong> <code>www.parameter.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50314699">157 comments 315 points</a></li>
+<li><a href="https://twitter.com/jiahaoshao1/status/2116475922190922088"><strong>Anthropic blocks users for anything touching training larger models</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=50319358">160 comments 287 points</a></li>
+<li><a href="https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"><strong>An Italian farmer found some unknown seeds in his attic and planted them</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=50320963">76 comments 277 points</a></li>
+<li><a href="https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"><strong>Malware uses LLMs to rank victims by how much they&#39;re worth</strong> <code>blog.talosintelligence.com</code></a> - <a href="https://news.ycombinator.com/item?id=50316531">131 comments 241 points</a></li>
+<li><a href="https://jepsen.io/analyses/particledb-1.1.4"><strong>Jepsen: ParticleDB 1.1.4</strong> <code>jepsen.io</code></a> - <a href="https://news.ycombinator.com/item?id=50316100">126 comments 235 points</a></li>
+<li><a href="https://www.casio.com/us/watches/50th/Heritage/1980s/"><strong>Casio Watches of the 1980s</strong> <code>www.casio.com</code></a> - <a href="https://news.ycombinator.com/item?id=50317363">110 comments 221 points</a></li>
+<li><a href="https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy"><strong>UK Green party drops longstanding opposition to nuclear power</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=50318189">248 comments 207 points</a></li>
+<li><a href="https://xoranth.net/gcc-switch/"><strong>Switch Lowering in GCC</strong> <code>xoranth.net</code></a> - <a href="https://news.ycombinator.com/item?id=50314085">43 comments 203 points</a></li>
+<li><a href="https://nullprogram.com/blog/2026/10/31/"><strong>Prospero: A new coding harness for a more civilized age</strong> <code>nullprogram.com</code></a> - <a href="https://news.ycombinator.com/item?id=50315226">121 comments 183 points</a></li>
+<li><a href="https://pivotlake.io/blog/its-the-memory-latency-stupid/"><strong>It&#39;s the memory latency, stupid</strong> <code>pivotlake.io</code></a> - <a href="https://news.ycombinator.com/item?id=50318720">46 comments 170 points</a></li>
+<li><a href="https://ryanmadden.net/gpt-56-beats-factorio/"><strong>GPT-5.6 Sol can beat Factorio on peaceful mode</strong> <code>ryanmadden.net</code></a> - <a href="https://news.ycombinator.com/item?id=50318871">178 comments 163 points</a></li>
+<li><a href="https://redirect.github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"><strong>Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50320995">88 comments 158 points</a></li>
+<li><a href="https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering"><strong>Anthropic takes steps to block Claude from reverse-engineering video games</strong> <code>mashable.com</code></a> - <a href="https://news.ycombinator.com/item?id=50320255">77 comments 125 points</a></li>
+<li><a href="https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html"><strong>The Duty of a Scholar</strong> <code>www.daemonology.net</code></a> - <a href="https://news.ycombinator.com/item?id=50319061">31 comments 104 points</a></li>
+<li><a href="https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026"><strong>French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic</strong> <code>www.assemblee-nationale.fr</code></a> - <a href="https://news.ycombinator.com/item?id=50315047">136 comments 97 points</a></li>
+<li><a href="https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/"><strong>Ex-Meta Researcher Torrented Pirated Books, Deleted It &#39;Due to Litigation&#39;</strong> <code>torrentfreak.com</code></a> - <a href="https://news.ycombinator.com/item?id=50316760">71 comments 96 points</a></li>
+<li><a href="https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate"><strong>Surviving &quot;The Graduate&quot;</strong> <code>www.newyorker.com</code></a> - <a href="https://news.ycombinator.com/item?id=50319563">29 comments 93 points</a></li>
+<li><a href="https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/"><strong>What is a light-day? The milestone Voyager 1 is closing in on</strong> <code>science.nasa.gov</code></a> - <a href="https://news.ycombinator.com/item?id=50317429">45 comments 91 points</a></li>
+<li><a href="https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec"><strong>Retired professor arrested for blocking delivery robot. Will do it again</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=50316103">125 comments 85 points</a></li>
+<li><a href="https://uvdn7.github.io/altoids-project/"><strong>Altoids Project</strong> <code>uvdn7.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=50321048">4 comments 82 points</a></li>
+<li><a href="https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account"><strong>Why Did Meta Suspend a US Senate Candidate&#39;s Instagram in the Middle of a Rally?</strong> <code>newrepublic.com</code></a> - <a href="https://news.ycombinator.com/item?id=50315776">104 comments 80 points</a></li>
+<li><a href="https://learnfromx.com/research/anime-word-coverage-vs-lines-understood"><strong>With 86% of the words, you might understand only 38% of an anime&#39;s lines</strong> <code>learnfromx.com</code></a> - <a href="https://news.ycombinator.com/item?id=50320028">53 comments 77 points</a></li>
+<li><a href="https://epoyraz.github.io/nes-contra-us/"><strong>Show HN: NES Contra (1987) port (ASM –&gt; C and then C –&gt; WebAssembly)</strong> <code>epoyraz.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=50319169">47 comments 77 points</a></li>
+<li><a href="https://dl.acm.org/doi/full/10.1145/3706598.3713778"><strong>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</strong> <code>dl.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=50318401">53 comments 76 points</a></li>
+<li><a href="https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26"><strong>AI startup hacks Anthropic, gains access to employee details, internal messages</strong> <code>www.indiatoday.in</code></a> - <a href="https://news.ycombinator.com/item?id=50315990">18 comments 74 points</a></li>
+</ol>
+<p>05:50:39 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-10-31]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1510</link>
@@ -1163,46 +1203,6 @@
 <li><a href="https://www.nber.org/papers/w35655"><strong>Crypto Capture of Foreign Aid</strong> <code>www.nber.org</code></a> - <a href="https://news.ycombinator.com/item?id=49936725">35 comments 91 points</a></li>
 <li><a href="https://redirect.github.com/anteloc/ldraw-nova"><strong>Show HN: Made an open-source Lego AI generator</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49937916">41 comments 87 points</a></li>
 <li><a href="https://www.reddit.com/r/LinusTechTips/comments/1wvr096/wan_show_topic_redditor_buys_used_cpu_turns_out/"><strong>Redditor buys used CPU, turns out it was banned on Valorant and they are SoL</strong> <code>www.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=49932610">66 comments 80 points</a></li>
-</ol>
-<p>04:50:29 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-10-02]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1481</link>
-            <guid isPermaLink="false">1481</guid>
-            <pubDate>Fri, 02 Oct 2026 04:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://earendil.com/posts/pi-1-0/"><strong>Pi 1.0</strong> <code>earendil.com</code></a> - <a href="https://news.ycombinator.com/item?id=49926069">308 comments 937 points</a></li>
-<li><a href="https://redirect.github.com/streetcomplete/StreetComplete/issues/5421"><strong>StreetComplete on iOS is now in public beta</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=49920160">141 comments 538 points</a></li>
-<li><a href="https://blog.cloudflare.com/clef-decision-models/"><strong>Clef: Open-weight decision models, and new RL fine-tuning platform</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=49923692">170 comments 464 points</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"><strong>Returning from vacation? The government can search your phone without a warrant</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=49920234">334 comments 366 points</a></li>
-<li><a href="https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026"><strong>Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026</strong> <code>www.techpowerup.com</code></a> - <a href="https://news.ycombinator.com/item?id=49920932">393 comments 345 points</a></li>
-<li><a href="https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/"><strong>Google breaks promise to provide 10 years of updates to Chromebooks</strong> <code>www.osnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=49920997">155 comments 345 points</a></li>
-<li><a href="https://twitter.com/0xcrypto/status/2105515822643114182"><strong>Fuck Android Developer Verification Program</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49917761">131 comments 315 points</a></li>
-<li><a href="https://turbopuffer.com/blog/rip-vector-database"><strong>RIP, vector database</strong> <code>turbopuffer.com</code></a> - <a href="https://news.ycombinator.com/item?id=49923466">79 comments 297 points</a></li>
-<li><a href="https://earendil.com/posts/pi-durable/"><strong>Pi Durable</strong> <code>earendil.com</code></a> - <a href="https://news.ycombinator.com/item?id=49925969">35 comments 287 points</a></li>
-<li><a href="https://blog.gitbutler.com/git-3-sha-256"><strong>Git 3.0&#39;s upcoming SHA-256 default will be a costly mistake</strong> <code>blog.gitbutler.com</code></a> - <a href="https://news.ycombinator.com/item?id=49924179">273 comments 277 points</a></li>
-<li><a href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/"><strong>Cops Can Bypass iPhone&#39;s Automatic Reboot to Get into Locked Phones</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=49922278">203 comments 250 points</a></li>
-<li><a href="https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"><strong>Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=49921118">236 comments 249 points</a></li>
-<li><a href="https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html"><strong>How to speed up the Rust compiler in September 2026</strong> <code>nnethercote.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=49920896">122 comments 238 points</a></li>
-<li><a href="https://blog.cloudflare.com/cloudflare-k2-streams/"><strong>Cloudflare K2: serverless event streams</strong> <code>blog.cloudflare.com</code></a> - <a href="https://news.ycombinator.com/item?id=49921923">88 comments 217 points</a></li>
-<li><a href="https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"><strong>FTC is investigating OpenAI, Anthropic and other AI companies over product risks</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=49921050">151 comments 200 points</a></li>
-<li><a href="https://lwn.net/Articles/1097401/"><strong>Several vulnerabilities have been discovered in the Linux kernel</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=49928121">121 comments 193 points</a></li>
-<li><a href="https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/"><strong>Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers</strong> <code>www.rtl-sdr.com</code></a> - <a href="https://news.ycombinator.com/item?id=49922674">30 comments 191 points</a></li>
-<li><a href="https://molily.de/web-dev-education/"><strong>The death of web development education</strong> <code>molily.de</code></a> - <a href="https://news.ycombinator.com/item?id=49927100">139 comments 186 points</a></li>
-<li><a href="https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml"><strong>Red Hat being phased out of existence?</strong> <code>techrights.org</code></a> - <a href="https://news.ycombinator.com/item?id=49923056">107 comments 186 points</a></li>
-<li><a href="https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"><strong>GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design</strong> <code>news.synopsys.com</code></a> - <a href="https://news.ycombinator.com/item?id=49919910">106 comments 175 points</a></li>
-<li><a href="https://twitter.com/GayaniFigma/status/2105295629941350454"><strong>Figma restricts MCP access to whitelisted clients, excluding Pi</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=49922729">100 comments 174 points</a></li>
-<li><a href="https://svelte.dev/blog/sveltekit-3-is-here"><strong>SvelteKit 3</strong> <code>svelte.dev</code></a> - <a href="https://news.ycombinator.com/item?id=49926536">62 comments 173 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=49922569"><strong>Ask HN: Who is hiring? (October 2026)</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=49922569">175 comments 169 points</a></li>
-<li><a href="https://automatictransmission.khoury.northeastern.edu/index.html"><strong>Automatic Transmission – a data-privacy study of connected vehicles</strong> <code>automatictransmission.khoury.northeastern.edu</code></a> - <a href="https://news.ycombinator.com/item?id=49926628">150 comments 158 points</a></li>
-<li><a href="https://con.racket-lang.org/"><strong>RacketCon Is Saturday</strong> <code>con.racket-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=49922515">36 comments 132 points</a></li>
-<li><a href="https://arxiv.org/abs/2609.37725"><strong>Context Language Models</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=49922437">28 comments 129 points</a></li>
-<li><a href="https://stoppels.ch/goalposts/"><strong>Vote on which of Hacker News&#39; challenges for AI have been met</strong> <code>stoppels.ch</code></a> - <a href="https://news.ycombinator.com/item?id=49924618">121 comments 116 points</a></li>
-<li><a href="https://www.thenewcritic.com/p/safe-at-slutcon"><strong>SlutCon</strong> <code>www.thenewcritic.com</code></a> - <a href="https://news.ycombinator.com/item?id=49924354">31 comments 114 points</a></li>
-<li><a href="https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness"><strong>Using Opus 5.5 to discover a new eyewitness record of the dodo</strong> <code>resobscura.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=49926917">18 comments 104 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=49922568"><strong>Ask HN: Who wants to be hired? (October 2026)</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=49922568">307 comments 102 points</a></li>
 </ol>
 <p>04:50:29 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
