@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Fri, 13 Nov 2026 05:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 05:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-11-13]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1523</link>
+            <guid isPermaLink="false">1523</guid>
+            <pubDate>Fri, 13 Nov 2026 05:50:33 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"><strong>Jensen Huang resigns</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=50467087">2986 comments 3232 points</a></li>
+<li><a href="https://ipo.anthropic.com/us/"><strong>Anthropic IPO</strong> <code>ipo.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=50465829">841 comments 876 points</a></li>
+<li><a href="https://status.cloud.microsoft/"><strong>Service degradation on Microsoft 365</strong> <code>status.cloud.microsoft</code></a> - <a href="https://news.ycombinator.com/item?id=50471731">630 comments 673 points</a></li>
+<li><a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"><strong>Rust 1.100</strong> <code>blog.rust-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=50472038">223 comments 551 points</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"><strong>Gemini 4 Hydrogen</strong> <code>blog.google</code></a> - <a href="https://news.ycombinator.com/item?id=50471431">318 comments 497 points</a></li>
+<li><a href="https://redirect.github.com/simpsoka/zigzag"><strong>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50470488">166 comments 426 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50471668"><strong>Ask HN: Microsoft/Azure Outage?</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=50471668">1 comments 401 points</a></li>
+<li><a href="https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/"><strong>&quot;Humble Bundle just killed most of their security through vibecoding&quot;</strong> <code>forums.spacebattles.com</code></a> - <a href="https://news.ycombinator.com/item?id=50463899">222 comments 375 points</a></li>
+<li><a href="https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"><strong>Jensen Huang resigns as Nvidia CEO immediately</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=50467132">14 comments 375 points</a></li>
+<li><a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"><strong>Gemini 4 Hydrogen and Orchestrator</strong> <code>antigravity.google</code></a> - <a href="https://news.ycombinator.com/item?id=50472260">99 comments 363 points</a></li>
+<li><a href="https://pron.github.io/posts/correctness-and-complexity"><strong>Writing correct software is hard and math alone won’t help us (2016)</strong> <code>pron.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=50465352">175 comments 361 points</a></li>
+<li><a href="https://redirect.github.com/hyperionaidev/smolmaxxing/"><strong>I&#39;m making LLMs work on small and old devices</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50468888">105 comments 320 points</a></li>
+<li><a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"><strong>Nvidia employees petition to bring back Jensen Huang</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=50477231">243 comments 312 points</a></li>
+<li><a href="https://redirect.github.com/rust-lang/rust/releases/tag/1.100.0"><strong>Rust 1.100</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50471793">9 comments 310 points</a></li>
+<li><a href="https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep"><strong>Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep</strong> <code>www.ign.com</code></a> - <a href="https://news.ycombinator.com/item?id=50469994">224 comments 288 points</a></li>
+<li><a href="https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64"><strong>Abandoned Quake 4 expansion finished by modders and now playable</strong> <code>www.moddb.com</code></a> - <a href="https://news.ycombinator.com/item?id=50467618">91 comments 254 points</a></li>
+<li><a href="https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"><strong>Dwarf planet candidate appears which takes roughly 280 years to orbit our sun</strong> <code>www.smithsonianmag.com</code></a> - <a href="https://news.ycombinator.com/item?id=50472490">110 comments 247 points</a></li>
+<li><a href="https://unemploymentlabs.com/checkpoint-forensics"><strong>Chinese frontier AI models carry the fingerprint of export-controlled GPUs</strong> <code>unemploymentlabs.com</code></a> - <a href="https://news.ycombinator.com/item?id=50474883">62 comments 239 points</a></li>
+<li><a href="https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at"><strong>Talking Zen 6 with Mike Clark at AMD In-Depth</strong> <code>chipsandcheese.com</code></a> - <a href="https://news.ycombinator.com/item?id=50467460">3 comments 206 points</a></li>
+<li><a href="https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/"><strong>Our software engineering interviews are changing a little</strong> <code>blog.janestreet.com</code></a> - <a href="https://news.ycombinator.com/item?id=50467297">205 comments 197 points</a></li>
+<li><a href="https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"><strong>Former Nvidia CEO Huang had a relationship with a second employee, sources say</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=50473190">220 comments 187 points</a></li>
+<li><a href="https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price"><strong>Data centers need power – lower income, rural residents pay the price</strong> <code>news.cornell.edu</code></a> - <a href="https://news.ycombinator.com/item?id=50473231">209 comments 179 points</a></li>
+<li><a href="https://developer.apple.com/foundation-models-framework/"><strong>Foundation Models framework</strong> <code>developer.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=50474361">25 comments 174 points</a></li>
+<li><a href="https://www.bbc.co.uk/news/live/c6zjry11v8w1t"><strong>Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal</strong> <code>www.bbc.co.uk</code></a> - <a href="https://news.ycombinator.com/item?id=50467139">5 comments 168 points</a></li>
+<li><a href="https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html"><strong>Singapore Says U.S. Not Helpful on Investigation into Suspected Spy&#39;s Company</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=50471621">60 comments 166 points</a></li>
+<li><a href="https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"><strong>Edge0-145B: Frontier AI Capabilities on Your Own Computer</strong> <code>edge0.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50475713">39 comments 162 points</a></li>
+<li><a href="https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"><strong>Turning a 22-year-old Postgres type-confusion primitive into RCE</strong> <code>mehmetince.net</code></a> - <a href="https://news.ycombinator.com/item?id=50471761">29 comments 162 points</a></li>
+<li><a href="https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"><strong>AI is turning Apple&#39;s app review process into a nightmare for synth developers</strong> <code>synthanatomy.com</code></a> - <a href="https://news.ycombinator.com/item?id=50474311">133 comments 140 points</a></li>
+<li><a href="https://libreagi.com/"><strong>Libreagi – Save OSS Models</strong> <code>libreagi.com</code></a> - <a href="https://news.ycombinator.com/item?id=50467439">27 comments 137 points</a></li>
+<li><a href="https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/"><strong>Researchers discover rare star system that emits radio signals every 8 minutes</strong> <code>www.curtin.edu.au</code></a> - <a href="https://news.ycombinator.com/item?id=50465453">60 comments 124 points</a></li>
+</ol>
+<p>05:50:32 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-11-12]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1522</link>
@@ -1163,46 +1203,6 @@
 <li><a href="https://arcfu.com/post/the-emperor-pelican-has-no-clothes/"><strong>Why do LLM pelicans look like this?</strong> <code>arcfu.com</code></a> - <a href="https://news.ycombinator.com/item?id=50090443">134 comments 155 points</a></li>
 <li><a href="https://mastodon.social/@marioguzman/117436264149891011"><strong>Apple Keynote now showing ads in its UI</strong> <code>mastodon.social</code></a> - <a href="https://news.ycombinator.com/item?id=50087524">160 comments 144 points</a></li>
 <li><a href="https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"><strong>TV4 postpones show after AI agent erases edited material</strong> <code>swedenherald.com</code></a> - <a href="https://news.ycombinator.com/item?id=50085323">84 comments 143 points</a></li>
-</ol>
-<p>04:50:30 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-10-14]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1493</link>
-            <guid isPermaLink="false">1493</guid>
-            <pubDate>Wed, 14 Oct 2026 04:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://deepmind.google/models/gemini/"><strong>Gemini 4 Argon</strong> <code>deepmind.google</code></a> - <a href="https://news.ycombinator.com/item?id=50073879">819 comments 1135 points</a></li>
-<li><a href="https://www.apple.com/apple-homeview/"><strong>Apple HomeView</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=50071017">831 comments 700 points</a></li>
-<li><a href="https://redirect.github.com/rust-lang/rust/issues/164250"><strong>11 year old unsoundness bugs found in Rust borrow checker</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50069499">386 comments 696 points</a></li>
-<li><a href="https://www.firefox.com/en-US/enterprise/"><strong>Firefox Enterprise</strong> <code>www.firefox.com</code></a> - <a href="https://news.ycombinator.com/item?id=50070302">276 comments 682 points</a></li>
-<li><a href="https://www.anthropic.com/engineering/redesigning-source-control"><strong>Redesigning source control at Anthropic</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=50073633">605 comments 633 points</a></li>
-<li><a href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"><strong>OpenAI engineer arrested in bugging of executive conference room</strong> <code>sfstandard.com</code></a> - <a href="https://news.ycombinator.com/item?id=50078141">418 comments 482 points</a></li>
-<li><a href="https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran"><strong>CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=50069329">247 comments 443 points</a></li>
-<li><a href="https://eg2.haku.sh/"><strong>We turned EmbeddingGemma 2 into a speech-to-text model</strong> <code>eg2.haku.sh</code></a> - <a href="https://news.ycombinator.com/item?id=50069971">86 comments 409 points</a></li>
-<li><a href="https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/"><strong>Thunderbird for iOS</strong> <code>blog.thunderbird.net</code></a> - <a href="https://news.ycombinator.com/item?id=50072913">167 comments 383 points</a></li>
-<li><a href="https://guitoro.com/"><strong>Show HN: Guitoro, a virtual guitar you strum with your keyboard</strong> <code>guitoro.com</code></a> - <a href="https://news.ycombinator.com/item?id=50077020">96 comments 355 points</a></li>
-<li><a href="https://www.thehistoryblog.com/archives/77107"><strong>Hittite royal archive found in Turkey</strong> <code>www.thehistoryblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=50067414">83 comments 347 points</a></li>
-<li><a href="https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"><strong>New Apple TV 4K</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=50071310">581 comments 316 points</a></li>
-<li><a href="https://blog.character.ai/an-update-on-character-ai/"><strong>Character.ai has initiated voluntary Chapter 11 bankruptcy</strong> <code>blog.character.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50068036">274 comments 313 points</a></li>
-<li><a href="https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"><strong>I posted to HN, and then my website was flooded with AI bot traffic</strong> <code>www.sammystraus.com</code></a> - <a href="https://news.ycombinator.com/item?id=50073221">160 comments 293 points</a></li>
-<li><a href="https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak"><strong>The United Kingdom generates less electricity per person than in the 1970s</strong> <code>ourworldindata.org</code></a> - <a href="https://news.ycombinator.com/item?id=50072994">335 comments 247 points</a></li>
-<li><a href="https://machinelearning.apple.com/research/distributed-gpu-cloud"><strong>A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices</strong> <code>machinelearning.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=50070593">96 comments 240 points</a></li>
-<li><a href="https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/"><strong>Apple&#39;s new &#39;Switch to Safari&#39; campaign details why you should ditch Chrome</strong> <code>9to5mac.com</code></a> - <a href="https://news.ycombinator.com/item?id=50072286">374 comments 229 points</a></li>
-<li><a href="https://developers.googleblog.com/gemini-4-argon-for-robotics/"><strong>Gemini 4 Argon for Robotics</strong> <code>developers.googleblog.com</code></a> - <a href="https://news.ycombinator.com/item?id=50074869">48 comments 206 points</a></li>
-<li><a href="https://pdftomp3.com/connect-ai/"><strong>Show HN: Use your OpenAI subscription to create audiobooks</strong> <code>pdftomp3.com</code></a> - <a href="https://news.ycombinator.com/item?id=50069337">82 comments 161 points</a></li>
-<li><a href="https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24"><strong>Cyberattack halts construction of tunnel between Denmark and Germany</strong> <code>ua.news</code></a> - <a href="https://news.ycombinator.com/item?id=50074289">121 comments 158 points</a></li>
-<li><a href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"><strong>Character.ai Files for Bankruptcy</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=50069942">22 comments 145 points</a></li>
-<li><a href="https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"><strong>How to engineer an AI harness for game development</strong> <code>kylekukshtel.com</code></a> - <a href="https://news.ycombinator.com/item?id=50072120">64 comments 141 points</a></li>
-<li><a href="https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers"><strong>A Visual Intro to Complex Numbers</strong> <code>photonlines.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=50070287">70 comments 120 points</a></li>
-<li><a href="https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"><strong>Threat of AI share crash puts world financial stability at risk, says IMF</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=50067356">125 comments 111 points</a></li>
-<li><a href="https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html"><strong>Crypto thieves sell hardware wallets with secret eSIM</strong> <code>www.heise.de</code></a> - <a href="https://news.ycombinator.com/item?id=50068508">2 comments 110 points</a></li>
-<li><a href="https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"><strong>AWS Lambda Web Functions</strong> <code>aws.amazon.com</code></a> - <a href="https://news.ycombinator.com/item?id=50069318">101 comments 108 points</a></li>
-<li><a href="https://lab.specr.net/rigged-draw/"><strong>Show HN: How random are you?</strong> <code>lab.specr.net</code></a> - <a href="https://news.ycombinator.com/item?id=50074909">59 comments 105 points</a></li>
-<li><a href="https://www.cphiri.dev/presentations/recreational-programming"><strong>Recreational Programming</strong> <code>www.cphiri.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50079865">35 comments 103 points</a></li>
-<li><a href="https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along"><strong>Were software engineers blue-collar workers all along?</strong> <code>ptrbrynt.com</code></a> - <a href="https://news.ycombinator.com/item?id=50068946">193 comments 93 points</a></li>
-<li><a href="https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html"><strong>Worlds more habitable than Earth?</strong> <code>www.nytimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=50070554">179 comments 84 points</a></li>
 </ol>
 <p>04:50:30 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
