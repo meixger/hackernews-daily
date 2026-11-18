@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Tue, 17 Nov 2026 05:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 05:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-11-17]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1527</link>
+            <guid isPermaLink="false">1527</guid>
+            <pubDate>Tue, 17 Nov 2026 05:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://www.cs.cmu.edu/learn/"><strong>Carnegie Mellon is putting computer science courses on YouTube for free</strong> <code>www.cs.cmu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=50522980">162 comments 1085 points</a></li>
+<li><a href="http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"><strong>Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</strong> <code>groundworkcollaborative.org</code></a> - <a href="https://news.ycombinator.com/item?id=50517488">518 comments 870 points</a></li>
+<li><a href="https://pub.cba.mit.edu/863.26/site/"><strong>How to make almost anything</strong> <code>pub.cba.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=50514470">144 comments 864 points</a></li>
+<li><a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"><strong>Technical issue at JPMorgan Chase triggers online banking delays for US banks</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=50521045">624 comments 744 points</a></li>
+<li><a href="https://www.bugmenot.com/"><strong>BugMeNot has closed</strong> <code>www.bugmenot.com</code></a> - <a href="https://news.ycombinator.com/item?id=50523601">207 comments 428 points</a></li>
+<li><a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/"><strong>Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use</strong> <code>xusheng.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50524736">267 comments 417 points</a></li>
+<li><a href="https://trmnl.com/blog/introducing-frame"><strong>Frame – 31.5&quot; color ePaper display</strong> <code>trmnl.com</code></a> - <a href="https://news.ycombinator.com/item?id=50519354">249 comments 361 points</a></li>
+<li><a href="https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/"><strong>Software is breaking down at a systemic level</strong> <code>www.breck-mckye.com</code></a> - <a href="https://news.ycombinator.com/item?id=50520866">223 comments 356 points</a></li>
+<li><a href="https://burntsushi.net/jiff/"><strong>Jiff 1.0: A datetime library for Rust</strong> <code>burntsushi.net</code></a> - <a href="https://news.ycombinator.com/item?id=50519744">79 comments 350 points</a></li>
+<li><a href="https://jack.cab/blog/siterate"><strong>What is w2rt6byl5nf1opmc-a.com?</strong> <code>jack.cab</code></a> - <a href="https://news.ycombinator.com/item?id=50517602">141 comments 318 points</a></li>
+<li><a href="https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/"><strong>The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)</strong> <code>masnick.com</code></a> - <a href="https://news.ycombinator.com/item?id=50516473">120 comments 303 points</a></li>
+<li><a href="https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/"><strong>Interpreting claims that a theorem is correct because it was checked in Lean</strong> <code>xenaproject.wordpress.com</code></a> - <a href="https://news.ycombinator.com/item?id=50515058">132 comments 293 points</a></li>
+<li><a href="https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/"><strong>Nvidia was in trouble before the Jensen Huang mess</strong> <code>www.wired.com</code></a> - <a href="https://news.ycombinator.com/item?id=50518567">238 comments 265 points</a></li>
+<li><a href="https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"><strong>Microsoft blames monster email outage on software defect introduced in July fix</strong> <code>www.theregister.com</code></a> - <a href="https://news.ycombinator.com/item?id=50517321">192 comments 265 points</a></li>
+<li><a href="https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains"><strong>Grazing sheep in fields with solar arrays</strong> <code>news.cornell.edu</code></a> - <a href="https://news.ycombinator.com/item?id=50520182">241 comments 249 points</a></li>
+<li><a href="https://blog.startifact.com/posts/how-rust-changed-me/"><strong>Rust changed me as a developer</strong> <code>blog.startifact.com</code></a> - <a href="https://news.ycombinator.com/item?id=50522563">144 comments 231 points</a></li>
+<li><a href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"><strong>Optimizely compromised, served malware on Zoom, GitLab</strong> <code>blog.report-uri.com</code></a> - <a href="https://news.ycombinator.com/item?id=50524767">99 comments 227 points</a></li>
+<li><a href="https://www.cnn.com/2026/11/16/us/united-airlines-outage"><strong>United Airlines experiencing a widespread system outage, airline says</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=50524165">113 comments 222 points</a></li>
+<li><a href="https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint"><strong>Whistleblower accuses Pentagon over Iran strike on US base that killed 6</strong> <code>www.cnn.com</code></a> - <a href="https://news.ycombinator.com/item?id=50517838">75 comments 221 points</a></li>
+<li><a href="https://opencode.ai/product/browse"><strong>OpenCode Browse</strong> <code>opencode.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50523459">82 comments 190 points</a></li>
+<li><a href="https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/"><strong>CNN, Zoom, Fox News Served Visitors a Crypto-Stealing Skimmer – OPTIMJACK</strong> <code>amirulcyber.com</code></a> - <a href="https://news.ycombinator.com/item?id=50523300">2 comments 187 points</a></li>
+<li><a href="https://www.monirbounadi.com/Bounadi_JMP.pdf"><strong>Coffeehouses and the Rise of Science [pdf]</strong> <code>www.monirbounadi.com</code></a> - <a href="https://news.ycombinator.com/item?id=50516245">102 comments 181 points</a></li>
+<li><a href="https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry"><strong>Chemistry is Actually Geometry</strong> <code>chillphysicsenjoyer.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=50522643">87 comments 180 points</a></li>
+<li><a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101"><strong>Debian Becomes Unresponsive after 6.1.0-55 Kernel Update</strong> <code>bugs.debian.org</code></a> - <a href="https://news.ycombinator.com/item?id=50514180">79 comments 171 points</a></li>
+<li><a href="https://linebender.org/wiki/curves/squircle/"><strong>Squircles</strong> <code>linebender.org</code></a> - <a href="https://news.ycombinator.com/item?id=50515151">45 comments 160 points</a></li>
+<li><a href="https://infisical.com/blog/active-directory-machine-identity"><strong>The Active Directory Era Is Finally Over</strong> <code>infisical.com</code></a> - <a href="https://news.ycombinator.com/item?id=50517815">77 comments 122 points</a></li>
+<li><a href="https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs"><strong>My Quest to push native Three.js quality match AAA Game Engines</strong> <code>ben3d.ca</code></a> - <a href="https://news.ycombinator.com/item?id=50523291">46 comments 121 points</a></li>
+<li><a href="https://openai.com/index/strengthening-online-child-safety/"><strong>Strengthening the fight against online child sexual abuse</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=50520804">257 comments 112 points</a></li>
+<li><a href="https://www.harmonic.fun/news/aristotle-rust-verification/"><strong>Aristotle Expands into Rust</strong> <code>www.harmonic.fun</code></a> - <a href="https://news.ycombinator.com/item?id=50520270">61 comments 112 points</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/"><strong>Comcast&#39;s &quot;fiber-powered Wi-Fi&quot; is cable, AT&amp;T says in false advertising case</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=50523025">81 comments 102 points</a></li>
+</ol>
+<p>05:50:30 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-11-16]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1526</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://store.steampowered.com/app/5426130/Tiny_Brutalism/"><strong>Tiny Brutalism – Thanks to HN it&#39;s on Steam</strong> <code>store.steampowered.com</code></a> - <a href="https://news.ycombinator.com/item?id=50144144">9 comments 77 points</a></li>
 </ol>
 <p>04:50:30 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-10-18]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1497</link>
-            <guid isPermaLink="false">1497</guid>
-            <pubDate>Sun, 18 Oct 2026 04:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://twitter.com/opencode/status/2111516673953935833"><strong>OpenCode Hacked: User credentials leaked</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=50133401">152 comments 820 points</a></li>
-<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"><strong>DeepSeek-v4.1-Flash-1017</strong> <code>huggingface.co</code></a> - <a href="https://news.ycombinator.com/item?id=50129045">613 comments 765 points</a></li>
-<li><a href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"><strong>Solar surpasses nuclear power globally for first time</strong> <code>www.pv-magazine.com</code></a> - <a href="https://news.ycombinator.com/item?id=50131256">328 comments 525 points</a></li>
-<li><a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"><strong>DeepSeek: DeepSeek v4.1 Flash 1017</strong> <code>openrouter.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50129121">5 comments 513 points</a></li>
-<li><a href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day"><strong>Zuckerberg&#39;s Meta Takes Down No Kings Instagram During Protest Day</strong> <code>meidasnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=50136881">265 comments 441 points</a></li>
-<li><a href="https://pele.run/"><strong>Pele – Mermaid diagrams as themeable SVG</strong> <code>pele.run</code></a> - <a href="https://news.ycombinator.com/item?id=50132193">29 comments 323 points</a></li>
-<li><a href="https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/"><strong>MapQuest will now show you where Flock cameras are in your neighborhood</strong> <code>www.engadget.com</code></a> - <a href="https://news.ycombinator.com/item?id=50129947">53 comments 288 points</a></li>
-<li><a href="https://www.numismaticnews.net/gold-now-top-u-s-export"><strong>Gold is now the top U.S. export</strong> <code>www.numismaticnews.net</code></a> - <a href="https://news.ycombinator.com/item?id=50132870">149 comments 283 points</a></li>
-<li><a href="https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"><strong>Making chicken transparent using Dorito dust</strong> <code>chillphysicsenjoyer.substack.com</code></a> - <a href="https://news.ycombinator.com/item?id=50131213">68 comments 278 points</a></li>
-<li><a href="https://llmspeed.dev/"><strong>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</strong> <code>llmspeed.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50127979">78 comments 267 points</a></li>
-<li><a href="https://www.derekwessman.com/blog-1/natural"><strong>I Became a Citizen of Japan</strong> <code>www.derekwessman.com</code></a> - <a href="https://news.ycombinator.com/item?id=50133150">90 comments 184 points</a></li>
-<li><a href="https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html"><strong>US federal budget deficit jumps 12% in one year to nearly $2 Trillion</strong> <code>finance.yahoo.com</code></a> - <a href="https://news.ycombinator.com/item?id=50131440">184 comments 181 points</a></li>
-<li><a href="https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging"><strong>GLP-1 may slow biological aging</strong> <code>www.universityofcalifornia.edu</code></a> - <a href="https://news.ycombinator.com/item?id=50132328">166 comments 172 points</a></li>
-<li><a href="https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"><strong>NY announces game ownership bill requiring ownership rather than licensing</strong> <code>www.tomshardware.com</code></a> - <a href="https://news.ycombinator.com/item?id=50136536">42 comments 160 points</a></li>
-<li><a href="https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"><strong>Amazon uses AI to monitor union risk in UK warehouses</strong> <code>www.opendemocracy.net</code></a> - <a href="https://news.ycombinator.com/item?id=50132278">58 comments 155 points</a></li>
-<li><a href="https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"><strong>Israeli settlers attack olive framers &amp; Washington Post journalist in West Bank</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=50128297">52 comments 144 points</a></li>
-<li><a href="https://redirect.github.com/mikroverk/esp32sim"><strong>Show HN: Esp32sim – Run ESP32 firmware in the browser</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50131189">14 comments 143 points</a></li>
-<li><a href="https://lwn.net/Articles/1088776/"><strong>Development statistics for the 7.2 kernel</strong> <code>lwn.net</code></a> - <a href="https://news.ycombinator.com/item?id=50132950">104 comments 127 points</a></li>
-<li><a href="https://www.lemonde.fr/en/international/article/2026/10/17/israeli-settlers-attack-european-diplomatic-cars-in-west-bank-beat-french-mayor-say-witnesses_6758711_4.html"><strong>Israeli settlers attack European diplomatic cars in West Bank beat French mayor</strong> <code>www.lemonde.fr</code></a> - <a href="https://news.ycombinator.com/item?id=50133274">16 comments 124 points</a></li>
-<li><a href="https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"><strong>OpenAI discloses four more rogue incidents</strong> <code>fortune.com</code></a> - <a href="https://news.ycombinator.com/item?id=50132502">148 comments 122 points</a></li>
-<li><a href="https://redirect.github.com/openai/codex/issues/25921"><strong>Codex Desktop continuously generates Crashpad pending dumps</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50133231">37 comments 108 points</a></li>
-<li><a href="https://celphase.github.io/duck-pond/"><strong>Show HN: High-quality duck audio synthesizer</strong> <code>celphase.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=50131006">27 comments 106 points</a></li>
-<li><a href="https://www.si.gov/"><strong>Super Intelligence</strong> <code>www.si.gov</code></a> - <a href="https://news.ycombinator.com/item?id=50130570">182 comments 103 points</a></li>
-<li><a href="https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/"><strong>Chrome and Edge are removing XSLT: what breaks and what does not</strong> <code>doctor-seo.net</code></a> - <a href="https://news.ycombinator.com/item?id=50134617">114 comments 103 points</a></li>
-<li><a href="https://openjdk.org/projects/jdk/28/"><strong>JDK 28</strong> <code>openjdk.org</code></a> - <a href="https://news.ycombinator.com/item?id=50135379">35 comments 91 points</a></li>
-<li><a href="https://blog.raed.dev/posts/microsoft-teams-red-flag/"><strong>Microsoft Teams is a red flag</strong> <code>blog.raed.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50130228">43 comments 69 points</a></li>
-<li><a href="https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise"><strong>Microsoft and CMU team up to train early career software engineers</strong> <code>www.cs.cmu.edu</code></a> - <a href="https://news.ycombinator.com/item?id=50133830">75 comments 64 points</a></li>
-<li><a href="https://dl.acm.org/doi/10.1145/358453.358459"><strong>The future of programming (1982)</strong> <code>dl.acm.org</code></a> - <a href="https://news.ycombinator.com/item?id=50130079">17 comments 62 points</a></li>
-<li><a href="https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0"><strong>Israeli settlers attack European diplomats in the West Bank</strong> <code>www.ft.com</code></a> - <a href="https://news.ycombinator.com/item?id=50134190">10 comments 62 points</a></li>
-<li><a href="https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l"><strong>Retired Penn professor arrested for blocking Uber Eats robot</strong> <code>www.phillyvoice.com</code></a> - <a href="https://news.ycombinator.com/item?id=50136198">115 comments 59 points</a></li>
-</ol>
-<p>04:50:29 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
