@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Sun, 22 Nov 2026 05:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 05:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-11-22]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1532</link>
+            <guid isPermaLink="false">1532</guid>
+            <pubDate>Sun, 22 Nov 2026 05:50:33 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"><strong>Lean verification of the Riemann Hypothesis</strong> <code>leanprover-community.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=50589618">792 comments 931 points</a></li>
+<li><a href="https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"><strong>Detonating a pile of lead azide</strong> <code>www.science.org</code></a> - <a href="https://news.ycombinator.com/item?id=50588982">374 comments 578 points</a></li>
+<li><a href="https://blog.tymscar.com/posts/studiodisplayethernet/"><strong>My monitor was cutting my download speed by 75%</strong> <code>blog.tymscar.com</code></a> - <a href="https://news.ycombinator.com/item?id=50587875">260 comments 539 points</a></li>
+<li><a href="https://redirect.github.com/ShinMegamiBoson/lookatmyquant"><strong>Inkling-2-Mini in 5.4 GB Memory</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50591853">103 comments 414 points</a></li>
+<li><a href="https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"><strong>GnuPG Security Advisory for GPGME</strong> <code>lists.gnupg.org</code></a> - <a href="https://news.ycombinator.com/item?id=50587208">98 comments 247 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/cvze7de86pk3o"><strong>FBI reportedly investigating apparent hack of its criminal database</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=50587859">88 comments 177 points</a></li>
+<li><a href="https://simple-bench.com/"><strong>Astra 6.2 and Sol 6.2 flop at Simple Bench</strong> <code>simple-bench.com</code></a> - <a href="https://news.ycombinator.com/item?id=50588916">160 comments 170 points</a></li>
+<li><a href="https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists"><strong>Jensen Huang&#39;s fall is bad news for Silicon Valley&#39;s accelerationists</strong> <code>www.economist.com</code></a> - <a href="https://news.ycombinator.com/item?id=50591835">351 comments 163 points</a></li>
+<li><a href="http://ricapar.net/ClawDOS/"><strong>ClawDOS – An AI coding agent for DOS</strong> <code>ricapar.net</code></a> - <a href="https://news.ycombinator.com/item?id=50586292">51 comments 162 points</a></li>
+<li><a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"><strong>Toyota, Nissan, and Honda to Standardize Parts to Lower Costs</strong> <code>www.caranddriver.com</code></a> - <a href="https://news.ycombinator.com/item?id=50596133">82 comments 160 points</a></li>
+<li><a href="https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/"><strong>Surprisingly Adorable Insect Portraits</strong> <code>amateurphotographer.com</code></a> - <a href="https://news.ycombinator.com/item?id=50586648">37 comments 155 points</a></li>
+<li><a href="https://onurgumus.github.io/zero-csharp/index.html"><strong>Show HN: Zero C# – C# without a runtime or GC</strong> <code>onurgumus.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=50590279">104 comments 147 points</a></li>
+<li><a href="https://jespino.github.io/gopgext/"><strong>PostgreSQL Extensions in Go</strong> <code>jespino.github.io</code></a> - <a href="https://news.ycombinator.com/item?id=50591260">23 comments 133 points</a></li>
+<li><a href="https://linebender.org/blog/next-100-guis/"><strong>Advice for the next 100 Rust GUIs</strong> <code>linebender.org</code></a> - <a href="https://news.ycombinator.com/item?id=50593737">31 comments 125 points</a></li>
+<li><a href="https://stulle.app/"><strong>Sandwich Simulator</strong> <code>stulle.app</code></a> - <a href="https://news.ycombinator.com/item?id=50594911">50 comments 124 points</a></li>
+<li><a href="https://math.mit.edu/~drew/grh/"><strong>Verification files for the Lean proof of the Riemann Hypothesis</strong> <code>math.mit.edu</code></a> - <a href="https://news.ycombinator.com/item?id=50590441">38 comments 107 points</a></li>
+<li><a href="https://redirect.github.com/ItsNotRexed/Leonida"><strong>Leonida – PC Recompilation of the Xbox Version of GTA 6</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50595168">68 comments 105 points</a></li>
+<li><a href="https://pwn.ai/upload2shell"><strong>Upload2Shell (CVE-2026-125396)</strong> <code>pwn.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50592097">46 comments 101 points</a></li>
+<li><a href="https://redirect.github.com/sebaandrada-cell/PcapAnalyzer"><strong>PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50594132">9 comments 94 points</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic"><strong>Adult-only households accounted for 55% of toy sales in the first half of 2026</strong> <code>www.bloomberg.com</code></a> - <a href="https://news.ycombinator.com/item?id=50588436">141 comments 92 points</a></li>
+<li><a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"><strong>Data Processing Incidents on Inference Providers</strong> <code>openrouter.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50595554">29 comments 72 points</a></li>
+<li><a href="https://www.pandex.io"><strong>Pandex – Official European Law for AI Agents, over MCP</strong> <code>www.pandex.io</code></a> - <a href="https://news.ycombinator.com/item?id=50593481">10 comments 57 points</a></li>
+<li><a href="https://twitter.com/GrapheneOS/status/2124158267123233056"><strong>GrapheneOS made a proof of concept RCS messaging app without Google Messages</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=50591780">6 comments 45 points</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"><strong>International UN talks on controlling use of autonomous weapons collapse</strong> <code>www.theguardian.com</code></a> - <a href="https://news.ycombinator.com/item?id=50594564">24 comments 41 points</a></li>
+<li><a href="https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746"><strong>The Emergence of Inequality in the Czech Corded Ware Culture</strong> <code>www.jna.uni-kiel.de</code></a> - <a href="https://news.ycombinator.com/item?id=50593637">17 comments 34 points</a></li>
+<li><a href="https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20"><strong>Anthropic&#39;s IPO bank closed position meant to stabilize stock</strong> <code>www.reuters.com</code></a> - <a href="https://news.ycombinator.com/item?id=50588647">1 comments 32 points</a></li>
+<li><a href="https://outpostracer.com"><strong>Show HN: I made a PS1 style racing game</strong> <code>outpostracer.com</code></a> - <a href="https://news.ycombinator.com/item?id=50589184">25 comments 27 points</a></li>
+<li><a href="https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/"><strong>Anyone can easily use private, open weight models</strong> <code>micahflee.com</code></a> - <a href="https://news.ycombinator.com/item?id=50588396">8 comments 27 points</a></li>
+<li><a href="https://www.bbc.com/news/articles/ckvg2n2q3103o"><strong>Pakistan&#39;s solar revolution is so successful the national grid is lagging behind</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=50593016">16 comments 26 points</a></li>
+<li><a href="https://twitter.com/GrapheneOS/status/2124155903729639818"><strong>K-I-L-L-M-E-N-O-W</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=50591185">17 comments 24 points</a></li>
+</ol>
+<p>05:50:32 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-11-21]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1531</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://openai.com/index/securing-our-frontier-model-training-environment/"><strong>Securing our frontier model training environment</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=50214416">99 comments 92 points</a></li>
 </ol>
 <p>04:50:32 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-10-23]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1502</link>
-            <guid isPermaLink="false">1502</guid>
-            <pubDate>Fri, 23 Oct 2026 04:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://quad9.net/news/blog/au-revoir-france/"><strong>Quad9 (DNS Resolver) to Exit France</strong> <code>quad9.net</code></a> - <a href="https://news.ycombinator.com/item?id=50195959">382 comments 1070 points</a></li>
-<li><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"><strong>eMudhra to exit global SSL/TLS certificate business</strong> <code>emudhra.com</code></a> - <a href="https://news.ycombinator.com/item?id=50195110">658 comments 985 points</a></li>
-<li><a href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"><strong>Jailbreaking the Switch 2</strong> <code>pepsipu.com</code></a> - <a href="https://news.ycombinator.com/item?id=50192536">265 comments 757 points</a></li>
-<li><a href="https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/"><strong>Woman charged with computer fraud due to scam CashApp account being in her name</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=50194833">591 comments 592 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=50193416"><strong>Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=50193416">186 comments 444 points</a></li>
-<li><a href="https://redirect.github.com/oosexgang/hackios-xnu-kernel"><strong>Run full iOS 16.5 firmware on Android Devices</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50196718">133 comments 360 points</a></li>
-<li><a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations"><strong>Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions</strong> <code>www.vanityfair.com</code></a> - <a href="https://news.ycombinator.com/item?id=50201259">162 comments 357 points</a></li>
-<li><a href="https://pwn.watch/"><strong>What’s getting pwned right now</strong> <code>pwn.watch</code></a> - <a href="https://news.ycombinator.com/item?id=50195543">163 comments 356 points</a></li>
-<li><a href="https://redirect.github.com/NVIDIA/OpenShell"><strong>OpenShell – A safe, private runtime for fleets of autonomous AI agents</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50198675">178 comments 341 points</a></li>
-<li><a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943"><strong>CVE-2026-111943: Compromised Intermediate Certificate Authority</strong> <code>nvd.nist.gov</code></a> - <a href="https://news.ycombinator.com/item?id=50192900">120 comments 332 points</a></li>
-<li><a href="https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html"><strong>Google cleared 300 hectares of Finnish forest</strong> <code>www.techspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=50196837">233 comments 320 points</a></li>
-<li><a href="https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"><strong>Every AI model has the same &quot;controversial&quot; take on humans</strong> <code>www.modelcompare.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50197313">348 comments 299 points</a></li>
-<li><a href="https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"><strong>Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure</strong> <code>aws.amazon.com</code></a> - <a href="https://news.ycombinator.com/item?id=50194070">96 comments 262 points</a></li>
-<li><a href="https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"><strong>Xbox wants you to pay 24 to 40 cents per hour to stream games you bought</strong> <code>arstechnica.com</code></a> - <a href="https://news.ycombinator.com/item?id=50194009">228 comments 255 points</a></li>
-<li><a href="https://arc.net/"><strong>A farewell to Arc browser</strong> <code>arc.net</code></a> - <a href="https://news.ycombinator.com/item?id=50197601">220 comments 254 points</a></li>
-<li><a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird"><strong>Docker is weird</strong> <code>codeandcake.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50202681">130 comments 253 points</a></li>
-<li><a href="https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities"><strong>Several Linux kernel vulnerabilities accidentally posted to public mailing list</strong> <code>www.phoronix.com</code></a> - <a href="https://news.ycombinator.com/item?id=50193804">87 comments 243 points</a></li>
-<li><a href="https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888"><strong>MPs moving to restrict gambling ads in Canada</strong> <code>www.cbc.ca</code></a> - <a href="https://news.ycombinator.com/item?id=50195873">123 comments 242 points</a></li>
-<li><a href="https://www.taler.net/en/news/2026-13.html"><strong>Getting ready to operate GNU Taler in Germany</strong> <code>www.taler.net</code></a> - <a href="https://news.ycombinator.com/item?id=50197404">98 comments 242 points</a></li>
-<li><a href="https://redirect.github.com/openai/openai-cli"><strong>OpenAI CLI</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50191507">110 comments 232 points</a></li>
-<li><a href="https://www.anthropic.com/research/formal-verification"><strong>LLMs are making formal software verification feasible at a much larger scale</strong> <code>www.anthropic.com</code></a> - <a href="https://news.ycombinator.com/item?id=50202217">118 comments 212 points</a></li>
-<li><a href="https://globus.software/blog/2026/10/16/cutting-map-polygons/"><strong>Faster than earcut: triangulating 3.7M map polygons in 489 ms</strong> <code>globus.software</code></a> - <a href="https://news.ycombinator.com/item?id=50193170">39 comments 210 points</a></li>
-<li><a href="https://crystal-lang.org/2026/10/12/1.22.0-released/"><strong>Crystal 1.22</strong> <code>crystal-lang.org</code></a> - <a href="https://news.ycombinator.com/item?id=50194938">88 comments 173 points</a></li>
-<li><a href="https://mastodon.catgirl.cloud/@49016/117475976434068995"><strong>A complete bypass of eMudhra’s 1FA OTP login system</strong> <code>mastodon.catgirl.cloud</code></a> - <a href="https://news.ycombinator.com/item?id=50199757">51 comments 169 points</a></li>
-<li><a href="https://redirect.github.com/maxilevi/project-hedra/tree/pre-ai"><strong>Hedra is a 3D open world game I wrote from scratch while in highschool</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50199389">31 comments 166 points</a></li>
-<li><a href="https://arxiv.org/abs/2610.27251"><strong>AI and the Enclosure of the Scientific Commons</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=50199230">74 comments 126 points</a></li>
-<li><a href="https://lastmuseum.com/"><strong>The Last Museum: Semantic search across 5.8M artworks from major museums</strong> <code>lastmuseum.com</code></a> - <a href="https://news.ycombinator.com/item?id=50194522">30 comments 113 points</a></li>
-<li><a href="https://news.ycombinator.com/item?id=50194909"><strong>eMudhra to Exit Global SSL/TLS Certificate Business;</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=50194909">2 comments 105 points</a></li>
-<li><a href="https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"><strong>AI analysis of CT scans finds 42.9% of patients have coronary inflammation</strong> <code>www.biograph.com</code></a> - <a href="https://news.ycombinator.com/item?id=50198940">41 comments 81 points</a></li>
-<li><a href="https://www.typeui.sh/micro-interactions"><strong>Show HN: UI micro interactions prompts for AI</strong> <code>www.typeui.sh</code></a> - <a href="https://news.ycombinator.com/item?id=50199290">42 comments 74 points</a></li>
-</ol>
-<p>04:50:30 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
