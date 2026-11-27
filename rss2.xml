@@ -4,9 +4,49 @@
         <title>Hacker News Daily Top 30</title>
         <link>https://github.com/meixger/hackernews-daily/issues/</link>
         <description>Hacker News Daily Top 30</description>
-        <lastBuildDate>Thu, 26 Nov 2026 05:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 05:50:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hacker News Daily Top 30 @2026-11-26]]></title>
+            <link>https://github.com/meixger/hackernews-daily/issues/1536</link>
+            <guid isPermaLink="false">1536</guid>
+            <pubDate>Thu, 26 Nov 2026 05:50:32 GMT</pubDate>
+            <content:encoded><![CDATA[<ol>
+<li><a href="https://1password.com/blog/update-on-nov-2026-security-incident"><strong>1Password Security Incident</strong> <code>1password.com</code></a> - <a href="https://news.ycombinator.com/item?id=50644817">546 comments 1300 points</a></li>
+<li><a href="https://scottaaronson.blog/?p=10379"><strong>Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</strong> <code>scottaaronson.blog</code></a> - <a href="https://news.ycombinator.com/item?id=50646108">1056 comments 1206 points</a></li>
+<li><a href="https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/"><strong>Rumors swirling that labs might have cracked Factoring in P</strong> <code>www.reddit.com</code></a> - <a href="https://news.ycombinator.com/item?id=50643065">353 comments 479 points</a></li>
+<li><a href="https://redirect.github.com/google-research/google-research/tree/master/cogentic_research_papers"><strong>Google releases Cogentic papers on integer factorization, discrete logs and more</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50642086">342 comments 475 points</a></li>
+<li><a href="https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts"><strong>A few questions for the guy who went snorkeling in a Home Depot retention pond</strong> <code>www.vox.com</code></a> - <a href="https://news.ycombinator.com/item?id=50643129">113 comments 459 points</a></li>
+<li><a href="https://redirect.github.com/lsernau/grh-lean"><strong>Much shorter version of GRH Lean verification from Anthropic</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50648050">186 comments 374 points</a></li>
+<li><a href="https://redirect.github.com/xoxorwr/pw-loudness-eq"><strong>Windows Loudness Equalization, reverse-engineered and ported to PipeWire</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50641171">185 comments 331 points</a></li>
+<li><a href="https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools"><strong>Smart people who give a shit use tools</strong> <code>www.iankduncan.com</code></a> - <a href="https://news.ycombinator.com/item?id=50639698">244 comments 308 points</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"><strong>The New York Times warns photographers not to update Photoshop over AI features</strong> <code>www.theverge.com</code></a> - <a href="https://news.ycombinator.com/item?id=50647673">256 comments 285 points</a></li>
+<li><a href="https://modaic.dev/blog/latency-doesnt-lie"><strong>Jev is probably Qwen3.5-35B-A3B</strong> <code>modaic.dev</code></a> - <a href="https://news.ycombinator.com/item?id=50648823">77 comments 284 points</a></li>
+<li><a href="https://www.openwall.com/lists/oss-security/2026/11/25/9"><strong>Slow Ubuntu security response times</strong> <code>www.openwall.com</code></a> - <a href="https://news.ycombinator.com/item?id=50647181">102 comments 218 points</a></li>
+<li><a href="https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/"><strong>72-hour fasting can reset your immune system, USC study shows</strong> <code>scienceinhand.com</code></a> - <a href="https://news.ycombinator.com/item?id=50647158">157 comments 212 points</a></li>
+<li><a href="https://s.conao3.com/blog/2026/e4f733"><strong>I checked Clojure&#39;s core with Lean and found unreported bugs</strong> <code>s.conao3.com</code></a> - <a href="https://news.ycombinator.com/item?id=50642939">71 comments 206 points</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50649864"><strong>Tell HN: Lots of Ask HNs again</strong> <code>news.ycombinator.com</code></a> - <a href="https://news.ycombinator.com/item?id=50649864">74 comments 188 points</a></li>
+<li><a href="https://www.githubstatus.com/incidents/qn8mfv6q5hlx"><strong>Investigating degraded experiences across GitHub products</strong> <code>www.githubstatus.com</code></a> - <a href="https://news.ycombinator.com/item?id=50643720">100 comments 180 points</a></li>
+<li><a href="https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/"><strong>U.S. jury convicts Huawei of fraud, Iran sanctions violations</strong> <code>www.upi.com</code></a> - <a href="https://news.ycombinator.com/item?id=50642496">189 comments 156 points</a></li>
+<li><a href="https://redirect.github.com/samcorcos/legatum/issues/147"><strong>Treasury CIO is too busy vibecoding instead of doing his job #147</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50638647">46 comments 150 points</a></li>
+<li><a href="https://redirect.github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf"><strong>The polynomial Hirsch conjecture is false [pdf]</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50644980">37 comments 144 points</a></li>
+<li><a href="https://opensec.in/blog/nfs2root-cve-2026-99362"><strong>Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel&#39;s NFS server</strong> <code>opensec.in</code></a> - <a href="https://news.ycombinator.com/item?id=50647161">43 comments 117 points</a></li>
+<li><a href="https://spectator.com/article/britains-ghost-stations-are-fascinating/"><strong>Britain&#39;s ghost stations</strong> <code>spectator.com</code></a> - <a href="https://news.ycombinator.com/item?id=50645074">23 comments 117 points</a></li>
+<li><a href="https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/"><strong>In C++, = default and {} are not the same constructor</strong> <code>lemire.me</code></a> - <a href="https://news.ycombinator.com/item?id=50643199">174 comments 113 points</a></li>
+<li><a href="https://redirect.github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os"><strong>Bare Metal Qwen</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50648365">22 comments 105 points</a></li>
+<li><a href="https://dbushell.com/2026/11/25/web-industry/"><strong>The year the web industry gave up</strong> <code>dbushell.com</code></a> - <a href="https://news.ycombinator.com/item?id=50642832">73 comments 92 points</a></li>
+<li><a href="https://twitter.com/thsottiaux/status/2125784147889393806"><strong>OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</strong> <code>twitter.com</code></a> - <a href="https://news.ycombinator.com/item?id=50651117">49 comments 84 points</a></li>
+<li><a href="https://aresluna.org/ui-style-guides/"><strong>Collection of preserved UI style guides</strong> <code>aresluna.org</code></a> - <a href="https://news.ycombinator.com/item?id=50649834">7 comments 82 points</a></li>
+<li><a href="https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/"><strong>Deploying a payphone on a tiny Pacific Island for fun and zero profit</strong> <code>nickvsnetworking.com</code></a> - <a href="https://news.ycombinator.com/item?id=50648323">9 comments 75 points</a></li>
+<li><a href="https://defang.io/blog/post/security-incident-november-2026/"><strong>Defang Security Incident</strong> <code>defang.io</code></a> - <a href="https://news.ycombinator.com/item?id=50648035">20 comments 70 points</a></li>
+<li><a href="https://arxiv.org/abs/2611.31286"><strong>The industrialization of noise: Automated proof-solving is the same old dead end [pdf]</strong> <code>arxiv.org</code></a> - <a href="https://news.ycombinator.com/item?id=50639929">109 comments 69 points</a></li>
+<li><a href="https://mastodon.social/@sundogplanets/117678381079935502"><strong>Prof. Sam Lawler: FUCK FUCK FUCK FUCK FUCK FUCK FUCK</strong> <code>mastodon.social</code></a> - <a href="https://news.ycombinator.com/item?id=50648008">25 comments 68 points</a></li>
+<li><a href="https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"><strong>SpaceX wins FCC approval to deploy 1M orbital data center satellites</strong> <code>www.cnbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=50645978">126 comments 66 points</a></li>
+</ol>
+<p>05:50:31 GMT+0000 (Coordinated Universal Time)</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hacker News Daily Top 30 @2026-11-25]]></title>
             <link>https://github.com/meixger/hackernews-daily/issues/1535</link>
@@ -1165,46 +1205,6 @@
 <li><a href="https://www.liquid.ai/blog/lfm3"><strong>Introducing LFM3: Every Modality for Specialized Intelligence</strong> <code>www.liquid.ai</code></a> - <a href="https://news.ycombinator.com/item?id=50262229">53 comments 133 points</a></li>
 </ol>
 <p>05:50:32 GMT+0000 (Coordinated Universal Time)</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hacker News Daily Top 30 @2026-10-27]]></title>
-            <link>https://github.com/meixger/hackernews-daily/issues/1506</link>
-            <guid isPermaLink="false">1506</guid>
-            <pubDate>Tue, 27 Oct 2026 05:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[<ol>
-<li><a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"><strong>Anthropic S-1</strong> <code>www.sec.gov</code></a> - <a href="https://news.ycombinator.com/item?id=50242939">1497 comments 1558 points</a></li>
-<li><a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/"><strong>Microsoft offers mass buyouts for roughly a quarter of its workforce</strong> <code>www.seattletimes.com</code></a> - <a href="https://news.ycombinator.com/item?id=50245524">799 comments 864 points</a></li>
-<li><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/"><strong>Three new discoveries in mathematics, computer science, and physics</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=50251344">305 comments 705 points</a></li>
-<li><a href="https://magazine.sebastianraschka.com/p/building-reasoning-models"><strong>Sebastian Raschka&#39;s from-scratch video course on building reasoning models</strong> <code>magazine.sebastianraschka.com</code></a> - <a href="https://news.ycombinator.com/item?id=50245138">91 comments 639 points</a></li>
-<li><a href="https://openai.com/index/introducing-gpt-6-1-terra/"><strong>GPT-6.1 Terra</strong> <code>openai.com</code></a> - <a href="https://news.ycombinator.com/item?id=50248124">351 comments 564 points</a></li>
-<li><a href="https://redirect.github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"><strong>The Exponential Time Hypothesis Is False [pdf]</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50251661">181 comments 493 points</a></li>
-<li><a href="https://blocks.manifold3d.ch/"><strong>Switzerland. Block by block. At 1:1 scale</strong> <code>blocks.manifold3d.ch</code></a> - <a href="https://news.ycombinator.com/item?id=50240922">214 comments 466 points</a></li>
-<li><a href="https://css-tricks.com/css-tricks-has-a-new-owner/"><strong>CSS-Tricks has a new owner</strong> <code>css-tricks.com</code></a> - <a href="https://news.ycombinator.com/item?id=50245831">96 comments 421 points</a></li>
-<li><a href="https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"><strong>Oldest GUI application that still runs on Windows 11</strong> <code>blog.enlyth.com</code></a> - <a href="https://news.ycombinator.com/item?id=50248055">214 comments 367 points</a></li>
-<li><a href="https://brennenputh.me/blog/printable-websites/"><strong>Websites Should Be Printable</strong> <code>brennenputh.me</code></a> - <a href="https://news.ycombinator.com/item?id=50241664">186 comments 310 points</a></li>
-<li><a href="https://www.panamericandispatch.org/p/meta-employees-denounce-interference"><strong>Meta Employees Denounce Interference in Brazilian Elections</strong> <code>www.panamericandispatch.org</code></a> - <a href="https://news.ycombinator.com/item?id=50248061">140 comments 310 points</a></li>
-<li><a href="https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/"><strong>In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn&#39;t Real</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=50248005">171 comments 291 points</a></li>
-<li><a href="https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"><strong>Concerning behavior from a popular open-weight AI model</strong> <code>cohere.com</code></a> - <a href="https://news.ycombinator.com/item?id=50246658">114 comments 282 points</a></li>
-<li><a href="https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/"><strong>The EPA Is Quietly Killing Its Web Archive</strong> <code>www.motherjones.com</code></a> - <a href="https://news.ycombinator.com/item?id=50249275">49 comments 271 points</a></li>
-<li><a href="https://pharo.org/news/2026-10-26-Pharo14Release.html"><strong>Pharo 14</strong> <code>pharo.org</code></a> - <a href="https://news.ycombinator.com/item?id=50241925">66 comments 250 points</a></li>
-<li><a href="https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/"><strong>ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems</strong> <code>www.404media.co</code></a> - <a href="https://news.ycombinator.com/item?id=50247630">88 comments 242 points</a></li>
-<li><a href="https://redirect.github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"><strong>Type Server Protocol</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50248371">146 comments 220 points</a></li>
-<li><a href="https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"><strong>Solar power is becoming bigger than nuclear</strong> <code>www.bbc.com</code></a> - <a href="https://news.ycombinator.com/item?id=50245385">337 comments 218 points</a></li>
-<li><a href="https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c"><strong>US designates helium as a critical material</strong> <code>apnews.com</code></a> - <a href="https://news.ycombinator.com/item?id=50248665">119 comments 203 points</a></li>
-<li><a href="https://corridorkey.com/"><strong>CorridorKey 2.0</strong> <code>corridorkey.com</code></a> - <a href="https://news.ycombinator.com/item?id=50251127">60 comments 191 points</a></li>
-<li><a href="https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/"><strong>DOJ says presidents should be able to sell secrets on eBay</strong> <code>freedom.press</code></a> - <a href="https://news.ycombinator.com/item?id=50243762">90 comments 187 points</a></li>
-<li><a href="https://www.brown.edu/news/2026-10-26/ai-data-workers"><strong>Brown student maps the hidden global labor powering AI</strong> <code>www.brown.edu</code></a> - <a href="https://news.ycombinator.com/item?id=50242843">170 comments 177 points</a></li>
-<li><a href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"><strong>New iPad mini</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=50243061">457 comments 175 points</a></li>
-<li><a href="https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm"><strong>Fixing Tool-Call Accuracy in vLLM</strong> <code>www.ubicloud.com</code></a> - <a href="https://news.ycombinator.com/item?id=50242870">66 comments 161 points</a></li>
-<li><a href="https://www.apple.com/shop/buy-ipad/ipad-mini"><strong>OLED iPad Mini</strong> <code>www.apple.com</code></a> - <a href="https://news.ycombinator.com/item?id=50243646">3 comments 158 points</a></li>
-<li><a href="https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html"><strong>Peter Thiel, the tech oligarch who believes in the Antichrist</strong> <code>english.elpais.com</code></a> - <a href="https://news.ycombinator.com/item?id=50242734">203 comments 154 points</a></li>
-<li><a href="https://redirect.github.com/DilawarShafiq/nietzschian-debugger"><strong>Nietzschian Debugger</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50247493">50 comments 153 points</a></li>
-<li><a href="http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html"><strong>A Man from the Future: Why Johnny Can&#39;t Stop Abstracting</strong> <code>muratbuffalo.blogspot.com</code></a> - <a href="https://news.ycombinator.com/item?id=50247928">73 comments 151 points</a></li>
-<li><a href="https://redirect.github.com/FrigadeHQ/hob"><strong>Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT</strong> <code>github.com</code></a> - <a href="https://news.ycombinator.com/item?id=50246238">31 comments 136 points</a></li>
-<li><a href="https://notes.npilk.com/stop-the-spam-texts"><strong>Somebody please stop the spam texts</strong> <code>notes.npilk.com</code></a> - <a href="https://news.ycombinator.com/item?id=50250016">146 comments 129 points</a></li>
-</ol>
-<p>05:50:31 GMT+0000 (Coordinated Universal Time)</p>
 ]]></content:encoded>
         </item>
     </channel>
